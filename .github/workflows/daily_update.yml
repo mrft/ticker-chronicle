@@ -36,4 +36,15 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update exchange listings"
-          git push
+          branch="${GITHUB_REF_NAME:-$(git rev-parse --abbrev-ref HEAD)}"
+          for attempt in 1 2 3; do
+            git pull --rebase origin "$branch"
+            if git push origin "HEAD:$branch"; then
+              exit 0
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "Push failed after 3 attempts."
+              exit 1
+            fi
+            sleep 5
+          done

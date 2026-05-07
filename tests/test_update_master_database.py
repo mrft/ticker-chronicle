@@ -1,10 +1,12 @@
 import csv
 import json
+import os
 import tempfile
 import unittest
+from unittest import mock
 from pathlib import Path
 
-from update_master_database import normalize_delisting_reason, run_update
+from update_master_database import fetch_fmp_delisting_reason, normalize_delisting_reason, run_update
 
 
 def read_csv(path: Path):
@@ -172,6 +174,52 @@ class UpdateMasterDatabaseTests(unittest.TestCase):
             normalize_delisting_reason("Failed to satisfy listing requirements", "test"),
             "Regulatory issue: Failed to satisfy listing requirements (source: test)",
         )
+
+    @mock.patch("update_master_database._fetch_json")
+    def test_fetch_fmp_delisting_reason_ignores_mismatched_exchange_and_future_dates(self, mock_fetch_json):
+        mock_fetch_json.return_value = [
+            {
+                "symbol": "ABCD",
+                "exchange": "NASDAQ",
+                "delistedDate": "2026-05-09",
+                "reason": "Bankruptcy filing",
+            },
+            {
+                "symbol": "ABCD",
+                "exchange": "NYSE",
+                "delistedDate": "2026-05-08",
+                "reason": "Completed merger",
+            },
+            {
+                "symbol": "ABCD",
+                "exchange": "NASDAQ",
+                "delistedDate": "2026-05-08",
+                "reason": "Completed merger transaction",
+            },
+        ]
+
+        with mock.patch.dict(os.environ, {"FMP_API_KEY": "test-key"}, clear=False):
+            reason = fetch_fmp_delisting_reason("ABCD", "NASDAQ", "2026-05-08")
+
+        self.assertEqual(
+            reason,
+            "Acquisition/Merger/Privatization: Completed merger transaction (source: FMP Delisted API)",
+        )
+
+    @mock.patch("update_master_database._fetch_json")
+    def test_fetch_fmp_delisting_reason_handles_missing_reason_fields(self, mock_fetch_json):
+        mock_fetch_json.return_value = [
+            {
+                "symbol": "WXYZ",
+                "exchange": "NASDAQ",
+                "delistedDate": "2026-05-07",
+            }
+        ]
+
+        with mock.patch.dict(os.environ, {"FMP_API_KEY": "test-key"}, clear=False):
+            reason = fetch_fmp_delisting_reason("WXYZ", "NASDAQ", "2026-05-08")
+
+        self.assertEqual(reason, "Other delisting reason: Details unavailable (source: FMP Delisted API)")
 
 
 if __name__ == "__main__":

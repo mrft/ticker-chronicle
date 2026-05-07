@@ -82,13 +82,14 @@ def _normalize_listing(
     }
 
 
-def _generate_unique_id(listing: Dict[str, str], observed_on: str) -> str:
+def _generate_unique_id(listing: Dict[str, str]) -> str:
+    first_ipo_date = (listing.get("FirstIpoDate") or "").strip()
     seed = "|".join(
         [
             listing["Exchange"],
             listing["Name"].casefold(),
             listing["InstrumentType"],
-            listing["FirstIpoDate"] or f"first-seen:{observed_on}",
+            first_ipo_date,
         ]
     )
     return hashlib.sha256(seed.encode("utf-8")).hexdigest()[:20]
@@ -172,6 +173,8 @@ def _categorize_delisting_reason(reason_text: str) -> str:
 def normalize_delisting_reason(reason_text: str, source: str) -> str:
     compact_reason = re.sub(r"\s+", " ", (reason_text or "").strip())
     category = _categorize_delisting_reason(compact_reason)
+    if category not in KNOWN_DELISTING_CATEGORIES:
+        category = "Other delisting reason"
     if compact_reason:
         return f"{category}: {compact_reason} (source: {source})"
     return f"{category}: Details unavailable (source: {source})"
@@ -400,7 +403,7 @@ def update_master_rows(
                     "DateAdded": run_date,
                     "DateRemoved": "",
                     "RemovalReason": "",
-                    "UniqueID": _generate_unique_id(current_row, run_date),
+                    "UniqueID": _generate_unique_id(current_row),
                 }
             )
             continue
@@ -431,7 +434,7 @@ def update_master_rows(
                 "DateAdded": run_date,
                 "DateRemoved": "",
                 "RemovalReason": "",
-                "UniqueID": _generate_unique_id(current_row, run_date),
+                "UniqueID": _generate_unique_id(current_row),
             }
         )
 
