@@ -83,13 +83,13 @@ def _normalize_listing(
 
 
 def _generate_unique_id(listing: Dict[str, str]) -> str:
-    first_ipo_date = (listing.get("FirstIpoDate") or "").strip()
+    ipo_date = (listing.get("FirstIpoDate") or "").strip()
     seed = "|".join(
         [
             listing["Exchange"],
             listing["Name"].casefold(),
             listing["InstrumentType"],
-            first_ipo_date,
+            ipo_date,
         ]
     )
     return hashlib.sha256(seed.encode("utf-8")).hexdigest()[:20]
