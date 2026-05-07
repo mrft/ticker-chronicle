@@ -203,19 +203,38 @@ class UpdateMasterDatabaseTests(unittest.TestCase):
         )
 
     @mock.patch("update_master_database._fetch_json")
-    def test_fetch_fmp_delisting_reason_ignores_mismatched_exchange_and_future_dates(self, mock_fetch_json):
+    def test_fetch_fmp_delisting_reason_ignores_mismatched_exchange(self, mock_fetch_json):
+        mock_fetch_json.return_value = [
+            {
+                "symbol": "ABCD",
+                "exchange": "NYSE",
+                "delistedDate": "2026-05-08",
+                "reason": "Completed merger",
+            },
+            {
+                "symbol": "ABCD",
+                "exchange": "NASDAQ",
+                "delistedDate": "2026-05-08",
+                "reason": "Completed merger transaction",
+            },
+        ]
+
+        with mock.patch.dict(os.environ, {"FMP_API_KEY": "test-key"}, clear=False):
+            reason = fetch_fmp_delisting_reason("ABCD", "NASDAQ", "2026-05-08")
+
+        self.assertEqual(
+            reason,
+            "Acquisition/Merger/Privatization: Completed merger transaction (source: FMP Delisted API)",
+        )
+
+    @mock.patch("update_master_database._fetch_json")
+    def test_fetch_fmp_delisting_reason_ignores_future_dates(self, mock_fetch_json):
         mock_fetch_json.return_value = [
             {
                 "symbol": "ABCD",
                 "exchange": "NASDAQ",
                 "delistedDate": "2026-05-09",
                 "reason": "Bankruptcy filing",
-            },
-            {
-                "symbol": "ABCD",
-                "exchange": "NYSE",
-                "delistedDate": "2026-05-08",
-                "reason": "Completed merger",
             },
             {
                 "symbol": "ABCD",
