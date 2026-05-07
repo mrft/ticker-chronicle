@@ -219,7 +219,7 @@ class UpdateMasterDatabaseTests(unittest.TestCase):
             },
         ]
 
-        with mock.patch.dict(os.environ, {"FMP_API_KEY": "test-key"}, clear=False):
+        with mock.patch.dict(os.environ, {"FMP_API_KEY": "test-key"}):
             reason = fetch_fmp_delisting_reason("ABCD", "NASDAQ", "2026-05-08")
 
         self.assertEqual(
@@ -244,7 +244,7 @@ class UpdateMasterDatabaseTests(unittest.TestCase):
             },
         ]
 
-        with mock.patch.dict(os.environ, {"FMP_API_KEY": "test-key"}, clear=False):
+        with mock.patch.dict(os.environ, {"FMP_API_KEY": "test-key"}):
             reason = fetch_fmp_delisting_reason("ABCD", "NASDAQ", "2026-05-08")
 
         self.assertEqual(
@@ -262,7 +262,7 @@ class UpdateMasterDatabaseTests(unittest.TestCase):
             }
         ]
 
-        with mock.patch.dict(os.environ, {"FMP_API_KEY": "test-key"}, clear=False):
+        with mock.patch.dict(os.environ, {"FMP_API_KEY": "test-key"}):
             reason = fetch_fmp_delisting_reason("WXYZ", "NASDAQ", "2026-05-08")
 
         self.assertEqual(reason, "Other delisting reason: Details unavailable (source: FMP Delisted API)")
