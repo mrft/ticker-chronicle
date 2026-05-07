@@ -160,6 +160,7 @@ class UpdateMasterDatabaseTests(unittest.TestCase):
             self.assertEqual(inactive_row["DateRemoved"], "2026-05-08")
             self.assertEqual(inactive_row["RemovalReason"], "Listing metadata changed")
             self.assertEqual(active_row["InstrumentType"], "ETF")
+            self.assertNotEqual(inactive_row["UniqueID"], active_row["UniqueID"])
 
     def test_unique_id_is_stable_for_same_metadata_without_ipo_date(self):
         snapshot = {
