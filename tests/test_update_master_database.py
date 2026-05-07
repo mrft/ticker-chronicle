@@ -161,6 +161,33 @@ class UpdateMasterDatabaseTests(unittest.TestCase):
             self.assertEqual(inactive_row["RemovalReason"], "Listing metadata changed")
             self.assertEqual(active_row["InstrumentType"], "ETF")
 
+    def test_unique_id_is_stable_for_same_metadata_without_ipo_date(self):
+        snapshot = {
+            "nasdaq": [
+                {
+                    "Exchange": "NASDAQ",
+                    "Symbol": "STBL",
+                    "Name": "Stable Corp",
+                    "InstrumentType": "Stock",
+                    "FirstIpoDate": "",
+                    "Source": "fixture",
+                }
+            ],
+            "nyse": [],
+            "amex": [],
+        }
+        removed = {"nasdaq": [], "nyse": [], "amex": []}
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            data_dir = Path(temp_dir)
+            run_update(data_dir, run_date="2026-05-07", fetcher=lambda exchange: snapshot[exchange])
+            run_update(data_dir, run_date="2026-05-08", fetcher=lambda exchange: removed[exchange])
+            run_update(data_dir, run_date="2026-05-09", fetcher=lambda exchange: snapshot[exchange])
+
+            rows = [row for row in read_csv(data_dir / "master_database.csv") if row["Symbol"] == "STBL"]
+            self.assertEqual(len(rows), 2)
+            self.assertEqual(rows[0]["UniqueID"], rows[1]["UniqueID"])
+
     def test_normalize_delisting_reason_categories(self):
         self.assertEqual(
             normalize_delisting_reason("Company entered bankruptcy proceedings", "test"),
