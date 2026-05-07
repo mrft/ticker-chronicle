@@ -22,6 +22,8 @@ jobs:
           python-version: "3.12"
 
       - name: Update exchange listings
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
         run: python update_master_database.py
 
       - name: Commit and push data updates

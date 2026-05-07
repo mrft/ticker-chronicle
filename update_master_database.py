@@ -5,11 +5,14 @@ import argparse
 import csv
 import hashlib
 import json
+import os
+import re
 from datetime import date
 from io import StringIO
 from pathlib import Path
-from typing import Callable, Dict, Iterable, List
+from typing import Callable, Dict, Iterable, List, Optional, Tuple
 from urllib.error import HTTPError, URLError
+from urllib.parse import quote_plus
 from urllib.request import Request, urlopen
 
 EXCHANGE_CODES = {
@@ -36,6 +39,17 @@ REQUEST_HEADERS = {
     "Referer": "https://www.nasdaq.com/",
     "User-Agent": "ticker-chronicle/1.0 (+https://github.com/mrft/ticker-chronicle)",
 }
+FMP_HEADERS = {
+    "Accept": "application/json, text/plain, */*",
+    "User-Agent": REQUEST_HEADERS["User-Agent"],
+}
+KNOWN_DELISTING_CATEGORIES = (
+    "Acquisition/Merger/Privatization",
+    "Bankruptcy",
+    "Regulatory issue",
+    "Other delisting reason",
+)
+ReasonResolver = Callable[[Dict[str, str], str], str]
 
 
 def _canonical_exchange(exchange: str) -> str:
@@ -99,6 +113,153 @@ def _fetch_text(url: str) -> str:
     request = Request(url, headers=REQUEST_HEADERS)
     with urlopen(request, timeout=60) as response:  # nosec B310 - fixed HTTPS endpoints
         return response.read().decode("utf-8-sig")
+
+
+def _fetch_json(url: str, headers: Optional[Dict[str, str]] = None) -> object:
+    request = Request(url, headers=headers or REQUEST_HEADERS)
+    with urlopen(request, timeout=60) as response:  # nosec B310 - fixed HTTPS endpoints
+        return json.loads(response.read().decode("utf-8-sig"))
+
+
+def _parse_iso_date(value: str) -> Optional[date]:
+    if not value:
+        return None
+    try:
+        return date.fromisoformat(value[:10])
+    except ValueError:
+        return None
+
+
+def _categorize_delisting_reason(reason_text: str) -> str:
+    normalized = (reason_text or "").casefold()
+    acquisition_patterns = (
+        "acqui",
+        "merger",
+        "merged",
+        "buyout",
+        "going private",
+        "privat",
+    )
+    bankruptcy_patterns = (
+        "bankrupt",
+        "chapter 11",
+        "chapter 7",
+        "insolv",
+        "liquidat",
+    )
+    regulatory_patterns = (
+        "regulator",
+        "regulatory",
+        "compliance",
+        "non-compliance",
+        "listing standard",
+        "listing requirement",
+        "listing qualifications",
+        "sec ",
+        "sec.",
+        "exchange rules",
+    )
+
+    if any(token in normalized for token in acquisition_patterns):
+        return "Acquisition/Merger/Privatization"
+    if any(token in normalized for token in bankruptcy_patterns):
+        return "Bankruptcy"
+    if any(token in normalized for token in regulatory_patterns):
+        return "Regulatory issue"
+    return "Other delisting reason"
+
+
+def normalize_delisting_reason(reason_text: str, source: str) -> str:
+    compact_reason = re.sub(r"\s+", " ", (reason_text or "").strip())
+    category = _categorize_delisting_reason(compact_reason)
+    if compact_reason:
+        return f"{category}: {compact_reason} (source: {source})"
+    return f"{category}: Details unavailable (source: {source})"
+
+
+def _fmp_record_matches_exchange(record: Dict[str, str], exchange: str) -> bool:
+    expected = exchange.upper()
+    value = (
+        (record.get("exchange") or "")
+        + " "
+        + (record.get("exchangeShortName") or "")
+        + " "
+        + (record.get("exchangeSymbol") or "")
+    ).upper()
+    return expected in value if value.strip() else True
+
+
+def _extract_fmp_delisting_reason(record: Dict[str, str]) -> str:
+    candidate_fields = (
+        "reason",
+        "delistingReason",
+        "delistedReason",
+        "comment",
+        "description",
+    )
+    for field in candidate_fields:
+        value = str(record.get(field) or "").strip()
+        if value:
+            return value
+    return ""
+
+
+def fetch_fmp_delisting_reason(symbol: str, exchange: str, run_date: str) -> Optional[str]:
+    api_key = os.getenv("FMP_API_KEY", "").strip()
+    if not api_key:
+        return None
+
+    encoded_symbol = quote_plus(symbol)
+    urls = [
+        f"https://financialmodelingprep.com/stable/delisted-companies?symbol={encoded_symbol}&apikey={api_key}",
+        f"https://financialmodelingprep.com/api/v3/delisted-companies?symbol={encoded_symbol}&apikey={api_key}",
+    ]
+
+    records: List[Dict[str, str]] = []
+    for url in urls:
+        try:
+            payload = _fetch_json(url, headers=FMP_HEADERS)
+        except (HTTPError, URLError, TimeoutError, ValueError, json.JSONDecodeError):
+            continue
+
+        if isinstance(payload, list):
+            records = [row for row in payload if isinstance(row, dict)]
+            if records:
+                break
+
+    if not records:
+        return None
+
+    target_date = _parse_iso_date(run_date)
+    eligible_records: List[Tuple[date, Dict[str, str]]] = []
+    for record in records:
+        if (record.get("symbol") or "").strip().upper() != symbol.upper():
+            continue
+        if not _fmp_record_matches_exchange(record, exchange):
+            continue
+        record_date = _parse_iso_date(
+            str(record.get("delistedDate") or record.get("delistingDate") or record.get("date") or "")
+        )
+        if record_date is None:
+            continue
+        if target_date and record_date > target_date:
+            continue
+        eligible_records.append((record_date, record))
+
+    if not eligible_records:
+        return None
+
+    _, selected_record = sorted(eligible_records, key=lambda item: item[0], reverse=True)[0]
+    raw_reason = _extract_fmp_delisting_reason(selected_record)
+    return normalize_delisting_reason(raw_reason, "FMP Delisted API")
+
+
+def resolve_delisting_reason(master_row: Dict[str, str], run_date: str) -> str:
+    base_reason = f"Missing from current {master_row['Exchange']} source snapshot"
+    external_reason = fetch_fmp_delisting_reason(master_row["Symbol"], master_row["Exchange"], run_date)
+    if external_reason:
+        return external_reason
+    return f"{base_reason}; reason unavailable"
 
 
 def _parse_api_payload(exchange: str, payload: str) -> List[Dict[str, str]]:
@@ -214,6 +375,7 @@ def update_master_rows(
     master_rows: List[Dict[str, str]],
     listings_by_exchange: Dict[str, List[Dict[str, str]]],
     run_date: str,
+    reason_resolver: ReasonResolver = resolve_delisting_reason,
 ) -> List[Dict[str, str]]:
     current_snapshot = _current_snapshot_map(listings_by_exchange)
     active_rows = _active_master_map(master_rows)
@@ -223,7 +385,7 @@ def update_master_rows(
             continue
         master_row["IsActive"] = "False"
         master_row["DateRemoved"] = run_date
-        master_row["RemovalReason"] = f"Missing from current {master_row['Exchange']} source snapshot"
+        master_row["RemovalReason"] = reason_resolver(master_row, run_date)
 
     for key, current_row in current_snapshot.items():
         active_row = active_rows.get(key)
@@ -281,6 +443,7 @@ def run_update(
     data_dir: Path,
     run_date: str | None = None,
     fetcher: Callable[[str], List[Dict[str, str]]] = fetch_exchange_snapshot,
+    reason_resolver: ReasonResolver = resolve_delisting_reason,
 ) -> Dict[str, int]:
     resolved_run_date = run_date or date.today().isoformat()
     raw_dir = data_dir / "raw"
@@ -295,7 +458,12 @@ def run_update(
         summary[exchange] = len(rows)
 
     master_path = data_dir / "master_database.csv"
-    master_rows = update_master_rows(_load_master(master_path), listings_by_exchange, resolved_run_date)
+    master_rows = update_master_rows(
+        _load_master(master_path),
+        listings_by_exchange,
+        resolved_run_date,
+        reason_resolver=reason_resolver,
+    )
     _write_csv(master_path, master_rows, MASTER_FIELDNAMES)
 
     status_path = data_dir / "status.json"

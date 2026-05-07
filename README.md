@@ -30,6 +30,15 @@ Columns:
 
 Each active listing keeps one current row. When a listing disappears or its metadata changes, the old row is closed out and a new row is inserted when needed. `UniqueID` is a stable hash derived from listing metadata instead of the ticker symbol, which helps when a ticker is reused later.
 
+`RemovalReason` values are enriched when available and normalized to one of:
+
+- `Acquisition/Merger/Privatization`
+- `Bankruptcy`
+- `Regulatory issue`
+- `Other delisting reason`
+
+If a specific reason cannot be sourced, the row is still closed with `reason unavailable`.
+
 ## Date integrity
 
 `data/status.json` stores the explicit `last_successful_run_date` value. The workflow and audit trail do not rely on filesystem timestamps.
@@ -41,6 +50,13 @@ python update_master_database.py
 ```
 
 The script uses the NASDAQ stock screener endpoint first and falls back to the Nasdaq Trader symbol-directory files if needed.
+
+Optional: set `FMP_API_KEY` to enrich delisting reasons from the FMP Delisted API.
+
+```bash
+export FMP_API_KEY=your_api_key_here
+python update_master_database.py
+```
 
 ## Querying listings for a specific date
 

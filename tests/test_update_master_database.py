@@ -4,7 +4,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from update_master_database import run_update
+from update_master_database import normalize_delisting_reason, run_update
 
 
 def read_csv(path: Path):
@@ -92,7 +92,12 @@ class UpdateMasterDatabaseTests(unittest.TestCase):
             data_dir = Path(temp_dir)
 
             run_update(data_dir, run_date="2026-05-07", fetcher=lambda exchange: first_snapshot[exchange])
-            run_update(data_dir, run_date="2026-05-08", fetcher=lambda exchange: second_snapshot[exchange])
+            run_update(
+                data_dir,
+                run_date="2026-05-08",
+                fetcher=lambda exchange: second_snapshot[exchange],
+                reason_resolver=lambda row, run_date: "Bankruptcy: Chapter 11 filing (source: test)",
+            )
             run_update(data_dir, run_date="2026-05-11", fetcher=lambda exchange: third_snapshot[exchange])
 
             master_rows = read_csv(data_dir / "master_database.csv")
@@ -103,7 +108,7 @@ class UpdateMasterDatabaseTests(unittest.TestCase):
 
             self.assertEqual(original_row["IsActive"], "False")
             self.assertEqual(original_row["DateRemoved"], "2026-05-08")
-            self.assertIn("Missing from current NASDAQ source snapshot", original_row["RemovalReason"])
+            self.assertEqual(original_row["RemovalReason"], "Bankruptcy: Chapter 11 filing (source: test)")
 
             self.assertEqual(reused_row["IsActive"], "True")
             self.assertEqual(reused_row["DateAdded"], "2026-05-11")
@@ -153,6 +158,20 @@ class UpdateMasterDatabaseTests(unittest.TestCase):
             self.assertEqual(inactive_row["DateRemoved"], "2026-05-08")
             self.assertEqual(inactive_row["RemovalReason"], "Listing metadata changed")
             self.assertEqual(active_row["InstrumentType"], "ETF")
+
+    def test_normalize_delisting_reason_categories(self):
+        self.assertEqual(
+            normalize_delisting_reason("Company entered bankruptcy proceedings", "test"),
+            "Bankruptcy: Company entered bankruptcy proceedings (source: test)",
+        )
+        self.assertEqual(
+            normalize_delisting_reason("Completed merger with another issuer", "test"),
+            "Acquisition/Merger/Privatization: Completed merger with another issuer (source: test)",
+        )
+        self.assertEqual(
+            normalize_delisting_reason("Failed to satisfy listing requirements", "test"),
+            "Regulatory issue: Failed to satisfy listing requirements (source: test)",
+        )
 
 
 if __name__ == "__main__":
