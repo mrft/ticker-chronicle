@@ -1,1 +1,320 @@
 Exchange,Symbol,Name,InstrumentType,FirstIpoDate,Source
+AMEX,ACCS,ACCESS Newswire Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,ACU,Acme United Corporation. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,AEF,"abrdn Emerging Markets ex-China Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,AEON,"AEON Biopharma, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,AGIG,Abundia Global Impact Group Inc. Common stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,AIB,"BlockchAIn Digital Infrastructure, Inc Common Shares",Stock,,nasdaq_trader_symbol_directory
+AMEX,AIM,AIM ImmunoTech Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,AIRI,Air Industries Group Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,AMBO,Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
+AMEX,AMS,American Shared Hospital Services Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,AMZE,"Amaze Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,APT,"Alpha Pro Tech, Ltd. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,APUS,"Apimeds Pharmaceuticals US, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,AREN,"The Arena Group Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,ARMP,"Armata Pharmaceuticals, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,ASM,Avino Silver & Gold Mines Ltd. Common Shares (Canada),Stock,,nasdaq_trader_symbol_directory
+AMEX,ATCH,"AtlasClear Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,ATEST,Tick Pilot Test Control Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,ATEST.A,Tick Pilot Test Group 1 Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,ATEST.B,Tick pilot Test 2 Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,ATEST.C,Tick Pilot Test 3 Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,ATNM,"Actinium Pharmaceuticals, Inc. (Delaware) Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,AUST,Austin Gold Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,AWX,Avalon Holdings Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,AXIL,"AXIL Brands, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,AZTR,Azitra Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,BATL,Battalion Oil Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,BCHT,Birchtech Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,BCV,"Bancroft Fund, Ltd.",Stock,,nasdaq_trader_symbol_directory
+AMEX,BCV$A,Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,BDL,"Flanigan's Enterprises, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,BESS,Bimergen Energy Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,BESS.W,"Bimergen Energy Corporation Warrants, each share exercisable to purchase one share of Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,BGI,Birks Group Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,BHB,"Bar Harbor Bankshares, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,BHM,"Bluerock Homes Trust, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,BKTI,BK Technologies Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,BQ,Boqii Holding Limited Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,BRBS,"Blue Ridge Bankshares, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,BRIA,BrilliA Inc Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,BRN,"Barnwell Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,BTG,B2Gold Corp Common shares (Canada),Stock,,nasdaq_trader_symbol_directory
+AMEX,BUDA,"Buda Juice, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,BURU,"Nuburu, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,CANF,"Can-Fite Biopharma Ltd American Depositary Shares, each representing two (2) Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
+AMEX,CATX,"Perspective Therapeutics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,CCEL,"Cryo-Cell International, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,CET,Central Securities Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,CEV,Eaton Vance California Municipal Income Trust Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+AMEX,CHOW,ChowChow Cloud International Holdings Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,CIK,"Credit Suisse Asset Management Income Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,CITR,CitroTech Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,CIX,CompX International Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,CKX,"CKX Lands, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,CLDI,"Calidi Biotherapeutics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,CLM,"Cornerstone Strategic Investment Fund, Inc. Common Shares",Stock,,nasdaq_trader_symbol_directory
+AMEX,CMCL,Caledonia Mining Corporation Plc Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,CMT,Core Molding Technologies Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,CNL,Collective Mining Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,COE,"51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares",Stock,,nasdaq_trader_symbol_directory
+AMEX,COHN,Cohen & Company Inc.,Stock,,nasdaq_trader_symbol_directory
+AMEX,CPHI,"China Pharma Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,CRF,"Cornerstone Total Return Fund, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,CTEST,NYSE Test One Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,CTGO,Contango Silver & Gold Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,CTM,"Castellum, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,CVM,Cel-Sci Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,CVR,Chicago Rivet & Machine Co. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,CVU,"CPI Aerostructures, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,DC,Dakota Gold Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,DDC,DDC Enterprise Limited Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,DHY,Credit Suisse High Yield Credit Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,DHY.R,"Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
+AMEX,DIT,AMCON Distributing Company Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,DNN,Denison Mines Corp Ordinary Shares (Canada),Stock,,nasdaq_trader_symbol_directory
+AMEX,DSS,"DSS, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,DXF,"Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)",Stock,,nasdaq_trader_symbol_directory
+AMEX,EAD,Allspring Income Opportunities Fund Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,ECF,Ellsworth Growth and Income Fund Ltd.,Stock,,nasdaq_trader_symbol_directory
+AMEX,ECF$A,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),Stock,,nasdaq_trader_symbol_directory
+AMEX,EGG,Enigmatig Limited Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,EIM,"Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",Stock,,nasdaq_trader_symbol_directory
+AMEX,ELA,Envela Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),Stock,,nasdaq_trader_symbol_directory
+AMEX,ELMD,"Electromed, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,EONR,EON Resources Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,EONR.W,"EON Resources Inc. Warrants, each whole warrant exercisable for three quarters of one share of Class A Common Stock at an exercise price of $11.50 per whole share",Stock,,nasdaq_trader_symbol_directory
+AMEX,EP,Empire Petroleum Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,EPM,"Evolution Petroleum Corporation, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,EQX,Equinox Gold Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,ERC,Allspring Multi-Sector Income Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,ERH,Allspring Utilities and High Income Fund Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,ESP,Espey Mfg. & Electronics Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,EVI,"EVI Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,EVV,Eaton Vance Limited Duration Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+AMEX,EXOD,"Exodus Movement, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,FAX,"abrdn Asia-Pacific Income Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,FCO,"abrdn Global Income Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,FJET,"Starfighters Space, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,FLYX,"flyExclusive, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,FLYX.W,"flyExclusive, Inc. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
+AMEX,FSI,Flexible Solutions International Inc. Common Stock (CDA),Stock,,nasdaq_trader_symbol_directory
+AMEX,FSP,Franklin Street Properties Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,FTF,Franklin Limited Duration Income Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+AMEX,FURY,Fury Gold Mines Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,GAU,Galiano Gold Inc.,Stock,,nasdaq_trader_symbol_directory
+AMEX,GBR,"New Concept Energy, Inc Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,GCDT,Green Circle Decarbonize Technology Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,GENC,"Gencor Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,GGN,"GAMCO Global Gold, Natural Resources & Income Trust",Stock,,nasdaq_trader_symbol_directory
+AMEX,GGN$B,"GAMCO Global Gold, Natural Reources & Income Trust 5.00% Series B Cumulative 25.00 Liquidation Preference",Stock,,nasdaq_trader_symbol_directory
+AMEX,GLDG,GoldMining Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,GLO,Clough Global Opportunities Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,GLQ,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+AMEX,GLU,Gabelli Global Utility Common Shares of Beneficial Ownership,Stock,,nasdaq_trader_symbol_directory
+AMEX,GLU$A,The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,GLU$B,The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,GLV,Clough Global Dividend and Income Fund Common Shares of beneficial interest,Stock,,nasdaq_trader_symbol_directory
+AMEX,GMTL,Guardian Metal Resources PLC ADS,Stock,,nasdaq_trader_symbol_directory
+AMEX,GNS,Genius Group Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,GORO,Gold Resource Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,GPUS,"Hyperscale Data, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,GPUS$D,"Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,GRAF,Graf Global Corp. Class A ordinary shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,GRAF.U,"Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
+AMEX,GRAF.W,"Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
+AMEX,GRF,"Eagle Capital Growth Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,GRO,Brazil Potash Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,GROY,Gold Royalty Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,GROY.W,Gold Royalty Corp. Warrants,Stock,,nasdaq_trader_symbol_directory
+AMEX,GTE,Gran Tierra Energy Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,HCWC,Healthy Choice Wellness Corp. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,HSLV,Highlander Silver Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,HYLN,Hyliion Holdings Corp. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,IAF,"abrdn Australia Equity Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,IAUX,i-80 Gold Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,IAUX.W,"i-80 Gold Corp. Warrants, each warrant exercisable for one Common Share at an exercise price of $0.70",Stock,,nasdaq_trader_symbol_directory
+AMEX,IBO,"Impact BioMedical, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,IDR,"Idaho Strategic Resources, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,IE,Ivanhoe Electric Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,IGC,"IGC Pharma, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,IHT,InnSuites Hospitality Trust Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+AMEX,IMO,Imperial Oil Limited Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,INDO,Indonesia Energy Corporation Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,INFU,"InfuSystems Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,INLX,"Intellinetics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,INTT,inTest Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,INUV,"Inuvo, Inc.",Stock,,nasdaq_trader_symbol_directory
+AMEX,IOR,"Income Opportunity Realty Investors, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,ISOU,IsoEnergy Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,ITP,"IT Tech Packaging, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,ITRG,Integra Resources Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,JAGU,Jaguar Uranium Corp. Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,JMG,JM Group Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,JOB,GEE Group Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,KAPA,"Kairos Pharma, Ltd. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,KNRX,KNOREX LTD. Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,KULR,"KULR Technology Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,LCTX,"Lineage Cell Therapeutics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,LEGO,Legato Merger Corp. IV Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,LEGO.U,"Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
+AMEX,LEGO.W,"Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
+AMEX,LEGT,Legato Merger Corp. III Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,LEGT.U,"Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",Stock,,nasdaq_trader_symbol_directory
+AMEX,LEGT.W,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
+AMEX,LGCY,Legacy Education Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,LGL,"LGL Group, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,LGPS,LogProstyle Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,LODE,Comstock Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,LPA,Logistic Properties of the Americas Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,LSF,"Laird Superfood, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,LUD,Luda Technology Group Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,MAIA,"MAIA Biotechnology, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,MCRP,Micropolis AI Robotics Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,MGLD,"The Marygold Companies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,MHH,"Mastech Digital, Inc Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,MI,NFT Limited Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
+AMEX,MINE,Mayfair Gold Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,MITQ,"Moving iMage Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,MLSS,"Milestone Scientific, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,MMA,Mixed Martial Arts Group Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,MPTI,"M-tron Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,MPU,Mega Matrix Inc. Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,MRT,"Marti Technologies, Inc. Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
+AMEX,MSN,Emerson Radio Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,MTA,Metalla Royalty & Streaming Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,MTNB,"Matinas Biopharma Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,MWG,Multi Ways Holdings Limited Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,MXC,Mexco Energy Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,MYND,"Mynd.ai, Inc. American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
+AMEX,MYO,Myomo Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,NAK,"Northern Dynasty Minerals, Ltd. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,NBH,Neuberger Municipal Fund Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,NCL,Northann Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,NEN,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,Stock,,nasdaq_trader_symbol_directory
+AMEX,NEWP,New Pacific Metals Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,NFGC,New Found Gold Corp Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,NG,Novagold Resources Inc.,Stock,,nasdaq_trader_symbol_directory
+AMEX,NHC,National HealthCare Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,NHS,Neuberger High Yield Strategies Fund Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,NINE,"Nine Energy Service, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,NML,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,NNVC,"NanoViricides, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,NRO,Neuberger Real Estate Securities Income Fund Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,NRXS,"Neuraxis, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,NSRX,Nasus Pharma Ltd. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,NTIP,"Network-1 Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,OBE,Obsidian Energy Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,OGEN,Oragenics Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,OPHC,"OptimumBank Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,OPP$C,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share)",Stock,,nasdaq_trader_symbol_directory
+AMEX,OPTT,"Ocean Power Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,ORLA,Orla Mining Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,OSTX,OS Therapies Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,OTH,Off The Hook YS Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,OZ,"Belpointe PREP, LLC Class A Units",Stock,,nasdaq_trader_symbol_directory
+AMEX,PAPL,Pineapple Financial Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PCG$A,Pacific Gas & Electric Co. 6% Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PCG$B,Pacific Gas & Electric Co. 5 1/2% Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PCG$C,Pacific Gas & Electric Co. 5% 1st Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PCG$D,Pacific Gas & Electric Co. 5% 1st Red. Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PCG$E,Pacific Gas & Electric Co. 5% 1st A Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PCG$G,Pacific Gas & Electric Co. 4.80% 1st Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PCG$H,Pacific Gas & Electric Co. 4.50% 1st Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PCG$I,Pacific Gas & Electric Co. 4.36% 1st Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PED,Pedevco Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PHGE,BiomX Inc. COmmon Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PHXE$,"Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares",Stock,,nasdaq_trader_symbol_directory
+AMEX,PLAG,Planet Green Holdings Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),Stock,,nasdaq_trader_symbol_directory
+AMEX,PLX,"Protalix BioTherapeutics, Inc. (DE) Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,PMI,"Picard Medical, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,PMNT,Perfect Moment Ltd. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,POAS,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,PRK,Park National Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PTHS,Pelthos Therapeutics Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PTN,"Palatin Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,PW,Power REIT (MD) Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PW$A,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PZG,Paramount Gold Nevada Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,QNC,Quantum eMotion Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,RCG,"RENN Fund, Inc Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,REA,"Rare Earths Americas, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,REED,"Reed's, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,REI,"Ring Energy, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,REPX,"Riley Exploration Permian, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,RGNT,Regentis Biomaterials Ltd. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,RLGT,"Radiant Logistics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,ROLR,"High Roller Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,RVP,"Retractable Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,RYDE,Ryde Group Ltd. Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,SACH,Sachem Capital Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,SBEV,"Splash Beverage Group, Inc. (NV) Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,SBMT,Silver Bow Mining Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,SCCD,Sachem Capital Corp. 6.00% Notes due 2026,Stock,,nasdaq_trader_symbol_directory
+AMEX,SCCE,Sachem Capital Corp. 6.00% Notes due 2027,Stock,,nasdaq_trader_symbol_directory
+AMEX,SCCF,Sachem Capital Corp. 7.125% Notes due 2027,Stock,,nasdaq_trader_symbol_directory
+AMEX,SCCG,Sachem Capital Corp. 8.00% Notes due 2027,Stock,,nasdaq_trader_symbol_directory
+AMEX,SDEV,Stablecoin Development Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,SEB,Seaboard Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,SER,"Serina Therapeutics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,SIF,"SIFCO Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,SIM,"Grupo Simec, S.A.B. de C.V. American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
+AMEX,SLI,Standard Lithium Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,SLND,"Southland Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,SLND.W,"Southland Holdings, Inc. Warrants",Stock,,nasdaq_trader_symbol_directory
+AMEX,SLSR,Solaris Resources Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,SMJF,SMJ International Holdings Inc. Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,SOAR,"Volato Group, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,SRXH,"SRX Health Solutions, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,STRW,"Strawberry Fields REIT, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,STXS,"Stereotaxis, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,SVM,Silvercorp Metals Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,SYNX,Silynxcom Ltd. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,TCGL,TechCreate Group Ltd. Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,TGB,"Taseko Mines, Ltd. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
+AMEX,TGEN,Tecogen Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,THM,"International Tower Hill Mines, Ltd. Ordinary Shares (Canada)",Stock,,nasdaq_trader_symbol_directory
+AMEX,TII,Titan Mining Corporation Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,TMDE,TMD Energy Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,TMP,Tompkins Financial Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,TMQ,Trilogy Metals Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,TOON,"Kartoon Studios, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,TOPP,Toppoint Holdings Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,TOPS,"TOP Ships, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,TOVX,"Theriva Biologics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,TPET,Trio Petroleum Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,TRT,Trio-Tech International Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,TRX,TRX Gold Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,UAC,United Acquisition Corp. I Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,UAC.U,"United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
+AMEX,UAC.W,"United Acquisition Corp. I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
+AMEX,UAVS,"AgEagle Aerial Systems, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,UEC,Uranium Energy Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,UMAC,"Unusual Machines, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,URG,Ur Energy Inc Common Shares (Canada),Stock,,nasdaq_trader_symbol_directory
+AMEX,USAS,"Americas Gold and Silver Corporation Common Shares, no par value",Stock,,nasdaq_trader_symbol_directory
+AMEX,USBC,"USBC, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,UTG,Reaves Utility Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+AMEX,UUU,"Universal Safety Products, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,UUUU,Energy Fuels Inc Ordinary Shares (Canada),Stock,,nasdaq_trader_symbol_directory
+AMEX,VENU,Venu Holding Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,VFL,abrdn National Municipal Income Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,VGZ,Vista Gold Corp Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,VKI,Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE),Stock,,nasdaq_trader_symbol_directory
+AMEX,VNRX,VolitionRX Limited Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,VNTG,Vantage Corp Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,VTAK,"Catheter Precision, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,VZLA,Vizsla Silver Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,WRN,Western Copper and Gold Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,WWR,"Westwater Resources, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,WYY,WidePoint Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,XPL,Solitario Resources Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,XTNT,"Xtant Medical Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,YCBD,"cbdMD, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,ZDGE,"Zedge, Inc. Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,ZONE,CleanCore Solutions Inc. Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
