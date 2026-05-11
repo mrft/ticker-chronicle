@@ -1036,6 +1036,7 @@ BOLT,NASDAQ,"Bolt Biotherapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,
 BON,NASDAQ,Bon Natural Life Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,ea77ca67b4fecc76628b
 BOOM,NASDAQ,DMC Global Inc. - Common Stock,Stock,True,2026-05-08,,,093c294f645e2c2ab576
 BOSC,NASDAQ,B.O.S. Better Online Solutions - Ordinary Shares,Stock,True,2026-05-08,,,c03b56db8a7eefb72461
+BOT,NASDAQ,"RoboStrategy, Inc. - Common Stock",Stock,True,2026-05-11,,,1b6fee49eee0487e60d3
 BOTJ,NASDAQ,"Bank of the James Financial Group, Inc. - Common Stock",Stock,True,2026-05-08,,,cab913e8f7c37a5eec53
 BOTT,NASDAQ,Themes Humanoid Robotics ETF,ETF,True,2026-05-08,,,2453e0a61a0adbfa4183
 BOTZ,NASDAQ,Global X Robotics & Artificial Intelligence ETF,ETF,True,2026-05-08,,,befd94380821372c4745
@@ -1072,6 +1073,8 @@ BRRR,NASDAQ,Coinshares Bitcoin ETF,ETF,True,2026-05-08,,,da025216be30b9ae553e
 BRRWW,NASDAQ,"ProCap Financial, Inc. - Warrant.",Stock,True,2026-05-08,,,1306a94b792cfdeb1cc2
 BRTR,NASDAQ,iShares Total Return Active ETF,ETF,True,2026-05-08,,,532f55c7d0034a204d70
 BRTX,NASDAQ,"BioRestorative Therapies, Inc. - Common Stock",Stock,True,2026-05-08,,,007fc8949872a1220bf7
+BRUN,NASDAQ,Boost Run Inc. - Class A Common Stock,Stock,True,2026-05-11,,,b07fee52577aebf844c2
+BRUNW,NASDAQ,Boost Run Inc. - Warrant,Stock,True,2026-05-11,,,d0567fc4a44d15677777
 BRZE,NASDAQ,"Braze, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1cb454e31a9adcf2698a
 BSAA,NASDAQ,BEST SPAC I Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,9f5d971dfbc3c23c8b51
 BSAAR,NASDAQ,BEST SPAC I Acquisition Corp. - Rights,Stock,True,2026-05-08,,,63f268e99be375022407
@@ -1224,7 +1227,8 @@ CCEP,NASDAQ,Coca-Cola Europacific Partners plc - Ordinary Shares,Stock,True,2026
 CCFE,NASDAQ,Concourse Capital Focused Equity ETF,ETF,True,2026-05-08,,,5043d61b50fe250764ae
 CCG,NASDAQ,Cheche Group Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,7bf0eae10233091197d9
 CCGWW,NASDAQ,Cheche Group Inc. - Warrant,Stock,True,2026-05-08,,,dfce57813253c3b075c1
-CCHH,NASDAQ,CCH Holdings Ltd - Ordinary Shares,Stock,True,2026-05-08,,,35f28c7e7751070c2a90
+CCHH,NASDAQ,CCH Holdings Ltd - Ordinary Shares,Stock,False,2026-05-08,2026-05-11,Listing metadata changed,35f28c7e7751070c2a90
+CCHH,NASDAQ,CCH Holdings Ltd - Class A Ordinary Shares,Stock,True,2026-05-11,,,140c73c5e041f45e0df9
 CCII,NASDAQ,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,Stock,True,2026-05-08,,,0e3bd85718b45a3fc4d8
 CCIIU,NASDAQ,Cohen Circle Acquisition Corp. II - Unit,Stock,True,2026-05-08,,,027d51b686f6c060e30c
 CCIIW,NASDAQ,Cohen Circle Acquisition Corp. II - Warrant,Stock,True,2026-05-08,,,cd624a52256b809598da
@@ -1545,7 +1549,7 @@ CTAS,NASDAQ,Cintas Corporation - Common Stock,Stock,True,2026-05-08,,,0f2402b86d
 CTBI,NASDAQ,"Community Trust Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,c2221295d2ae8cccfaca
 CTEC,NASDAQ,Global X ClimateTech ETF,ETF,True,2026-05-08,,,b2da252df2fe4f41a5de
 CTKB,NASDAQ,"Cytek Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,7217fecbc03ffd11992f
-CTLP,NASDAQ,"Cantaloupe, Inc. - Common Stock",Stock,True,2026-05-08,,,ca36e6098124c3daecf0
+CTLP,NASDAQ,"Cantaloupe, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,ca36e6098124c3daecf0
 CTMX,NASDAQ,"CytomX Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,4e3bf94af19ffddd9f0c
 CTNM,NASDAQ,"Contineum Therapeutics, Inc. - Common stock",Stock,True,2026-05-08,,,5d7577d1aef19c97f154
 CTNT,NASDAQ,Cheetah Net Supply Chain Service Inc. - Class A Common Stock,Stock,True,2026-05-08,,,5ba9ba45aadaeb8f682d
@@ -1951,7 +1955,7 @@ EVSD,NASDAQ,Eaton Vance Short Duration Income ETF,ETF,True,2026-05-08,,,ffa11464
 EVTV,NASDAQ,"Envirotech Vehicles, Inc. - Common stock",Stock,True,2026-05-08,,,5d043eca98a6eb0c8d58
 EVYM,NASDAQ,Eaton Vance High Income Municipal ETF,ETF,True,2026-05-08,,,3292f71b24a00cd33ea9
 EWBC,NASDAQ,"East West Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,73248e2ea805c74d738d
-EWCZ,NASDAQ,"European Wax Center, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1f541bc1be88605f408f
+EWCZ,NASDAQ,"European Wax Center, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,1f541bc1be88605f408f
 EWJV,NASDAQ,iShares MSCI Japan Value ETF,ETF,True,2026-05-08,,,d5db5bf0dd70e188c64d
 EWTX,NASDAQ,"Edgewise Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,191b485a54cde6db99ca
 EWZS,NASDAQ,iShares MSCI Brazil Small-Cap ETF,ETF,True,2026-05-08,,,aee1adb4a8f836856f88
@@ -5550,9 +5554,9 @@ WIX,NASDAQ,Wix.com Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,5b13aa65ae83e8
 WKEY,NASDAQ,WISeKey International Holding Ltd - American Depositary Shares,Stock,True,2026-05-08,,,858c0b031447c80eacee
 WKHS,NASDAQ,"Workhorse Group, Inc. - Common Stock",Stock,True,2026-05-08,,,70a71b06cd62065d5dcb
 WKSP,NASDAQ,"Worksport, Ltd. - Common Stock",Stock,True,2026-05-08,,,1416c024d5c1378d9b9f
-WLAC,NASDAQ,Willow Lane Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,cf1b17885e08e5162941
-WLACU,NASDAQ,Willow Lane Acquisition Corp. - Unit,Stock,True,2026-05-08,,,e1e320a7e1b025d31c00
-WLACW,NASDAQ,Willow Lane Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,9233a5038916587ea404
+WLAC,NASDAQ,Willow Lane Acquisition Corp. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,cf1b17885e08e5162941
+WLACU,NASDAQ,Willow Lane Acquisition Corp. - Unit,Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,e1e320a7e1b025d31c00
+WLACW,NASDAQ,Willow Lane Acquisition Corp. - Warrants,Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,9233a5038916587ea404
 WLDN,NASDAQ,"Willdan Group, Inc. - Common Stock",Stock,True,2026-05-08,,,0dd2f15510cda0ad6df9
 WLDS,NASDAQ,Wearable Devices Ltd. - Ordinary Share,Stock,True,2026-05-08,,,b3cd94eeb70735d63ccb
 WLDSW,NASDAQ,Wearable Devices Ltd. - Warrant,Stock,True,2026-05-08,,,2c9f25e85a15904d629b
@@ -5579,6 +5583,7 @@ WSBCO,NASDAQ,"WesBanco, Inc. - Depositary Shares each representing 1/40th intere
 WSBF,NASDAQ,"Waterstone Financial, Inc. - Common Stock",Stock,True,2026-05-08,,,6c6a89e5f14f45e3373f
 WSBK,NASDAQ,"Winchester Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,c2c0d8faf8d9149be529
 WSC,NASDAQ,WillScot Holdings Corporation - Class A Common Stock,Stock,True,2026-05-08,,,4b9943dfe535d30d1971
+WSE,NASDAQ,Wise Group plc - Class A Ordinary Shares,Stock,True,2026-05-11,,,24546d599fb7ba6084c9
 WSFS,NASDAQ,WSFS Financial Corporation - Common Stock,Stock,True,2026-05-08,,,27472a83db98a0fc8ffe
 WSGE,NASDAQ,Warren Street Global Equity ETF,ETF,True,2026-05-08,,,dc68c097073394bcbfd1
 WSHP,NASDAQ,WeShop Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,d04981707edc8963a8bb
@@ -6236,7 +6241,9 @@ BW,NYSE,"Babcock & Wilcox Enterprises, Inc. Common Stock",Stock,True,2026-05-08,
 BW$A,NYSE,"Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,d79df50ef9f1d976c2b7
 BWA,NYSE,BorgWarner Inc. Common Stock,Stock,True,2026-05-08,,,cef7d9c045f58f5713b8
 BWG,NYSE,BrandywineGLOBAL Global Income Opportunities Fund Inc.,Stock,True,2026-05-08,,,bddc84a20f6ba1cea1dd
+BWIV,NYSE,Blue Water Acquisition Corp. IV Class A Ordinary Shares,Stock,True,2026-05-11,,,3ef7cec38064dae6d714
 BWIV.U,NYSE,"Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,True,2026-05-08,,,806ba82cf1b6d5ab4b64
+BWIV.W,NYSE,Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share,Stock,True,2026-05-11,,,cf210d908353485dfe15
 BWLP,NYSE,BW LPG Limited Common Shares,Stock,True,2026-05-08,,,f6ba0e0a0c39a98c5e05
 BWMX,NYSE,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",Stock,True,2026-05-08,,,57fe674d013229a1b433
 BWNB,NYSE,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",Stock,True,2026-05-08,,,400a626816265dbcf1e5
@@ -6451,8 +6458,8 @@ CSV,NYSE,"Carriage Services, Inc. Common Stock",Stock,True,2026-05-08,,,044df187
 CSW,NYSE,"CSW Industrials, Inc. Common Stock",Stock,True,2026-05-08,,,a608d7f19f5ea7ebcf02
 CTA$A,NYSE,"EIDP, Inc. Preferred Stock $3.50 Series",Stock,True,2026-05-08,,,1ece7a931dc732bf9518
 CTA$B,NYSE,"EIDP, Inc. Preferred Stock $4.50 Series",Stock,True,2026-05-08,,,24715085914d5047a250
-CTBB,NYSE,Qwest Corporation 6.5% Notes due 2056,Stock,True,2026-05-08,,,2a04b3031049a61ce53d
-CTDD,NYSE,Qwest Corporation 6.75% Notes due 2057,Stock,True,2026-05-08,,,b524fb097361b91d140f
+CTBB,NYSE,Qwest Corporation 6.5% Notes due 2056,Stock,False,2026-05-08,2026-05-11,Missing from current NYSE source snapshot; reason unavailable,2a04b3031049a61ce53d
+CTDD,NYSE,Qwest Corporation 6.75% Notes due 2057,Stock,False,2026-05-08,2026-05-11,Missing from current NYSE source snapshot; reason unavailable,b524fb097361b91d140f
 CTEST.E,NYSE,NYSE Test One Common Stock,Stock,True,2026-05-08,,,1775274fa7d555189f3c
 CTEST.G,NYSE,NYSE Test One Common Stock,Stock,True,2026-05-08,,,1775274fa7d555189f3c
 CTEST.L,NYSE,NYSE Test One Common Stock,Stock,True,2026-05-08,,,1775274fa7d555189f3c
@@ -7144,7 +7151,7 @@ IRAB.U,NYSE,"Iris Acquisition Corp II Units, each consisting of one Class A Ordi
 IRAB.W,NYSE,"Iris Acquisition Corp II Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,fbeffc50e0afc31a1620
 IRM,NYSE,Iron Mountain Incorporated (Delaware)Common Stock REIT,Stock,True,2026-05-08,,,011bd75eb66064be36a3
 IRS,NYSE,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),Stock,True,2026-05-08,,,a6ce21523481a5bf858b
-IRS.W,NYSE,IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Shares,Stock,True,2026-05-08,,,9d68830a318a4eff5ba1
+IRS.W,NYSE,IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Shares,Stock,False,2026-05-08,2026-05-11,Missing from current NYSE source snapshot; reason unavailable,9d68830a318a4eff5ba1
 IRT,NYSE,"Independence Realty Trust, Inc. Common Stock",Stock,True,2026-05-08,,,d8afa529bd386a199eed
 ISD,NYSE,"PGIM High Yield Bond Fund, Inc.",Stock,True,2026-05-08,,,b0c7441897e0d105e8b9
 IT,NYSE,"Gartner, Inc. Common Stock",Stock,True,2026-05-08,,,bcd9034c7381d621964b

@@ -474,7 +474,9 @@ NYSE,BW,"Babcock & Wilcox Enterprises, Inc. Common Stock",Stock,,nasdaq_trader_s
 NYSE,BW$A,"Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BWA,BorgWarner Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,Stock,,nasdaq_trader_symbol_directory
+NYSE,BWIV,Blue Water Acquisition Corp. IV Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,BWIV.U,"Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
+NYSE,BWIV.W,Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share,Stock,,nasdaq_trader_symbol_directory
 NYSE,BWLP,BW LPG Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",Stock,,nasdaq_trader_symbol_directory
@@ -689,8 +691,6 @@ NYSE,CSV,"Carriage Services, Inc. Common Stock",Stock,,nasdaq_trader_symbol_dire
 NYSE,CSW,"CSW Industrials, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series",Stock,,nasdaq_trader_symbol_directory
 NYSE,CTA$B,"EIDP, Inc. Preferred Stock $4.50 Series",Stock,,nasdaq_trader_symbol_directory
-NYSE,CTBB,Qwest Corporation 6.5% Notes due 2056,Stock,,nasdaq_trader_symbol_directory
-NYSE,CTDD,Qwest Corporation 6.75% Notes due 2057,Stock,,nasdaq_trader_symbol_directory
 NYSE,CTEST.E,NYSE Test One Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CTEST.G,NYSE Test One Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CTEST.L,NYSE Test One Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1382,7 +1382,6 @@ NYSE,IRAB.U,"Iris Acquisition Corp II Units, each consisting of one Class A Ordi
 NYSE,IRAB.W,"Iris Acquisition Corp II Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT,Stock,,nasdaq_trader_symbol_directory
 NYSE,IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),Stock,,nasdaq_trader_symbol_directory
-NYSE,IRS.W,IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,IRT,"Independence Realty Trust, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ISD,"PGIM High Yield Bond Fund, Inc.",Stock,,nasdaq_trader_symbol_directory
 NYSE,IT,"Gartner, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory

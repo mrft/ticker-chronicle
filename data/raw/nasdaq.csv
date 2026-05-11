@@ -717,6 +717,7 @@ NASDAQ,BOLT,"Bolt Biotherapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,BON,Bon Natural Life Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BOOM,DMC Global Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BOSC,B.O.S. Better Online Solutions - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BOT,"RoboStrategy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BOTJ,"Bank of the James Financial Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BOTT,Themes Humanoid Robotics ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BOTZ,Global X Robotics & Artificial Intelligence ETF,ETF,,nasdaq_trader_symbol_directory
@@ -753,6 +754,8 @@ NASDAQ,BRRR,Coinshares Bitcoin ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRRWW,"ProCap Financial, Inc. - Warrant.",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRTR,iShares Total Return Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRTX,"BioRestorative Therapies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BRUN,Boost Run Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BRUNW,Boost Run Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRZE,"Braze, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSAA,BEST SPAC I Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSAAR,BEST SPAC I Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
@@ -905,7 +908,7 @@ NASDAQ,CCEP,Coca-Cola Europacific Partners plc - Ordinary Shares,Stock,,nasdaq_t
 NASDAQ,CCFE,Concourse Capital Focused Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CCG,Cheche Group Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCGWW,Cheche Group Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CCHH,CCH Holdings Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CCHH,CCH Holdings Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCII,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCIIU,Cohen Circle Acquisition Corp. II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCIIW,Cohen Circle Acquisition Corp. II - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -1226,7 +1229,6 @@ NASDAQ,CTAS,Cintas Corporation - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,CTBI,"Community Trust Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTEC,Global X ClimateTech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CTKB,"Cytek Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CTLP,"Cantaloupe, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTMX,"CytomX Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTNM,"Contineum Therapeutics, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTNT,Cheetah Net Supply Chain Service Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1632,7 +1634,6 @@ NASDAQ,EVSD,Eaton Vance Short Duration Income ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,EVTV,"Envirotech Vehicles, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVYM,Eaton Vance High Income Municipal ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EWBC,"East West Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,EWCZ,"European Wax Center, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EWJV,iShares MSCI Japan Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EWTX,"Edgewise Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EWZS,iShares MSCI Brazil Small-Cap ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5231,9 +5232,6 @@ NASDAQ,WIX,Wix.com Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WKEY,WISeKey International Holding Ltd - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WKHS,"Workhorse Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WKSP,"Worksport, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WLAC,Willow Lane Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WLACU,Willow Lane Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WLACW,Willow Lane Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WLDN,"Willdan Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WLDS,Wearable Devices Ltd. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WLDSW,Wearable Devices Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -5260,6 +5258,7 @@ NASDAQ,WSBCO,"WesBanco, Inc. - Depositary Shares each representing 1/40th intere
 NASDAQ,WSBF,"Waterstone Financial, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WSBK,"Winchester Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WSC,WillScot Holdings Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,WSE,Wise Group plc - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WSFS,WSFS Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WSGE,Warren Street Global Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WSHP,WeShop Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
