@@ -423,6 +423,7 @@ NASDAQ,ASUR,Asure Software Inc - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,ASYS,"Amtech Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATAI,AtaiBeckley Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATAT,Atour Lifestyle Holdings Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ATC,GraniteShares Autocallable COIN ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ATCX,Atlas Critical Minerals Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATEC,"Alphatec Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATER,"Aterian, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2741,7 +2742,6 @@ NASDAQ,KYMR,"Kymera Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,KYNB,"Kyntra Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KYTX,"Kyverna Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KZIA,Kazia Therapeutics Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KZR,"Kezar Life Sciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LAB,Standard BioTools Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LABT,Lakewood-Amedex Biotherapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LACG,Leverage Shares 2X Long LAC Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4014,6 +4014,7 @@ NASDAQ,QUMSR,Quantumsphere Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbo
 NASDAQ,QUMSU,Quantumsphere Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QURE,uniQure N.V. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QVAL,Alpha Architect U.S. Quantitative Value ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QVOL,Infrastructure Capital Nasdaq Option Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QXL,Quantum X Labs Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QXQ,SGI Enhanced Nasdaq-100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QYLD,Global X NASDAQ 100 Covered Call ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4752,6 +4753,7 @@ NASDAQ,THRM,Gentherm Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THRV,Prospera Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,THRY,"Thryv Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THYM,T. Rowe Price High Income Municipal ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,THYP,21shares Hyperliquid ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TIGO,Millicom International Cellular S.A. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TIGR,UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TIL,"Instil Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4939,7 +4941,6 @@ NASDAQ,UCL,uCloudlink Group Inc. - American Depositary Shares,Stock,,nasdaq_trad
 NASDAQ,UCRD,VictoryShares Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UCTT,"Ultra Clean Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UCYB,ProShares Ultra Nasdaq Cybersecurity,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,UDMY,"Udemy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UECG,Leverage Shares 2x Long UEC Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UEIC,Universal Electronics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UEVM,VictoryShares Emerging Markets Value Momentum ETF,ETF,,nasdaq_trader_symbol_directory

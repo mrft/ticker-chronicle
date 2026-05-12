@@ -1024,7 +1024,6 @@ NYSE,FHN$H,"First Horizon Corporation Depositary Shares each representing a 1/4,
 NYSE,FICO,Fair Isaac Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FIG,"Figma, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FIGS,"FIGS, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,FIHL,Fidelis Insurance Holdings Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,FINV,FinVolution Group American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,FIS,"Fidelity National Information Services, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2064,6 +2063,7 @@ NYSE,PKG,Packaging Corporation of America Common Stock,Stock,,nasdaq_trader_symb
 NYSE,PKX,POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a share of Common Stock),Stock,,nasdaq_trader_symbol_directory
 NYSE,PL,Planet Labs PBC Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PLD,"Prologis, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,PLGO,Pelagos Insurance Capital Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,PLNT,"Planet Fitness, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PLOW,"Douglas Dynamics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PLUN.U,"Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory

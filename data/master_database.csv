@@ -305,6 +305,7 @@ UUUU,AMEX,Energy Fuels Inc Ordinary Shares (Canada),Stock,True,2026-05-08,,,fd6e
 VENU,AMEX,Venu Holding Corporation Common Stock,Stock,True,2026-05-08,,,740bbe05e1f87666c878
 VFL,AMEX,abrdn National Municipal Income Fund Common Stock,Stock,True,2026-05-08,,,584e498360364cf72002
 VGZ,AMEX,Vista Gold Corp Common Stock,Stock,True,2026-05-08,,,c0b191741cad8ef4b637
+VIDA,AMEX,VIDA Global Inc. Class A Common Stock,Stock,True,2026-05-12,,,066d7c83eac75c71abcf
 VKI,AMEX,Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE),Stock,True,2026-05-08,,,98cd6551e950bda66ba3
 VNRX,AMEX,VolitionRX Limited Common Stock,Stock,True,2026-05-08,,,baceea05bc60fe1a56d8
 VNTG,AMEX,Vantage Corp Class A Ordinary Shares,Stock,True,2026-05-08,,,e0148e6d8093be8c04de
@@ -742,6 +743,7 @@ ASUR,NASDAQ,Asure Software Inc - Common Stock,Stock,True,2026-05-08,,,ba1e7306a7
 ASYS,NASDAQ,"Amtech Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,8eb45340d485de13cea5
 ATAI,NASDAQ,AtaiBeckley Inc. - Common Stock,Stock,True,2026-05-08,,,0b10e52b66a9485d07cc
 ATAT,NASDAQ,Atour Lifestyle Holdings Limited - American Depositary Shares,Stock,True,2026-05-08,,,f7a6684d592a34f2ffed
+ATC,NASDAQ,GraniteShares Autocallable COIN ETF,ETF,True,2026-05-12,,,817a261fa9826fbb31e8
 ATCX,NASDAQ,Atlas Critical Minerals Corporation - Common Stock,Stock,True,2026-05-08,,,86ae7f7e94113c5cdc37
 ATEC,NASDAQ,"Alphatec Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,726f9deda9aa72f32eba
 ATER,NASDAQ,"Aterian, Inc. - Common Stock",Stock,True,2026-05-08,,,63cafdeb9ea2be90ce8a
@@ -3063,7 +3065,7 @@ KYMR,NASDAQ,"Kymera Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,4
 KYNB,NASDAQ,"Kyntra Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,07f88082f139043a237a
 KYTX,NASDAQ,"Kyverna Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,21b240a2f7540c9a0de9
 KZIA,NASDAQ,Kazia Therapeutics Limited - American Depositary Shares,Stock,True,2026-05-08,,,9b15f9dae70266d3697c
-KZR,NASDAQ,"Kezar Life Sciences, Inc. - Common Stock",Stock,True,2026-05-08,,,6d2ff68e890d0d23efa9
+KZR,NASDAQ,"Kezar Life Sciences, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-12,Missing from current NASDAQ source snapshot; reason unavailable,6d2ff68e890d0d23efa9
 LAB,NASDAQ,Standard BioTools Inc. - Common Stock,Stock,True,2026-05-08,,,25934205d577e29c1abe
 LABT,NASDAQ,Lakewood-Amedex Biotherapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,769b2b5173c00afc3581
 LACG,NASDAQ,Leverage Shares 2X Long LAC Daily ETF,ETF,True,2026-05-08,,,bbbc7f0ddf2129e9915d
@@ -4336,6 +4338,7 @@ QUMSR,NASDAQ,Quantumsphere Acquisition Corp. - Rights,Stock,True,2026-05-08,,,03
 QUMSU,NASDAQ,Quantumsphere Acquisition Corp. - Units,Stock,True,2026-05-08,,,2fc1029d063e4845b38f
 QURE,NASDAQ,uniQure N.V. - Ordinary Shares,Stock,True,2026-05-08,,,e91072e5717639926042
 QVAL,NASDAQ,Alpha Architect U.S. Quantitative Value ETF,ETF,True,2026-05-08,,,abc2a70de655618ecd4f
+QVOL,NASDAQ,Infrastructure Capital Nasdaq Option Income ETF,ETF,True,2026-05-12,,,cf212bf2b0165ad42304
 QXL,NASDAQ,Quantum X Labs Inc. - Common Stock,Stock,True,2026-05-08,,,1d3058103c933e55a98b
 QXQ,NASDAQ,SGI Enhanced Nasdaq-100 ETF,ETF,True,2026-05-08,,,7395a4b55e48ab2d7125
 QYLD,NASDAQ,Global X NASDAQ 100 Covered Call ETF,ETF,True,2026-05-08,,,ecc2aa1c25c2902f71dc
@@ -5074,6 +5077,7 @@ THRM,NASDAQ,Gentherm Inc - Common Stock,Stock,True,2026-05-08,,,40280286d0e67aef
 THRV,NASDAQ,Prospera Income ETF,ETF,True,2026-05-08,,,361c123215c229f24e50
 THRY,NASDAQ,"Thryv Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,aa9237fa21c8171d62d8
 THYM,NASDAQ,T. Rowe Price High Income Municipal ETF,ETF,True,2026-05-08,,,4bf79c17df9e4f338f08
+THYP,NASDAQ,21shares Hyperliquid ETF,ETF,True,2026-05-12,,,e8fb25bc367e4db21bbd
 TIGO,NASDAQ,Millicom International Cellular S.A. - Common Stock,Stock,True,2026-05-08,,,cf67174f5633ccd9c69a
 TIGR,NASDAQ,UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares,Stock,True,2026-05-08,,,bbb9c81262c97023ee21
 TIL,NASDAQ,"Instil Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,ede2796470852b731716
@@ -5261,7 +5265,7 @@ UCL,NASDAQ,uCloudlink Group Inc. - American Depositary Shares,Stock,True,2026-05
 UCRD,NASDAQ,VictoryShares Corporate Bond ETF,ETF,True,2026-05-08,,,f69bea90c4c65ec20187
 UCTT,NASDAQ,"Ultra Clean Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,043fc1a4e6f2e34c06a0
 UCYB,NASDAQ,ProShares Ultra Nasdaq Cybersecurity,ETF,True,2026-05-08,,,b658fc0b61dae5411df5
-UDMY,NASDAQ,"Udemy, Inc. - Common Stock",Stock,True,2026-05-08,,,91d19b80480b3aecf43f
+UDMY,NASDAQ,"Udemy, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-12,Missing from current NASDAQ source snapshot; reason unavailable,91d19b80480b3aecf43f
 UECG,NASDAQ,Leverage Shares 2x Long UEC Daily ETF,ETF,True,2026-05-08,,,6c7166f53d2dc719cc8e
 UEIC,NASDAQ,Universal Electronics Inc. - Common Stock,Stock,True,2026-05-08,,,5e35abc06d6b0ac0b676
 UEVM,NASDAQ,VictoryShares Emerging Markets Value Momentum ETF,ETF,True,2026-05-08,,,c4741edcd2d3fc31df14
@@ -6793,7 +6797,7 @@ FHN$H,NYSE,"First Horizon Corporation Depositary Shares each representing a 1/4,
 FICO,NYSE,Fair Isaac Corporation Common Stock,Stock,True,2026-05-08,,,9ec86008c925e647cbb9
 FIG,NYSE,"Figma, Inc. Class A Common Stock",Stock,True,2026-05-08,,,e11392b0ff8efe47ff40
 FIGS,NYSE,"FIGS, Inc. Class A Common Stock",Stock,True,2026-05-08,,,017bf91cb41a117334cd
-FIHL,NYSE,Fidelis Insurance Holdings Limited Common Shares,Stock,True,2026-05-08,,,4680f7c5fa0d59b70362
+FIHL,NYSE,Fidelis Insurance Holdings Limited Common Shares,Stock,False,2026-05-08,2026-05-12,Missing from current NYSE source snapshot; reason unavailable,4680f7c5fa0d59b70362
 FINS,NYSE,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,56e034a73df837ef1f7a
 FINV,NYSE,FinVolution Group American Depositary Shares,Stock,True,2026-05-08,,,e80eadee045a5875a190
 FIS,NYSE,"Fidelity National Information Services, Inc. Common Stock",Stock,True,2026-05-08,,,2bf67db98f3cf63da174
@@ -7834,6 +7838,7 @@ PKG,NYSE,Packaging Corporation of America Common Stock,Stock,True,2026-05-08,,,3
 PKX,NYSE,POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a share of Common Stock),Stock,True,2026-05-08,,,45df7b7edb1c7d8c6f90
 PL,NYSE,Planet Labs PBC Class A Common Stock,Stock,True,2026-05-08,,,191d61617ebe5e4693cd
 PLD,NYSE,"Prologis, Inc. Common Stock",Stock,True,2026-05-08,,,e664dbed778e0d0bd9a3
+PLGO,NYSE,Pelagos Insurance Capital Limited Common Shares,Stock,True,2026-05-12,,,e703b3caefdf1a08f124
 PLNT,NYSE,"Planet Fitness, Inc. Common Stock",Stock,True,2026-05-08,,,f4e9205b1ac3ec174a4d
 PLOW,NYSE,"Douglas Dynamics, Inc. Common Stock",Stock,True,2026-05-08,,,fd3530c7884d204e1fa4
 PLUN.U,NYSE,"Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",Stock,True,2026-05-08,,,4e0e1da88bfa1ca3c8e0
