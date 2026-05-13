@@ -1162,6 +1162,7 @@ NYSE,GME,GameStop Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GME.W,GameStop Corporation Warrants to Purchase Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GMED,"Globus Medical, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GMMF,iShares Government Money Market ETF,ETF,,nasdaq_trader_symbol_directory
+NYSE,GMRS,GMR Solutions Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GNE,Genie Energy Ltd. Class B Common Stock Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),Stock,,nasdaq_trader_symbol_directory
 NYSE,GNL,"Global Net Lease, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2793,6 +2794,8 @@ NYSE,WEA,Western Asset Bond Fund Share of Beneficial Interest,Stock,,nasdaq_trad
 NYSE,WEAV,"Weave Communications, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WEC,"WEC Energy Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WELL,Welltower Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,WENC,West Enclave Merger Corp. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,WENC.R,"West Enclave Merger Corp. Rights, each Right to acquire one-tenth (1/10) of one Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,WENC.U,"West Enclave Merger Corp. Units, each consisting of one Ordinary Share and one Right to acquire one-tenth (1/10) of one Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,WES,"Western Midstream Partners, LP Common Units Representing Limited Partner Interests",Stock,,nasdaq_trader_symbol_directory
 NYSE,WEX,WEX Inc. common stock,Stock,,nasdaq_trader_symbol_directory

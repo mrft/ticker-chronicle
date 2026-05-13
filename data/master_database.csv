@@ -684,8 +684,8 @@ ARCIW,NASDAQ,Archimedes Tech SPAC Partners III Co. - Warrant,Stock,True,2026-05-
 ARCLU,NASDAQ,ARC Group Acquisition I Corp - Unit,Stock,True,2026-05-08,,,d9fb6c7bf797c51e674f
 ARCT,NASDAQ,Arcturus Therapeutics Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,e956a615977718d2549b
 ARDX,NASDAQ,"Ardelyx, Inc. - Common Stock",Stock,True,2026-05-08,,,01b0899637beb4c72e33
-AREB,NASDAQ,"American Rebel Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,5eeeff399b5916f39d80
-AREBW,NASDAQ,"American Rebel Holdings, Inc. - warrants",Stock,True,2026-05-08,,,6dd119321cb463b52d01
+AREB,NASDAQ,"American Rebel Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-13,Missing from current NASDAQ source snapshot; reason unavailable,5eeeff399b5916f39d80
+AREBW,NASDAQ,"American Rebel Holdings, Inc. - warrants",Stock,False,2026-05-08,2026-05-13,Missing from current NASDAQ source snapshot; reason unavailable,6dd119321cb463b52d01
 AREC,NASDAQ,American Resources Corporation - Class A Common Stock,Stock,True,2026-05-08,,,480816528951884d2ccb
 ARGX,NASDAQ,argenx SE - American Depositary Shares,Stock,True,2026-05-08,,,ba03f462d7651ace0cd5
 ARHS,NASDAQ,"Arhaus, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,4aec3717e6921a580272
@@ -972,7 +972,7 @@ BKMI,NASDAQ,BNY Mellon Municipal Intermediate ETF,ETF,True,2026-05-08,,,f4e000d2
 BKMS,NASDAQ,BNY Mellon Municipal Short Duration ETF,ETF,True,2026-05-08,,,db42c22fa409d48c36b7
 BKNG,NASDAQ,Booking Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,e435559cd47d2178c73b
 BKR,NASDAQ,Baker Hughes Company - Common Stock,Stock,True,2026-05-08,,,53f6bd255201d47d2555
-BKYI,NASDAQ,"BIO-key International, Inc. - Common Stock",Stock,True,2026-05-08,,,00542a237e9ec54f7308
+BKYI,NASDAQ,"BIO-key International, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-13,Missing from current NASDAQ source snapshot; reason unavailable,00542a237e9ec54f7308
 BL,NASDAQ,"BlackLine, Inc. - Common Stock",Stock,True,2026-05-08,,,67b2f3e857eeff31814e
 BLBD,NASDAQ,Blue Bird Corporation - Common Stock,Stock,True,2026-05-08,,,1846d2311bff9b29b9a9
 BLCN,NASDAQ,Siren NexGen Economy ETF,ETF,True,2026-05-08,,,d8a7c634ed37affd61ee
@@ -1059,6 +1059,7 @@ BRBI,NASDAQ,BRBI BR Partners S.A. - ADSs,Stock,True,2026-05-08,,,dcfca92886638f0
 BRCB,NASDAQ,"Black Rock Coffee Bar, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,e2d42e330319bb3d754f
 BREM,NASDAQ,iShares Emerging Markets Bond Active ETF,ETF,True,2026-05-08,,,340d6297076d7f1c9ae4
 BRES,NASDAQ,Burney U.S. Equity Select ETF,ETF,True,2026-05-08,,,43e4997780435011583f
+BREZU,NASDAQ,Breeze Acquisition Corp. II - Units,Stock,True,2026-05-13,,,9b83aa74025c81bd57be
 BRFH,NASDAQ,Barfresh Food Group Inc. - Common Stock,Stock,True,2026-05-08,,,5dcae4590d4352fceaca
 BRHY,NASDAQ,iShares High Yield Active ETF,ETF,True,2026-05-08,,,d3a9db4c8cf7bd74c925
 BRID,NASDAQ,Bridgford Foods Corporation - Common Stock,Stock,True,2026-05-08,,,164dc1dd2dc28867c726
@@ -1560,7 +1561,8 @@ CTRM,NASDAQ,Castor Maritime Inc. - Common Shares,Stock,True,2026-05-08,,,c14a48a
 CTRN,NASDAQ,"Citi Trends, Inc. - Common Stock",Stock,True,2026-05-08,,,910c64dd13d090830c5b
 CTSH,NASDAQ,Cognizant Technology Solutions Corporation - Class A Common Stock,Stock,True,2026-05-08,,,60d0d25b7433198889df
 CTSO,NASDAQ,Cytosorbents Corporation - Common Stock,Stock,True,2026-05-08,,,34ff771b0750758bf554
-CTW,NASDAQ,CTW Cayman - Class A Ordinary Shares,Stock,True,2026-05-08,,,f58640b62eab552b2c25
+CTW,NASDAQ,CTW Cayman - Class A Ordinary Shares,Stock,False,2026-05-08,2026-05-13,Listing metadata changed,f58640b62eab552b2c25
+CTW,NASDAQ,CTW - Class A Ordinary Shares,Stock,True,2026-05-13,,,a6b4856e557a5d282034
 CTXR,NASDAQ,"Citius Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,3b966f7834fa3946dd64
 CUB,NASDAQ,Lionheart Holdings - Class A Ordinary Shares,Stock,True,2026-05-08,,,d6b2078d894ec138fb6a
 CUBWU,NASDAQ,Lionheart Holdings - Unit,Stock,True,2026-05-08,,,be3e18800ec28518cad6
@@ -2184,6 +2186,7 @@ FRPT,NASDAQ,"Freshpet, Inc. - Common Stock",Stock,True,2026-05-08,,,a60fac6180cb
 FRSH,NASDAQ,Freshworks Inc. - Class A Common Stock,Stock,True,2026-05-08,,,d955a6aa91f6769bc710
 FRST,NASDAQ,Primis Financial Corp. - Common Stock,Stock,True,2026-05-08,,,cbe3d283ea03abcb0a03
 FRSX,NASDAQ,Foresight Autonomous Holdings Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,09e408b79020cc811730
+FRVO,NASDAQ,Fervo Energy Company - Class A common stock,Stock,True,2026-05-13,,,0b541bd99b39cf36cd77
 FRWD,NASDAQ,Nomura Transformational Technologies ETF,ETF,True,2026-05-08,,,fdb7b7fbbc58e4f40fe4
 FSBC,NASDAQ,Five Star Bancorp - Common Stock,Stock,True,2026-05-08,,,e306cb29dadf98c21070
 FSBW,NASDAQ,"FS Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,cd4c9ec2da6a05711477
@@ -3496,6 +3499,7 @@ MSFU,NASDAQ,Direxion Daily MSFT Bull 2X ETF,ETF,True,2026-05-08,,,b483c72b821405
 MSGM,NASDAQ,Motorsport Games Inc. - Class A Common Stock,Stock,True,2026-05-08,,,d55b207b65549f8dd6b9
 MSGY,NASDAQ,Masonglory Limited - Ordinary Shares,Stock,True,2026-05-08,,,8e7a1d5791e1e0276e35
 MSLE,NASDAQ,Satellos Bioscience Inc. - Common Stock,Stock,True,2026-05-08,,,baa65de07622a9f6174b
+MSR,NASDAQ,GraniteShares Autocallable MSTR ETF,ETF,True,2026-05-13,,,f0f8ec7c3de78b9ef508
 MSS,NASDAQ,Maison Solutions Inc. - Class A Common Stock,Stock,True,2026-05-08,,,eca3b2dc47f4671f4ef2
 MST,NASDAQ,Defiance Leveraged Long + Income MSTR ETF,ETF,True,2026-05-08,,,b00139b7ea597007bf0b
 MSTP,NASDAQ,GraniteShares 2x Long MSTR Daily ETF,ETF,True,2026-05-08,,,45c04dc2fabbf2eb86c3
@@ -3793,7 +3797,7 @@ NXXT,NASDAQ,"NextNRG, Inc. - Common Stock",Stock,True,2026-05-08,,,3f0bd31e4bfa7
 NYAX,NASDAQ,Nayax Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,d9a384284cf31dd0bec3
 NYXH,NASDAQ,Nyxoah SA - Ordinary Shares,Stock,True,2026-05-08,,,d644aec9e1fad43393ac
 NZAC,NASDAQ,State Street SPDR MSCI ACWI Climate Paris Aligned ETF,ETF,True,2026-05-08,,,6c5e509c9516ab908b7b
-NZUS,NASDAQ,State Street SPDR MSCI USA Climate Paris Aligned ETF,ETF,True,2026-05-08,,,097ffe5774256ce38a6a
+NZUS,NASDAQ,State Street SPDR MSCI USA Climate Paris Aligned ETF,ETF,False,2026-05-08,2026-05-13,Missing from current NASDAQ source snapshot; reason unavailable,097ffe5774256ce38a6a
 OABI,NASDAQ,"OmniAb, Inc. - Common Stock",Stock,True,2026-05-08,,,a47576f0109a7a0e5c39
 OABIW,NASDAQ,"OmniAb, Inc. - Warrant",Stock,True,2026-05-08,,,35107d5c4f07be30d965
 OACC,NASDAQ,Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share,Stock,True,2026-05-08,,,ea9e942e6ed56ec03568
@@ -4526,6 +4530,7 @@ RSVRW,NASDAQ,"Reservoir Media, Inc.. - Warrant",Stock,True,2026-05-08,,,5dfe52ef
 RTAC,NASDAQ,Renatus Tactical Acquisition Corp I - Class A Ordinary Shares,Stock,True,2026-05-08,,,ca1f2d2f51880ebec8d3
 RTACU,NASDAQ,Renatus Tactical Acquisition Corp I - Unit,Stock,True,2026-05-08,,,ffa6e6c3ef882d3d2bd9
 RTACW,NASDAQ,Renatus Tactical Acquisition Corp I - Warrant,Stock,True,2026-05-08,,,c1c8c36ec65730d530ce
+RTB,NASDAQ,"RTB Digital, Inc. - Common Stock",Stock,True,2026-05-13,,,71d2f76de6b9fd50227b
 RTH,NASDAQ,VanEck Retail ETF,ETF,True,2026-05-08,,,25ba867522a4dab24130
 RTXG,NASDAQ,Leverage Shares 2X Long RTX Daily ETF,ETF,True,2026-05-08,,,3d0e27cfb2ecc1255ed0
 RTYY,NASDAQ,GraniteShares YieldBoost RIOT ETF,ETF,True,2026-05-08,,,ea53bad5dfc4d9ac8daf
@@ -4544,7 +4549,7 @@ RVPH,NASDAQ,"Reviva Pharmaceuticals Holdings, Inc. - Common Stock",Stock,True,20
 RVSB,NASDAQ,Riverview Bancorp Inc - Common Stock,Stock,True,2026-05-08,,,2748dde0a198b39bc53b
 RVSN,NASDAQ,Rail Vision Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,db3d6f8fc9766d9a6623
 RVSNW,NASDAQ,Rail Vision Ltd. - Warrant,Stock,True,2026-05-08,,,1dbfd7763ef35cac631e
-RVYL,NASDAQ,Ryvyl Inc. - Common Stock,Stock,True,2026-05-08,,,7b3a1d9326a37aee71f7
+RVYL,NASDAQ,Ryvyl Inc. - Common Stock,Stock,False,2026-05-08,2026-05-13,Missing from current NASDAQ source snapshot; reason unavailable,7b3a1d9326a37aee71f7
 RWAY,NASDAQ,Runway Growth Finance Corp. - Common Stock,Stock,True,2026-05-08,,,a23802a4b57ad8e5e3e1
 RWAYI,NASDAQ,Runway Growth Finance Corp. - 7.25% Notes due 2031,Stock,True,2026-05-08,,,da3972ef62399af298f9
 RWAYL,NASDAQ,Runway Growth Finance Corp. - 7.50% Notes due 2027,Stock,True,2026-05-08,,,431761ae8c85fc5fd1ba
@@ -6936,6 +6941,7 @@ GME,NYSE,GameStop Corporation Common Stock,Stock,True,2026-05-08,,,b44ecb996375b
 GME.W,NYSE,GameStop Corporation Warrants to Purchase Common Stock,Stock,True,2026-05-08,,,e57c94376014e46c173d
 GMED,NYSE,"Globus Medical, Inc. Class A Common Stock",Stock,True,2026-05-08,,,62234d6f3b309fb7806d
 GMMF,NYSE,iShares Government Money Market ETF,ETF,True,2026-05-08,,,c5a2f785f8c4bc8fe3bc
+GMRS,NYSE,GMR Solutions Inc. Class A Common Stock,Stock,True,2026-05-13,,,4cc742e0e6358c575d56
 GNE,NYSE,Genie Energy Ltd. Class B Common Stock Stock,Stock,True,2026-05-08,,,af805d0063b30474b2db
 GNK,NYSE,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),Stock,True,2026-05-08,,,2d21ec18d07a99fad46a
 GNL,NYSE,"Global Net Lease, Inc. Common Stock",Stock,True,2026-05-08,,,5284f765c3763e767865
@@ -8568,6 +8574,8 @@ WEA,NYSE,Western Asset Bond Fund Share of Beneficial Interest,Stock,True,2026-05
 WEAV,NYSE,"Weave Communications, Inc. Common Stock",Stock,True,2026-05-08,,,37d2b25fafa77788661b
 WEC,NYSE,"WEC Energy Group, Inc. Common Stock",Stock,True,2026-05-08,,,473d1ae9e4931a8bbfe5
 WELL,NYSE,Welltower Inc. Common Stock,Stock,True,2026-05-08,,,e564f9ec595e59bb90f9
+WENC,NYSE,West Enclave Merger Corp. Ordinary Shares,Stock,True,2026-05-13,,,d8cdd6c54b2706051e86
+WENC.R,NYSE,"West Enclave Merger Corp. Rights, each Right to acquire one-tenth (1/10) of one Ordinary Share",Stock,True,2026-05-13,,,9f95564e73d697a16926
 WENC.U,NYSE,"West Enclave Merger Corp. Units, each consisting of one Ordinary Share and one Right to acquire one-tenth (1/10) of one Ordinary Share",Stock,True,2026-05-08,,,0177566d5d4e18a82349
 WES,NYSE,"Western Midstream Partners, LP Common Units Representing Limited Partner Interests",Stock,True,2026-05-08,,,4201b880103a059d86b3
 WEX,NYSE,WEX Inc. common stock,Stock,True,2026-05-08,,,9021961f0ae9b407ecb7

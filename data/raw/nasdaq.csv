@@ -364,8 +364,6 @@ NASDAQ,ARCIW,Archimedes Tech SPAC Partners III Co. - Warrant,Stock,,nasdaq_trade
 NASDAQ,ARCLU,ARC Group Acquisition I Corp - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARCT,Arcturus Therapeutics Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARDX,"Ardelyx, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AREB,"American Rebel Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AREBW,"American Rebel Holdings, Inc. - warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AREC,American Resources Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARGX,argenx SE - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARHS,"Arhaus, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -652,7 +650,6 @@ NASDAQ,BKMI,BNY Mellon Municipal Intermediate ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,BKMS,BNY Mellon Municipal Short Duration ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BKNG,Booking Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BKR,Baker Hughes Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BKYI,"BIO-key International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BL,"BlackLine, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLBD,Blue Bird Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLCN,Siren NexGen Economy ETF,ETF,,nasdaq_trader_symbol_directory
@@ -739,6 +736,7 @@ NASDAQ,BRBI,BRBI BR Partners S.A. - ADSs,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRCB,"Black Rock Coffee Bar, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BREM,iShares Emerging Markets Bond Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRES,Burney U.S. Equity Select ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BREZU,Breeze Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRFH,Barfresh Food Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRHY,iShares High Yield Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRID,Bridgford Foods Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1238,7 +1236,7 @@ NASDAQ,CTRM,Castor Maritime Inc. - Common Shares,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,CTRN,"Citi Trends, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTSH,Cognizant Technology Solutions Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTSO,Cytosorbents Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CTW,CTW Cayman - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CTW,CTW - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTXR,"Citius Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CUB,Lionheart Holdings - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CUBWU,Lionheart Holdings - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -1861,6 +1859,7 @@ NASDAQ,FRPT,"Freshpet, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_director
 NASDAQ,FRSH,Freshworks Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRST,Primis Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRSX,Foresight Autonomous Holdings Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FRVO,Fervo Energy Company - Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRWD,Nomura Transformational Technologies ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FSBC,Five Star Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FSBW,"FS Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3172,6 +3171,7 @@ NASDAQ,MSFU,Direxion Daily MSFT Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MSGM,Motorsport Games Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSGY,Masonglory Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSLE,Satellos Bioscience Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MSR,GraniteShares Autocallable MSTR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MSS,Maison Solutions Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MST,Defiance Leveraged Long + Income MSTR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MSTP,GraniteShares 2x Long MSTR Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3469,7 +3469,6 @@ NASDAQ,NXXT,"NextNRG, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NYAX,Nayax Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NYXH,Nyxoah SA - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NZAC,State Street SPDR MSCI ACWI Climate Paris Aligned ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,NZUS,State Street SPDR MSCI USA Climate Paris Aligned ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OABI,"OmniAb, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OABIW,"OmniAb, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OACC,Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
@@ -4202,6 +4201,7 @@ NASDAQ,RSVRW,"Reservoir Media, Inc.. - Warrant",Stock,,nasdaq_trader_symbol_dire
 NASDAQ,RTAC,Renatus Tactical Acquisition Corp I - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTACU,Renatus Tactical Acquisition Corp I - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTACW,Renatus Tactical Acquisition Corp I - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RTB,"RTB Digital, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTH,VanEck Retail ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RTXG,Leverage Shares 2X Long RTX Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RTYY,GraniteShares YieldBoost RIOT ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4220,7 +4220,6 @@ NASDAQ,RVPH,"Reviva Pharmaceuticals Holdings, Inc. - Common Stock",Stock,,nasdaq
 NASDAQ,RVSB,Riverview Bancorp Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RVSN,Rail Vision Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RVSNW,Rail Vision Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RVYL,Ryvyl Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RWAY,Runway Growth Finance Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RWAYI,Runway Growth Finance Corp. - 7.25% Notes due 2031,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RWAYL,Runway Growth Finance Corp. - 7.50% Notes due 2027,Stock,,nasdaq_trader_symbol_directory
