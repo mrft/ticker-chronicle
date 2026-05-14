@@ -483,6 +483,7 @@ NYSE,BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",Stock
 NYSE,BWXT,"BWX Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BX,Blackstone Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BXC,Bluelinx Holdings Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,BXDC,Blackstone Digital Infrastructure Trust Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BXMT,"Blackstone Mortgage Trust, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BXP,"BXP, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BXSL,Blackstone Secured Lending Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
@@ -935,6 +936,7 @@ NYSE,EQR,Equity Residential Common Shares of Beneficial Interest,Stock,,nasdaq_t
 NYSE,EQS,"Equus Total Return, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,EQT,EQT Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ERO,Ero Copper Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,EROK,"EagleRock Land, LLC Class A shares representing limited liability company interests",Stock,,nasdaq_trader_symbol_directory
 NYSE,ES,Eversource Energy (D/B/A) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ESAB,ESAB Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ESE,ESCO Technologies Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2586,7 +2588,6 @@ NYSE,TOL,"Toll Brothers, Inc. Common Stock",Stock,,nasdaq_trader_symbol_director
 NYSE,TOST,"Toast, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TPB,"Turning Point Brands, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TPC,Tutor Perini Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,TPH,"Tri Pointe Homes, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TPL,Texas Pacific Land Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TPR,"Tapestry, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026",Stock,,nasdaq_trader_symbol_directory

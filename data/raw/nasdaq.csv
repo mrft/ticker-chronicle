@@ -167,6 +167,7 @@ NASDAQ,AHCO,AdaptHealth Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,AHG,Akso Health Group - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AHMA,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIA,iShares Asia 50 ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AIAI,AIAI Holdings Corporation - Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIDX,"20/20 Biolabs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIFC,AI Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIFD,TCW Artificial Intelligence ETF,ETF,,nasdaq_trader_symbol_directory
@@ -207,9 +208,6 @@ NASDAQ,ALAR,Alarum Technologies Ltd. - American Depositary Shares,Stock,,nasdaq_
 NASDAQ,ALBG,Leverage Shares 2X Long ALB Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ALBT,Avalon GloboCare Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALCO,"Alico, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ALCY,Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ALCYU,Alchemy Investments Acquisition Corp 1 - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ALCYW,Alchemy Investments Acquisition Corp 1 - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALDF,Aldel Financial II Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALDFU,Aldel Financial II Inc. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALDFW,Aldel Financial II Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -894,6 +892,7 @@ NASDAQ,CBK,"Commercial Bancgroup, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,CBLL,"CeriBell, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CBNK,"Capital Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CBRL,"Cracker Barrel Old Country Store, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CBRS,Cerebras Systems Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CBSH,"Commerce Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CBUS,"Cibus, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCAP,"Crescent Capital BDC, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2125,6 +2124,7 @@ NASDAQ,GSM,Ferroglobe PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_director
 NASDAQ,GSRF,GSR IV Acquisition Corp. - Class A ordinary share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GSRFR,GSR IV Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GSRFU,GSR IV Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GSRVU,GSR V Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GSUN,Golden Sun Technology Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GT,The Goodyear Tire & Rubber Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GTBP,"GT Biopharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3203,6 +3203,7 @@ NASDAQ,MVIS,"MicroVision, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direc
 NASDAQ,MVLL,GraniteShares 2x Long MRVL Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MVST,"Microvast Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MVSTW,"Microvast Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MWC,"Micware Co., Ltd. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MWH,"SOLV Energy, Inc. - Class A common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MWYN,"Marwynn Holdings, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MXCT,"MaxCyte, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4216,7 +4217,6 @@ NASDAQ,RUSHB,"Rush Enterprises, Inc. - Class B Common Stock",Stock,,nasdaq_trade
 NASDAQ,RVMD,"Revolution Medicines, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RVMDW,"Revolution Medicines, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RVNL,GraniteShares 2x Long RIVN Daily ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,RVPH,"Reviva Pharmaceuticals Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RVSB,Riverview Bancorp Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RVSN,Rail Vision Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RVSNW,Rail Vision Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -4451,7 +4451,6 @@ NASDAQ,SMYY,GraniteShares YieldBOOST SMCI ETF,ETF,,nasdaq_trader_symbol_director
 NASDAQ,SNAG,Leverage Shares 2x Long SNAP Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SNAL,"Snail, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNBR,Sleep Number Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SNCY,"Sun Country Airlines Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SND,"Smart Sand, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNDK,Sandisk Corporation - Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNDL,SNDL Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4762,6 +4761,7 @@ NASDAQ,TITN,Titan Machinery Inc. - Common Stock,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,TJGC,TJGC Group Limited - ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TKLF,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TKNO,"Alpha Teknova, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TKNS,21Shares Active Crypto ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TLA,GraniteShares Autocallable TSLA ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TLF,"Tandy Leather Factory, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TLG,Touchstone Large Company Growth ETF,ETF,,nasdaq_trader_symbol_directory
