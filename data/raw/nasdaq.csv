@@ -329,7 +329,6 @@ NASDAQ,API,"Agora, Inc. - ADS",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLD,Applied Digital Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLM,Apollomics Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLMW,Apollomics Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,APLS,"Apellis Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APM,Aptorum Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APOG,"Apogee Enterprises, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APP,Applovin Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -914,7 +913,6 @@ NASDAQ,CCIX,Churchill Capital Corp IX - Ordinary Shares,Stock,,nasdaq_trader_sym
 NASDAQ,CCIXU,Churchill Capital Corp IX - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCIXW,Churchill Capital Corp IX - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCLD,"CareCloud, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CCLDO,"CareCloud, Inc. - 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCNE,CNB Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCNEP,"CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCNR,ALPS/CoreCommodity Natural Resources ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1210,7 +1208,6 @@ NASDAQ,CSCL,Direxion Daily CSCO Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CSCO,"Cisco Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CSCS,Direxion Daily CSCO Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CSGP,"CoStar Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CSGS,"CSG Systems International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CSHR,CoinShares PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CSHRW,CoinShares PLC - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CSIQ,Canadian Solar Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1423,6 +1420,8 @@ NASDAQ,DTSS,Datasea Intelligent Technology Ltd. - Class A Ordinary Shares,Stock,
 NASDAQ,DTST,Data Storage Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DTSTW,Data Storage Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DUKH,Ocean Park High Income ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,DUKR,DUKE Robotics Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,DUKRW,DUKE Robotics Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DUKX,Ocean Park International ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DUO,Fangdd Network Group Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DUOG,Leverage Shares 2X Long DUOL Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1645,6 +1644,8 @@ NASDAQ,EXPE,"Expedia Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_dir
 NASDAQ,EXPO,"Exponent, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EXTR,"Extreme Networks, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EXUS,Nomura Focused International Core ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,EXYN,"Exyn Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EXYNW,"Exyn Technologies, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EYE,"National Vision Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EYEG,AB Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EYPT,"EyePoint, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2144,6 +2145,7 @@ NASDAQ,GTOQ,Invesco High Yield Systematic Bond ETF,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,GTPE,Goldman Sachs MSCI World Private Equity Return Tracker ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GTR,WisdomTree Target Range Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GTX,Garrett Motion Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GUACU,Berto Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GURE,"Gulf Resources, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GUSE,Goldman Sachs Enhanced U.S. Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GUTS,"Fractyl Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2382,6 +2384,7 @@ NASDAQ,ICOP,iShares Copper and Metals Mining ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,ICU,SeaStar Medical Holding Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ICUCW,SeaStar Medical Holding Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ICUI,"ICU Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IDACU,Iron Dome Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IDAI,T Stamp Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IDCC,"InterDigital, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IDEF,iShares Defense Industrials Active ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3237,7 +3240,10 @@ NASDAQ,MYRG,"MYR Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directo
 NASDAQ,MYSE,"Myseum.AI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MYSEW,"Myseum.AI, Inc. - Series A Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MYSZ,"My Size, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MYX,Maywood Acquisition Corp. 2 - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MYXXR,Maywood Acquisition Corp. 2 - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MYXXU,Maywood Acquisition Corp. 2 - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MYXXW,Maywood Acquisition Corp. 2 - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MZTI,The Marzetti Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NA,Nano Labs Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NAAS,NaaS Technology Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3893,6 +3899,7 @@ NASDAQ,PSNYW,Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW),Stock,
 NASDAQ,PSTR,PeakShares Sector Rotation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PSTV,"PLUS THERAPEUTICS, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSWD,Xtrackers Cybersecurity Select Equity ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,PTACU,Patriot Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTC,PTC Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTCT,"PTC Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTEN,"Patterson-UTI Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
