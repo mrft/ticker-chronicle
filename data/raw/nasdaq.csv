@@ -144,7 +144,6 @@ NASDAQ,AGCC,Agencia Comercial Spirits Ltd - Class A Ordinary Share,Stock,,nasdaq
 NASDAQ,AGEM,abrdn Emerging Markets Dividend Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AGEN,Agenus Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGGA,EA Astoria Dynamic Core US Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,AGH,Aureus Greenway Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGIO,"Agios Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGIX,KraneShares Artificial Intelligence & Technology ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AGMB,AgomAb Therapeutics NV - ADRs representing one common share.,Stock,,nasdaq_trader_symbol_directory
@@ -176,6 +175,7 @@ NASDAQ,AIFU,AIFU Inc. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,AIHS,Senmiao Technology Limited - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIIO,Robo.ai Inc. - Class B Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIIOW,Robo.ai Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AIIR,Air Global PLC - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIMD,"Ainos, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIMDW,"Ainos, Inc. - warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIMS,Acuitas Small Cap Active ETF,ETF,,nasdaq_trader_symbol_directory
@@ -446,6 +446,7 @@ NASDAQ,ATRO,Astronics Corporation - Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,ATXG,Addentax Group Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATYR,"aTyr Pharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AUBN,"Auburn National Bancorporation, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AUC,ATIF Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AUDC,AudioCodes Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AUGO,Aura Minerals Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AUID,authID Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -848,7 +849,6 @@ NASDAQ,CABR,"Caring Brands, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_dir
 NASDAQ,CAC,Camden National Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CACC,Credit Acceptance Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CADL,"Candel Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CAEP,"Cantor Equity Partners III, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CAFG,Pacer US Small Cap Cash Cows Growth Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CAI,"Caris Life Sciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CAIIU,Collective Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
@@ -1805,6 +1805,8 @@ NASDAQ,FLXS,"Flexsteel Industries, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,FLY,Firefly Aerospace Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FLYE,"Fly-E Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FLYW,Flywire Corporation - Voting Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FMAC,Future Money Acquisition Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FMACR,Future Money Acquisition Corporation - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FMACU,Future Money Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FMAO,"Farmers & Merchants Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FMB,First Trust Managed Municipal ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1831,7 +1833,6 @@ NASDAQ,FNX,First Trust Mid Cap Core AlphaDEX Fund,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,FNY,First Trust Mid Cap Growth AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FOFO,"Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FONR,Fonar Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FORA,Forian Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FORM,"FormFactor, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FORR,"Forrester Research, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FORTY,Formula Systems (1985) Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2516,7 +2517,9 @@ NASDAQ,IPDN,"Professional Diversity Network, Inc. - Common Stock",Stock,,nasdaq_
 NASDAQ,IPEX,Inflection Point Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPEXR,Inflection Point Acquisition Corp. - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPEXU,Inflection Point Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IPFX,Inflection Point Acquisition Corp. VI - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPFXU,Inflection Point Acquisition Corp. VI - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IPFXW,Inflection Point Acquisition Corp. VI - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPGP,IPG Photonics Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPHA,Innate Pharma S.A. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPKW,Invesco International BuyBack Achievers ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2792,6 +2795,7 @@ NASDAQ,LEE,"Lee Enterprises, Incorporated - Common Stock",Stock,,nasdaq_trader_s
 NASDAQ,LEGH,Legacy Housing Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LEGN,Legend Biotech Corporation - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LEGR,First Trust Indxx Innovative Transaction & Process ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,LEND,SEI High Yield Bond & Alternative Credit ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LENZ,"LENZ Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LESL,"Leslie's, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LEXI,Alexis Practical Tactical ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2808,7 +2812,6 @@ NASDAQ,LFST,"LifeStance Health Group, Inc. - Common Stock",Stock,,nasdaq_trader_
 NASDAQ,LFUS,"Littelfuse, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LFVN,Lifevantage Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LFWD,Lifeward Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LGCB,Linkage Global Inc - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LGCF,Themes US Cash Flow Champions ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LGCL,Lucas GC Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LGHL,Lion Group Holding Ltd. - American Depositary Share,Stock,,nasdaq_trader_symbol_directory
@@ -3920,6 +3923,7 @@ NASDAQ,PUBM,"PubMatic, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,PUI,Invesco Dorsey Wright Utilities Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PULM,"Pulmatrix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PURR,Hyperliquid Strategies Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PUSA,Aureus Greenway Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PVLA,"Palvella Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PWP,Perella Weinberg Partners - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PWRD,TCW Transform Systems ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5032,6 +5036,7 @@ NASDAQ,UYLD,Angel Oak UltraShort Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UYSC,UY Scuti Acquisition Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UYSCR,UY Scuti Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UYSCU,UY Scuti Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,UZX,Linkage Global Inc - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VABK,Virginia National Bankshares Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VACH,Voyager Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VACHU,Voyager Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -5325,6 +5330,7 @@ NASDAQ,XHG,XChange TEC.INC - American Depositary Shares,Stock,,nasdaq_trader_sym
 NASDAQ,XHLD,"TEN Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XLO,"Xilio Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XMAG,Defiance Large Cap ex-Mag 7 ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,XMAX,"XMAX, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XMTR,"Xometry, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XNCR,"Xencor, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XNDU,Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
@@ -5359,7 +5365,6 @@ NASDAQ,XT,iShares Future Exponential Technologies ETF,ETF,,nasdaq_trader_symbol_
 NASDAQ,XTIA,"XTI Aerospace, Inc. Common Stock - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XTLB,XTL Biopharmaceuticals Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XWEL,"XWELL, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,XWIN,"XMAX, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XXII,"22nd Century Group, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XXX,CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XYZG,Leverage Shares 2X Long XYZ Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5400,7 +5405,6 @@ NASDAQ,YYGH,YY Group Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_tra
 NASDAQ,Z,"Zillow Group, Inc. - Class C Capital Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZAP,Global X U.S. Electrification ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ZAZZT,Tick Pilot Test Stock Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ZBAI,ATIF Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZBAO,Zhibao Technology Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZBIO,"Zenas BioPharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZBRA,Zebra Technologies Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
