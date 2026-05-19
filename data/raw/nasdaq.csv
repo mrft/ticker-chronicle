@@ -163,6 +163,7 @@ NASDAQ,AGRZ,Agroz Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGYS,"Agilysys, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGZD,WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AHCO,AdaptHealth Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AHD,GraniteShares Autocallable HOOD ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AHG,Akso Health Group - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AHMA,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIA,iShares Asia 50 ETF,ETF,,nasdaq_trader_symbol_directory
@@ -256,6 +257,7 @@ NASDAQ,ALXO,ALX Oncology Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbo
 NASDAQ,ALZN,"Alzamend Neuro, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMA,Defiance Daily Target 2X Long AMAT ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AMAL,Amalgamated Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AMAN,Amanat Acquisition Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMAT,"Applied Materials, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMBA,"Ambarella, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMBR,Amber International Holding Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1365,7 +1367,7 @@ NASDAQ,DMIIR,Drugs Made In America Acquisition II Corp. - Right,Stock,,nasdaq_tr
 NASDAQ,DMIIU,Drugs Made In America Acquisition II Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DMLP,"Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DMRA,"Damora Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DMRC,Digimarc Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,DMRC,"Digimarc Parent, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DMXF,iShares ESG Advanced MSCI EAFE ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DNLI,Denali Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DNMX,Dynamix Corporation III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1418,7 +1420,6 @@ NASDAQ,DTSQR,DT Cloud Star Acquisition Corporation - Right,Stock,,nasdaq_trader_
 NASDAQ,DTSQU,DT Cloud Star Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DTSS,Datasea Intelligent Technology Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DTST,Data Storage Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DTSTW,Data Storage Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DUKH,Ocean Park High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DUKR,DUKE Robotics Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DUKRW,DUKE Robotics Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -2224,6 +2225,7 @@ NASDAQ,HIHO,Highway Holdings Limited - Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,HIMX,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HIMZ,Defiance Daily Target 2X Long HIMS ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HIND,"Vyome Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HIS,Humilis US Focused Opportunities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HISF,First Trust High Income Strategic Focus ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HIT,"Health In Tech, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HITI,High Tide Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3772,6 +3774,7 @@ NASDAQ,PIZ,Invesco Dorsey Wright Developed Markets Momentum ETF,ETF,,nasdaq_trad
 NASDAQ,PKBK,"Parke Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PKOH,Park-Ohio Holdings Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PKW,Invesco BuyBack Achievers ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,PLA,GraniteShares Autocallable PLTR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PLAB,"Photronics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLAY,"Dave & Buster's Entertainment, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLBC,Plumas Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4426,7 +4429,6 @@ NASDAQ,SLN,Silence Therapeutics Plc - American Depository Share,Stock,,nasdaq_tr
 NASDAQ,SLNG,"Stabilis Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLNH,"Soluna Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLNHP,"Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SLNO,"Soleno Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLP,"Simulations Plus, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SLRC,SLR Investment Corp. - Closed End Fund,Stock,,nasdaq_trader_symbol_directory

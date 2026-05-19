@@ -485,6 +485,7 @@ AGRZ,NASDAQ,Agroz Inc. - Ordinary Shares,Stock,True,2026-05-08,,,ba23069f1561558
 AGYS,NASDAQ,"Agilysys, Inc. - Common Stock",Stock,True,2026-05-08,,,6e0e562a028c17bbca16
 AGZD,NASDAQ,WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,ETF,True,2026-05-08,,,1b369b64ae82ae704b72
 AHCO,NASDAQ,AdaptHealth Corp. - Common Stock,Stock,True,2026-05-08,,,9ba601d42b137f27c154
+AHD,NASDAQ,GraniteShares Autocallable HOOD ETF,ETF,True,2026-05-19,,,be44c2a3887c869c12be
 AHG,NASDAQ,Akso Health Group - American Depositary Shares,Stock,True,2026-05-08,,,28940b9e91e36f6cf169
 AHMA,NASDAQ,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,Stock,True,2026-05-08,,,7148680003d7049ed1f5
 AIA,NASDAQ,iShares Asia 50 ETF,ETF,True,2026-05-08,,,56950b70451097607f26
@@ -581,6 +582,7 @@ ALXO,NASDAQ,ALX Oncology Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,c8
 ALZN,NASDAQ,"Alzamend Neuro, Inc. - Common Stock",Stock,True,2026-05-08,,,c0ba4c2b822098648944
 AMA,NASDAQ,Defiance Daily Target 2X Long AMAT ETF,ETF,True,2026-05-08,,,b997d2630d04a7d2008c
 AMAL,NASDAQ,Amalgamated Financial Corp. - Common Stock,Stock,True,2026-05-08,,,43086b65201235794e3a
+AMAN,NASDAQ,Amanat Acquisition Corp - Ordinary Shares,Stock,True,2026-05-19,,,64ee2faea4e8709594b6
 AMAT,NASDAQ,"Applied Materials, Inc. - Common Stock",Stock,True,2026-05-08,,,0d802fb7a66061bcb77d
 AMBA,NASDAQ,"Ambarella, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,f41f9cab3c720157c652
 AMBR,NASDAQ,Amber International Holding Limited - American Depositary Shares,Stock,True,2026-05-08,,,c85898d2b4ac67b4ab14
@@ -1700,7 +1702,8 @@ DMIIR,NASDAQ,Drugs Made In America Acquisition II Corp. - Right,Stock,True,2026-
 DMIIU,NASDAQ,Drugs Made In America Acquisition II Corp. - Unit,Stock,True,2026-05-08,,,a275e06bba3990f3983b
 DMLP,NASDAQ,"Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests",Stock,True,2026-05-08,,,2fea1f07948c67d0e736
 DMRA,NASDAQ,"Damora Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,9f8213488a221b8015b0
-DMRC,NASDAQ,Digimarc Corporation - Common Stock,Stock,True,2026-05-08,,,859b1def7b478e028dcc
+DMRC,NASDAQ,Digimarc Corporation - Common Stock,Stock,False,2026-05-08,2026-05-19,Listing metadata changed,859b1def7b478e028dcc
+DMRC,NASDAQ,"Digimarc Parent, Inc. - Common Stock",Stock,True,2026-05-19,,,2df5ecb7ee1b75099f80
 DMXF,NASDAQ,iShares ESG Advanced MSCI EAFE ETF,ETF,True,2026-05-08,,,1a49b83beef9bb79949d
 DNLI,NASDAQ,Denali Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,a92bfcd30c6acc17244f
 DNMX,NASDAQ,Dynamix Corporation III - Class A Ordinary Shares,Stock,True,2026-05-08,,,30ff84d551317d31264f
@@ -1753,7 +1756,7 @@ DTSQR,NASDAQ,DT Cloud Star Acquisition Corporation - Right,Stock,True,2026-05-08
 DTSQU,NASDAQ,DT Cloud Star Acquisition Corporation - Units,Stock,True,2026-05-08,,,73e11beb97ce226e444b
 DTSS,NASDAQ,Datasea Intelligent Technology Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,0b95efefc58c4d22b7bc
 DTST,NASDAQ,Data Storage Corporation - Common Stock,Stock,True,2026-05-08,,,63d46d121453695afe4e
-DTSTW,NASDAQ,Data Storage Corporation - Warrant,Stock,True,2026-05-08,,,b053566728208680d0e2
+DTSTW,NASDAQ,Data Storage Corporation - Warrant,Stock,False,2026-05-08,2026-05-19,Missing from current NASDAQ source snapshot; reason unavailable,b053566728208680d0e2
 DUKH,NASDAQ,Ocean Park High Income ETF,ETF,True,2026-05-08,,,000893e3d59672115b8e
 DUKR,NASDAQ,DUKE Robotics Corp. - Common Stock,Stock,True,2026-05-15,,,d08479be2e297125f6de
 DUKRW,NASDAQ,DUKE Robotics Corp. - Warrant,Stock,True,2026-05-15,,,6615eca8badc0b82e0ad
@@ -2561,6 +2564,7 @@ HIHO,NASDAQ,Highway Holdings Limited - Common Stock,Stock,True,2026-05-08,,,024a
 HIMX,NASDAQ,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",Stock,True,2026-05-08,,,324e9727dcfc341fbd93
 HIMZ,NASDAQ,Defiance Daily Target 2X Long HIMS ETF,ETF,True,2026-05-08,,,b9521dfc8194213e15f8
 HIND,NASDAQ,"Vyome Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,55e0bcd7d73f4e15c7b2
+HIS,NASDAQ,Humilis US Focused Opportunities ETF,ETF,True,2026-05-19,,,236ce1ada93c60049916
 HISF,NASDAQ,First Trust High Income Strategic Focus ETF,ETF,True,2026-05-08,,,312130a72a7292db85e1
 HIT,NASDAQ,"Health In Tech, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,827a45d3b9b249ef4735
 HITI,NASDAQ,High Tide Inc. - Common Shares,Stock,True,2026-05-08,,,a3d3f1877fedadf42fc7
@@ -4112,6 +4116,7 @@ PIZ,NASDAQ,Invesco Dorsey Wright Developed Markets Momentum ETF,ETF,True,2026-05
 PKBK,NASDAQ,"Parke Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,711b0441df1369964861
 PKOH,NASDAQ,Park-Ohio Holdings Corp. - Common Stock,Stock,True,2026-05-08,,,4486cfe90a7a7f9ae0b0
 PKW,NASDAQ,Invesco BuyBack Achievers ETF,ETF,True,2026-05-08,,,98c84bec05dcfdfc8c57
+PLA,NASDAQ,GraniteShares Autocallable PLTR ETF,ETF,True,2026-05-19,,,dfdd07c19b723af458ae
 PLAB,NASDAQ,"Photronics, Inc. - Common Stock",Stock,True,2026-05-08,,,388a6e3199ee7b984634
 PLAY,NASDAQ,"Dave & Buster's Entertainment, Inc. - Common Stock",Stock,True,2026-05-08,,,67e02960f4536aea6879
 PLBC,NASDAQ,Plumas Bancorp - Common Stock,Stock,True,2026-05-08,,,cc194dc8dad9e1eb9b1d
@@ -4768,7 +4773,7 @@ SLN,NASDAQ,Silence Therapeutics Plc - American Depository Share,Stock,True,2026-
 SLNG,NASDAQ,"Stabilis Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,e757984118464ad4434a
 SLNH,NASDAQ,"Soluna Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,b453929c2b50930d3523
 SLNHP,NASDAQ,"Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,2d6278450866d7860b86
-SLNO,NASDAQ,"Soleno Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,f882f7bd860167922099
+SLNO,NASDAQ,"Soleno Therapeutics, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-19,Missing from current NASDAQ source snapshot; reason unavailable,f882f7bd860167922099
 SLP,NASDAQ,"Simulations Plus, Inc. - Common Stock",Stock,True,2026-05-08,,,64c1588579aa202f11df
 SLQD,NASDAQ,iShares 0-5 Year Investment Grade Corporate Bond ETF,ETF,True,2026-05-08,,,f0eff4da0072b3af0388
 SLRC,NASDAQ,SLR Investment Corp. - Closed End Fund,Stock,True,2026-05-08,,,7636e68349fd1d73ec36
@@ -7273,7 +7278,7 @@ KEY$L,NYSE,"KeyCorp Depositary Shares each representing a 1/40th ownership inter
 KEYS,NYSE,Keysight Technologies Inc. Common Stock,Stock,True,2026-05-08,,,bf9b7df327bb536db610
 KF,NYSE,"Korea Fund, Inc. (The) New Common Stock",Stock,True,2026-05-08,,,c888e46047daadf979c8
 KFRC,NYSE,"Kforce, Inc. Common Stock",Stock,True,2026-05-08,,,7991816acdf12079cfaa
-KFS,NYSE,"Kingsway Financial Services, Inc. Common Stock (DE)",Stock,True,2026-05-08,,,d58c6c34c2f0375012e4
+KFS,NYSE,"Kingsway Financial Services, Inc. Common Stock (DE)",Stock,False,2026-05-08,2026-05-19,Missing from current NYSE source snapshot; reason unavailable,d58c6c34c2f0375012e4
 KFY,NYSE,Korn Ferry Common Stock,Stock,True,2026-05-08,,,5f5a61f5045e2e68c874
 KGC,NYSE,Kinross Gold Corporation Common Stock,Stock,True,2026-05-08,,,f59f74f7c12922738a97
 KGS,NYSE,"Kodiak Gas Services, Inc. Common Stock",Stock,True,2026-05-08,,,6cf61d0c282a2249b453
@@ -7327,6 +7332,7 @@ KVUE,NYSE,Kenvue Inc. Common Stock,Stock,True,2026-05-08,,,75a62387a3b7972508b4
 KVYO,NYSE,"Klaviyo, Inc. Series A Common Stock",Stock,True,2026-05-08,,,7d28386673210cff87c2
 KW,NYSE,Kennedy-Wilson Holdings Inc. Common Stock,Stock,True,2026-05-08,,,15488de586e07f9a6046
 KWR,NYSE,Quaker Houghton Common Stock,Stock,True,2026-05-08,,,eef52e54adcb26005c2d
+KWY,NYSE,Kingsway Corporation Common Stock,Stock,True,2026-05-19,,,81f82f2ffc5145e22e16
 KYN,NYSE,"Kayne Anderson Energy Infrastructure Fund, Inc.",Stock,True,2026-05-08,,,f1f78b9a7dd5c6e24f89
 L,NYSE,Loews Corporation Common Stock,Stock,True,2026-05-08,,,2aa8ae7034706821a4cd
 LAC,NYSE,Lithium Americas Corp. Common Shares,Stock,True,2026-05-08,,,952952dde5086dd020e7
@@ -8457,6 +8463,7 @@ TXT,NYSE,Textron Inc. Common Stock,Stock,True,2026-05-08,,,d99a144da1b6b07b2758
 TY,NYSE,Tri Continental Corporation Common Stock,Stock,True,2026-05-08,,,f61a19875edcd33a1e74
 TY$,NYSE,Tri Continental Corporation Preferred Stock,Stock,True,2026-05-08,,,5df692e784a27fc39c82
 TYG,NYSE,Tortoise Energy Infrastructure Corporation Common Stock,Stock,True,2026-05-08,,,b1f294a06eb3c5940cc3
+TYG.V,NYSE,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",Stock,True,2026-05-19,,,50de0c5162d8c1766ab2
 TYL,NYSE,"Tyler Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,7be7bb71ae93664f8d25
 U,NYSE,Unity Software Inc. Common Stock,Stock,True,2026-05-08,,,a8e5f9dc47c949f7c57f
 UA,NYSE,"Under Armour, Inc. Class C Common Stock",Stock,True,2026-05-08,,,a6f4e2302cdd14356bb1
@@ -8525,6 +8532,8 @@ VATE,NYSE,INNOVATE Corp. Common Stock,Stock,True,2026-05-08,,,03af1516354fba0754
 VBF,NYSE,Invesco Bond Fund Common Stock,Stock,True,2026-05-08,,,4f6a64c38c821dd4e1d1
 VCV,NYSE,Invesco California Value Municipal Income Trust Common Stock,Stock,True,2026-05-08,,,c2ca4d8ffd23f3726edc
 VCX,NYSE,"Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",Stock,True,2026-05-08,,,142542a0188c13794644
+VECA,NYSE,Vernal Capital Acquisition Corp. Ordinary Shares,Stock,True,2026-05-19,,,e37a79574471848287ab
+VECA.R,NYSE,"Vernal Capital Acquisition Corp. Rights, each right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",Stock,True,2026-05-19,,,47f4a5c86f7597a44f69
 VECA.U,NYSE,"Vernal Capital Acquisition Corp. Units, each consisting of one ordinary share and one right",Stock,True,2026-05-08,,,fe8c0857b26851d81ea5
 VEEV,NYSE,Veeva Systems Inc. Class A Common Stock,Stock,True,2026-05-08,,,65cb4b45bc488d848de0
 VEL,NYSE,"Velocity Financial, Inc. Common Stock",Stock,True,2026-05-08,,,811db5668ea437b0bef6

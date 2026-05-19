@@ -1466,7 +1466,6 @@ NYSE,KEY$L,"KeyCorp Depositary Shares each representing a 1/40th ownership inter
 NYSE,KEYS,Keysight Technologies Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KF,"Korea Fund, Inc. (The) New Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,KFRC,"Kforce, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,KFS,"Kingsway Financial Services, Inc. Common Stock (DE)",Stock,,nasdaq_trader_symbol_directory
 NYSE,KFY,Korn Ferry Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KGC,Kinross Gold Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KGS,"Kodiak Gas Services, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1520,6 +1519,7 @@ NYSE,KVUE,Kenvue Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KVYO,"Klaviyo, Inc. Series A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,KW,Kennedy-Wilson Holdings Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KWR,Quaker Houghton Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,KWY,Kingsway Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",Stock,,nasdaq_trader_symbol_directory
 NYSE,L,Loews Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LAC,Lithium Americas Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2648,6 +2648,7 @@ NYSE,TXT,Textron Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TY,Tri Continental Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TY$,Tri Continental Corporation Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TYG,Tortoise Energy Infrastructure Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,TYG.V,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,TYL,"Tyler Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,U,Unity Software Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,UA,"Under Armour, Inc. Class C Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2716,6 +2717,8 @@ NYSE,VATE,INNOVATE Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VBF,Invesco Bond Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VCV,Invesco California Value Municipal Income Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VCX,"Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",Stock,,nasdaq_trader_symbol_directory
+NYSE,VECA,Vernal Capital Acquisition Corp. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,VECA.R,"Vernal Capital Acquisition Corp. Rights, each right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,VECA.U,"Vernal Capital Acquisition Corp. Units, each consisting of one ordinary share and one right",Stock,,nasdaq_trader_symbol_directory
 NYSE,VEEV,Veeva Systems Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VEL,"Velocity Financial, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
