@@ -257,7 +257,7 @@ NASDAQ,ALXO,ALX Oncology Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbo
 NASDAQ,ALZN,"Alzamend Neuro, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMA,Defiance Daily Target 2X Long AMAT ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AMAL,Amalgamated Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AMAN,Amanat Acquisition Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AMAN,Amanat Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMAT,"Applied Materials, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMBA,"Ambarella, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMBR,Amber International Holding Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -283,6 +283,7 @@ NASDAQ,AMRN,Amarin Corporation plc - American Depositary Shares,Stock,,nasdaq_tr
 NASDAQ,AMRX,"Amneal Pharmaceuticals, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMSC,American Superconductor Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMSF,"AMERISAFE, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AMSS,AMASS Brands Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMST,Amesite Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMTX,"Aemetis, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMUN,abrdn Ultra Short Municipal Income Active ETF,ETF,,nasdaq_trader_symbol_directory
@@ -594,6 +595,7 @@ NASDAQ,BESO,GSR Crypto Core3 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BETR,Better Home & Finance Holding Company - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BETRW,Better Home & Finance Holding Company - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BFC,Bank First Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BFLX,iShares Flexible Equity Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BFRG,"Bullfrog AI Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BFRGW,"Bullfrog AI Holdings, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BFRI,Biofrontera Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1541,6 +1543,7 @@ NASDAQ,EMAT,Evolution Metals & Technologies Corp. - Common Stock,Stock,,nasdaq_t
 NASDAQ,EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMBC,Embecta Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EMCB,WisdomTree Emerging Markets Corporate Bond Fund,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,EMEM,Sophus Capital Emerging Market ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMEQ,Nomura Focused Emerging Markets Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMIF,iShares Emerging Markets Infrastructure ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMIS,Emmis Acquisition Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
@@ -2419,8 +2422,6 @@ NASDAQ,IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF,ETF,,nasdaq_tra
 NASDAQ,IHRT,"iHeartMedia, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,III,"Information Services Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IIIV,"i3 Verticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IINN,Inspira Technologies Oxy B.H.N. Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IINNW,Inspira Technologies Oxy B.H.N. Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IJT,iShares S&P SmallCap 600 Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IKT,"Inhibikase Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ILAG,Intelligent Living Application Group Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3011,7 +3012,6 @@ NASDAQ,MCHX,"Marchex, Inc. - Class B Common Stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,MCRB,"Seres Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MCRI,"Monarch Casino & Resort, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MCTA,Charming Medical Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MCW,"Mister Car Wash, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MDAI,"Spectral AI, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MDAIW,"Spectral AI, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MDB,"MongoDB, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3576,6 +3576,7 @@ NASDAQ,OPPJ,WisdomTree Japan Opportunities Fund,ETF,,nasdaq_trader_symbol_direct
 NASDAQ,OPRA,Opera Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPRT,Oportun Financial Corporation - common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPRX,OptimizeRx Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OPTH,Optimi Health Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPTX,"Syntec Optics Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPTXW,"Syntec Optics Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPTZ,Optimize Strategy Index ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3941,7 +3942,9 @@ NASDAQ,PYXS,"Pyxis Oncology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_di
 NASDAQ,PYZ,Invesco Dorsey Wright Basic Materials Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PZZA,"Papa John's International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QABA,First Trust NASDAQ ABA Community Bank Index Fund,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QADR,QDRO Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QADRU,QDRO Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,QADRW,QDRO Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QALT,SEI DBi Multi-Strategy Alternative ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QAT,iShares MSCI Qatar ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QB,ProShares Nasdaq-100 Dynamic Buffer ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4014,6 +4017,8 @@ NASDAQ,QSIAW,Quantum-Si Incorporated - Warrant,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,QSIX,Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QSML,WisdomTree U.S. SmallCap Quality Growth Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QTEX,QTREX Quantum Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,QTEXW,QTREX Quantum Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QTI,"QT Imaging Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QTOP,iShares Nasdaq Top 30 Stocks ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QTR,Global X NASDAQ 100 Tail Risk ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4037,6 +4042,7 @@ NASDAQ,RAA,SMI 3Fourteen REAL Asset Allocation ETF,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,RAAQ,Real Asset Acquisition Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RAAQU,Real Asset Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RAAQW,Real Asset Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RACC,Research Alliance Corporation III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RADX,Radiopharm Theranostics Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RAIL,"Freightcar America, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RAIN,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4207,7 +4213,9 @@ NASDAQ,RPID,"Rapid Micro Biosystems, Inc. - Class A Common Stock",Stock,,nasdaq_
 NASDAQ,RPRX,Royalty Pharma plc - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RR,Richtech Robotics Inc. - Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RRBI,"Red River Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RREV,RRE Ventures Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RREVU,RRE Ventures Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RREVW,RRE Ventures Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RRGB,"Red Robin Gourmet Burgers, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RRR,"Red Rock Resorts, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RSSS,"Research Solutions, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
