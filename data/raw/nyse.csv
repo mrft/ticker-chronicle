@@ -381,8 +381,6 @@ NYSE,BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 20
 NYSE,BIRK,Birkenstock Holding plc Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,BIT,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,BJ,"BJ's Wholesale Club Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,BK,The Bank of New York Mellon Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,BK$K,"The Bank Of New York Mellon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BKD,Brookdale Senior Living Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BKE,"Buckle, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BKH,Black Hills Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -420,6 +418,8 @@ NYSE,BNJ,Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes,Stock,,nasda
 NYSE,BNL,"Broadstone Net Lease, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,BNT,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,BNY,The Bank of New York Mellon Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,BNY$K,"The Bank Of New York Mellon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BOBS,"Bob's Discount Furniture, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BOC,Boston Omaha Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BOE,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
@@ -1497,7 +1497,9 @@ NYSE,KOF,"Coca Cola Femsa S.A.B. de C.V. American Depositary Shares, each repres
 NYSE,KOP,Koppers Holdings Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KORE,"KORE Group Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,KOS,Kosmos Energy Ltd. Common Shares (DE),Stock,,nasdaq_trader_symbol_directory
+NYSE,KPET,KPET Ultra Paceline Corporation Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,KPET.U,"KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one-sixth of one Warrant",Stock,,nasdaq_trader_symbol_directory
+NYSE,KPET.W,"KPET Ultra Paceline Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,KR,Kroger Company (The) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KRC,Kilroy Realty Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KREF,KKR Real Estate Finance Trust Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2649,7 +2651,7 @@ NYSE,TXT,Textron Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TY,Tri Continental Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TY$,Tri Continental Corporation Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TYG,Tortoise Energy Infrastructure Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,TYG.V,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
+NYSE,TYG.R,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 NYSE,TYL,"Tyler Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,U,Unity Software Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,UA,"Under Armour, Inc. Class C Common Stock",Stock,,nasdaq_trader_symbol_directory

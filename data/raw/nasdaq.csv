@@ -340,6 +340,7 @@ NASDAQ,APPN,Appian Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbo
 NASDAQ,APPS,"Digital Turbine, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APPX,Tradr 2X Long APP Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,APRE,"Aprea Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,APURU,Aperture AC - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APVO,Aptevo Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APWC,"Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APXT,Apex Treasury Corporation - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
@@ -1103,6 +1104,7 @@ NASDAQ,CNTY,"Century Casinos, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,CNVS,Cineverse Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNXC,Concentrix Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNXN,"PC Connection, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CNXU,Conexeu Sciences Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,COAG,"Hemab Therapeutics Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,COCH,"Envoy Medical, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,COCHW,"Envoy Medical, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
@@ -1551,6 +1553,7 @@ NASDAQ,EMISR,Emmis Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,EML,Eastern Company (The) - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EMPD,Empery Digital Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EMPG,Empro Group Inc. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EMSC,Sophus Capital Emerging Market Small Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMXC,iShares MSCI Emerging Markets ex China ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMXF,iShares ESG Advanced MSCI EM ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ENDW,Cambria Endowment Style ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1684,6 +1687,7 @@ NASDAQ,FBNC,First Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBOT,Fidelity Disruptive Automation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FBRX,"Forte Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBYD,"Falcon's Beyond Global, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FBYDP,"Falcon's Beyond Global, Inc. - 11% Series B Cumulative Convertible Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBYDW,"Falcon's Beyond Global, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBYY,GraniteShares YieldBOOST META ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FCA,First Trust China AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
@@ -2009,6 +2013,7 @@ NASDAQ,GH,"Guardant Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_dir
 NASDAQ,GHRS,GH Research PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIBO,GIBO Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIBOW,GIBO Holdings Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GIEQ,Goldman Sachs Data Enhanced International Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GIFT,"Giftify, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIG,GigCapital7 Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIGGU,GigCapital7 Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -3504,6 +3509,7 @@ NASDAQ,OCGN,"Ocugen, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCS,Oculis Holding AG - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCSAW,Oculis Holding AG - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCSL,Oaktree Specialty Lending Corporation - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OCTVV,Octave Intelligence plc - Class B Ordinary Shares When Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCUL,"Ocular Therapeutix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ODD,ODDITY Tech Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ODDS,Pacer BlueStar Digital Entertainment ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3520,6 +3526,7 @@ NASDAQ,OFS,OFS Capital Corporation - Closed End Fund,Stock,,nasdaq_trader_symbol
 NASDAQ,OFSSH,OFS Capital Corporation - 4.95% Notes due 2028,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OFSSO,OFS Capital Corporation - 7.50% Notes due 2028,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OGI,Organigram Global Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OHACU,Oceanhawk Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OIM,OneIM Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OIMAU,OneIM Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OIMAW,OneIM Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -3877,7 +3884,6 @@ NASDAQ,PRPO,"Precipio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_director
 NASDAQ,PRQR,ProQR Therapeutics N.V. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PRSO,Peraso Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PRTA,Prothena Corporation plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PRTC,PureTech Health plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PRTH,"Priority Technology Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PRTS,"CarParts.com, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PRVA,"Privia Health Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4506,7 +4512,6 @@ NASDAQ,SOLT,2x Solana ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SOLZ,Solana ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SONM,"DNA X, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SONO,"Sonos, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SOPA,Society Pass Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SOPH,SOPHiA GENETICS SA - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SORA,AsiaStrategy - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SORN,Soren Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory

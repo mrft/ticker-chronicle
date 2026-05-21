@@ -667,6 +667,7 @@ APPN,NASDAQ,Appian Corporation - Class A Common Stock,Stock,True,2026-05-08,,,44
 APPS,NASDAQ,"Digital Turbine, Inc. - Common Stock",Stock,True,2026-05-08,,,14e3d094d33215b2b35c
 APPX,NASDAQ,Tradr 2X Long APP Daily ETF,ETF,True,2026-05-08,,,6a2ea73b3847e252d8a6
 APRE,NASDAQ,"Aprea Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,eead2589a3f86891c7f0
+APURU,NASDAQ,Aperture AC - Units,Stock,True,2026-05-21,,,47d76d2b7d8a395bd32a
 APVO,NASDAQ,Aptevo Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,48a4b8799da2f9b25daa
 APWC,NASDAQ,"Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share",Stock,True,2026-05-08,,,8bf253478afaefef6ab9
 APXT,NASDAQ,Apex Treasury Corporation - Class A Ordinary Share,Stock,True,2026-05-08,,,7d4e4215349b4176d6ad
@@ -1436,6 +1437,7 @@ CNTY,NASDAQ,"Century Casinos, Inc. - Common Stock",Stock,True,2026-05-08,,,07363
 CNVS,NASDAQ,Cineverse Corp. - Class A Common Stock,Stock,True,2026-05-08,,,fb0157bcacbc5467a254
 CNXC,NASDAQ,Concentrix Corporation - Common Stock,Stock,True,2026-05-08,,,dbf13e9af8b139bc0c87
 CNXN,NASDAQ,"PC Connection, Inc. - Common Stock",Stock,True,2026-05-08,,,8eb554c5d68203653937
+CNXU,NASDAQ,Conexeu Sciences Inc. - Common Stock,Stock,True,2026-05-21,,,58246aed48cfb0113365
 COAG,NASDAQ,"Hemab Therapeutics Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,70428bc719bb44685b35
 COCH,NASDAQ,"Envoy Medical, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,0bb20b6aa12fe61078f7
 COCHW,NASDAQ,"Envoy Medical, Inc. - Warrant",Stock,True,2026-05-08,,,794f77012170c74c124a
@@ -1889,6 +1891,7 @@ EMISR,NASDAQ,Emmis Acquisition Corp. - Rights,Stock,True,2026-05-08,,,27bdbdf4f5
 EML,NASDAQ,Eastern Company (The) - Common Stock,Stock,True,2026-05-08,,,9c6248a4ccfb3d512af5
 EMPD,NASDAQ,Empery Digital Inc. - Common stock,Stock,True,2026-05-08,,,cba590d0fbaa67c2930e
 EMPG,NASDAQ,Empro Group Inc. - Ordinary shares,Stock,True,2026-05-08,,,38166f95e1b98475fb57
+EMSC,NASDAQ,Sophus Capital Emerging Market Small Cap ETF,ETF,True,2026-05-21,,,ed39604cd00b0fb99a78
 EMXC,NASDAQ,iShares MSCI Emerging Markets ex China ETF,ETF,True,2026-05-08,,,7ffb0eb01c7cb36e003d
 EMXF,NASDAQ,iShares ESG Advanced MSCI EM ETF,ETF,True,2026-05-08,,,7027bdba1c9f745a040c
 ENDW,NASDAQ,Cambria Endowment Style ETF,ETF,True,2026-05-08,,,072c0e24e153926fbe0c
@@ -2023,6 +2026,7 @@ FBNC,NASDAQ,First Bancorp - Common Stock,Stock,True,2026-05-08,,,591e34ad0504e08
 FBOT,NASDAQ,Fidelity Disruptive Automation ETF,ETF,True,2026-05-08,,,15fc67254b3cbcb2a986
 FBRX,NASDAQ,"Forte Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,f9c86116b8570e9bebf5
 FBYD,NASDAQ,"Falcon's Beyond Global, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,b1e9610ba1b8e2b74ea9
+FBYDP,NASDAQ,"Falcon's Beyond Global, Inc. - 11% Series B Cumulative Convertible Preferred Stock",Stock,True,2026-05-21,,,b3d25daf23e98cc2d232
 FBYDW,NASDAQ,"Falcon's Beyond Global, Inc. - Warrants",Stock,True,2026-05-08,,,81431322ae27addd1041
 FBYY,NASDAQ,GraniteShares YieldBOOST META ETF,ETF,True,2026-05-08,,,76e8bc599a0427e49117
 FCA,NASDAQ,First Trust China AlphaDEX Fund,ETF,True,2026-05-08,,,c0b2f437127da00328ce
@@ -2349,6 +2353,7 @@ GH,NASDAQ,"Guardant Health, Inc. - Common Stock",Stock,True,2026-05-08,,,4df093e
 GHRS,NASDAQ,GH Research PLC - Ordinary Shares,Stock,True,2026-05-08,,,f9b5f4c887cde7f71857
 GIBO,NASDAQ,GIBO Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,addc71aa8694c7eb91df
 GIBOW,NASDAQ,GIBO Holdings Limited - Warrants,Stock,True,2026-05-08,,,7e1c23beb711175408b2
+GIEQ,NASDAQ,Goldman Sachs Data Enhanced International Equity ETF,ETF,True,2026-05-21,,,3ed56fd14aac061a31d3
 GIFT,NASDAQ,"Giftify, Inc. - Common Stock",Stock,True,2026-05-08,,,162562ed181be05aaac3
 GIG,NASDAQ,GigCapital7 Corp. - Class A Ordinary Share,Stock,True,2026-05-08,,,c6b78f6e4052c72eea1a
 GIGGU,NASDAQ,GigCapital7 Corp. - Unit,Stock,True,2026-05-08,,,cc409f76a672e54be103
@@ -3850,6 +3855,7 @@ OCGN,NASDAQ,"Ocugen, Inc. - Common Stock",Stock,True,2026-05-08,,,88d80fd6549401
 OCS,NASDAQ,Oculis Holding AG - Ordinary shares,Stock,True,2026-05-08,,,7e58c421064f6e89fb6a
 OCSAW,NASDAQ,Oculis Holding AG - Warrants,Stock,True,2026-05-08,,,6405cc9c61d6fe6f30d2
 OCSL,NASDAQ,Oaktree Specialty Lending Corporation - Closed End Fund,Stock,True,2026-05-08,,,d8aba94821d05bbdefca
+OCTVV,NASDAQ,Octave Intelligence plc - Class B Ordinary Shares When Issued,Stock,True,2026-05-21,,,843130e9fe656ab11d48
 OCUL,NASDAQ,"Ocular Therapeutix, Inc. - Common Stock",Stock,True,2026-05-08,,,9ffda6cbb027ea1d5fcd
 ODD,NASDAQ,ODDITY Tech Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,c70e8718800a11a1f0ca
 ODDS,NASDAQ,Pacer BlueStar Digital Entertainment ETF,ETF,True,2026-05-08,,,fcd8c970e36f208ebcd5
@@ -3866,6 +3872,7 @@ OFS,NASDAQ,OFS Capital Corporation - Closed End Fund,Stock,True,2026-05-08,,,3f0
 OFSSH,NASDAQ,OFS Capital Corporation - 4.95% Notes due 2028,Stock,True,2026-05-08,,,53487de7d8071e3f5973
 OFSSO,NASDAQ,OFS Capital Corporation - 7.50% Notes due 2028,Stock,True,2026-05-08,,,77adf3a0a917bb2e05f8
 OGI,NASDAQ,Organigram Global Inc. - Common Shares,Stock,True,2026-05-08,,,293f1eba7b79d93cc96c
+OHACU,NASDAQ,Oceanhawk Acquisition Corp. - Units,Stock,True,2026-05-21,,,cb2dacd54b871d13767a
 OIM,NASDAQ,OneIM Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,400d7c7f09d4b947f89a
 OIMAU,NASDAQ,OneIM Acquisition Corp. - Units,Stock,True,2026-05-08,,,47a3a95c6abd3c6dd09f
 OIMAW,NASDAQ,OneIM Acquisition Corp. - Warrant,Stock,True,2026-05-08,,,443dafea75b7ad73986a
@@ -4223,7 +4230,7 @@ PRPO,NASDAQ,"Precipio, Inc. - Common Stock",Stock,True,2026-05-08,,,52b3cb8c01ef
 PRQR,NASDAQ,ProQR Therapeutics N.V. - Ordinary Shares,Stock,True,2026-05-08,,,c5a02e5c7a2e4ff951ce
 PRSO,NASDAQ,Peraso Inc. - Common Stock,Stock,True,2026-05-08,,,d93618a04867a52dcf67
 PRTA,NASDAQ,Prothena Corporation plc - Ordinary Shares,Stock,True,2026-05-08,,,e1b76fbadd905cbcafbd
-PRTC,NASDAQ,PureTech Health plc - American Depositary Shares,Stock,True,2026-05-08,,,0b338b6453199002c187
+PRTC,NASDAQ,PureTech Health plc - American Depositary Shares,Stock,False,2026-05-08,2026-05-21,Missing from current NASDAQ source snapshot; reason unavailable,0b338b6453199002c187
 PRTH,NASDAQ,"Priority Technology Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,51aa54706aeac7c33afa
 PRTS,NASDAQ,"CarParts.com, Inc. - Common Stock",Stock,True,2026-05-08,,,04e514486c46f88e2df2
 PRVA,NASDAQ,"Privia Health Group, Inc. - Common Stock",Stock,True,2026-05-08,,,7033fd19dbe11ac3b46d
@@ -4856,7 +4863,7 @@ SOLT,NASDAQ,2x Solana ETF,ETF,True,2026-05-08,,,476eeb627ab3ce8a5f82
 SOLZ,NASDAQ,Solana ETF,ETF,True,2026-05-08,,,7d46174bef8036806406
 SONM,NASDAQ,"DNA X, Inc. - Common Stock",Stock,True,2026-05-08,,,812d34e75d8551122964
 SONO,NASDAQ,"Sonos, Inc. - Common Stock",Stock,True,2026-05-08,,,92bbd502a2809c05394b
-SOPA,NASDAQ,Society Pass Incorporated - Common Stock,Stock,True,2026-05-08,,,2d3da945db86ec4fcb42
+SOPA,NASDAQ,Society Pass Incorporated - Common Stock,Stock,False,2026-05-08,2026-05-21,Missing from current NASDAQ source snapshot; reason unavailable,2d3da945db86ec4fcb42
 SOPH,NASDAQ,SOPHiA GENETICS SA - Ordinary Shares,Stock,True,2026-05-08,,,6f0eda4dbcbd2970b966
 SORA,NASDAQ,AsiaStrategy - Ordinary Shares,Stock,True,2026-05-08,,,0839491f1ca7dfa1b83e
 SORN,NASDAQ,Soren Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,49de15ebfb931f530e0e
@@ -6200,8 +6207,8 @@ BIPJ,NYSE,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 20
 BIRK,NYSE,Birkenstock Holding plc Ordinary Shares,Stock,True,2026-05-08,,,b33498f978ee7c51caf3
 BIT,NYSE,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,1dd22542af8203889cff
 BJ,NYSE,"BJ's Wholesale Club Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,25fc4b2b3b76a6068dd2
-BK,NYSE,The Bank of New York Mellon Corporation Common Stock,Stock,True,2026-05-08,,,a111e114e42a04a612d7
-BK$K,NYSE,"The Bank Of New York Mellon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,c815185487ce40d2b45b
+BK,NYSE,The Bank of New York Mellon Corporation Common Stock,Stock,False,2026-05-08,2026-05-21,Missing from current NYSE source snapshot; reason unavailable,a111e114e42a04a612d7
+BK$K,NYSE,"The Bank Of New York Mellon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",Stock,False,2026-05-08,2026-05-21,Missing from current NYSE source snapshot; reason unavailable,c815185487ce40d2b45b
 BKD,NYSE,Brookdale Senior Living Inc. Common Stock,Stock,True,2026-05-08,,,f53111667ebd147d742a
 BKE,NYSE,"Buckle, Inc. (The) Common Stock",Stock,True,2026-05-08,,,9e088e306c5b4d83eb0e
 BKH,NYSE,Black Hills Corporation Common Stock,Stock,True,2026-05-08,,,cc278015f185d85920fe
@@ -6239,6 +6246,8 @@ BNJ,NYSE,Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes,Stock,True,2
 BNL,NYSE,"Broadstone Net Lease, Inc. Common Stock",Stock,True,2026-05-08,,,462ff163f15fae8105fe
 BNS,NYSE,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,Stock,True,2026-05-08,,,58b919e7f8f85c20bc0a
 BNT,NYSE,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares,Stock,True,2026-05-08,,,1241b1da6f05e7c8d959
+BNY,NYSE,The Bank of New York Mellon Corporation Common Stock,Stock,True,2026-05-21,,,a111e114e42a04a612d7
+BNY$K,NYSE,"The Bank Of New York Mellon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",Stock,True,2026-05-21,,,c815185487ce40d2b45b
 BOBS,NYSE,"Bob's Discount Furniture, Inc. Common Stock",Stock,True,2026-05-08,,,c728a4dc786888dd0e9e
 BOC,NYSE,Boston Omaha Corporation Class A Common Stock,Stock,True,2026-05-08,,,1a93099c18a89e5f6a74
 BOE,NYSE,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,fe4011efe60e08c018e5
@@ -7322,7 +7331,9 @@ KOF,NYSE,"Coca Cola Femsa S.A.B. de C.V. American Depositary Shares, each repres
 KOP,NYSE,Koppers Holdings Inc. Common Stock,Stock,True,2026-05-08,,,62402a959a52d1851352
 KORE,NYSE,"KORE Group Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,1b65072c012ae72d9bdf
 KOS,NYSE,Kosmos Energy Ltd. Common Shares (DE),Stock,True,2026-05-08,,,c77dfb51a4b2cf639267
+KPET,NYSE,KPET Ultra Paceline Corporation Class A Ordinary Shares,Stock,True,2026-05-21,,,7e895beacc47b89814a0
 KPET.U,NYSE,"KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one-sixth of one Warrant",Stock,True,2026-05-08,,,182fcf7b7d3fae767c60
+KPET.W,NYSE,"KPET Ultra Paceline Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,True,2026-05-21,,,d9ac0bf2fbcfc5918e86
 KR,NYSE,Kroger Company (The) Common Stock,Stock,True,2026-05-08,,,83610aa6ccb97b93fbe2
 KRC,NYSE,Kilroy Realty Corporation Common Stock,Stock,True,2026-05-08,,,4932df144a8428c80648
 KREF,NYSE,KKR Real Estate Finance Trust Inc. Common Stock,Stock,True,2026-05-08,,,10a04862da2218e4af86
@@ -8476,7 +8487,8 @@ TXT,NYSE,Textron Inc. Common Stock,Stock,True,2026-05-08,,,d99a144da1b6b07b2758
 TY,NYSE,Tri Continental Corporation Common Stock,Stock,True,2026-05-08,,,f61a19875edcd33a1e74
 TY$,NYSE,Tri Continental Corporation Preferred Stock,Stock,True,2026-05-08,,,5df692e784a27fc39c82
 TYG,NYSE,Tortoise Energy Infrastructure Corporation Common Stock,Stock,True,2026-05-08,,,b1f294a06eb3c5940cc3
-TYG.V,NYSE,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",Stock,True,2026-05-19,,,50de0c5162d8c1766ab2
+TYG.R,NYSE,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",Stock,True,2026-05-21,,,588fc29f26dd160d099e
+TYG.V,NYSE,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",Stock,False,2026-05-19,2026-05-21,Missing from current NYSE source snapshot; reason unavailable,50de0c5162d8c1766ab2
 TYL,NYSE,"Tyler Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,7be7bb71ae93664f8d25
 U,NYSE,Unity Software Inc. Common Stock,Stock,True,2026-05-08,,,a8e5f9dc47c949f7c57f
 UA,NYSE,"Under Armour, Inc. Class C Common Stock",Stock,True,2026-05-08,,,a6f4e2302cdd14356bb1
