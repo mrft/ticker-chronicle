@@ -73,6 +73,7 @@ NYSE,AGM$E,"Federal Agricultural Mortgage Corporation 5.750% Non-Cumulative Pref
 NYSE,AGM$F,"Federal Agricultural Mortgage Corporation 5.250% Non-Cumulative Preferred Stock, Series F",Stock,,nasdaq_trader_symbol_directory
 NYSE,AGM$G,"Federal Agricultural Mortgage Corporation 4.875% Non-Cumulative Preferred Stock, Series G",Stock,,nasdaq_trader_symbol_directory
 NYSE,AGM$H,"Federal Agricultural Mortgage Corporation 6.500% Non-Cumulative Preferred Stock, Series H",Stock,,nasdaq_trader_symbol_directory
+NYSE,AGM$I,"Federal Agricultural Mortgage Corporation 6.875% Non-Cumulative Preferred Stock, Series I",Stock,,nasdaq_trader_symbol_directory
 NYSE,AGM.A,Federal Agricultural Mortgage Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AGO,Assured Guaranty Ltd. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AGRO,Adecoagro S.A. Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -848,11 +849,11 @@ NYSE,EBF,"Ennis, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,EBS,Emergent BioSolutions Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,EC,Ecopetrol S.A. American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,ECAT,BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,ECC,Eagle Point Credit Company Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,ECC$D,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,ECCC,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,Stock,,nasdaq_trader_symbol_directory
-NYSE,ECCU,Eagle Point Credit Company Inc. 7.75% Notes due 2030,Stock,,nasdaq_trader_symbol_directory
-NYSE,ECCV,Eagle Point Credit Company Inc. 5.375% Notes due 2029,Stock,,nasdaq_trader_symbol_directory
+NYSE,ECC,Eagle Point Credit Company Common Share of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+NYSE,ECC$D,Eagle Point Credit Company 6.75% Series D Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,ECCC,Eagle Point Credit Company 6.50% Series C Term Preferred Stock due 2031,Stock,,nasdaq_trader_symbol_directory
+NYSE,ECCU,Eagle Point Credit Company 7.75% Notes due 2030,Stock,,nasdaq_trader_symbol_directory
+NYSE,ECCV,Eagle Point Credit Company 5.375% Notes due 2029,Stock,,nasdaq_trader_symbol_directory
 NYSE,ECG,"Everus Construction Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ECL,Ecolab Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ECO,Okeanis Eco Tankers Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2291,7 +2292,10 @@ NYSE,SAC,Safeguard Acquisition Corp. Class A Ordinary Shares,Stock,,nasdaq_trade
 NYSE,SAC.U,"Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
 NYSE,SAC.W,"Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,SAFE,Safehold Inc. New Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,SAGU,Shreya Acquisition Group Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,SAGU.R,"Shreya Acquisition Group Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,SAGU.U,"Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one-fourth of one Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
+NYSE,SAGU.W,"Shreya Acquisition Group Redeemable warrants, entitling the holder to purchase one Class A Ordinary Share at $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,SAH,"Sonic Automotive, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SAJ,Saratoga Investment Corp 8.00% Notes due 2027,Stock,,nasdaq_trader_symbol_directory
 NYSE,SAM,"Boston Beer Company, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory

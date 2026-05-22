@@ -743,6 +743,7 @@ NASDAQ,BREZU,Breeze Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,BRFH,Barfresh Food Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRHY,iShares High Yield Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRID,Bridgford Foods Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BRKHU,Burtech Acquisition Corp II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRKR,Bruker Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRKRP,"Bruker Corporation - 6.375% Mandatory Convertible Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRKU,Direxion Daily BRKB Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1371,7 +1372,7 @@ NASDAQ,DMIIR,Drugs Made In America Acquisition II Corp. - Right,Stock,,nasdaq_tr
 NASDAQ,DMIIU,Drugs Made In America Acquisition II Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DMLP,"Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DMRA,"Damora Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DMRC,"Digimarc Parent, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,DMRC,Digimarc Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DMXF,iShares ESG Advanced MSCI EAFE ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DNLI,Denali Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DNMX,Dynamix Corporation III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1939,6 +1940,7 @@ NASDAQ,FWONA,Liberty Media Corporation - Series A Liberty Formula One Common Sto
 NASDAQ,FWONK,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWRD,Forward Air Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWRG,"First Watch Restaurant Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FXACU,FortuneX Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FXNC,First National Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FYC,First Trust Small Cap Growth AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FYT,First Trust Small Cap Value AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
@@ -3730,6 +3732,7 @@ NASDAQ,PDYN,Palladyne AI Corp. - Common stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,PDYNW,Palladyne AI Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PEBK,"Peoples Bancorp of North Carolina, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PEBO,Peoples Bancorp Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PECEU,Peace Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PECO,"Phillips Edison & Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PEGA,Pegasystems Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PENG,"Penguin Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory

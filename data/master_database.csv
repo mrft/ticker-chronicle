@@ -1073,6 +1073,7 @@ BREZU,NASDAQ,Breeze Acquisition Corp. II - Units,Stock,True,2026-05-13,,,9b83aa7
 BRFH,NASDAQ,Barfresh Food Group Inc. - Common Stock,Stock,True,2026-05-08,,,5dcae4590d4352fceaca
 BRHY,NASDAQ,iShares High Yield Active ETF,ETF,True,2026-05-08,,,d3a9db4c8cf7bd74c925
 BRID,NASDAQ,Bridgford Foods Corporation - Common Stock,Stock,True,2026-05-08,,,164dc1dd2dc28867c726
+BRKHU,NASDAQ,Burtech Acquisition Corp II - Units,Stock,True,2026-05-22,,,3ccfd79f7a76979d0bc7
 BRKR,NASDAQ,Bruker Corporation - Common Stock,Stock,True,2026-05-08,,,0ad5f16e654ea90ffa9b
 BRKRP,NASDAQ,"Bruker Corporation - 6.375% Mandatory Convertible Preferred Stock, Series A",Stock,True,2026-05-08,,,a1e2d93d126e3f901a33
 BRKU,NASDAQ,Direxion Daily BRKB Bull 2X ETF,ETF,True,2026-05-08,,,05b2270ceafcb581f3f2
@@ -1708,7 +1709,8 @@ DMIIU,NASDAQ,Drugs Made In America Acquisition II Corp. - Unit,Stock,True,2026-0
 DMLP,NASDAQ,"Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests",Stock,True,2026-05-08,,,2fea1f07948c67d0e736
 DMRA,NASDAQ,"Damora Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,9f8213488a221b8015b0
 DMRC,NASDAQ,Digimarc Corporation - Common Stock,Stock,False,2026-05-08,2026-05-19,Listing metadata changed,859b1def7b478e028dcc
-DMRC,NASDAQ,"Digimarc Parent, Inc. - Common Stock",Stock,True,2026-05-19,,,2df5ecb7ee1b75099f80
+DMRC,NASDAQ,"Digimarc Parent, Inc. - Common Stock",Stock,False,2026-05-19,2026-05-22,Listing metadata changed,2df5ecb7ee1b75099f80
+DMRC,NASDAQ,Digimarc Corporation - Common Stock,Stock,True,2026-05-22,,,859b1def7b478e028dcc
 DMXF,NASDAQ,iShares ESG Advanced MSCI EAFE ETF,ETF,True,2026-05-08,,,1a49b83beef9bb79949d
 DNLI,NASDAQ,Denali Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,a92bfcd30c6acc17244f
 DNMX,NASDAQ,Dynamix Corporation III - Class A Ordinary Shares,Stock,True,2026-05-08,,,30ff84d551317d31264f
@@ -2279,6 +2281,7 @@ FWONA,NASDAQ,Liberty Media Corporation - Series A Liberty Formula One Common Sto
 FWONK,NASDAQ,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Stock,True,2026-05-08,,,2af5e5652f41b29d4c7c
 FWRD,NASDAQ,Forward Air Corporation - Common Stock,Stock,True,2026-05-08,,,ffc690ada07cd0b55a0b
 FWRG,NASDAQ,"First Watch Restaurant Group, Inc. - Common Stock",Stock,True,2026-05-08,,,32814793b313881d3a01
+FXACU,NASDAQ,FortuneX Acquisition Corporation - Units,Stock,True,2026-05-22,,,1a9c3ac8e1a1e9f817e8
 FXNC,NASDAQ,First National Corporation - Common Stock,Stock,True,2026-05-08,,,72f5e85f69292f603ef2
 FYC,NASDAQ,First Trust Small Cap Growth AlphaDEX Fund,ETF,True,2026-05-08,,,872835fbc7dc41008e7b
 FYT,NASDAQ,First Trust Small Cap Value AlphaDEX Fund,ETF,True,2026-05-08,,,cf2ad17b35a41148f5b9
@@ -4076,6 +4079,7 @@ PDYN,NASDAQ,Palladyne AI Corp. - Common stock,Stock,True,2026-05-08,,,79f318ac99
 PDYNW,NASDAQ,Palladyne AI Corp. - Warrant,Stock,True,2026-05-08,,,532b7112abd336154336
 PEBK,NASDAQ,"Peoples Bancorp of North Carolina, Inc. - Common Stock",Stock,True,2026-05-08,,,94cd005226d1843bd620
 PEBO,NASDAQ,Peoples Bancorp Inc. - Common Stock,Stock,True,2026-05-08,,,63028230b2e2bae59075
+PECEU,NASDAQ,Peace Acquisition Corp - Units,Stock,True,2026-05-22,,,23f57e9e22ec41743616
 PECO,NASDAQ,"Phillips Edison & Company, Inc. - Common Stock",Stock,True,2026-05-08,,,1b59d13c21175e0f8db0
 PEGA,NASDAQ,Pegasystems Inc. - Common Stock,Stock,True,2026-05-08,,,b0f6a1058277b1704ccd
 PENG,NASDAQ,"Penguin Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,2f08d417bd2c9ae49875
@@ -5899,6 +5903,7 @@ AGM$E,NYSE,"Federal Agricultural Mortgage Corporation 5.750% Non-Cumulative Pref
 AGM$F,NYSE,"Federal Agricultural Mortgage Corporation 5.250% Non-Cumulative Preferred Stock, Series F",Stock,True,2026-05-08,,,40861f06fd6c217f009d
 AGM$G,NYSE,"Federal Agricultural Mortgage Corporation 4.875% Non-Cumulative Preferred Stock, Series G",Stock,True,2026-05-08,,,7c148aabdf2f8dacf7d4
 AGM$H,NYSE,"Federal Agricultural Mortgage Corporation 6.500% Non-Cumulative Preferred Stock, Series H",Stock,True,2026-05-08,,,55a483e816e8e3e391d0
+AGM$I,NYSE,"Federal Agricultural Mortgage Corporation 6.875% Non-Cumulative Preferred Stock, Series I",Stock,True,2026-05-22,,,b3bf222e602ba1ba3ade
 AGM.A,NYSE,Federal Agricultural Mortgage Corporation Common Stock,Stock,True,2026-05-08,,,0dc8e6e41d1b8bda6a18
 AGO,NYSE,Assured Guaranty Ltd. Common Stock,Stock,True,2026-05-08,,,e18f307aa5a6dc93052b
 AGRO,NYSE,Adecoagro S.A. Common Shares,Stock,True,2026-05-08,,,a073533afac94faadffc
@@ -6678,11 +6683,16 @@ EBF,NYSE,"Ennis, Inc. Common Stock",Stock,True,2026-05-08,,,c4e1292f989b88a3e0fa
 EBS,NYSE,Emergent BioSolutions Inc. Common Stock,Stock,True,2026-05-08,,,c76dd4a1718c4a998f5c
 EC,NYSE,Ecopetrol S.A. American Depositary Shares,Stock,True,2026-05-08,,,c997ad07d3a8183feea0
 ECAT,NYSE,BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,35769626a256ad6c9198
-ECC,NYSE,Eagle Point Credit Company Inc. Common Stock,Stock,True,2026-05-08,,,19ae55b8f7b062e0f287
-ECC$D,NYSE,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,Stock,True,2026-05-08,,,93731025919a3762a9e5
-ECCC,NYSE,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,Stock,True,2026-05-08,,,a017141dd9cd50c32a38
-ECCU,NYSE,Eagle Point Credit Company Inc. 7.75% Notes due 2030,Stock,True,2026-05-08,,,81af6ed58ad8d0167067
-ECCV,NYSE,Eagle Point Credit Company Inc. 5.375% Notes due 2029,Stock,True,2026-05-08,,,7c1963e20bad0c60ec1e
+ECC,NYSE,Eagle Point Credit Company Inc. Common Stock,Stock,False,2026-05-08,2026-05-22,Listing metadata changed,19ae55b8f7b062e0f287
+ECC,NYSE,Eagle Point Credit Company Common Share of Beneficial Interest,Stock,True,2026-05-22,,,76b64240595bee46bf17
+ECC$D,NYSE,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,Stock,False,2026-05-08,2026-05-22,Listing metadata changed,93731025919a3762a9e5
+ECC$D,NYSE,Eagle Point Credit Company 6.75% Series D Preferred Stock,Stock,True,2026-05-22,,,ca67840166288bfe4115
+ECCC,NYSE,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,Stock,False,2026-05-08,2026-05-22,Listing metadata changed,a017141dd9cd50c32a38
+ECCC,NYSE,Eagle Point Credit Company 6.50% Series C Term Preferred Stock due 2031,Stock,True,2026-05-22,,,eb37da45b7df2f2fd8e0
+ECCU,NYSE,Eagle Point Credit Company Inc. 7.75% Notes due 2030,Stock,False,2026-05-08,2026-05-22,Listing metadata changed,81af6ed58ad8d0167067
+ECCU,NYSE,Eagle Point Credit Company 7.75% Notes due 2030,Stock,True,2026-05-22,,,12bc41b7a1eb5bfd1649
+ECCV,NYSE,Eagle Point Credit Company Inc. 5.375% Notes due 2029,Stock,False,2026-05-08,2026-05-22,Listing metadata changed,7c1963e20bad0c60ec1e
+ECCV,NYSE,Eagle Point Credit Company 5.375% Notes due 2029,Stock,True,2026-05-22,,,ef9701b9e083f5d09e68
 ECG,NYSE,"Everus Construction Group, Inc. Common Stock",Stock,True,2026-05-08,,,b87ccbc5b0169185aeb5
 ECL,NYSE,Ecolab Inc. Common Stock,Stock,True,2026-05-08,,,749b84370162331d4bad
 ECO,NYSE,Okeanis Eco Tankers Corp. Common Stock,Stock,True,2026-05-08,,,5ea022a6dde598fe33d6
@@ -8126,7 +8136,10 @@ SAC,NYSE,Safeguard Acquisition Corp. Class A Ordinary Shares,Stock,True,2026-05-
 SAC.U,NYSE,"Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,True,2026-05-08,,,996cfc7de440f123db87
 SAC.W,NYSE,"Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,8ea817f3f519d762b7c6
 SAFE,NYSE,Safehold Inc. New Common Stock,Stock,True,2026-05-08,,,8b837d093db4ba0ffcfa
+SAGU,NYSE,Shreya Acquisition Group Class A Ordinary Shares,Stock,True,2026-05-22,,,5117aa1a9e65ad106bec
+SAGU.R,NYSE,"Shreya Acquisition Group Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",Stock,True,2026-05-22,,,3e13b8f8518440ba7320
 SAGU.U,NYSE,"Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one-fourth of one Class A Ordinary Share",Stock,True,2026-05-08,,,b187d3280f06333e766a
+SAGU.W,NYSE,"Shreya Acquisition Group Redeemable warrants, entitling the holder to purchase one Class A Ordinary Share at $11.50 per share",Stock,True,2026-05-22,,,f0ff185af69c2914cbc9
 SAH,NYSE,"Sonic Automotive, Inc. Common Stock",Stock,True,2026-05-08,,,d8ae45872290ae162106
 SAJ,NYSE,Saratoga Investment Corp 8.00% Notes due 2027,Stock,True,2026-05-08,,,306ebce8f6bc12c8a174
 SAM,NYSE,"Boston Beer Company, Inc. (The) Common Stock",Stock,True,2026-05-08,,,18e3993f053cf3e6669e
