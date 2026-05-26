@@ -1136,9 +1136,9 @@ BTCT,NASDAQ,BTC Digital Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,385f125e4
 BTDR,NASDAQ,Bitdeer Technologies Group - Ordinary Shares,Stock,True,2026-05-08,,,6f2e7ae268a47b7a719e
 BTF,NASDAQ,CoinShares Bitcoin and Ether ETF,ETF,True,2026-05-08,,,fabbbc8a83a5c56f8414
 BTGD,NASDAQ,STKd 100% Bitcoin & 100% Gold ETF,ETF,True,2026-05-08,,,ca427d040bec8b3295d8
-BTM,NASDAQ,Bitcoin Depot Inc. - Class A Common Stock,Stock,True,2026-05-08,,,9aa318784b7c35f877a5
+BTM,NASDAQ,Bitcoin Depot Inc. - Class A Common Stock,Stock,False,2026-05-08,2026-05-26,Other delisting reason: Details unavailable (source: FMP Delisted API),9aa318784b7c35f877a5
 BTMD,NASDAQ,Biote Corp. - Class A common stock,Stock,True,2026-05-08,,,a4a4e2bd1dcac492685b
-BTMWW,NASDAQ,Bitcoin Depot Inc. - Warrant,Stock,True,2026-05-08,,,251e39ae6c47ea44ade4
+BTMWW,NASDAQ,Bitcoin Depot Inc. - Warrant,Stock,False,2026-05-08,2026-05-26,Missing from current NASDAQ source snapshot; reason unavailable,251e39ae6c47ea44ade4
 BTOC,NASDAQ,Armlogi Holding Corp. - common stock,Stock,True,2026-05-08,,,4fe3892b64589f4de7a6
 BTOG,NASDAQ,Bit Origin Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,085c10e725ad2e50027e
 BTQ,NASDAQ,BTQ Technologies Corp. - Common Stock,Stock,True,2026-05-08,,,74a11ebbf3deff8cd118
@@ -1582,7 +1582,8 @@ CUBWU,NASDAQ,Lionheart Holdings - Unit,Stock,True,2026-05-08,,,be3e18800ec28518c
 CUBWW,NASDAQ,Lionheart Holdings - Warrant,Stock,True,2026-05-08,,,031161f78b463ca19098
 CUE,NASDAQ,"Cue Biopharma, Inc. - Common Stock",Stock,True,2026-05-08,,,54aa910acfa6f671483a
 CULP,NASDAQ,"Culp, Inc. - Common Shares",Stock,True,2026-05-08,,,676ecf6d2653a93f39f9
-CUPR,NASDAQ,Cuprina Holdings (Cayman) Limited - Ordinary shares,Stock,True,2026-05-08,,,377a826b6b7f58a774e4
+CUPR,NASDAQ,Cuprina Holdings (Cayman) Limited - Ordinary shares,Stock,False,2026-05-08,2026-05-26,Listing metadata changed,377a826b6b7f58a774e4
+CUPR,NASDAQ,Cuprina Holdings (Cayman) Limited - Class A Ordinary shares,Stock,True,2026-05-26,,,9b6a6828e255a97f8995
 CURI,NASDAQ,CuriosityStream Inc. - Class A Common Stock,Stock,True,2026-05-08,,,f3cb6f1efaeb34fe47d9
 CURR,NASDAQ,Currenc Group Inc. - Ordinary Shares,Stock,True,2026-05-08,,,2bca661180f521dd2553
 CURX,NASDAQ,Curanex Pharmaceuticals Inc - Common Stock,Stock,True,2026-05-08,,,d184553abb1ee787affb
@@ -2358,9 +2359,9 @@ GIBO,NASDAQ,GIBO Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-0
 GIBOW,NASDAQ,GIBO Holdings Limited - Warrants,Stock,True,2026-05-08,,,7e1c23beb711175408b2
 GIEQ,NASDAQ,Goldman Sachs Data Enhanced International Equity ETF,ETF,True,2026-05-21,,,3ed56fd14aac061a31d3
 GIFT,NASDAQ,"Giftify, Inc. - Common Stock",Stock,True,2026-05-08,,,162562ed181be05aaac3
-GIG,NASDAQ,GigCapital7 Corp. - Class A Ordinary Share,Stock,True,2026-05-08,,,c6b78f6e4052c72eea1a
-GIGGU,NASDAQ,GigCapital7 Corp. - Unit,Stock,True,2026-05-08,,,cc409f76a672e54be103
-GIGGW,NASDAQ,GigCapital7 Corp. - Warrant,Stock,True,2026-05-08,,,7d4e7962c27257e03111
+GIG,NASDAQ,GigCapital7 Corp. - Class A Ordinary Share,Stock,False,2026-05-08,2026-05-26,Other delisting reason: Details unavailable (source: FMP Delisted API),c6b78f6e4052c72eea1a
+GIGGU,NASDAQ,GigCapital7 Corp. - Unit,Stock,False,2026-05-08,2026-05-26,Missing from current NASDAQ source snapshot; reason unavailable,cc409f76a672e54be103
+GIGGW,NASDAQ,GigCapital7 Corp. - Warrant,Stock,False,2026-05-08,2026-05-26,Missing from current NASDAQ source snapshot; reason unavailable,7d4e7962c27257e03111
 GIGM,NASDAQ,GigaMedia Limited - Ordinary Shares,Stock,True,2026-05-08,,,cd9f1e041e2fc6499fcd
 GIII,NASDAQ,"G-III Apparel Group, LTD. - Common Stock",Stock,True,2026-05-08,,,3dc5d7a3be0c90e8aea8
 GILD,NASDAQ,"Gilead Sciences, Inc. - Common Stock",Stock,True,2026-05-08,,,7acda0507ae4b6bfd31e
@@ -2386,8 +2387,10 @@ GLDI,NASDAQ,"ETRACS Gold Shares Covered Call ETNs due February 2, 2033",ETF,True
 GLDY,NASDAQ,Defiance Gold Enhanced Options Income ETF,ETF,True,2026-05-08,,,5650a3381ae9fb324174
 GLE,NASDAQ,Global Engine Group Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,0220776322c2e936099c
 GLGG,NASDAQ,Leverage Shares 2X Long GLXY Daily ETF,ETF,True,2026-05-08,,,baf423957a7aeb8f1c29
-GLIBA,NASDAQ,"GCI Liberty, Inc. - Series A GCI Group Common Stock",Stock,True,2026-05-08,,,6ef9a819ac0b81ca8bb9
-GLIBK,NASDAQ,"GCI Liberty, Inc. - Series C GCI Group Common Stock",Stock,True,2026-05-08,,,12de032a0f9ed8c43ca0
+GLIBA,NASDAQ,"GCI Liberty, Inc. - Series A GCI Group Common Stock",Stock,False,2026-05-08,2026-05-26,Listing metadata changed,6ef9a819ac0b81ca8bb9
+GLIBA,NASDAQ,Liberty Capital Corporation - Series A GCI Group Common Stock,Stock,True,2026-05-26,,,6d0c9152fe8f9fd53fc2
+GLIBK,NASDAQ,"GCI Liberty, Inc. - Series C GCI Group Common Stock",Stock,False,2026-05-08,2026-05-26,Listing metadata changed,12de032a0f9ed8c43ca0
+GLIBK,NASDAQ,Liberty Capital Corporation - Series C GCI Group Common Stock,Stock,True,2026-05-26,,,d1eaef8e581fef5b70db
 GLMD,NASDAQ,Galmed Pharmaceuticals Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,8e6abd13192a8c6d6a83
 GLND,NASDAQ,Greenland Energy Company - Common Stock,Stock,True,2026-05-08,,,e37c77b5bdb86b0ec809
 GLNDW,NASDAQ,Greenland Energy Company - Warrant,Stock,True,2026-05-08,,,c0d5af63cc9c24497bf1
@@ -2553,6 +2556,8 @@ HCSG,NASDAQ,"Healthcare Services Group, Inc. - Common Stock",Stock,True,2026-05-
 HCTI,NASDAQ,"Healthcare Triangle, Inc. - Common Stock",Stock,True,2026-05-08,,,f1de0af2eeb7f576980e
 HCWB,NASDAQ,HCW Biologics Inc. - Common Stock,Stock,True,2026-05-08,,,aebda93b7ba57f7cb8c9
 HDL,NASDAQ,SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares,Stock,True,2026-05-08,,,21b805c701ed53caa57d
+HDRN,NASDAQ,"Hadron Energy, Inc. - Common Stock",Stock,True,2026-05-26,,,058cffc9b364378b7001
+HDRNW,NASDAQ,"Hadron Energy, Inc. - Warrant",Stock,True,2026-05-26,,,c8b5ec5a9b0a8b414e89
 HDSN,NASDAQ,"Hudson Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,d27bb667ec606eb79aaa
 HEAL,NASDAQ,Global X HealthTech ETF,ETF,True,2026-05-08,,,bf35a83a7ee5675ea41f
 HECO,NASDAQ,State Street Galaxy Hedged Digital Asset Ecosystem ETF,ETF,True,2026-05-08,,,93bc10aa3231e17392de
@@ -3750,7 +3755,7 @@ NRIX,NASDAQ,"Nurix Therapeutics, Inc. - Common stock",Stock,True,2026-05-08,,,d3
 NRSN,NASDAQ,NeuroSense Therapeutics Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,ebee6c16241020a809dc
 NRSNW,NASDAQ,NeuroSense Therapeutics Ltd. - Warrant,Stock,True,2026-05-08,,,28a73cf232ff5d18360d
 NRXP,NASDAQ,"NRX Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,04c83a8b17d58fe65a7c
-NRXPW,NASDAQ,"NRX Pharmaceuticals, Inc. - Warrant",Stock,True,2026-05-08,,,4a945452581760b73e90
+NRXPW,NASDAQ,"NRX Pharmaceuticals, Inc. - Warrant",Stock,False,2026-05-08,2026-05-26,Missing from current NASDAQ source snapshot; reason unavailable,4a945452581760b73e90
 NSI,NASDAQ,National Security Emerging Markets Index ETF,ETF,True,2026-05-08,,,0b0aacc0e892aaf3aa79
 NSIT,NASDAQ,"Insight Enterprises, Inc. - Common Stock",Stock,True,2026-05-08,,,4fd2da27e0d69b151b5b
 NSPR,NASDAQ,InspireMD Inc. - Common Stock,Stock,True,2026-05-08,,,75960896065ec77f276b
@@ -5379,7 +5384,7 @@ USEG,NASDAQ,U.S. Energy Corp. - Common Stock,Stock,True,2026-05-08,,,d0cb5caf0a4
 USFI,NASDAQ,BrandywineGLOBAL - U.S. Fixed Income ETF,ETF,True,2026-05-08,,,46ac036d7bc267e3a1ad
 USGG,NASDAQ,Leverage Shares 2X Long USAR Daily ETF,ETF,True,2026-05-08,,,b5583e6133e1f922882a
 USGO,NASDAQ,U.S. GoldMining Inc. - Common stock,Stock,True,2026-05-08,,,094524067cda98939e51
-USGOW,NASDAQ,U.S. GoldMining Inc. - Warrant,Stock,True,2026-05-08,,,dfeefd98a114b1ebb946
+USGOW,NASDAQ,U.S. GoldMining Inc. - Warrant,Stock,False,2026-05-08,2026-05-26,Missing from current NASDAQ source snapshot; reason unavailable,dfeefd98a114b1ebb946
 USIG,NASDAQ,iShares Broad USD Investment Grade Corporate Bond ETF,ETF,True,2026-05-08,,,eeacdc36e68b8da0da8d
 USIN,NASDAQ,WisdomTree 7-10 Year Laddered Treasury Fund,ETF,True,2026-05-08,,,c320fd02bbc756ad3aa6
 USIO,NASDAQ,"Usio, Inc. - Common Stock",Stock,True,2026-05-08,,,26990de09ef9331866d3
@@ -6841,7 +6846,7 @@ FCPT,NYSE,"Four Corners Property Trust, Inc. Common Stock",Stock,True,2026-05-08
 FCRS,NYSE,FutureCrest Acquisition Corp. Class A Ordinary Shares,Stock,True,2026-05-08,,,9b9f6abacfe3abbddc05
 FCRS.U,NYSE,"FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",Stock,True,2026-05-08,,,99c8024149b76069f5bf
 FCRS.W,NYSE,"FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,True,2026-05-08,,,ffc695abdb8a044634e3
-FCRX,NYSE,"Crescent Capital BDC, Inc. 5.00% Notes due 2026",Stock,True,2026-05-08,,,4bf99cc6cd26b70560b4
+FCRX,NYSE,"Crescent Capital BDC, Inc. 5.00% Notes due 2026",Stock,False,2026-05-08,2026-05-26,Missing from current NYSE source snapshot; reason unavailable,4bf99cc6cd26b70560b4
 FCT,NYSE,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,8ccf42a9cc7bd7c9bae0
 FCX,NYSE,"Freeport-McMoRan, Inc. Common Stock",Stock,True,2026-05-08,,,d6189ae9e5949d1000fe
 FDP,NYSE,"Fresh Del Monte Produce, Inc. Common Stock",Stock,True,2026-05-08,,,1fe6b843d48be486e9ce

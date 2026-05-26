@@ -806,9 +806,7 @@ NASDAQ,BTCT,BTC Digital Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,BTDR,Bitdeer Technologies Group - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTF,CoinShares Bitcoin and Ether ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BTGD,STKd 100% Bitcoin & 100% Gold ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,BTM,Bitcoin Depot Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTMD,Biote Corp. - Class A common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BTMWW,Bitcoin Depot Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTOC,Armlogi Holding Corp. - common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTOG,Bit Origin Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTQ,BTQ Technologies Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1246,7 +1244,7 @@ NASDAQ,CUBWU,Lionheart Holdings - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CUBWW,Lionheart Holdings - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CUE,"Cue Biopharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CULP,"Culp, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CUPR,Cuprina Holdings (Cayman) Limited - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CUPR,Cuprina Holdings (Cayman) Limited - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CURI,CuriosityStream Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CURR,Currenc Group Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CURX,Curanex Pharmaceuticals Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2017,9 +2015,6 @@ NASDAQ,GIBO,GIBO Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader
 NASDAQ,GIBOW,GIBO Holdings Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIEQ,Goldman Sachs Data Enhanced International Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GIFT,"Giftify, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GIG,GigCapital7 Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GIGGU,GigCapital7 Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GIGGW,GigCapital7 Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIGM,GigaMedia Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIII,"G-III Apparel Group, LTD. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GILD,"Gilead Sciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2045,8 +2040,8 @@ NASDAQ,GLDI,"ETRACS Gold Shares Covered Call ETNs due February 2, 2033",ETF,,nas
 NASDAQ,GLDY,Defiance Gold Enhanced Options Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GLE,Global Engine Group Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GLGG,Leverage Shares 2X Long GLXY Daily ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,GLIBA,"GCI Liberty, Inc. - Series A GCI Group Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GLIBK,"GCI Liberty, Inc. - Series C GCI Group Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GLIBA,Liberty Capital Corporation - Series A GCI Group Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GLIBK,Liberty Capital Corporation - Series C GCI Group Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GLMD,Galmed Pharmaceuticals Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GLND,Greenland Energy Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GLNDW,Greenland Energy Company - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -2212,6 +2207,8 @@ NASDAQ,HCSG,"Healthcare Services Group, Inc. - Common Stock",Stock,,nasdaq_trade
 NASDAQ,HCTI,"Healthcare Triangle, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HCWB,HCW Biologics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HDL,SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HDRN,"Hadron Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HDRNW,"Hadron Energy, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HDSN,"Hudson Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HEAL,Global X HealthTech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HECO,State Street Galaxy Hedged Digital Asset Ecosystem ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3404,7 +3401,6 @@ NASDAQ,NRIX,"Nurix Therapeutics, Inc. - Common stock",Stock,,nasdaq_trader_symbo
 NASDAQ,NRSN,NeuroSense Therapeutics Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NRSNW,NeuroSense Therapeutics Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NRXP,"NRX Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NRXPW,"NRX Pharmaceuticals, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSI,National Security Emerging Markets Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NSIT,"Insight Enterprises, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSPR,InspireMD Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5025,7 +5021,6 @@ NASDAQ,USEG,U.S. Energy Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,USFI,BrandywineGLOBAL - U.S. Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USGG,Leverage Shares 2X Long USAR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USGO,U.S. GoldMining Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,USGOW,U.S. GoldMining Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,USIG,iShares Broad USD Investment Grade Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USIN,WisdomTree 7-10 Year Laddered Treasury Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USIO,"Usio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
