@@ -460,7 +460,7 @@ AFRIW,NASDAQ,Forafric Global PLC - Warrants,Stock,True,2026-05-08,,,4bf00dc41370
 AFRM,NASDAQ,"Affirm Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,ad421e53b0290d6109fc
 AFSC,NASDAQ,abrdn Focused U.S. Small Cap Active ETF,ETF,True,2026-05-08,,,8d3896e7abaae58bacf4
 AFYA,NASDAQ,Afya Limited - Class A Common Shares,Stock,True,2026-05-08,,,6f1a0810b385ca364579
-AGAE,NASDAQ,Allied Gaming & Entertainment Inc. - Common Stock,Stock,True,2026-05-08,,,a10491ded58cfa0ec233
+AGAE,NASDAQ,Allied Gaming & Entertainment Inc. - Common Stock,Stock,False,2026-05-08,2026-05-27,Missing from current NASDAQ source snapshot; reason unavailable,a10491ded58cfa0ec233
 AGCC,NASDAQ,Agencia Comercial Spirits Ltd - Class A Ordinary Share,Stock,True,2026-05-08,,,f98f77ec9b9f38ebc96b
 AGEM,NASDAQ,abrdn Emerging Markets Dividend Active ETF,ETF,True,2026-05-08,,,931e73c409b40aefdafb
 AGEN,NASDAQ,Agenus Inc. - Common Stock,Stock,True,2026-05-08,,,3bb30b4e6113d345285a
@@ -491,6 +491,7 @@ AHMA,NASDAQ,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,
 AIA,NASDAQ,iShares Asia 50 ETF,ETF,True,2026-05-08,,,56950b70451097607f26
 AIAI,NASDAQ,AIAI Holdings Corporation - Class A common stock,Stock,True,2026-05-14,,,8f1bac2325eb03d31d9c
 AIDX,NASDAQ,"20/20 Biolabs, Inc. - Common Stock",Stock,True,2026-05-08,,,9491a96d323fb1612e9f
+AIFA,NASDAQ,"All In FutureTech Alliance, Inc. - Common Stock",Stock,True,2026-05-27,,,cf089b2a41ee4787dcc6
 AIFC,NASDAQ,AI Financial Corporation - Common Stock,Stock,True,2026-05-08,,,d814890cabc376e8f386
 AIFD,NASDAQ,TCW Artificial Intelligence ETF,ETF,True,2026-05-08,,,f665226938380dcab43f
 AIFF,NASDAQ,"Firefly Neuroscience, Inc. - Common Stock",Stock,True,2026-05-08,,,95a0ee0cf52f7917a50a
@@ -1232,6 +1233,9 @@ CBRS,NASDAQ,Cerebras Systems Inc. - Class A Common Stock,Stock,True,2026-05-14,,
 CBSH,NASDAQ,"Commerce Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,7a009f2ba3802a35bd5c
 CBUS,NASDAQ,"Cibus, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,8b78bd868cabeb68bd58
 CCAP,NASDAQ,"Crescent Capital BDC, Inc. - Common Stock",Stock,True,2026-05-08,,,bd9e0cea9af517f233a5
+CCAQ,NASDAQ,Collective Acquisition Corp. - Class A ordinary shares,Stock,True,2026-05-27,,,bf350091badd57d3827f
+CCAQU,NASDAQ,Collective Acquisition Corp. - Units,Stock,True,2026-05-27,,,329d169eee019f6d2102
+CCAQW,NASDAQ,Collective Acquisition Corp. - Warrants,Stock,True,2026-05-27,,,ae0960b681faa19310c0
 CCB,NASDAQ,Coastal Financial Corporation - Common Stock,Stock,True,2026-05-08,,,157e2de2c5cac8048990
 CCBG,NASDAQ,Capital City Bank Group - Common Stock,Stock,True,2026-05-08,,,eb84738d7d5d86e74464
 CCC,NASDAQ,CCC Intelligent Solutions Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,b5c49f2d4fd4ddf9a1b3
@@ -2882,9 +2886,9 @@ IPGP,NASDAQ,IPG Photonics Corporation - Common Stock,Stock,True,2026-05-08,,,3b7
 IPHA,NASDAQ,Innate Pharma S.A. - American Depositary Shares,Stock,True,2026-05-08,,,69ded971d9f2f9e78c97
 IPKW,NASDAQ,Invesco International BuyBack Achievers ETF,ETF,True,2026-05-08,,,d380f4842181497c331a
 IPM,NASDAQ,Intelligent Protection Management Corp. - Common Stock,Stock,True,2026-05-08,,,ffa276cbe442058a8773
-IPOD,NASDAQ,Dune Acquisition Corporation II - Class A ordinary shares,Stock,True,2026-05-08,,,1829ac493f4e3ea452f6
-IPODU,NASDAQ,Dune Acquisition Corporation II - Units,Stock,True,2026-05-08,,,b3c2d950e7de8f2bd9a8
-IPODW,NASDAQ,Dune Acquisition Corporation II - Warrants,Stock,True,2026-05-08,,,d832c2082ea0547476bb
+IPOD,NASDAQ,Dune Acquisition Corporation II - Class A ordinary shares,Stock,False,2026-05-08,2026-05-27,Missing from current NASDAQ source snapshot; reason unavailable,1829ac493f4e3ea452f6
+IPODU,NASDAQ,Dune Acquisition Corporation II - Units,Stock,False,2026-05-08,2026-05-27,Missing from current NASDAQ source snapshot; reason unavailable,b3c2d950e7de8f2bd9a8
+IPODW,NASDAQ,Dune Acquisition Corporation II - Warrants,Stock,False,2026-05-08,2026-05-27,Missing from current NASDAQ source snapshot; reason unavailable,d832c2082ea0547476bb
 IPSC,NASDAQ,"Century Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,9c2abf30fffb038aafd9
 IPST,NASDAQ,"IP Strategy Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,76497c7f2ec9eaa93a4d
 IPW,NASDAQ,iPower Inc. - Common Stock,Stock,True,2026-05-08,,,fba4095bfab51fb64412
@@ -3507,6 +3511,7 @@ MPLT,NASDAQ,"MapLight Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,
 MPWR,NASDAQ,"Monolithic Power Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,eecfebaa59f23fa289a3
 MQ,NASDAQ,"Marqeta, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,55b900ccbe0a70585280
 MQQQ,NASDAQ,Tradr 2X Long Innovation 100 Monthly ETF,ETF,True,2026-05-08,,,11f934e8b213f61e1b8e
+MRA,NASDAQ,GraniteShares Autocallable MARA ETF,ETF,True,2026-05-27,,,03d3219a27a2ce87f247
 MRAL,NASDAQ,GraniteShares 2x Long MARA Daily ETF,ETF,True,2026-05-08,,,f110c3d2fcf794b8bd24
 MRAM,NASDAQ,"Everspin Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,ed30995ab7a9a052b68c
 MRBK,NASDAQ,Meridian Corporation - Common Stock,Stock,True,2026-05-08,,,b08aeecb7ffeff002be9
@@ -4293,6 +4298,7 @@ PUSA,NASDAQ,Aureus Greenway Holdings Inc. - Common Stock,Stock,True,2026-05-18,,
 PVLA,NASDAQ,"Palvella Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,1865a13c7d3d3953dce5
 PWP,NASDAQ,Perella Weinberg Partners - Class A Common Stock,Stock,True,2026-05-08,,,9a00eb986c019c598917
 PWRD,NASDAQ,TCW Transform Systems ETF,ETF,True,2026-05-08,,,5c59d2bb5ecd355110ee
+PWRL,NASDAQ,Powerlaw Corp. - Common Stock,Stock,True,2026-05-27,,,90efd7a1a2396714e7c3
 PXI,NASDAQ,Invesco Dorsey Wright Energy Momentum ETF,ETF,True,2026-05-08,,,d4f8114d713519fb8558
 PXLW,NASDAQ,"Pixelworks, Inc. - Common Stock",Stock,True,2026-05-08,,,e650e68184bfa5d47431
 PXS,NASDAQ,Pyxis Tankers Inc. - Common Stock,Stock,True,2026-05-08,,,35325904372cbcfe4f38
@@ -4658,6 +4664,7 @@ SBLK,NASDAQ,Star Bulk Carriers Corp. - Common Shares,Stock,True,2026-05-08,,,1ee
 SBRA,NASDAQ,"Sabra Health Care REIT, Inc. - Common Stock",Stock,True,2026-05-08,,,938c136776a62379bf9e
 SBU,NASDAQ,Leverage Shares 2X Long SBUX Daily ETF,ETF,True,2026-05-08,,,937c43ce3d7fd2504850
 SBUX,NASDAQ,Starbucks Corporation - Common Stock,Stock,True,2026-05-08,,,98523903274f5e10fa6c
+SCA,NASDAQ,GraniteShares Autocallable SMCI ETF,ETF,True,2026-05-27,,,cda6d513de6070035960
 SCAG,NASDAQ,Scage Future - American Depositary Shares,Stock,True,2026-05-08,,,37f410f7b977c73dcf57
 SCAGW,NASDAQ,Scage Future - Warrants,Stock,True,2026-05-08,,,075d6678fe2bc92ea18d
 SCDS,NASDAQ,JPMorgan Fundamental Data Science Small Core ETF,ETF,True,2026-05-08,,,312b4bece8ace8204cd2
@@ -6281,6 +6288,7 @@ BRIE,NYSE,MFS Blended Research International Equity ETF,ETF,True,2026-05-08,,,51
 BRK.A,NYSE,Berkshire Hathaway Inc. Common Stock,Stock,True,2026-05-08,,,757cff666a36f2046d47
 BRK.B,NYSE,Berkshire Hathaway Inc. New Common Stock,Stock,True,2026-05-08,,,6b994e2308a1c275aafd
 BRO,NYSE,"Brown & Brown, Inc. Common Stock",Stock,True,2026-05-08,,,a4563e7f5f2fa98e2ca4
+BROL,NYSE,Baron Risk Optimized Large Cap ETF,ETF,True,2026-05-27,,,cd143a4055ca350c358b
 BROS,NYSE,Dutch Bros Inc. Class A Common Stock,Stock,True,2026-05-08,,,e1513afdc96f505dfb4e
 BRSL,NYSE,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares",Stock,True,2026-05-08,,,126808571e25f14fa78c
 BRSP,NYSE,"BrightSpire Capital, Inc. Class A Common Stock",Stock,True,2026-05-08,,,da0f9c841bc69ab0654a
@@ -6612,6 +6620,7 @@ DFH,NYSE,"Dream Finders Homes, Inc. Class A Common Stock",Stock,True,2026-05-08,
 DFIN,NYSE,"Donnelley Financial Solutions, Inc. Common Stock",Stock,True,2026-05-08,,,2ba1e517fa9571748412
 DFP,NYSE,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,Stock,True,2026-05-08,,,780f55abbaba0e416f5d
 DG,NYSE,Dollar General Corporation Common Stock,Stock,True,2026-05-08,,,0cb24bd0995d44a70f35
+DGAC.U,NYSE,"Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right",Stock,True,2026-05-27,,,61a41365e2be1cc92bec
 DGX,NYSE,Quest Diagnostics Incorporated Common Stock,Stock,True,2026-05-08,,,1c18c94bc0115a127e7c
 DHF,NYSE,BNY Mellon High Yield Strategies Fund Common Stock,Stock,True,2026-05-08,,,1c89db16eb8f2a6a2bae
 DHI,NYSE,"D.R. Horton, Inc. Common Stock",Stock,True,2026-05-08,,,6ee73dd54cab7339c48d
@@ -6852,6 +6861,8 @@ FCX,NYSE,"Freeport-McMoRan, Inc. Common Stock",Stock,True,2026-05-08,,,d6189ae9e
 FDP,NYSE,"Fresh Del Monte Produce, Inc. Common Stock",Stock,True,2026-05-08,,,1fe6b843d48be486e9ce
 FDS,NYSE,FactSet Research Systems Inc. Common Stock,Stock,True,2026-05-08,,,9d437874495addbe2111
 FDX,NYSE,FedEx Corporation Common Stock,Stock,True,2026-05-08,,,ddd74ed017a12c537d45
+FDX.V,NYSE,FedEx Corporation Common Stock When-Issued,Stock,True,2026-05-27,,,dc78e0bf9ec4baaebf73
+FDXF.V,NYSE,"FedEx Freight Holding Company, Inc. Common Stock When-Issued",Stock,True,2026-05-27,,,c5983a91233d143677fa
 FE,NYSE,FirstEnergy Corp. Common Stock,Stock,True,2026-05-08,,,69a7db9c8b698a7b2253
 FEDU,NYSE,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares",Stock,True,2026-05-08,,,1370c025f185fc68761f
 FEGE,NYSE,First Eagle Global Equity ETF,ETF,True,2026-05-08,,,1fba8389982246d34b5a
@@ -7680,7 +7691,8 @@ NIQ,NYSE,NIQ Global Intelligence plc Ordinary Shares,Stock,True,2026-05-08,,,8a8
 NJR,NYSE,NewJersey Resources Corporation Common Stock,Stock,True,2026-05-08,,,b758b5db8b4520ddf1bd
 NKE,NYSE,"Nike, Inc. Common Stock",Stock,True,2026-05-08,,,e1e4d022c5461bba5439
 NKX,NYSE,Nuveen California AMT-Free Quality Municipal Income Fund,Stock,True,2026-05-08,,,1f74add301e7e413d20a
-NL,NYSE,"NL Industries, Inc. Common Stock",Stock,True,2026-05-08,,,dcbb1798cbe466e060c3
+NL,NYSE,"NL Industries, Inc. Common Stock",Stock,False,2026-05-08,2026-05-27,Listing metadata changed,dcbb1798cbe466e060c3
+NL,NYSE,"NLI Holdings, Inc. Common Stock",Stock,True,2026-05-27,,,9d3677c5189a1614f6b8
 NLOP,NYSE,Net Lease Office Properties Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,7f8bebdb4111da242de5
 NLY,NYSE,Annaly Capital Management Inc. Common Stock,Stock,True,2026-05-08,,,b3ba9569f54f86134f87
 NLY$F,NYSE,Annaly Capital Management Inc 6.95% Series F,Stock,True,2026-05-08,,,49a4d175f1cee7fcd1d4
@@ -7751,6 +7763,7 @@ NVGS,NYSE,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),Stock,True,
 NVO,NYSE,Novo Nordisk A/S Common Stock,Stock,True,2026-05-08,,,b273bd1be9776d6d5725
 NVR,NYSE,"NVR, Inc. Common Stock",Stock,True,2026-05-08,,,72baa1c23bae6243c2b2
 NVRI,NYSE,Enviri Corporation Common Stock,Stock,True,2026-05-08,,,d20cb5db864935486c4e
+NVRI.V,NYSE,Enviri Corporation Common Stock When-Issued,Stock,True,2026-05-27,,,aaa23b7dbcc35c12d113
 NVS,NYSE,Novartis AG Common Stock,Stock,True,2026-05-08,,,947cf5e0deb3934b3a67
 NVST,NYSE,Envista Holdings Corporation Common Stock,Stock,True,2026-05-08,,,5b836671a156cce6ee28
 NVT,NYSE,nVent Electric plc Ordinary Shares,Stock,True,2026-05-08,,,46d3d0de134055349902
@@ -8616,7 +8629,7 @@ VOYA$B,NYSE,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th 
 VOYG,NYSE,"Voyager Technologies, Inc. Class A Common Stock",Stock,True,2026-05-08,,,044d2a85dfcc3ab58d0e
 VPG,NYSE,"Vishay Precision Group, Inc. Common Stock",Stock,True,2026-05-08,,,30073dbd9fd98fd7e40d
 VPV,NYSE,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),Stock,True,2026-05-08,,,2e67237c6f0ac2adca15
-VRE,NYSE,"Veris Residential, Inc. Common Stock",Stock,True,2026-05-08,,,2295282cac31c5eec0d8
+VRE,NYSE,"Veris Residential, Inc. Common Stock",Stock,False,2026-05-08,2026-05-27,Missing from current NYSE source snapshot; reason unavailable,2295282cac31c5eec0d8
 VRT,NYSE,"Vertiv Holdings, LLC Class A Common Stock",Stock,True,2026-05-08,,,288e57a8adfa15fff6ee
 VRTS,NYSE,"Virtus Investment Partners, Inc. Common Stock",Stock,True,2026-05-08,,,a87415fb99a48d15a07b
 VSCO,NYSE,Victorias Secret & Co. Common Stock,Stock,True,2026-05-08,,,8bf78898a98b157fd61a

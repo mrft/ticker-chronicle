@@ -139,7 +139,6 @@ NASDAQ,AFRIW,Forafric Global PLC - Warrants,Stock,,nasdaq_trader_symbol_director
 NASDAQ,AFRM,"Affirm Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AFSC,abrdn Focused U.S. Small Cap Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AFYA,Afya Limited - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AGAE,Allied Gaming & Entertainment Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGCC,Agencia Comercial Spirits Ltd - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGEM,abrdn Emerging Markets Dividend Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AGEN,Agenus Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -169,6 +168,7 @@ NASDAQ,AHMA,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,
 NASDAQ,AIA,iShares Asia 50 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AIAI,AIAI Holdings Corporation - Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIDX,"20/20 Biolabs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AIFA,"All In FutureTech Alliance, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIFC,AI Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIFD,TCW Artificial Intelligence ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AIFF,"Firefly Neuroscience, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -899,6 +899,9 @@ NASDAQ,CBRS,Cerebras Systems Inc. - Class A Common Stock,Stock,,nasdaq_trader_sy
 NASDAQ,CBSH,"Commerce Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CBUS,"Cibus, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCAP,"Crescent Capital BDC, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CCAQ,Collective Acquisition Corp. - Class A ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CCAQU,Collective Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CCAQW,Collective Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCB,Coastal Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCBG,Capital City Bank Group - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCC,CCC Intelligent Solutions Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2531,9 +2534,6 @@ NASDAQ,IPGP,IPG Photonics Corporation - Common Stock,Stock,,nasdaq_trader_symbol
 NASDAQ,IPHA,Innate Pharma S.A. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPKW,Invesco International BuyBack Achievers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IPM,Intelligent Protection Management Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IPOD,Dune Acquisition Corporation II - Class A ordinary shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IPODU,Dune Acquisition Corporation II - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IPODW,Dune Acquisition Corporation II - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPSC,"Century Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPST,"IP Strategy Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPW,iPower Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3153,6 +3153,7 @@ NASDAQ,MPLT,"MapLight Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_sy
 NASDAQ,MPWR,"Monolithic Power Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MQ,"Marqeta, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MQQQ,Tradr 2X Long Innovation 100 Monthly ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,MRA,GraniteShares Autocallable MARA ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MRAL,GraniteShares 2x Long MARA Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MRAM,"Everspin Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MRBK,Meridian Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3936,6 +3937,7 @@ NASDAQ,PUSA,Aureus Greenway Holdings Inc. - Common Stock,Stock,,nasdaq_trader_sy
 NASDAQ,PVLA,"Palvella Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PWP,Perella Weinberg Partners - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PWRD,TCW Transform Systems ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,PWRL,Powerlaw Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PXI,Invesco Dorsey Wright Energy Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PXLW,"Pixelworks, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PXS,Pyxis Tankers Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4299,6 +4301,7 @@ NASDAQ,SBLK,Star Bulk Carriers Corp. - Common Shares,Stock,,nasdaq_trader_symbol
 NASDAQ,SBRA,"Sabra Health Care REIT, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SBU,Leverage Shares 2X Long SBUX Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SBUX,Starbucks Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SCA,GraniteShares Autocallable SMCI ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SCAG,Scage Future - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCAGW,Scage Future - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCDS,JPMorgan Fundamental Data Science Small Core ETF,ETF,,nasdaq_trader_symbol_directory

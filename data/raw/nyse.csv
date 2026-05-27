@@ -444,6 +444,7 @@ NYSE,BRIE,MFS Blended Research International Equity ETF,ETF,,nasdaq_trader_symbo
 NYSE,BRK.A,Berkshire Hathaway Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BRK.B,Berkshire Hathaway Inc. New Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BRO,"Brown & Brown, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,BROL,Baron Risk Optimized Large Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,BROS,Dutch Bros Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,BRSP,"BrightSpire Capital, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -773,6 +774,7 @@ NYSE,DFH,"Dream Finders Homes, Inc. Class A Common Stock",Stock,,nasdaq_trader_s
 NYSE,DFIN,"Donnelley Financial Solutions, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DG,Dollar General Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,DGAC.U,"Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right",Stock,,nasdaq_trader_symbol_directory
 NYSE,DGX,Quest Diagnostics Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DHF,BNY Mellon High Yield Strategies Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DHI,"D.R. Horton, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1006,6 +1008,8 @@ NYSE,FCX,"Freeport-McMoRan, Inc. Common Stock",Stock,,nasdaq_trader_symbol_direc
 NYSE,FDP,"Fresh Del Monte Produce, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FDS,FactSet Research Systems Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FDX,FedEx Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,FDX.V,FedEx Corporation Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
+NYSE,FDXF.V,"FedEx Freight Holding Company, Inc. Common Stock When-Issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,FE,FirstEnergy Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FEDU,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,FEGE,First Eagle Global Equity ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1830,7 +1834,7 @@ NYSE,NIQ,NIQ Global Intelligence plc Ordinary Shares,Stock,,nasdaq_trader_symbol
 NYSE,NJR,NewJersey Resources Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NKE,"Nike, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,NKX,Nuveen California AMT-Free Quality Municipal Income Fund,Stock,,nasdaq_trader_symbol_directory
-NYSE,NL,"NL Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,NL,"NLI Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,NLOP,Net Lease Office Properties Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,NLY,Annaly Capital Management Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NLY$F,Annaly Capital Management Inc 6.95% Series F,Stock,,nasdaq_trader_symbol_directory
@@ -1901,6 +1905,7 @@ NYSE,NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),Stock,,nasd
 NYSE,NVO,Novo Nordisk A/S Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVR,"NVR, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,NVRI,Enviri Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,NVRI.V,Enviri Corporation Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVS,Novartis AG Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVST,Envista Holdings Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVT,nVent Electric plc Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2764,7 +2769,6 @@ NYSE,VOYA$B,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th 
 NYSE,VOYG,"Voyager Technologies, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VPG,"Vishay Precision Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VPV,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),Stock,,nasdaq_trader_symbol_directory
-NYSE,VRE,"Veris Residential, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VRT,"Vertiv Holdings, LLC Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VRTS,"Virtus Investment Partners, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VSCO,Victorias Secret & Co. Common Stock,Stock,,nasdaq_trader_symbol_directory
