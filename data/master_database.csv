@@ -330,7 +330,10 @@ AACIW,NASDAQ,Armada Acquisition Corp. III - Warrant,Stock,True,2026-05-08,,,b838
 AACO,NASDAQ,Abony Acquisition Corp. I - Class A Ordinary Share,Stock,True,2026-05-08,,,3301443501e47e9932ab
 AACOU,NASDAQ,Abony Acquisition Corp. I - Units,Stock,True,2026-05-08,,,a81469779ce27faad54c
 AACOW,NASDAQ,Abony Acquisition Corp. I - Warrants,Stock,True,2026-05-08,,,6948c3f3c3abd8fd521d
+AACP,NASDAQ,Apogee Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-28,,,e78e2f37927b953e8ae9
+AACPR,NASDAQ,Apogee Acquisition Corp - Rights,Stock,True,2026-05-28,,,bfca83d7c7d9ecee443a
 AACPU,NASDAQ,Apogee Acquisition Corp - Units,Stock,True,2026-05-08,,,0c37741f6b137cea5950
+AACPW,NASDAQ,Apogee Acquisition Corp - Warrant,Stock,True,2026-05-28,,,9868432a7cd1eff2fdc0
 AADR,NASDAQ,AdvisorShares Dorsey Wright ADR ETF,ETF,True,2026-05-08,,,8bdf3d065c9a3cf51014
 AAEQ,NASDAQ,Alpha Architect US Equity 2 ETF,ETF,True,2026-05-08,,,997c14ba976ba5272b22
 AAL,NASDAQ,"American Airlines Group, Inc. - Common Stock",Stock,True,2026-05-08,,,b96bf933cddd2a112c41
@@ -376,7 +379,9 @@ ACDC,NASDAQ,ProFrac Holding Corp. - Class A Common Stock,Stock,True,2026-05-08,,
 ACEP,NASDAQ,ARS Core Equity Portfolio ETF,ETF,True,2026-05-08,,,231bd8c716f89f7ddaeb
 ACET,NASDAQ,"Adicet Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,83055d7ba32d1236ffa2
 ACFN,NASDAQ,"Acorn Energy, Inc. - Common Stock",Stock,True,2026-05-08,,,daaaae92785f3bd522cc
+ACGC,NASDAQ,ACP Holdings Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-28,,,27f1a3c1738c295d3733
 ACGCU,NASDAQ,ACP Holdings Acquisition Corp. - Units,Stock,True,2026-05-08,,,3ae5ca546589a893deef
+ACGCW,NASDAQ,ACP Holdings Acquisition Corp. - Warrants,Stock,True,2026-05-28,,,002b0022f49dd9fbd2f9
 ACGL,NASDAQ,Arch Capital Group Ltd. - Common Stock,Stock,True,2026-05-08,,,98181b6140dbd807655c
 ACGLN,NASDAQ,"Arch Capital Group Ltd. - Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G",Stock,True,2026-05-08,,,9b3eb075dc9a7dbe7946
 ACGLO,NASDAQ,"Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F",Stock,True,2026-05-08,,,b8f747bbde7a62907060
@@ -724,6 +729,7 @@ ARXS,NASDAQ,"Arxis, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,b8ee203
 ASBP,NASDAQ,"Aspire Biopharma Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,8c9f170337ba6c201395
 ASBPW,NASDAQ,"Aspire Biopharma Holdings, Inc. - Warrant",Stock,True,2026-05-08,,,009d3f9313541da017f3
 ASCI,NASDAQ,abrdn International Small Cap Active ETF,ETF,True,2026-05-08,,,345d8767194a6da2abe2
+ASEC,NASDAQ,American Century Securitized Credit ETF,ETF,True,2026-05-28,,,74aeb92089aa0e7be3ed
 ASLE,NASDAQ,AerSale Corporation - Common Stock,Stock,True,2026-05-08,,,27bbb764bc8c4d17a643
 ASMB,NASDAQ,"Assembly Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,fa6b6cadbeaeee3aeb30
 ASMG,NASDAQ,Leverage Shares 2X Long ASML Daily ETF,ETF,True,2026-05-08,,,c3bcfe232bfbbe3435b8
@@ -2328,7 +2334,7 @@ GECC,NASDAQ,Great Elm Capital Corp. - Closed End Fund,Stock,True,2026-05-08,,,93
 GECCG,NASDAQ,Great Elm Capital Corp. - 7.75% Notes Due 2030,Stock,True,2026-05-08,,,341381b736598ec92436
 GECCH,NASDAQ,Great Elm Capital Corp. - 8.125% Notes Due 2029,Stock,True,2026-05-08,,,cc5bbcfa3275e04b323f
 GECCI,NASDAQ,Great Elm Capital Corp. - 8.50% NOTES DUE 2029,Stock,True,2026-05-08,,,13d66aee8e68b773e84d
-GECCO,NASDAQ,Great Elm Capital Corp. - 5.875% Notes due 2026,Stock,True,2026-05-08,,,fbf3208b61374e73f52b
+GECCO,NASDAQ,Great Elm Capital Corp. - 5.875% Notes due 2026,Stock,False,2026-05-08,2026-05-28,Missing from current NASDAQ source snapshot; reason unavailable,fbf3208b61374e73f52b
 GEG,NASDAQ,"Great Elm Group, Inc. - Common Stock",Stock,True,2026-05-08,,,07447018596ba08db3fb
 GEGGL,NASDAQ,"Great Elm Group, Inc. - 7.25% Notes due 2027",Stock,True,2026-05-08,,,64effd194cbd0cfd90c0
 GEHC,NASDAQ,GE HealthCare Technologies Inc. - Common Stock,Stock,True,2026-05-08,,,88cba2483748b5305b4f
@@ -2616,7 +2622,7 @@ HOOD,NASDAQ,"Robinhood Markets, Inc. - Class A Common Stock",Stock,True,2026-05-
 HOOG,NASDAQ,Leverage Shares 2X Long HOOD Daily ETF,ETF,True,2026-05-08,,,e76ddae74735d634a083
 HOOX,NASDAQ,Defiance Daily Target 2X Long HOOD ETF,ETF,True,2026-05-08,,,f1924e885bbfbb34b685
 HOPE,NASDAQ,"Hope Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,941c1626ed839ab3e11f
-HOTH,NASDAQ,"Hoth Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,99c337039277a3dad07f
+HOTH,NASDAQ,"Hoth Therapeutics, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-28,Missing from current NASDAQ source snapshot; reason unavailable,99c337039277a3dad07f
 HOUR,NASDAQ,"Hour Loop, Inc. - common stock",Stock,True,2026-05-08,,,631017823a496e132a49
 HOVNP,NASDAQ,Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock,Stock,True,2026-05-08,,,8f18e2dc3a76c09f5941
 HOVR,NASDAQ,New Horizon Aircraft Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,a32b7b2606a1b2bb3331
@@ -2982,6 +2988,7 @@ JOUT,NASDAQ,Johnson Outdoors Inc. - Class A Common Stock,Stock,True,2026-05-08,,
 JOYT,NASDAQ,JPMorgan Equity and Options Total Return ETF,ETF,True,2026-05-08,,,92ca9ee8cd9e7977687f
 JOYY,NASDAQ,JOYY Inc. - American Depositary Shares,Stock,True,2026-05-08,,,9325a54cc3e573629ac9
 JPEF,NASDAQ,JPMorgan Equity Focus ETF,ETF,True,2026-05-08,,,6d71fe6fd6e1b3cd6e80
+JPFP,NASDAQ,JPMorgan Managed Futures Plus ETF,ETF,True,2026-05-28,,,ac26239210d755ed1c6a
 JPY,NASDAQ,Lazard Japanese Equity ETF,ETF,True,2026-05-08,,,6c3b6a9e19ea26669061
 JRSH,NASDAQ,"Jerash Holdings (US), Inc. - Common Stock",Stock,True,2026-05-08,,,019167894adf1ae49b89
 JRVR,NASDAQ,"James River Group Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,66b17c4a6f8ae43050c8
@@ -3868,7 +3875,8 @@ OCGN,NASDAQ,"Ocugen, Inc. - Common Stock",Stock,True,2026-05-08,,,88d80fd6549401
 OCS,NASDAQ,Oculis Holding AG - Ordinary shares,Stock,True,2026-05-08,,,7e58c421064f6e89fb6a
 OCSAW,NASDAQ,Oculis Holding AG - Warrants,Stock,True,2026-05-08,,,6405cc9c61d6fe6f30d2
 OCSL,NASDAQ,Oaktree Specialty Lending Corporation - Closed End Fund,Stock,True,2026-05-08,,,d8aba94821d05bbdefca
-OCTVV,NASDAQ,Octave Intelligence plc - Class B Ordinary Shares When Issued,Stock,True,2026-05-21,,,843130e9fe656ab11d48
+OCTV,NASDAQ,Octave Intelligence plc - Class B Ordinary Shares,Stock,True,2026-05-28,,,3e02e403047fdda007ef
+OCTVV,NASDAQ,Octave Intelligence plc - Class B Ordinary Shares When Issued,Stock,False,2026-05-21,2026-05-28,Missing from current NASDAQ source snapshot; reason unavailable,843130e9fe656ab11d48
 OCUL,NASDAQ,"Ocular Therapeutix, Inc. - Common Stock",Stock,True,2026-05-08,,,9ffda6cbb027ea1d5fcd
 ODD,NASDAQ,ODDITY Tech Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,c70e8718800a11a1f0ca
 ODDS,NASDAQ,Pacer BlueStar Digital Entertainment ETF,ETF,True,2026-05-08,,,fcd8c970e36f208ebcd5
@@ -4534,6 +4542,7 @@ RKLB,NASDAQ,Rocket Lab Corporation - Common Stock,Stock,True,2026-05-08,,,3c67f1
 RKLX,NASDAQ,Defiance Daily Target 2X Long RKLB ETF,ETF,True,2026-05-08,,,c315d959dbec6b4b8a05
 RKLZ,NASDAQ,Defiance Daily Target 2x Short RKLB ETF,ETF,True,2026-05-08,,,455a1e4c737506e24efc
 RKNG,NASDAQ,Defiance Retail Kings ETF,ETF,True,2026-05-08,,,ad38aa1d5af09949e06d
+RKTO,NASDAQ,Rocket One Inc. - Common Stock,Stock,True,2026-05-28,,,aed80925a706002da4e2
 RLAY,NASDAQ,"Relay Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,36066301f1ef5c36e333
 RLMD,NASDAQ,"Relmada Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,59916d0e1ff762b2d68a
 RLYB,NASDAQ,Rallybio Corporation - Common Stock,Stock,True,2026-05-08,,,87fd9ca4134c08d71efa
@@ -4786,6 +4795,8 @@ SKK,NASDAQ,SKK Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,
 SKOR,NASDAQ,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,True,2026-05-08,,,d50356e268e0c605ef4f
 SKRE,NASDAQ,Tuttle Capital Daily 2X Inverse Regional Banks ETF,ETF,True,2026-05-08,,,f12240ea5aa4dc88d80e
 SKWD,NASDAQ,"Skyward Specialty Insurance Group, Inc. - Common Stock",Stock,True,2026-05-08,,,eecee428cc8bb0675199
+SKYA,NASDAQ,"SkyAI, Inc. - Common Stock",Stock,True,2026-05-28,,,3cd3c7869a54c7577a85
+SKYAW,NASDAQ,"SkyAI, Inc. - Warrant",Stock,True,2026-05-28,,,3f946a01f20259e4a584
 SKYE,NASDAQ,"Skye Bioscience, Inc. - Common Stock",Stock,True,2026-05-08,,,00ad2b1959a3a4f5f968
 SKYQ,NASDAQ,Sky Quarry Inc. - Common Stock,Stock,True,2026-05-08,,,7198b76d15cf9ace9c9f
 SKYT,NASDAQ,"SkyWater Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,13e87f9e3bf7ba1af350
@@ -4987,8 +4998,8 @@ STRRP,NASDAQ,"Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Pre
 STRS,NASDAQ,Stratus Properties Inc. - Common Stock,Stock,True,2026-05-08,,,0f6fb443dcfe84266ac8
 STRT,NASDAQ,STRATTEC SECURITY CORPORATION - Common Stock,Stock,True,2026-05-08,,,3e9804f6c689ad9daa23
 STRZ,NASDAQ,Starz Entertainment Corp. - Common Shares,Stock,True,2026-05-08,,,e952147d3c8c22a8623a
-STSS,NASDAQ,Sharps Technology Inc. - Common Stock,Stock,True,2026-05-08,,,c934c518c8ba3f7a521a
-STSSW,NASDAQ,Sharps Technology Inc. - Warrant,Stock,True,2026-05-08,,,26bdc20d885d8223fdc7
+STSS,NASDAQ,Sharps Technology Inc. - Common Stock,Stock,False,2026-05-08,2026-05-28,Missing from current NASDAQ source snapshot; reason unavailable,c934c518c8ba3f7a521a
+STSSW,NASDAQ,Sharps Technology Inc. - Warrant,Stock,False,2026-05-08,2026-05-28,Missing from current NASDAQ source snapshot; reason unavailable,26bdc20d885d8223fdc7
 STTK,NASDAQ,"Shattuck Labs, Inc. - Common Stock",Stock,True,2026-05-08,,,f4be8559c47c926460cd
 STX,NASDAQ,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),Stock,True,2026-05-08,,,fb4e0bc5ba26f9410044
 SUGP,NASDAQ,SU Group Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,8cec3b0405bd94c5260f

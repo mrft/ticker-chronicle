@@ -9,7 +9,10 @@ NASDAQ,AACIW,Armada Acquisition Corp. III - Warrant,Stock,,nasdaq_trader_symbol_
 NASDAQ,AACO,Abony Acquisition Corp. I - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AACOU,Abony Acquisition Corp. I - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AACOW,Abony Acquisition Corp. I - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AACP,Apogee Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AACPR,Apogee Acquisition Corp - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AACPU,Apogee Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AACPW,Apogee Acquisition Corp - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AADR,AdvisorShares Dorsey Wright ADR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AAEQ,Alpha Architect US Equity 2 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AAL,"American Airlines Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -55,7 +58,9 @@ NASDAQ,ACDC,ProFrac Holding Corp. - Class A Common Stock,Stock,,nasdaq_trader_sy
 NASDAQ,ACEP,ARS Core Equity Portfolio ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ACET,"Adicet Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACFN,"Acorn Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ACGC,ACP Holdings Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACGCU,ACP Holdings Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ACGCW,ACP Holdings Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACGL,Arch Capital Group Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACGLN,"Arch Capital Group Ltd. - Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACGLO,"Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F",Stock,,nasdaq_trader_symbol_directory
@@ -394,6 +399,7 @@ NASDAQ,ARXS,"Arxis, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_dir
 NASDAQ,ASBP,"Aspire Biopharma Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASBPW,"Aspire Biopharma Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASCI,abrdn International Small Cap Active ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ASEC,American Century Securitized Credit ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ASLE,AerSale Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASMB,"Assembly Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASMG,Leverage Shares 2X Long ASML Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1983,7 +1989,6 @@ NASDAQ,GECC,Great Elm Capital Corp. - Closed End Fund,Stock,,nasdaq_trader_symbo
 NASDAQ,GECCG,Great Elm Capital Corp. - 7.75% Notes Due 2030,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GECCH,Great Elm Capital Corp. - 8.125% Notes Due 2029,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GECCI,Great Elm Capital Corp. - 8.50% NOTES DUE 2029,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GECCO,Great Elm Capital Corp. - 5.875% Notes due 2026,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GEG,"Great Elm Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GEGGL,"Great Elm Group, Inc. - 7.25% Notes due 2027",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GEHC,GE HealthCare Technologies Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2266,7 +2271,6 @@ NASDAQ,HOOD,"Robinhood Markets, Inc. - Class A Common Stock",Stock,,nasdaq_trade
 NASDAQ,HOOG,Leverage Shares 2X Long HOOD Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HOOX,Defiance Daily Target 2X Long HOOD ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HOPE,"Hope Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HOTH,"Hoth Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HOUR,"Hour Loop, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HOVNP,Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HOVR,New Horizon Aircraft Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2627,6 +2631,7 @@ NASDAQ,JOUT,Johnson Outdoors Inc. - Class A Common Stock,Stock,,nasdaq_trader_sy
 NASDAQ,JOYT,JPMorgan Equity and Options Total Return ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JOYY,JOYY Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JPEF,JPMorgan Equity Focus ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,JPFP,JPMorgan Managed Futures Plus ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JPY,Lazard Japanese Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JRSH,"Jerash Holdings (US), Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JRVR,"James River Group Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3508,7 +3513,7 @@ NASDAQ,OCGN,"Ocugen, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCS,Oculis Holding AG - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCSAW,Oculis Holding AG - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCSL,Oaktree Specialty Lending Corporation - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OCTVV,Octave Intelligence plc - Class B Ordinary Shares When Issued,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OCTV,Octave Intelligence plc - Class B Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCUL,"Ocular Therapeutix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ODD,ODDITY Tech Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ODDS,Pacer BlueStar Digital Entertainment ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4173,6 +4178,7 @@ NASDAQ,RKLB,Rocket Lab Corporation - Common Stock,Stock,,nasdaq_trader_symbol_di
 NASDAQ,RKLX,Defiance Daily Target 2X Long RKLB ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RKLZ,Defiance Daily Target 2x Short RKLB ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RKNG,Defiance Retail Kings ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,RKTO,Rocket One Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RLAY,"Relay Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RLMD,"Relmada Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RLYB,Rallybio Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4423,6 +4429,8 @@ NASDAQ,SKK,SKK Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_s
 NASDAQ,SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SKWD,"Skyward Specialty Insurance Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SKYA,"SkyAI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SKYAW,"SkyAI, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYE,"Skye Bioscience, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYQ,Sky Quarry Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYT,"SkyWater Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4621,8 +4629,6 @@ NASDAQ,STRRP,"Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Pre
 NASDAQ,STRS,Stratus Properties Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STRT,STRATTEC SECURITY CORPORATION - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STRZ,Starz Entertainment Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,STSS,Sharps Technology Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,STSSW,Sharps Technology Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STTK,"Shattuck Labs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SUGP,SU Group Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
