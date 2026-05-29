@@ -206,6 +206,7 @@ NRO,AMEX,Neuberger Real Estate Securities Income Fund Inc. Common Stock,Stock,Tr
 NRXS,AMEX,"Neuraxis, Inc. Common Stock",Stock,True,2026-05-08,,,ebe0ef0b11e9ace04e27
 NSRX,AMEX,Nasus Pharma Ltd. Ordinary Shares,Stock,True,2026-05-08,,,9b17cc939e413fcb9dbc
 NTIP,AMEX,"Network-1 Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,49596a6b82a129e6fc3d
+NXB,AMEX,NextBoat Inc. Common Stcok,Stock,True,2026-05-29,,,e7290b115728db5fcb14
 OBE,AMEX,Obsidian Energy Ltd. Common Shares,Stock,True,2026-05-08,,,6c7e148a121c82bdc715
 OGEN,AMEX,Oragenics Inc. Common Stock,Stock,True,2026-05-08,,,8d765d4b5a921e0323e6
 OPHC,AMEX,"OptimumBank Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,e77eacd296304ec2fbb9
@@ -213,7 +214,7 @@ OPP$C,AMEX,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series 
 OPTT,AMEX,"Ocean Power Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,4c7e89bd8797bb993bb1
 ORLA,AMEX,Orla Mining Ltd. Common Shares,Stock,True,2026-05-08,,,e4038748b94877ac035e
 OSTX,AMEX,OS Therapies Incorporated Common Stock,Stock,True,2026-05-08,,,5774c1e8220489b76371
-OTH,AMEX,Off The Hook YS Inc. Common Stock,Stock,True,2026-05-08,,,926ec586a930536cdb9a
+OTH,AMEX,Off The Hook YS Inc. Common Stock,Stock,False,2026-05-08,2026-05-29,Missing from current AMEX source snapshot; reason unavailable,926ec586a930536cdb9a
 OZ,AMEX,"Belpointe PREP, LLC Class A Units",Stock,True,2026-05-08,,,8ff952f8b3ed73974e3d
 PAPL,AMEX,Pineapple Financial Inc. Common Stock,Stock,True,2026-05-08,,,3d83523849da06d27d63
 PCG$A,AMEX,Pacific Gas & Electric Co. 6% Preferred Stock,Stock,True,2026-05-08,,,c6aef121cf7bacda67f0
@@ -235,7 +236,7 @@ PMNT,AMEX,Perfect Moment Ltd. Common Stock,Stock,True,2026-05-08,,,0a1fc7d23676c
 POAS,AMEX,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,Stock,True,2026-05-08,,,ce59d71a7b9be5f9f08c
 PRK,AMEX,Park National Corporation Common Stock,Stock,True,2026-05-08,,,bbca60b912463e24038b
 PTHS,AMEX,Pelthos Therapeutics Inc. Common Stock,Stock,True,2026-05-08,,,b722b6d7d70a713f14a9
-PTN,AMEX,"Palatin Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,14cbdc1a9e65dcb3f542
+PTN,AMEX,"Palatin Technologies, Inc. Common Stock",Stock,False,2026-05-08,2026-05-29,Missing from current AMEX source snapshot; reason unavailable,14cbdc1a9e65dcb3f542
 PW,AMEX,Power REIT (MD) Common Stock,Stock,True,2026-05-08,,,48e7d358cccb973b84a3
 PW$A,AMEX,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,Stock,True,2026-05-08,,,c9cd10d3825d7f7aa7b0
 PZG,AMEX,Paramount Gold Nevada Corp. Common Stock,Stock,True,2026-05-08,,,ac41203abcd690b3dd02
@@ -620,7 +621,7 @@ AMST,NASDAQ,Amesite Inc. - Common Stock,Stock,True,2026-05-08,,,d3f1ca4cbe6cb123
 AMTX,NASDAQ,"Aemetis, Inc - Common Stock",Stock,True,2026-05-08,,,eea3ff7a1934792ab0ed
 AMUN,NASDAQ,abrdn Ultra Short Municipal Income Active ETF,ETF,True,2026-05-08,,,d13a4c2a5933db4d4be5
 AMUU,NASDAQ,Direxion Daily AMD Bull 2X ETF,ETF,True,2026-05-08,,,7d4b04e30c5ffd1803aa
-AMWD,NASDAQ,American Woodmark Corporation - Common Stock,Stock,True,2026-05-08,,,45c49d846ea070177aa7
+AMWD,NASDAQ,American Woodmark Corporation - Common Stock,Stock,False,2026-05-08,2026-05-29,Missing from current NASDAQ source snapshot; reason unavailable,45c49d846ea070177aa7
 AMYY,NASDAQ,GraniteShares YieldBOOST AMD ETF,ETF,True,2026-05-08,,,5ec8a8368cd51cd398f9
 AMZD,NASDAQ,Direxion Daily AMZN Bear 1X ETF,ETF,True,2026-05-08,,,0d10c35fa79c2d732813
 AMZN,NASDAQ,"Amazon.com, Inc. - Common Stock",Stock,True,2026-05-08,,,cad1d32fb6ea8cb8125b
@@ -695,7 +696,10 @@ ARCC,NASDAQ,Ares Capital Corporation - Closed End Fund,Stock,True,2026-05-08,,,7
 ARCI,NASDAQ,Archimedes Tech SPAC Partners III Co. - Ordinary Share,Stock,True,2026-05-08,,,c8ddda25285be8c1c0a8
 ARCIU,NASDAQ,Archimedes Tech SPAC Partners III Co. - Unit,Stock,True,2026-05-08,,,b7934e88642ed94ec451
 ARCIW,NASDAQ,Archimedes Tech SPAC Partners III Co. - Warrant,Stock,True,2026-05-08,,,2089cf1ff194ce76b5f8
+ARCL,NASDAQ,ARC Group Acquisition I Corp - Class A Ordinary Shares,Stock,True,2026-05-29,,,7d27f1d9e62a300572ed
+ARCLR,NASDAQ,ARC Group Acquisition I Corp - Right,Stock,True,2026-05-29,,,5e81b010dd0ddb3a8071
 ARCLU,NASDAQ,ARC Group Acquisition I Corp - Unit,Stock,True,2026-05-08,,,d9fb6c7bf797c51e674f
+ARCLW,NASDAQ,ARC Group Acquisition I Corp - Warrants,Stock,True,2026-05-29,,,81733ade83fd48fa0fbc
 ARCT,NASDAQ,Arcturus Therapeutics Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,e956a615977718d2549b
 ARDX,NASDAQ,"Ardelyx, Inc. - Common Stock",Stock,True,2026-05-08,,,01b0899637beb4c72e33
 AREB,NASDAQ,"American Rebel Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-13,Missing from current NASDAQ source snapshot; reason unavailable,5eeeff399b5916f39d80
@@ -965,6 +969,7 @@ BIAFW,NASDAQ,"bioAffinity Technologies, Inc. - Warrant",Stock,True,2026-05-08,,,
 BIB,NASDAQ,ProShares Ultra Nasdaq Biotechnology,ETF,True,2026-05-08,,,7ebb207a18fbae96670d
 BIDG,NASDAQ,Leverage Shares 2X Long BIDU Daily ETF,ETF,True,2026-05-08,,,876a9f88934c6b36093a
 BIDU,NASDAQ,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",Stock,True,2026-05-08,,,9962c4a2bdc266157ee8
+BIDWU,NASDAQ,Tribeca Strategic Acquisition Corp. - Unit,Stock,True,2026-05-29,,,7e8dfa7bb6bd39303031
 BIIB,NASDAQ,Biogen Inc. - Common Stock,Stock,True,2026-05-08,,,c6071d2de6dfbb10775e
 BILI,NASDAQ,Bilibili Inc. - American Depositary Shares,Stock,True,2026-05-08,,,745e7c786d0c70bb6e1b
 BIOA,NASDAQ,"BioAge Labs, Inc. - Common Stock",Stock,True,2026-05-08,,,30cab34ba4ec13377922
@@ -1602,7 +1607,7 @@ CV,NASDAQ,"CapsoVision, Inc. - Common Stock",Stock,True,2026-05-08,,,f1dcbc8d604
 CVBF,NASDAQ,CVB Financial Corporation - Common Stock,Stock,True,2026-05-08,,,4b8410d848adbfdbbd65
 CVCO,NASDAQ,"Cavco Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,63a7052b4f8b3cf4c3b1
 CVGI,NASDAQ,"Commercial Vehicle Group, Inc. - Common Stock",Stock,True,2026-05-08,,,9d36d20c9ac60c5c71a1
-CVGW,NASDAQ,"Calavo Growers, Inc. - Common Stock",Stock,True,2026-05-08,,,2edbe7f117ba109b41d4
+CVGW,NASDAQ,"Calavo Growers, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-29,Missing from current NASDAQ source snapshot; reason unavailable,2edbe7f117ba109b41d4
 CVKD,NASDAQ,"Cadrenal Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,a68b588191919e3ee5f9
 CVLT,NASDAQ,"Commvault Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,60c2f218baf2317dd950
 CVNX,NASDAQ,Defiance Daily Target 2X Long CVNA ETF,ETF,True,2026-05-08,,,5341b0b20de242035380
@@ -2923,6 +2928,7 @@ ISPR,NASDAQ,Ispire Technology Inc. - Common Stock,Stock,True,2026-05-08,,,a61d27
 ISRG,NASDAQ,"Intuitive Surgical, Inc. - Common Stock",Stock,True,2026-05-08,,,66eed9615bc8d49be35d
 ISSC,NASDAQ,"Innovative Solutions and Support, Inc. - Common Stock",Stock,True,2026-05-08,,,a5fa9d3768ca4cc883d3
 ISTB,NASDAQ,iShares Core 1-5 Year USD Bond ETF,ETF,True,2026-05-08,,,9dabebaf78f0a3ee4acc
+ISTM,NASDAQ,iShares Strategic Metals ETF,ETF,True,2026-05-29,,,d540587540f6bd48118f
 ISTR,NASDAQ,Investar Holding Corporation - Common Stock,Stock,True,2026-05-08,,,bd78914324af7f6e3d70
 ISUL,NASDAQ,GraniteShares 2x Long ISRG Daily ETF,ETF,True,2026-05-08,,,b069fa6b21975070d2e5
 ITHA,NASDAQ,ITHAX Acquisition Corp III - Class A Ordinary Shares,Stock,True,2026-05-08,,,ea02a644e0226c442d0b
@@ -4291,6 +4297,7 @@ PTH,NASDAQ,Invesco Dorsey Wright Healthcare Momentum ETF,ETF,True,2026-05-08,,,4
 PTIR,NASDAQ,GraniteShares 2x Long PLTR Daily ETF,ETF,True,2026-05-08,,,b2819f40868c6255db3c
 PTLE,NASDAQ,PTL LTD - Class A Ordinary Shares,Stock,True,2026-05-08,,,8b70778342cca3aa6251
 PTLO,NASDAQ,Portillo's Inc. - Class A Common Stock,Stock,True,2026-05-08,,,aa2ceeaff555122f9c59
+PTN,NASDAQ,"Palatin Technologies, Inc. - Common Stock",Stock,True,2026-05-29,,,c40289083c0a407d9d69
 PTNM,NASDAQ,Pitanium Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,f00a812028c31c47685d
 PTNQ,NASDAQ,Pacer Trendpilot 100 ETF,ETF,True,2026-05-08,,,25e189dd2f4d38d3521c
 PTON,NASDAQ,"Peloton Interactive, Inc. - Common Stock",Stock,True,2026-05-08,,,2ac75595693c7753e595
@@ -4344,6 +4351,7 @@ QETAU,NASDAQ,Quetta Acquisition Corporation - Unit,Stock,True,2026-05-08,,,e37ae
 QEW,NASDAQ,Invesco QQQ Equal Weight ETF,ETF,True,2026-05-08,,,bda23d71734a42a3d47a
 QFIN,NASDAQ,"Qfin Holdings, Inc. - American Depositary Shares",Stock,True,2026-05-08,,,3dee61d521db16cac9a4
 QGRD,NASDAQ,Horizon Nasdaq-100 Defined Risk ETF,ETF,True,2026-05-08,,,3701f5952a5c1271c413
+QH,NASDAQ,Quhuo Limited - American Depository Shares,Stock,True,2026-05-29,,,0030815cddf6f0dafafd
 QHDG,NASDAQ,Innovator Hedged Nasdaq-100 ETF,ETF,True,2026-05-08,,,6b7699acce99a1c10067
 QLDY,NASDAQ,Defiance Nasdaq 100 LightningSpread Income ETF,ETF,True,2026-05-08,,,3bdf228ca957225a9251
 QLYS,NASDAQ,"Qualys, Inc. - Common Stock",Stock,True,2026-05-08,,,717c13b95aa233551d74
@@ -5190,7 +5198,7 @@ TMCR,NASDAQ,The Metals Royalty Company Inc. - Common Stock,Stock,True,2026-05-08
 TMCWW,NASDAQ,TMC the metals company Inc. - Warrant,Stock,True,2026-05-08,,,77e1e63c2956fddd070f
 TMDX,NASDAQ,"TransMedics Group, Inc. - Common Stock",Stock,True,2026-05-08,,,d557f0be8c2ab529a023
 TMED,NASDAQ,T. Rowe Price Health Care ETF,ETF,True,2026-05-08,,,0a22cead50a662cd1db3
-TMET,NASDAQ,iShares Transition-Enabling Metals ETF,ETF,True,2026-05-08,,,25515727c52e4c88d8ae
+TMET,NASDAQ,iShares Transition-Enabling Metals ETF,ETF,False,2026-05-08,2026-05-29,Missing from current NASDAQ source snapshot; reason unavailable,25515727c52e4c88d8ae
 TMNL,NASDAQ,T. Rowe Price Long Municipal Income ETF,ETF,True,2026-05-08,,,6e1965e05cc5337f7f4a
 TMNS,NASDAQ,T. Rowe Price Short Municipal Income ETF,ETF,True,2026-05-08,,,3747993b6918660830bb
 TMSF,NASDAQ,T. Rowe Price Multi-Sector Income ETF,ETF,True,2026-05-08,,,5320117d3091835628c0
@@ -5453,6 +5461,7 @@ VBCI,NASDAQ,Vanguard Target Maturity 2035 Corporate Bond ETF,ETF,True,2026-05-08
 VBCJ,NASDAQ,Vanguard Target Maturity 2036 Corporate Bond ETF,ETF,True,2026-05-08,,,73cbd6f519c93e002e6f
 VBIL,NASDAQ,Vanguard 0-3 Month Treasury Bill ETF,ETF,True,2026-05-08,,,8083bcff4cd78799adc9
 VBIO,NASDAQ,"Valion Bio, Inc. - Common stock",Stock,True,2026-05-08,,,fbb9e45ba43748d3fef3
+VBNB,NASDAQ,VanEck BNB ETF,ETF,True,2026-05-29,,,72d1f19f8929c3747317
 VBNK,NASDAQ,VersaBank - Common Shares,Stock,True,2026-05-08,,,282c732c5453bc66bd43
 VC,NASDAQ,Visteon Corporation - Common Stock,Stock,True,2026-05-08,,,67c5159b36b0e63dce11
 VCEL,NASDAQ,Vericel Corporation - Common Stock,Stock,True,2026-05-08,,,db3b9361cd0596a7eee4
@@ -8150,6 +8159,7 @@ RWTN,NYSE,"Redwood Trust, Inc. 9.125% Senior Notes Due 2029",Stock,True,2026-05-
 RWTO,NYSE,"Redwood Trust, Inc. 9.00% Senior Notes Due 2029",Stock,True,2026-05-08,,,d1d2fe6d4caddf023130
 RWTP,NYSE,"Redwood Trust, Inc. 9.125% Senior Notes Due 2030",Stock,True,2026-05-08,,,91b6890a7f2ee34df689
 RWTQ,NYSE,"Redwood Trust, Inc. 9.500% Senior Notes Due 2030",Stock,True,2026-05-08,,,80fce8df2d682c7abb61
+RWTS,NYSE,"Redwood Trust, Inc. 9.75% Senior Notes Due 2031",Stock,True,2026-05-29,,,dbf1308da274a7b72272
 RXO,NYSE,"RXO, Inc. Common Stock",Stock,True,2026-05-08,,,50219080ea8f453cb143
 RY,NYSE,Royal Bank Of Canada Common Stock,Stock,True,2026-05-08,,,7d19bc6c7d24ca93e34c
 RYAM,NYSE,Rayonier Advanced Materials Inc. Common Stock,Stock,True,2026-05-08,,,9b544d1a4789f6155232

@@ -293,7 +293,6 @@ NASDAQ,AMST,Amesite Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMTX,"Aemetis, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMUN,abrdn Ultra Short Municipal Income Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AMUU,Direxion Daily AMD Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,AMWD,American Woodmark Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMYY,GraniteShares YieldBOOST AMD ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AMZD,Direxion Daily AMZN Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AMZN,"Amazon.com, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -367,7 +366,10 @@ NASDAQ,ARCC,Ares Capital Corporation - Closed End Fund,Stock,,nasdaq_trader_symb
 NASDAQ,ARCI,Archimedes Tech SPAC Partners III Co. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARCIU,Archimedes Tech SPAC Partners III Co. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARCIW,Archimedes Tech SPAC Partners III Co. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ARCL,ARC Group Acquisition I Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ARCLR,ARC Group Acquisition I Corp - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARCLU,ARC Group Acquisition I Corp - Unit,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ARCLW,ARC Group Acquisition I Corp - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARCT,Arcturus Therapeutics Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARDX,"Ardelyx, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AREC,American Resources Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -635,6 +637,7 @@ NASDAQ,BIAFW,"bioAffinity Technologies, Inc. - Warrant",Stock,,nasdaq_trader_sym
 NASDAQ,BIB,ProShares Ultra Nasdaq Biotechnology,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BIDG,Leverage Shares 2X Long BIDU Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BIDU,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BIDWU,Tribeca Strategic Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIIB,Biogen Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BILI,Bilibili Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIOA,"BioAge Labs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1262,7 +1265,6 @@ NASDAQ,CV,"CapsoVision, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directo
 NASDAQ,CVBF,CVB Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVCO,"Cavco Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVGI,"Commercial Vehicle Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CVGW,"Calavo Growers, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVKD,"Cadrenal Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVLT,"Commvault Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVNX,Defiance Daily Target 2X Long CVNA ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2566,6 +2568,7 @@ NASDAQ,ISPR,Ispire Technology Inc. - Common Stock,Stock,,nasdaq_trader_symbol_di
 NASDAQ,ISRG,"Intuitive Surgical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISSC,"Innovative Solutions and Support, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISTB,iShares Core 1-5 Year USD Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ISTM,iShares Strategic Metals ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ISTR,Investar Holding Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISUL,GraniteShares 2x Long ISRG Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ITHA,ITHAX Acquisition Corp III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3927,6 +3930,7 @@ NASDAQ,PTH,Invesco Dorsey Wright Healthcare Momentum ETF,ETF,,nasdaq_trader_symb
 NASDAQ,PTIR,GraniteShares 2x Long PLTR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PTLE,PTL LTD - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTLO,Portillo's Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PTN,"Palatin Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTNM,Pitanium Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTNQ,Pacer Trendpilot 100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PTON,"Peloton Interactive, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3980,6 +3984,7 @@ NASDAQ,QETAU,Quetta Acquisition Corporation - Unit,Stock,,nasdaq_trader_symbol_d
 NASDAQ,QEW,Invesco QQQ Equal Weight ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QFIN,"Qfin Holdings, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QGRD,Horizon Nasdaq-100 Defined Risk ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QH,Quhuo Limited - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QHDG,Innovator Hedged Nasdaq-100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QLDY,Defiance Nasdaq 100 LightningSpread Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QLYS,"Qualys, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4819,7 +4824,6 @@ NASDAQ,TMCR,The Metals Royalty Company Inc. - Common Stock,Stock,,nasdaq_trader_
 NASDAQ,TMCWW,TMC the metals company Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TMDX,"TransMedics Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TMED,T. Rowe Price Health Care ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,TMET,iShares Transition-Enabling Metals ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TMNL,T. Rowe Price Long Municipal Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TMNS,T. Rowe Price Short Municipal Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TMSF,T. Rowe Price Multi-Sector Income ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5080,6 +5084,7 @@ NASDAQ,VBCI,Vanguard Target Maturity 2035 Corporate Bond ETF,ETF,,nasdaq_trader_
 NASDAQ,VBCJ,Vanguard Target Maturity 2036 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VBIL,Vanguard 0-3 Month Treasury Bill ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VBIO,"Valion Bio, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VBNB,VanEck BNB ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VBNK,VersaBank - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VC,Visteon Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VCEL,Vericel Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory

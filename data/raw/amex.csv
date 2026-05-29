@@ -204,6 +204,7 @@ AMEX,NRO,Neuberger Real Estate Securities Income Fund Inc. Common Stock,Stock,,n
 AMEX,NRXS,"Neuraxis, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 AMEX,NSRX,Nasus Pharma Ltd. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,NTIP,"Network-1 Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,NXB,NextBoat Inc. Common Stcok,Stock,,nasdaq_trader_symbol_directory
 AMEX,OBE,Obsidian Energy Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,OGEN,Oragenics Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,OPHC,"OptimumBank Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -211,7 +212,6 @@ AMEX,OPP$C,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series 
 AMEX,OPTT,"Ocean Power Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 AMEX,ORLA,Orla Mining Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,OSTX,OS Therapies Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
-AMEX,OTH,Off The Hook YS Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,OZ,"Belpointe PREP, LLC Class A Units",Stock,,nasdaq_trader_symbol_directory
 AMEX,PAPL,Pineapple Financial Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,PCG$A,Pacific Gas & Electric Co. 6% Preferred Stock,Stock,,nasdaq_trader_symbol_directory
@@ -233,7 +233,6 @@ AMEX,PMNT,Perfect Moment Ltd. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,POAS,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,PRK,Park National Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,PTHS,Pelthos Therapeutics Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
-AMEX,PTN,"Palatin Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 AMEX,PW,Power REIT (MD) Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,PW$A,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,PZG,Paramount Gold Nevada Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
