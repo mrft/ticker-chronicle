@@ -25,6 +25,7 @@ AUST,AMEX,Austin Gold Corp. Common Shares,Stock,True,2026-05-08,,,1acf1d47738b8a
 AWX,AMEX,Avalon Holdings Corporation Common Stock,Stock,True,2026-05-08,,,f97f70406201cd949bf5
 AXIL,AMEX,"AXIL Brands, Inc. Common Stock",Stock,True,2026-05-08,,,64a7dd8f0c054cd363e9
 AZTR,AMEX,Azitra Inc Common Stock,Stock,True,2026-05-08,,,4f973285efdd9749130f
+AZUL,AMEX,"Azul S.A. American Depositary Shares, each representing two (2) Common Shares",Stock,True,2026-06-01,,,2f1b9ac58d6c0af22396
 BATL,AMEX,Battalion Oil Corporation Common Stock,Stock,True,2026-05-08,,,5c69af94aee5b60df9ba
 BCHT,AMEX,Birchtech Corp. Common Stock,Stock,True,2026-05-08,,,de4c5b009f31defcdb8f
 BCV,AMEX,"Bancroft Fund, Ltd.",Stock,True,2026-05-08,,,21ae716a1650bee1ba77
@@ -473,7 +474,8 @@ AGEN,NASDAQ,Agenus Inc. - Common Stock,Stock,True,2026-05-08,,,3bb30b4e6113d3452
 AGGA,NASDAQ,EA Astoria Dynamic Core US Fixed Income ETF,ETF,True,2026-05-08,,,eb32d51b332e9d4715bc
 AGH,NASDAQ,Aureus Greenway Holdings Inc. - Common Stock,Stock,False,2026-05-08,2026-05-18,Missing from current NASDAQ source snapshot; reason unavailable,52e1a9b10577e7785adc
 AGIO,NASDAQ,"Agios Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,f468688b82b18a44fc7f
-AGIX,NASDAQ,KraneShares Artificial Intelligence & Technology ETF,ETF,True,2026-05-08,,,570a2cf0af32548c107b
+AGIX,NASDAQ,KraneShares Artificial Intelligence & Technology ETF,ETF,False,2026-05-08,2026-06-01,Listing metadata changed,570a2cf0af32548c107b
+AGIX,NASDAQ,KraneShares Public-Private AI & Technology ETF,ETF,True,2026-06-01,,,3ae4ac8b5c1851f0d3b8
 AGMB,NASDAQ,AgomAb Therapeutics NV - ADRs representing one common share.,Stock,True,2026-05-08,,,2082afe4ef7adc179953
 AGMH,NASDAQ,AGM Group Holdings Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,19bbef247393d287977c
 AGMI,NASDAQ,Themes Silver Miners ETF,ETF,True,2026-05-08,,,dc1132506cc929480a10
@@ -733,6 +735,7 @@ ARXS,NASDAQ,"Arxis, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,b8ee203
 ASBP,NASDAQ,"Aspire Biopharma Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,8c9f170337ba6c201395
 ASBPW,NASDAQ,"Aspire Biopharma Holdings, Inc. - Warrant",Stock,True,2026-05-08,,,009d3f9313541da017f3
 ASCI,NASDAQ,abrdn International Small Cap Active ETF,ETF,True,2026-05-08,,,345d8767194a6da2abe2
+ASD,NASDAQ,Defiance Autism Impact ETF,ETF,True,2026-06-01,,,0b5132fdbd993514c32e
 ASEC,NASDAQ,American Century Securitized Credit ETF,ETF,True,2026-05-28,,,74aeb92089aa0e7be3ed
 ASLE,NASDAQ,AerSale Corporation - Common Stock,Stock,True,2026-05-08,,,27bbb764bc8c4d17a643
 ASMB,NASDAQ,"Assembly Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,fa6b6cadbeaeee3aeb30
@@ -943,7 +946,9 @@ BFRI,NASDAQ,Biofrontera Inc. - Common Stock,Stock,True,2026-05-08,,,9580a8ec413f
 BFRIW,NASDAQ,Biofrontera Inc. - Warrants,Stock,True,2026-05-08,,,9eba86b8f539940a9a28
 BFST,NASDAQ,"Business First Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,fea38832ae7b4366c68e
 BGC,NASDAQ,"BGC Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,7b1908a432fc6b9fc5e8
+BGCG,NASDAQ,Baillie Gifford International Concentrated Growth ETF,ETF,True,2026-06-01,,,5ac462219dabdf7e1c55
 BGDE,NASDAQ,"Big Digital Energy, Inc. - Common Stock",Stock,True,2026-05-08,,,31145be6322e22bde4dc
+BGGG,NASDAQ,Baillie Gifford Long Term Global Growth ETF,ETF,True,2026-06-01,,,e99380598ebef4ee6201
 BGIN,NASDAQ,Bgin Blockchain Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,61bd2bb385c39d96ab35
 BGL,NASDAQ,Blue Gold Limited - Class A ordinary shares,Stock,True,2026-05-08,,,e703743bf60083bc6a4f
 BGLC,NASDAQ,BioNexus Gene Lab Corp - Common stock,Stock,True,2026-05-08,,,c217f91c830792dd4f58
@@ -1845,7 +1850,7 @@ ECOW,NASDAQ,Pacer Emerging Markets Cash Cows 100 ETF,ETF,True,2026-05-08,,,475f9
 ECPG,NASDAQ,Encore Capital Group Inc - Common Stock,Stock,True,2026-05-08,,,35a3f0d8d7638ccc1a95
 ECX,NASDAQ,ECARX Holdings Inc. - Class A Ordinary shares,Stock,True,2026-05-08,,,60b8c5cd9db6f1263e36
 ECXWW,NASDAQ,ECARX Holdings Inc. - Warrants,Stock,True,2026-05-08,,,acdf75200415803ae67b
-EDAP,NASDAQ,"EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",Stock,True,2026-05-08,,,1f5a1c108926e903732d
+EDAP,NASDAQ,"EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",Stock,False,2026-05-08,2026-06-01,Missing from current NASDAQ source snapshot; reason unavailable,1f5a1c108926e903732d
 EDBL,NASDAQ,Edible Garden AG Incorporated - Common Stock,Stock,True,2026-05-08,,,5b869f8dccfad48ef74f
 EDBLW,NASDAQ,Edible Garden AG Incorporated - Warrant,Stock,True,2026-05-08,,,ae01f4c1d25c921188da
 EDHL,NASDAQ,Everbright Digital Holding Limited - Ordinary Shares,Stock,True,2026-05-08,,,ba2521f4130356a94b2c
@@ -2196,6 +2201,7 @@ FNWB,NASDAQ,First Northwest Bancorp - Common Stock,Stock,True,2026-05-08,,,f683b
 FNWD,NASDAQ,Finward Bancorp - common stock,Stock,True,2026-05-08,,,6fe838ba497bc3ab8137
 FNX,NASDAQ,First Trust Mid Cap Core AlphaDEX Fund,ETF,True,2026-05-08,,,7ae95432ffc3b2b418a7
 FNY,NASDAQ,First Trust Mid Cap Growth AlphaDEX Fund,ETF,True,2026-05-08,,,9bd9049fe840f8bfe80c
+FOCL,NASDAQ,"EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",Stock,True,2026-06-01,,,1f5a1c108926e903732d
 FOFO,NASDAQ,"Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares",Stock,True,2026-05-08,,,5d03c52fbc661e10d8bc
 FONR,NASDAQ,Fonar Corporation - Common Stock,Stock,True,2026-05-08,,,903c5913b81dac1d67fa
 FORA,NASDAQ,Forian Inc. - Common Stock,Stock,False,2026-05-08,2026-05-18,Missing from current NASDAQ source snapshot; reason unavailable,6e22ce8a4c65ee6594cd
@@ -3209,6 +3215,9 @@ LIF,NASDAQ,"Life360, Inc. - Common Stock",Stock,True,2026-05-08,,,16e5fe40725f6d
 LIFE,NASDAQ,Ethos Technologies Inc. - Class A Common Stock,Stock,True,2026-05-08,,,924323cfeca807a5df8c
 LILA,NASDAQ,Liberty Latin America Ltd. - Class A Common Stock,Stock,True,2026-05-08,,,9ab0b5840a2e447f6a0f
 LILAK,NASDAQ,Liberty Latin America Ltd. - Class C Common Stock,Stock,True,2026-05-08,,,1d80e2dcc766b1bd21ef
+LILAV,NASDAQ,Liberty Latin America Ltd - Class A Common Stock Ex-Distribution When Issued,Stock,True,2026-06-01,,,e98ad6504d9a0f2399d7
+LILKV,NASDAQ,Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued,Stock,True,2026-06-01,,,44ab7eba2f07888f3aae
+LILPV,NASDAQ,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,Stock,True,2026-06-01,,,da2783c5c8840f621b18
 LIMN,NASDAQ,"Liminatus Pharma, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,a23ab54b61e218dc2ff4
 LIMNW,NASDAQ,"Liminatus Pharma, Inc. - Warrants",Stock,True,2026-05-08,,,5bb81d83eca8b60098e2
 LIN,NASDAQ,Linde plc - Ordinary Shares,Stock,True,2026-05-08,,,64823da1497a75e2df49
@@ -4015,7 +4024,7 @@ OXLCL,NASDAQ,Oxford Lane Capital Corp. - 6.75% Notes due 2031,Stock,True,2026-05
 OXLCM,NASDAQ,"Oxford Lane Capital Corp. - Preferred Stock Shares, 8.25% Series 2031",Stock,True,2026-05-08,,,c797479712b6c741f41b
 OXLCN,NASDAQ,Oxford Lane Capital Corp. - 7.125% Series 2029 Term Preferred Stock,Stock,True,2026-05-08,,,b45f55acf798aac34f5b
 OXLCO,NASDAQ,"Oxford Lane Capital Corp. - Preferred Stock Shares, 6.00% Series 2029",Stock,True,2026-05-08,,,84eea3832d10c297679f
-OXLCP,NASDAQ,Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares,Stock,True,2026-05-08,,,4b17a846918865801a44
+OXLCP,NASDAQ,Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares,Stock,False,2026-05-08,2026-06-01,Missing from current NASDAQ source snapshot; reason unavailable,4b17a846918865801a44
 OXLCZ,NASDAQ,Oxford Lane Capital Corp. - 5.00% Notes due 2027,Stock,True,2026-05-08,,,dce45fa999623a2dccc7
 OXSQ,NASDAQ,Oxford Square Capital Corp. - Closed End Fund,Stock,True,2026-05-08,,,d51a7db34ec8d0ff5a2e
 OXSQG,NASDAQ,Oxford Square Capital Corp. - 5.50% Notes due 2028,Stock,True,2026-05-08,,,04f579e54e2cd0cd48b2
@@ -6881,8 +6890,9 @@ FCX,NYSE,"Freeport-McMoRan, Inc. Common Stock",Stock,True,2026-05-08,,,d6189ae9e
 FDP,NYSE,"Fresh Del Monte Produce, Inc. Common Stock",Stock,True,2026-05-08,,,1fe6b843d48be486e9ce
 FDS,NYSE,FactSet Research Systems Inc. Common Stock,Stock,True,2026-05-08,,,9d437874495addbe2111
 FDX,NYSE,FedEx Corporation Common Stock,Stock,True,2026-05-08,,,ddd74ed017a12c537d45
-FDX.V,NYSE,FedEx Corporation Common Stock When-Issued,Stock,True,2026-05-27,,,dc78e0bf9ec4baaebf73
-FDXF.V,NYSE,"FedEx Freight Holding Company, Inc. Common Stock When-Issued",Stock,True,2026-05-27,,,c5983a91233d143677fa
+FDX.V,NYSE,FedEx Corporation Common Stock When-Issued,Stock,False,2026-05-27,2026-06-01,Missing from current NYSE source snapshot; reason unavailable,dc78e0bf9ec4baaebf73
+FDXF,NYSE,"FedEx Freight Holding Company, Inc. Common Stock",Stock,True,2026-06-01,,,f749d83c907c290ba339
+FDXF.V,NYSE,"FedEx Freight Holding Company, Inc. Common Stock When-Issued",Stock,False,2026-05-27,2026-06-01,Missing from current NYSE source snapshot; reason unavailable,c5983a91233d143677fa
 FE,NYSE,FirstEnergy Corp. Common Stock,Stock,True,2026-05-08,,,69a7db9c8b698a7b2253
 FEDU,NYSE,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares",Stock,True,2026-05-08,,,1370c025f185fc68761f
 FEGE,NYSE,First Eagle Global Equity ETF,ETF,True,2026-05-08,,,1fba8389982246d34b5a
@@ -7782,7 +7792,7 @@ NVG,NYSE,Nuveen AMT-Free Municipal Credit Income Fund,Stock,True,2026-05-08,,,39
 NVGS,NYSE,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),Stock,True,2026-05-08,,,30c7060084443cf93a6a
 NVO,NYSE,Novo Nordisk A/S Common Stock,Stock,True,2026-05-08,,,b273bd1be9776d6d5725
 NVR,NYSE,"NVR, Inc. Common Stock",Stock,True,2026-05-08,,,72baa1c23bae6243c2b2
-NVRI,NYSE,Enviri Corporation Common Stock,Stock,True,2026-05-08,,,d20cb5db864935486c4e
+NVRI,NYSE,Enviri Corporation Common Stock,Stock,False,2026-05-08,2026-06-01,Missing from current NYSE source snapshot; reason unavailable,d20cb5db864935486c4e
 NVRI.V,NYSE,Enviri Corporation Common Stock When-Issued,Stock,True,2026-05-27,,,aaa23b7dbcc35c12d113
 NVS,NYSE,Novartis AG Common Stock,Stock,True,2026-05-08,,,947cf5e0deb3934b3a67
 NVST,NYSE,Envista Holdings Corporation Common Stock,Stock,True,2026-05-08,,,5b836671a156cce6ee28
@@ -8453,7 +8463,7 @@ THLV,NYSE,THOR Equal Weight Low Volatility ETF,ETF,True,2026-05-08,,,21720913c4e
 THMR,NYSE,THOR AdaptiveRisk Dynamic ETF,ETF,True,2026-05-08,,,e5359c7a64d1a46b3380
 THO,NYSE,"Thor Industries, Inc. Common Stock",Stock,True,2026-05-08,,,79c34de7b3c07b794a85
 THQ,NYSE,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,Stock,True,2026-05-08,,,3027ee69de4083ec9303
-THR,NYSE,"Thermon Group Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,0dd21e9eea068f216b88
+THR,NYSE,"Thermon Group Holdings, Inc. Common Stock",Stock,False,2026-05-08,2026-06-01,Missing from current NYSE source snapshot; reason unavailable,0dd21e9eea068f216b88
 THW,NYSE,abrdn World Healthcare Fund Shares of Beneficial Interest,Stock,True,2026-05-08,,,af7004493e31ccc343e5
 TIC,NYSE,"TIC Solutions, Inc. Common Stock",Stock,True,2026-05-08,,,55ea54f088be297a3914
 TIMB,NYSE,TIM S.A. American Depositary Shares (Each representing 5 Common Shares),Stock,True,2026-05-08,,,9be1061e31a6abe3ca38

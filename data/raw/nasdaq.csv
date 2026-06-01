@@ -149,7 +149,7 @@ NASDAQ,AGEM,abrdn Emerging Markets Dividend Active ETF,ETF,,nasdaq_trader_symbol
 NASDAQ,AGEN,Agenus Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGGA,EA Astoria Dynamic Core US Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AGIO,"Agios Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AGIX,KraneShares Artificial Intelligence & Technology ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AGIX,KraneShares Public-Private AI & Technology ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AGMB,AgomAb Therapeutics NV - ADRs representing one common share.,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGMH,AGM Group Holdings Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGMI,Themes Silver Miners ETF,ETF,,nasdaq_trader_symbol_directory
@@ -401,6 +401,7 @@ NASDAQ,ARXS,"Arxis, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_dir
 NASDAQ,ASBP,"Aspire Biopharma Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASBPW,"Aspire Biopharma Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASCI,abrdn International Small Cap Active ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ASD,Defiance Autism Impact ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ASEC,American Century Securitized Credit ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ASLE,AerSale Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASMB,"Assembly Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -611,7 +612,9 @@ NASDAQ,BFRI,Biofrontera Inc. - Common Stock,Stock,,nasdaq_trader_symbol_director
 NASDAQ,BFRIW,Biofrontera Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BFST,"Business First Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BGC,"BGC Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BGCG,Baillie Gifford International Concentrated Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BGDE,"Big Digital Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BGGG,Baillie Gifford Long Term Global Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BGIN,Bgin Blockchain Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BGL,Blue Gold Limited - Class A ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BGLC,BioNexus Gene Lab Corp - Common stock,Stock,,nasdaq_trader_symbol_directory
@@ -1499,7 +1502,6 @@ NASDAQ,ECOW,Pacer Emerging Markets Cash Cows 100 ETF,ETF,,nasdaq_trader_symbol_d
 NASDAQ,ECPG,Encore Capital Group Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ECX,ECARX Holdings Inc. - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ECXWW,ECARX Holdings Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,EDAP,"EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EDBL,Edible Garden AG Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EDBLW,Edible Garden AG Incorporated - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EDHL,Everbright Digital Holding Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1849,6 +1851,7 @@ NASDAQ,FNWB,First Northwest Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_d
 NASDAQ,FNWD,Finward Bancorp - common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FNX,First Trust Mid Cap Core AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FNY,First Trust Mid Cap Growth AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,FOCL,"EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FOFO,"Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FONR,Fonar Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FORM,"FormFactor, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2847,6 +2850,9 @@ NASDAQ,LIF,"Life360, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIFE,Ethos Technologies Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LILA,Liberty Latin America Ltd. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LILAK,Liberty Latin America Ltd. - Class C Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LILAV,Liberty Latin America Ltd - Class A Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LILKV,Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LILPV,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIMN,"Liminatus Pharma, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIMNW,"Liminatus Pharma, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIN,Linde plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3649,7 +3655,6 @@ NASDAQ,OXLCL,Oxford Lane Capital Corp. - 6.75% Notes due 2031,Stock,,nasdaq_trad
 NASDAQ,OXLCM,"Oxford Lane Capital Corp. - Preferred Stock Shares, 8.25% Series 2031",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OXLCN,Oxford Lane Capital Corp. - 7.125% Series 2029 Term Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OXLCO,"Oxford Lane Capital Corp. - Preferred Stock Shares, 6.00% Series 2029",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OXLCP,Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OXLCZ,Oxford Lane Capital Corp. - 5.00% Notes due 2027,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OXSQ,Oxford Square Capital Corp. - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OXSQG,Oxford Square Capital Corp. - 5.50% Notes due 2028,Stock,,nasdaq_trader_symbol_directory

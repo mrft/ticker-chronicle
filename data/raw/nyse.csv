@@ -1008,8 +1008,7 @@ NYSE,FCX,"Freeport-McMoRan, Inc. Common Stock",Stock,,nasdaq_trader_symbol_direc
 NYSE,FDP,"Fresh Del Monte Produce, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FDS,FactSet Research Systems Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FDX,FedEx Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,FDX.V,FedEx Corporation Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
-NYSE,FDXF.V,"FedEx Freight Holding Company, Inc. Common Stock When-Issued",Stock,,nasdaq_trader_symbol_directory
+NYSE,FDXF,"FedEx Freight Holding Company, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FE,FirstEnergy Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FEDU,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,FEGE,First Eagle Global Equity ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1904,7 +1903,6 @@ NYSE,NVG,Nuveen AMT-Free Municipal Credit Income Fund,Stock,,nasdaq_trader_symbo
 NYSE,NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),Stock,,nasdaq_trader_symbol_directory
 NYSE,NVO,Novo Nordisk A/S Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVR,"NVR, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,NVRI,Enviri Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVRI.V,Enviri Corporation Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVS,Novartis AG Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVST,Envista Holdings Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2575,7 +2573,6 @@ NYSE,THLV,THOR Equal Weight Low Volatility ETF,ETF,,nasdaq_trader_symbol_directo
 NYSE,THMR,THOR AdaptiveRisk Dynamic ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,THO,"Thor Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,THQ,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,THR,"Thermon Group Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,THW,abrdn World Healthcare Fund Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,TIC,"TIC Solutions, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares),Stock,,nasdaq_trader_symbol_directory
