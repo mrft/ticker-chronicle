@@ -368,8 +368,8 @@ ABTC,NASDAQ,American Bitcoin Corp. - Class A Common Stock,Stock,True,2026-05-08,
 ABTS,NASDAQ,Abits Group Inc - Ordinary Shares,Stock,True,2026-05-08,,,ab224de0a131c59acb87
 ABUS,NASDAQ,Arbutus Biopharma Corporation - Common Stock,Stock,True,2026-05-08,,,220561bd827bae1f3c94
 ABVC,NASDAQ,"ABVC BioPharma, Inc. - Common Stock",Stock,True,2026-05-08,,,2f7e2a7d3afefcbd8b64
-ABVE,NASDAQ,Above Food Ingredients Inc. - Common Stock,Stock,True,2026-05-08,,,291204f164a791192bc6
-ABVEW,NASDAQ,Above Food Ingredients Inc. - Warrant,Stock,True,2026-05-08,,,6f47974d2c2f47f9de26
+ABVE,NASDAQ,Above Food Ingredients Inc. - Common Stock,Stock,False,2026-05-08,2026-06-02,Missing from current NASDAQ source snapshot; reason unavailable,291204f164a791192bc6
+ABVEW,NASDAQ,Above Food Ingredients Inc. - Warrant,Stock,False,2026-05-08,2026-06-02,Missing from current NASDAQ source snapshot; reason unavailable,6f47974d2c2f47f9de26
 ABVX,NASDAQ,Abivax SA - American Depositary Shares,Stock,True,2026-05-08,,,d9c9b39297d8469563f6
 ACAA,NASDAQ,Averin Capital Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,f60c2e661d34b6f3d62a
 ACAAU,NASDAQ,Averin Capital Acquisition Corp. - Units,Stock,True,2026-05-08,,,911b88d6cce13899f0d2
@@ -2108,7 +2108,7 @@ FEX,NASDAQ,First Trust Large Cap Core AlphaDEX Fund,ETF,True,2026-05-08,,,1e13e0
 FFAI,NASDAQ,Faraday Future Intelligent Electric Inc. - Class A Common Stock,Stock,True,2026-05-08,,,7ef6a88b699fac9d0778
 FFAIW,NASDAQ,Faraday Future Intelligent Electric Inc. - Warrant,Stock,True,2026-05-08,,,8ab1c6553a9bb0801b3d
 FFBC,NASDAQ,First Financial Bancorp. - Common Stock,Stock,True,2026-05-08,,,58dd83c6573b6f684257
-FFIC,NASDAQ,Flushing Financial Corporation - Common Stock,Stock,True,2026-05-08,,,fd2a62b188a4d1f29ba1
+FFIC,NASDAQ,Flushing Financial Corporation - Common Stock,Stock,False,2026-05-08,2026-06-02,Missing from current NASDAQ source snapshot; reason unavailable,fd2a62b188a4d1f29ba1
 FFIN,NASDAQ,"First Financial Bankshares, Inc. - Common Stock",Stock,True,2026-05-08,,,75bc84d4c05fcc5f9e81
 FFIV,NASDAQ,"F5, Inc. - Common Stock",Stock,True,2026-05-08,,,a549b1b06913e92b659b
 FFUT,NASDAQ,Fidelity Managed Futures ETF,ETF,True,2026-05-08,,,9756dbee0b367e087921
@@ -6627,12 +6627,15 @@ DBRG,NYSE,"DigitalBridge Group, Inc.",Stock,True,2026-05-08,,,8f99dee9a5fcf64422
 DBRG$H,NYSE,"DigitalBridge Group, Inc. 7.125% Series H",Stock,True,2026-05-08,,,ca2e8c5063cd78746f44
 DBRG$I,NYSE,"DigitalBridge Group, Inc. 7.15% Series I",Stock,True,2026-05-08,,,bae8cf4e75c52b6b6ca2
 DBRG$J,NYSE,"DigitalBridge Group, Inc. 7.125% Series J",Stock,True,2026-05-08,,,d1432f83a05f232688c8
-DCBG,NYSE,"Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",Stock,True,2026-05-08,,,5a75810f6c8e8215b8dd
+DCBG,NYSE,"Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",Stock,False,2026-05-08,2026-06-02,Listing metadata changed,5a75810f6c8e8215b8dd
+DCBG,NYSE,"Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes",Stock,True,2026-06-02,,,2f7c58986c67d57cab08
 DCH,NYSE,Dauch Corporation Common Stock,Stock,True,2026-05-08,,,b7ea8cb1007f6cca00be
 DCI,NYSE,"Donaldson Company, Inc. Common Stock",Stock,True,2026-05-08,,,ddbb7b1ce1e44f4b305f
 DCO,NYSE,Ducommun Incorporated Common Stock,Stock,True,2026-05-08,,,926781f0e4737219589b
-DCOM,NYSE,"Dime Community Bancshares, Inc. Common Stock",Stock,True,2026-05-08,,,d1ac5bddfc2015f77995
-DCOM$,NYSE,"Dime Community Bancshares, Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",Stock,True,2026-05-08,,,c3f17667c26ed846f844
+DCOM,NYSE,"Dime Community Bancshares, Inc. Common Stock",Stock,False,2026-05-08,2026-06-02,Listing metadata changed,d1ac5bddfc2015f77995
+DCOM,NYSE,"Dime Commercial Bancshares, Inc. Common Stock",Stock,True,2026-06-02,,,32e3b963152cc4010503
+DCOM$,NYSE,"Dime Community Bancshares, Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",Stock,False,2026-05-08,2026-06-02,Listing metadata changed,c3f17667c26ed846f844
+DCOM$,NYSE,"Dime Commercial Bancshares, Inc. Preferred Stock, Series A",Stock,True,2026-06-02,,,fbc06e0e5a2f656501f3
 DD,NYSE,"DuPont de Nemours, Inc. Common Stock",Stock,True,2026-05-08,,,80a2ad6fc11f66adc72c
 DDD,NYSE,3D Systems Corporation Common Stock,Stock,True,2026-05-08,,,d504ce2b1a5c58851aeb
 DDL,NYSE,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),Stock,True,2026-05-08,,,70ee84a78c4d86be8e0d
@@ -7793,7 +7796,8 @@ NVGS,NYSE,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),Stock,True,
 NVO,NYSE,Novo Nordisk A/S Common Stock,Stock,True,2026-05-08,,,b273bd1be9776d6d5725
 NVR,NYSE,"NVR, Inc. Common Stock",Stock,True,2026-05-08,,,72baa1c23bae6243c2b2
 NVRI,NYSE,Enviri Corporation Common Stock,Stock,False,2026-05-08,2026-06-01,Missing from current NYSE source snapshot; reason unavailable,d20cb5db864935486c4e
-NVRI.V,NYSE,Enviri Corporation Common Stock When-Issued,Stock,True,2026-05-27,,,aaa23b7dbcc35c12d113
+NVRI,NYSE,Enviri Corporation Common Stock,Stock,True,2026-06-02,,,d20cb5db864935486c4e
+NVRI.V,NYSE,Enviri Corporation Common Stock When-Issued,Stock,False,2026-05-27,2026-06-02,Missing from current NYSE source snapshot; reason unavailable,aaa23b7dbcc35c12d113
 NVS,NYSE,Novartis AG Common Stock,Stock,True,2026-05-08,,,947cf5e0deb3934b3a67
 NVST,NYSE,Envista Holdings Corporation Common Stock,Stock,True,2026-05-08,,,5b836671a156cce6ee28
 NVT,NYSE,nVent Electric plc Ordinary Shares,Stock,True,2026-05-08,,,46d3d0de134055349902
@@ -8663,10 +8667,11 @@ VPV,NYSE,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),Sto
 VRE,NYSE,"Veris Residential, Inc. Common Stock",Stock,False,2026-05-08,2026-05-27,Missing from current NYSE source snapshot; reason unavailable,2295282cac31c5eec0d8
 VRT,NYSE,"Vertiv Holdings, LLC Class A Common Stock",Stock,True,2026-05-08,,,288e57a8adfa15fff6ee
 VRTS,NYSE,"Virtus Investment Partners, Inc. Common Stock",Stock,True,2026-05-08,,,a87415fb99a48d15a07b
-VSCO,NYSE,Victorias Secret & Co. Common Stock,Stock,True,2026-05-08,,,8bf78898a98b157fd61a
+VSCO,NYSE,Victorias Secret & Co. Common Stock,Stock,False,2026-05-08,2026-06-02,Missing from current NYSE source snapshot; reason unavailable,8bf78898a98b157fd61a
 VSH,NYSE,"Vishay Intertechnology, Inc. Common Stock",Stock,True,2026-05-08,,,1deabdb26277ad541315
 VST,NYSE,Vistra Corp. Common Stock,Stock,True,2026-05-08,,,f00d373258a961b43e6a
 VSTS,NYSE,Vestis Corporation Common Stock,Stock,True,2026-05-08,,,66373884d98a7680e831
+VSXY,NYSE,Victorias Secret & Co. Common Stock,Stock,True,2026-06-02,,,8bf78898a98b157fd61a
 VTEX,NYSE,VTEX Class A Common Shares,Stock,True,2026-05-08,,,e018a66015261343d1e9
 VTMX,NYSE,"Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares",Stock,True,2026-05-08,,,090f315467412c92106c
 VTN,NYSE,Invesco Trust for Investment Grade New York Municipals Common Stock,Stock,True,2026-05-08,,,fd22e27c922eae091585

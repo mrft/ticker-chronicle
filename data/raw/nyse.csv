@@ -752,12 +752,12 @@ NYSE,DBRG,"DigitalBridge Group, Inc.",Stock,,nasdaq_trader_symbol_directory
 NYSE,DBRG$H,"DigitalBridge Group, Inc. 7.125% Series H",Stock,,nasdaq_trader_symbol_directory
 NYSE,DBRG$I,"DigitalBridge Group, Inc. 7.15% Series I",Stock,,nasdaq_trader_symbol_directory
 NYSE,DBRG$J,"DigitalBridge Group, Inc. 7.125% Series J",Stock,,nasdaq_trader_symbol_directory
-NYSE,DCBG,"Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",Stock,,nasdaq_trader_symbol_directory
+NYSE,DCBG,"Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes",Stock,,nasdaq_trader_symbol_directory
 NYSE,DCH,Dauch Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DCI,"Donaldson Company, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,DCO,Ducommun Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,DCOM,"Dime Community Bancshares, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,DCOM$,"Dime Community Bancshares, Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory
+NYSE,DCOM,"Dime Commercial Bancshares, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,DCOM$,"Dime Commercial Bancshares, Inc. Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory
 NYSE,DD,"DuPont de Nemours, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,DDD,3D Systems Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
@@ -1903,7 +1903,7 @@ NYSE,NVG,Nuveen AMT-Free Municipal Credit Income Fund,Stock,,nasdaq_trader_symbo
 NYSE,NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),Stock,,nasdaq_trader_symbol_directory
 NYSE,NVO,Novo Nordisk A/S Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVR,"NVR, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,NVRI.V,Enviri Corporation Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
+NYSE,NVRI,Enviri Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVS,Novartis AG Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVST,Envista Holdings Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NVT,nVent Electric plc Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2769,10 +2769,10 @@ NYSE,VPG,"Vishay Precision Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol
 NYSE,VPV,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),Stock,,nasdaq_trader_symbol_directory
 NYSE,VRT,"Vertiv Holdings, LLC Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VRTS,"Virtus Investment Partners, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,VSCO,Victorias Secret & Co. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VSH,"Vishay Intertechnology, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VST,Vistra Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VSTS,Vestis Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,VSXY,Victorias Secret & Co. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VTEX,VTEX Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,VTMX,"Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,VTN,Invesco Trust for Investment Grade New York Municipals Common Stock,Stock,,nasdaq_trader_symbol_directory

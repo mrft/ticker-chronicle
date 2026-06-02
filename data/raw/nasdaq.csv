@@ -45,8 +45,6 @@ NASDAQ,ABTC,American Bitcoin Corp. - Class A Common Stock,Stock,,nasdaq_trader_s
 NASDAQ,ABTS,Abits Group Inc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ABUS,Arbutus Biopharma Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ABVC,"ABVC BioPharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ABVE,Above Food Ingredients Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ABVEW,Above Food Ingredients Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ABVX,Abivax SA - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACAA,Averin Capital Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACAAU,Averin Capital Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
@@ -1758,7 +1756,6 @@ NASDAQ,FEX,First Trust Large Cap Core AlphaDEX Fund,ETF,,nasdaq_trader_symbol_di
 NASDAQ,FFAI,Faraday Future Intelligent Electric Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFAIW,Faraday Future Intelligent Electric Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFBC,First Financial Bancorp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FFIC,Flushing Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFIN,"First Financial Bankshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFIV,"F5, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFUT,Fidelity Managed Futures ETF,ETF,,nasdaq_trader_symbol_directory
