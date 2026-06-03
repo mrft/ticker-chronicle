@@ -167,6 +167,7 @@ LEGT.U,AMEX,"Legato Merger Corp. III Units, each consisting of one Ordinary Shar
 LEGT.W,AMEX,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,2e60072df9f1cd08476a
 LGCY,AMEX,Legacy Education Inc. Common Stock,Stock,True,2026-05-08,,,ee60c19e93b854d4ac15
 LGL,AMEX,"LGL Group, Inc. (The) Common Stock",Stock,True,2026-05-08,,,dd6ba3588c3d01e7f3b0
+LGL.V,AMEX,"LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued",Stock,True,2026-06-03,,,7188be84ea449883eecb
 LGPS,AMEX,LogProstyle Inc. Common Shares,Stock,True,2026-05-08,,,baaab61933d04a9fe298
 LODE,AMEX,Comstock Inc. Common Stock,Stock,True,2026-05-08,,,d7e02745e129a354a751
 LPA,AMEX,Logistic Properties of the Americas Ordinary Shares,Stock,True,2026-05-08,,,8f71ff71a35f23edfdd2
@@ -454,6 +455,7 @@ AENTW,NASDAQ,Alliance Entertainment Holding Corporation - Warrants,Stock,True,20
 AEP,NASDAQ,"American Electric Power Company, Inc. - Common Stock",Stock,True,2026-05-08,,,10226d98c96f7b2eda17
 AERT,NASDAQ,"Aeries Technology, Inc. - Class A Ordinary Share",Stock,True,2026-05-08,,,fefa236e3ac36e621399
 AERTW,NASDAQ,"Aeries Technology, Inc. - Warrant",Stock,True,2026-05-08,,,f4df86c036bb879649fe
+AESPU,NASDAQ,Aeon Acquisition I Corp. - Units,Stock,True,2026-06-03,,,ddf1dd6c68c03f22463b
 AEVA,NASDAQ,"Aeva Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,0f2f504cb14bb2969169
 AEYE,NASDAQ,"AudioEye, Inc. - Common Stock",Stock,True,2026-05-08,,,619b7872bfc83aeb53f9
 AFBI,NASDAQ,"Affinity Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,e39cceb99cecd19aedfc
@@ -669,6 +671,7 @@ APLM,NASDAQ,Apollomics Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,b7
 APLMW,NASDAQ,Apollomics Inc. - Warrant,Stock,True,2026-05-08,,,1f4416d40c9fb30545f5
 APLS,NASDAQ,"Apellis Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-15,Missing from current NASDAQ source snapshot; reason unavailable,f4a2c9a60e63d2dba774
 APM,NASDAQ,Aptorum Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,ae05f45e0b86e546450b
+APMCU,NASDAQ,AmperCap Acquisition Company - Unit,Stock,True,2026-06-03,,,f514a79c00f20454251f
 APOG,NASDAQ,"Apogee Enterprises, Inc. - Common Stock",Stock,True,2026-05-08,,,fb53576ed337d7abe6c5
 APP,NASDAQ,Applovin Corporation - Class A Common Stock,Stock,True,2026-05-08,,,fbdb0e35bffed5c0562f
 APPF,NASDAQ,"AppFolio, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,244ebfd50f3ca6aa2e1a
@@ -948,7 +951,9 @@ BFST,NASDAQ,"Business First Bancshares, Inc. - Common Stock",Stock,True,2026-05-
 BGC,NASDAQ,"BGC Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,7b1908a432fc6b9fc5e8
 BGCG,NASDAQ,Baillie Gifford International Concentrated Growth ETF,ETF,True,2026-06-01,,,5ac462219dabdf7e1c55
 BGDE,NASDAQ,"Big Digital Energy, Inc. - Common Stock",Stock,True,2026-05-08,,,31145be6322e22bde4dc
+BGEG,NASDAQ,Baillie Gifford Emerging Markets ETF,ETF,True,2026-06-03,,,43c9eefd833c38d5321f
 BGGG,NASDAQ,Baillie Gifford Long Term Global Growth ETF,ETF,True,2026-06-01,,,e99380598ebef4ee6201
+BGIA,NASDAQ,Baillie Gifford International Alpha ETF,ETF,True,2026-06-03,,,05897ad783ee361d13f9
 BGIN,NASDAQ,Bgin Blockchain Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,61bd2bb385c39d96ab35
 BGL,NASDAQ,Blue Gold Limited - Class A ordinary shares,Stock,True,2026-05-08,,,e703743bf60083bc6a4f
 BGLC,NASDAQ,BioNexus Gene Lab Corp - Common stock,Stock,True,2026-05-08,,,c217f91c830792dd4f58
@@ -2710,6 +2715,7 @@ HYMC,NASDAQ,Hycroft Mining Holding Corporation - Class A Common Stock,Stock,True
 HYNE,NASDAQ,"Hoyne Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,b3db3ae63a31196f8941
 HYP,NASDAQ,Golden Eagle Dynamic Hypergrowth ETF,ETF,True,2026-05-08,,,7abc73f55a119e7a5599
 HYPD,NASDAQ,"Hyperion DeFi, Inc. - Common Stock",Stock,True,2026-05-08,,,aa07b5ffaca04609652e
+HYPG,NASDAQ,Grayscale Hyperliquid Staking ETF,ETF,True,2026-06-03,,,06c6d8ce35dee4e2f035
 HYPR,NASDAQ,"Hyperfine, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,25aba84390348c2ed3c2
 HYXF,NASDAQ,iShares ESG Advanced High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,0650317dba1a5879388f
 HYZD,NASDAQ,WisdomTree Interest Rate Hedged High Yield Bond Fund,ETF,True,2026-05-08,,,128a233fe6e84b5e6aab
@@ -3047,6 +3053,7 @@ KEEL,NASDAQ,Keel Infrastructure Corp. - Common Stock,Stock,True,2026-05-08,,,a79
 KELYA,NASDAQ,"Kelly Services, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,0d98ffcbdf06c8f9690b
 KELYB,NASDAQ,"Kelly Services, Inc. - Class B Common Stock",Stock,True,2026-05-08,,,0765144da5b953f590d9
 KEQU,NASDAQ,Kewaunee Scientific Corporation - Common Stock,Stock,True,2026-05-08,,,fc7272e9ebc3bc2f1082
+KEYYU,NASDAQ,Keystone Acquisition Corp. - Unit,Stock,True,2026-06-03,,,a021fe2cc59defd1a903
 KFFB,NASDAQ,Kentucky First Federal Bancorp - Common Stock,Stock,True,2026-05-08,,,ebc518147d3bce9ea00b
 KFII,NASDAQ,K&F Growth Acquisition Corp. II - Class A Ordinary shares,Stock,True,2026-05-08,,,c32d79d27b6f3ff9e697
 KFIIR,NASDAQ,K&F Growth Acquisition Corp. II - Rights,Stock,True,2026-05-08,,,732e75c0a1d3ce2c83b7
@@ -3055,8 +3062,10 @@ KG,NASDAQ,"Kestrel Group, Ltd. - Common Stock",Stock,True,2026-05-08,,,451cf5ee7
 KGEI,NASDAQ,Kolibri Global Energy Inc. - Common stock,Stock,True,2026-05-08,,,6f5cdff12c424a257dee
 KHC,NASDAQ,The Kraft Heinz Company - Common Stock,Stock,True,2026-05-08,,,c947b7f1f291fa8eee64
 KIDS,NASDAQ,OrthoPediatrics Corp. - Common Stock,Stock,True,2026-05-08,,,e23a2f779dfdac172012
-KIDZ,NASDAQ,"Classover Holdings, Inc. - Class B Common Stock",Stock,True,2026-05-08,,,4cf1fa984640e6bf3b6f
-KIDZW,NASDAQ,"Classover Holdings, Inc. - Warrants",Stock,True,2026-05-08,,,9c7e1916daff8f1e7d47
+KIDZ,NASDAQ,"Classover Holdings, Inc. - Class B Common Stock",Stock,False,2026-05-08,2026-06-03,Listing metadata changed,4cf1fa984640e6bf3b6f
+KIDZ,NASDAQ,KIDZ AI Inc. - Class B Common Stock,Stock,True,2026-06-03,,,9153493e9396163233ca
+KIDZW,NASDAQ,"Classover Holdings, Inc. - Warrants",Stock,False,2026-05-08,2026-06-03,Listing metadata changed,9c7e1916daff8f1e7d47
+KIDZW,NASDAQ,KIDZ AI Inc. - Warrants,Stock,True,2026-06-03,,,29197d93f8109adf97f1
 KINS,NASDAQ,"Kingstone Companies, Inc - Common Stock",Stock,True,2026-05-08,,,b82e2be1a8f7409502d2
 KIQQ,NASDAQ,KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF,ETF,True,2026-05-08,,,f5b0dbc6ed82439b371c
 KITT,NASDAQ,"Nauticus Robotics, Inc. - Common stock",Stock,True,2026-05-08,,,ac269a730fcd5b5aa534
@@ -3855,7 +3864,7 @@ NXGLW,NASDAQ,"NexGel, Inc - Warrant",Stock,True,2026-05-08,,,0fd920e7f5d9cc926fb
 NXL,NASDAQ,"Nexalin Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,67e30d403c5edf3e4012
 NXPI,NASDAQ,NXP Semiconductors N.V. - Common Stock,Stock,True,2026-05-08,,,0ccc8863dc2d7d693989
 NXPL,NASDAQ,NextPlat Corp - Common Stock,Stock,True,2026-05-08,,,fda1ec5ef8a103bf66ec
-NXPLW,NASDAQ,NextPlat Corp - Warrants,Stock,True,2026-05-08,,,10e200eee9198ed7bae6
+NXPLW,NASDAQ,NextPlat Corp - Warrants,Stock,False,2026-05-08,2026-06-03,Missing from current NASDAQ source snapshot; reason unavailable,10e200eee9198ed7bae6
 NXST,NASDAQ,"Nexstar Media Group, Inc. - Common Stock",Stock,True,2026-05-08,,,60dc4706da0fb9c2f6fc
 NXT,NASDAQ,Nextpower Inc. - Class A Common Stock,Stock,True,2026-05-08,,,51225fa05aafa3d9f895
 NXTC,NASDAQ,"NextCure, Inc. - Common Stock",Stock,True,2026-05-08,,,ebbd6d40c45d493cea82
@@ -4073,6 +4082,7 @@ PAYX,NASDAQ,"Paychex, Inc. - Common Stock",Stock,True,2026-05-08,,,7c7e2added74a
 PBEU,NASDAQ,Portfolio Building Block European Banks Index ETF,ETF,True,2026-05-08,,,416cdc4b364b7e0ee082
 PBFS,NASDAQ,"Pioneer Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,ba94f2b286a39a60fcd3
 PBHC,NASDAQ,"Pathfinder Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,ff28498c60b01c03e4c8
+PBK,NASDAQ,PowerBank Corporation - Common Stock,Stock,True,2026-06-03,,,f03a28abf1e12b3e23a3
 PBM,NASDAQ,Psyence Biomedical Ltd. - Common Shares,Stock,True,2026-05-08,,,10701fc3a7eb767f0e60
 PBMWW,NASDAQ,Psyence Biomedical Ltd. - Warrant,Stock,True,2026-05-08,,,9eea21e54e2b2b57b11b
 PBOG,NASDAQ,Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF,ETF,True,2026-05-08,,,2f513d7ad955bd9d53e8
@@ -5035,7 +5045,7 @@ SURG,NASDAQ,"SurgePays, Inc. - Common Stock",Stock,True,2026-05-08,,,3f379144aa1
 SUSB,NASDAQ,iShares ESG Aware 1-5 Year USD Corporate Bond ETF,ETF,True,2026-05-08,,,6d23e54c9b97bca0a642
 SUSC,NASDAQ,iShares ESG Aware USD Corporate Bond ETF,ETF,True,2026-05-08,,,83020e532df689d56bcf
 SUSL,NASDAQ,iShares ESG MSCI USA Leaders ETF,ETF,True,2026-05-08,,,d36ab72e9368ed7c7e8e
-SUUN,NASDAQ,PowerBank Corporation - Common Stock,Stock,True,2026-05-08,,,f03a28abf1e12b3e23a3
+SUUN,NASDAQ,PowerBank Corporation - Common Stock,Stock,False,2026-05-08,2026-06-03,Missing from current NASDAQ source snapshot; reason unavailable,f03a28abf1e12b3e23a3
 SVA,NASDAQ,"Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",Stock,True,2026-05-08,,,89c4e647cda56895dd14
 SVAC,NASDAQ,Spring Valley Acquisition Corp. III - Class A Ordinary Shares,Stock,True,2026-05-08,,,7767d47e0bda4c6f7a0a
 SVACU,NASDAQ,Spring Valley Acquisition Corp. III - Unit,Stock,True,2026-05-08,,,21a26b356978cff5ecbf
@@ -5273,6 +5283,8 @@ TRUD,NASDAQ,VanEck Consumer Discretionary TruSector ETF,ETF,True,2026-05-08,,,ca
 TRUF,NASDAQ,VanEck Financials TruSector ETF,ETF,True,2026-05-08,,,23600c15bcdd80d13ef7
 TRUG,NASDAQ,"TruGolf Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,9353b978f4bcc5a0e6cb
 TRUH,NASDAQ,VanEck Healthcare TruSector ETF,ETF,True,2026-05-08,,,e8cda0ba4ffaf20ca139
+TRUI,NASDAQ,VanEck Industrials TruSector ETF,ETF,True,2026-06-03,,,874cb9ec23ad65f00443
+TRUO,NASDAQ,VanEck Consumer Staples TruSector ETF,ETF,True,2026-06-03,,,44286e1e564df1e6d1e1
 TRUP,NASDAQ,"Trupanion, Inc. - Common Stock",Stock,True,2026-05-08,,,b4cc06895462b4ca705d
 TRUT,NASDAQ,VanEck Technology TruSector ETF,ETF,True,2026-05-08,,,e00c99ce40123681930b
 TRVG,NASDAQ,trivago N.V. - American Depositary Shares,Stock,True,2026-05-08,,,b83329123b7ed7cb6698
@@ -5872,6 +5884,7 @@ ZYBT,NASDAQ,Zhengye Biotechnology Holding Limited - Class A Ordinary Shares,Stoc
 ZYME,NASDAQ,Zymeworks Inc. - Common Stock,Stock,True,2026-05-08,,,31502e4d1105beca52ab
 A,NYSE,"Agilent Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,d01e8cf537eac6e34990
 AA,NYSE,Alcoa Corporation Common Stock,Stock,True,2026-05-08,,,af6ab8a6bd9068361d8a
+AADX,NYSE,"Applied Aerospace & Defense, Inc. Common Stock",Stock,True,2026-06-03,,,b8694537fa15a560e332
 AAMI,NYSE,Acadian Asset Management Inc. Common Stock,Stock,True,2026-05-08,,,0b580c1dd264d8142ebd
 AAP,NYSE,Advance Auto Parts Inc.,Stock,True,2026-05-08,,,1682dd1923bbb67105d4
 AAT,NYSE,"American Assets Trust, Inc. Common Stock",Stock,True,2026-05-08,,,138f7a2c7bbb42f6ac24
@@ -7937,6 +7950,7 @@ PFE,NYSE,"Pfizer, Inc. Common Stock",Stock,True,2026-05-08,,,7143ac3662a997a337f
 PFGC,NYSE,Performance Food Group Company Common Stock,Stock,True,2026-05-08,,,6b107fee788abc65e72b
 PFH,NYSE,"Prudential Financial, Inc. 4.125% Junior Subordinated Notes due 2060",Stock,True,2026-05-08,,,82640fdad4ec2e1d565a
 PFL,NYSE,PIMCO Income Strategy Fund Shares of Beneficial Interest,Stock,True,2026-05-08,,,bda27f6f953861262e7c
+PFLA,NYSE,PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031,Stock,True,2026-06-03,,,8078e3f3ad41321951ed
 PFLT,NYSE,PennantPark Floating Rate Capital Ltd. Common Stock,Stock,True,2026-05-08,,,0bd5c63fe84a601b3d9a
 PFN,NYSE,PIMCO Income Strategy Fund II,Stock,True,2026-05-08,,,607981cf6c38e11125d0
 PFO,NYSE,Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated,Stock,True,2026-05-08,,,d57882e5b963a59fc30b

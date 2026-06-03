@@ -129,6 +129,7 @@ NASDAQ,AENTW,Alliance Entertainment Holding Corporation - Warrants,Stock,,nasdaq
 NASDAQ,AEP,"American Electric Power Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AERT,"Aeries Technology, Inc. - Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AERTW,"Aeries Technology, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AESPU,Aeon Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AEVA,"Aeva Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AEYE,"AudioEye, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AFBI,"Affinity Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -335,6 +336,7 @@ NASDAQ,APLD,Applied Digital Corporation - Common Stock,Stock,,nasdaq_trader_symb
 NASDAQ,APLM,Apollomics Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLMW,Apollomics Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APM,Aptorum Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,APMCU,AmperCap Acquisition Company - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APOG,"Apogee Enterprises, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APP,Applovin Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APPF,"AppFolio, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -612,7 +614,9 @@ NASDAQ,BFST,"Business First Bancshares, Inc. - Common Stock",Stock,,nasdaq_trade
 NASDAQ,BGC,"BGC Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BGCG,Baillie Gifford International Concentrated Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BGDE,"Big Digital Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BGEG,Baillie Gifford Emerging Markets ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BGGG,Baillie Gifford Long Term Global Growth ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BGIA,Baillie Gifford International Alpha ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BGIN,Bgin Blockchain Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BGL,Blue Gold Limited - Class A ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BGLC,BioNexus Gene Lab Corp - Common stock,Stock,,nasdaq_trader_symbol_directory
@@ -2349,6 +2353,7 @@ NASDAQ,HYMC,Hycroft Mining Holding Corporation - Class A Common Stock,Stock,,nas
 NASDAQ,HYNE,"Hoyne Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HYP,Golden Eagle Dynamic Hypergrowth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HYPD,"Hyperion DeFi, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HYPG,Grayscale Hyperliquid Staking ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HYPR,"Hyperfine, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HYXF,iShares ESG Advanced High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,ETF,,nasdaq_trader_symbol_directory
@@ -2681,6 +2686,7 @@ NASDAQ,KEEL,Keel Infrastructure Corp. - Common Stock,Stock,,nasdaq_trader_symbol
 NASDAQ,KELYA,"Kelly Services, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KELYB,"Kelly Services, Inc. - Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KEQU,Kewaunee Scientific Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KEYYU,Keystone Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KFFB,Kentucky First Federal Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KFII,K&F Growth Acquisition Corp. II - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KFIIR,K&F Growth Acquisition Corp. II - Rights,Stock,,nasdaq_trader_symbol_directory
@@ -2689,8 +2695,8 @@ NASDAQ,KG,"Kestrel Group, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_direc
 NASDAQ,KGEI,Kolibri Global Energy Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KHC,The Kraft Heinz Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KIDS,OrthoPediatrics Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KIDZ,"Classover Holdings, Inc. - Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KIDZW,"Classover Holdings, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KIDZ,KIDZ AI Inc. - Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KIDZW,KIDZ AI Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KINS,"Kingstone Companies, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KIQQ,KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KITT,"Nauticus Robotics, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
@@ -3485,7 +3491,6 @@ NASDAQ,NXGLW,"NexGel, Inc - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXL,"Nexalin Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXPI,NXP Semiconductors N.V. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXPL,NextPlat Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NXPLW,NextPlat Corp - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXST,"Nexstar Media Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXT,Nextpower Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXTC,"NextCure, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3700,6 +3705,7 @@ NASDAQ,PAYX,"Paychex, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PBEU,Portfolio Building Block European Banks Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PBFS,"Pioneer Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PBHC,"Pathfinder Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PBK,PowerBank Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PBM,Psyence Biomedical Ltd. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PBMWW,Psyence Biomedical Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PBOG,Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4654,7 +4660,6 @@ NASDAQ,SURG,"SurgePays, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directo
 NASDAQ,SUSB,iShares ESG Aware 1-5 Year USD Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SUSC,iShares ESG Aware USD Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SUSL,iShares ESG MSCI USA Leaders ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,SUUN,PowerBank Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVA,"Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVAC,Spring Valley Acquisition Corp. III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVACU,Spring Valley Acquisition Corp. III - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -4891,6 +4896,8 @@ NASDAQ,TRUD,VanEck Consumer Discretionary TruSector ETF,ETF,,nasdaq_trader_symbo
 NASDAQ,TRUF,VanEck Financials TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRUG,"TruGolf Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRUH,VanEck Healthcare TruSector ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TRUI,VanEck Industrials TruSector ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TRUO,VanEck Consumer Staples TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRUP,"Trupanion, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRUT,VanEck Technology TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRVG,trivago N.V. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory

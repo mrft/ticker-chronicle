@@ -1,6 +1,7 @@
 Exchange,Symbol,Name,InstrumentType,FirstIpoDate,Source
 NYSE,A,"Agilent Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,AA,Alcoa Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,AADX,"Applied Aerospace & Defense, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,AAMI,Acadian Asset Management Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AAP,Advance Auto Parts Inc.,Stock,,nasdaq_trader_symbol_directory
 NYSE,AAT,"American Assets Trust, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2043,6 +2044,7 @@ NYSE,PFE,"Pfizer, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PFGC,Performance Food Group Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PFH,"Prudential Financial, Inc. 4.125% Junior Subordinated Notes due 2060",Stock,,nasdaq_trader_symbol_directory
 NYSE,PFL,PIMCO Income Strategy Fund Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+NYSE,PFLA,PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031,Stock,,nasdaq_trader_symbol_directory
 NYSE,PFLT,PennantPark Floating Rate Capital Ltd. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PFN,PIMCO Income Strategy Fund II,Stock,,nasdaq_trader_symbol_directory
 NYSE,PFO,Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated,Stock,,nasdaq_trader_symbol_directory
