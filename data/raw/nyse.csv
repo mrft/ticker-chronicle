@@ -959,7 +959,9 @@ NYSE,ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares o
 NYSE,ETN,"Eaton Corporation, PLC Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,ETO,Eaton Vance Tax-Advantage Global Dividend Opp Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ETR,Entergy Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,ETSS,Energy Transition Special Opportunities Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,ETSS.U,"Energy Transition Special Opportunities Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
+NYSE,ETSS.W,"Energy Transition Special Opportunities Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NYSE,ETSY,"Etsy, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ETV,Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,ETW,Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
@@ -2466,6 +2468,7 @@ NYSE,SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,
 NYSE,SSB,SouthState Bank Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SSD,"Simpson Manufacturing Company, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SSL,Sasol Ltd. American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,SSMR,Sunshine Silver Mining & Refining Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SST,"System1, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SSTK,"Shutterstock, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ST,Sensata Technologies Holding plc Ordinary Shares,Stock,,nasdaq_trader_symbol_directory

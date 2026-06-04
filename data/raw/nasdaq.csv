@@ -1854,7 +1854,6 @@ NASDAQ,FNX,First Trust Mid Cap Core AlphaDEX Fund,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,FNY,First Trust Mid Cap Growth AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FOCL,"EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FOFO,"Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FONR,Fonar Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FORM,"FormFactor, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FORR,"Forrester Research, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FORTY,Formula Systems (1985) Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2357,7 +2356,6 @@ NASDAQ,HYPG,Grayscale Hyperliquid Staking ETF,ETF,,nasdaq_trader_symbol_director
 NASDAQ,HYPR,"Hyperfine, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HYXF,iShares ESG Advanced High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,IAC,IAC Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IACO,Idea Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IACOU,Idea Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IACOW,Idea Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -2496,6 +2494,7 @@ NASDAQ,INDY,iShares India 50 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,INEO,INNEOVA Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INGN,"Inogen, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INHD,Inno Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,INIO,INNIO N.V. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INKT,"MiNK Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INLF,INLIF LIMITED - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INM,InMed Pharmaceuticals Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2547,6 +2546,7 @@ NASDAQ,IPKW,Invesco International BuyBack Achievers ETF,ETF,,nasdaq_trader_symbo
 NASDAQ,IPM,Intelligent Protection Management Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPSC,"Century Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPST,"IP Strategy Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IPVVU,"InterPrivate Investment Partners V, Inc. - Units",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPW,iPower Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPWR,Ideal Power Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPX,IperionX Limited - American Depositary Share,Stock,,nasdaq_trader_symbol_directory
@@ -2830,6 +2830,7 @@ NASDAQ,LFMDP,"LifeMD, Inc. - 8.875% Series A Cumulative Perpetual Preferred Stoc
 NASDAQ,LFS,"LEIFRAS Co., Ltd. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LFSC,F/m Emerald Life Sciences Innovation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LFST,"LifeStance Health Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LFTO,"Liftoff Mobile, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LFUS,"Littelfuse, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LFVN,Lifevantage Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LFWD,Lifeward Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2941,6 +2942,7 @@ NASDAQ,LSTA,"Lisata Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,LSTR,"Landstar System, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTBR,Lightbridge Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTCC,Canary Litecoin ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,LTGRU,Long Table Growth Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTRN,Lantern Pharma Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTRX,"Lantronix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTRYW,Sports Entertainment Gaming Global Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -3456,8 +3458,6 @@ NASDAQ,NUTR,Nusatrip Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,NUTX,Nutex Health Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUVL,"Nuvalent, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUWE,"Nuwellis, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NVA,Nova Minerals Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NVAWW,Nova Minerals Limited - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVAX,"Novavax, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVCR,NovoCure Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVCT,"Nuvectis Pharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3745,7 +3745,10 @@ NASDAQ,PDYN,Palladyne AI Corp. - Common stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,PDYNW,Palladyne AI Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PEBK,"Peoples Bancorp of North Carolina, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PEBO,Peoples Bancorp Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PECE,Peace Acquisition Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PECER,Peace Acquisition Corp - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PECEU,Peace Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PECEW,Peace Acquisition Corp - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PECO,"Phillips Edison & Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PEGA,Pegasystems Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PENG,"Penguin Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3869,6 +3872,7 @@ NASDAQ,PPH,VanEck Pharmaceutical ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PPHC,"Public Policy Holding Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PPI,Astoria Real Assets ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PPIH,"Perma-Pipe International Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PPLI,People Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PPSI,"Pioneer Power Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PPTA,Perpetua Resources Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PQAP,PGIM Nasdaq-100 Buffer 12 ETF - April,ETF,,nasdaq_trader_symbol_directory
@@ -4003,6 +4007,7 @@ NASDAQ,QMOM,Alpha Architect U.S. Quantitative Momentum ETF,ETF,,nasdaq_trader_sy
 NASDAQ,QNCX,"Quince Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNRX,"Quoin Pharmaceuticals, Ltd. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNST,"QuinStreet, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,QNT,Quantinuum Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNTM,Quantum Biopharma Ltd. - Class B Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNXT,iShares Nasdaq-100 ex Top 30 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QOWZ,Invesco Nasdaq Free Cash Flow Achievers ETF,ETF,,nasdaq_trader_symbol_directory
