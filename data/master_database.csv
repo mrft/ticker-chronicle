@@ -3921,6 +3921,8 @@ OFS,NASDAQ,OFS Capital Corporation - Closed End Fund,Stock,True,2026-05-08,,,3f0
 OFSSH,NASDAQ,OFS Capital Corporation - 4.95% Notes due 2028,Stock,True,2026-05-08,,,53487de7d8071e3f5973
 OFSSO,NASDAQ,OFS Capital Corporation - 7.50% Notes due 2028,Stock,True,2026-05-08,,,77adf3a0a917bb2e05f8
 OGI,NASDAQ,Organigram Global Inc. - Common Shares,Stock,True,2026-05-08,,,293f1eba7b79d93cc96c
+OHAC,NASDAQ,Oceanhawk Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-06-05,,,f4e07045c7eea08a622d
+OHACR,NASDAQ,Oceanhawk Acquisition Corp. - Rights,Stock,True,2026-06-05,,,260b911a3b841cea944b
 OHACU,NASDAQ,Oceanhawk Acquisition Corp. - Units,Stock,True,2026-05-21,,,cb2dacd54b871d13767a
 OIM,NASDAQ,OneIM Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,400d7c7f09d4b947f89a
 OIMAU,NASDAQ,OneIM Acquisition Corp. - Units,Stock,True,2026-05-08,,,47a3a95c6abd3c6dd09f
@@ -6991,6 +6993,7 @@ FT,NYSE,Franklin Universal Trust Common Stock,Stock,True,2026-05-08,,,c4953454bf
 FTHY,NYSE,First Trust High Yield Opportunities 2027 Term Fund Common Stock,Stock,True,2026-05-08,,,1589ecb3647be6ca6b51
 FTI,NYSE,TechnipFMC plc Ordinary Share,Stock,True,2026-05-08,,,c7b841407554df549dd2
 FTK,NYSE,"Flotek Industries, Inc. Common Stock",Stock,True,2026-05-08,,,bb63c62d7960f8d97565
+FTRA.U,NYSE,"FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,True,2026-06-05,,,47f61c6671f83c7b3bb2
 FTS,NYSE,Fortis Inc. Common Shares,Stock,True,2026-05-08,,,a07b9a2a02ee984e23c0
 FTV,NYSE,Fortive Corporation Common Stock,Stock,True,2026-05-08,,,746cd24aba27ae6ad201
 FTW,NYSE,Presidio Production Company Class A Common Stock,Stock,True,2026-05-08,,,baa7f4b05e75b4ca0113
@@ -8208,7 +8211,8 @@ RYZ,NYSE,Ryerson Holding Corporation Common Stock,Stock,True,2026-05-08,,,5c4d23
 RZB,NYSE,"Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",Stock,True,2026-05-08,,,d708302ffb89a069d103
 RZC,NYSE,"Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",Stock,True,2026-05-08,,,838091d46a139d42cf21
 S,NYSE,"SentinelOne, Inc. Class A Common Stock",Stock,True,2026-05-08,,,a5ca5e5cf9851d233f64
-SA,NYSE,"Seabridge Gold, Inc. Ordinary Shares (Canada)",Stock,True,2026-05-08,,,511b0e84ec0abcbd8a0c
+SA,NYSE,"Seabridge Gold, Inc. Ordinary Shares (Canada)",Stock,False,2026-05-08,2026-06-05,Listing metadata changed,511b0e84ec0abcbd8a0c
+SA,NYSE,"Seabridge Gold, Inc. Common Shares New",Stock,True,2026-06-05,,,a2d3ec83de3c699ed9a1
 SABA,NYSE,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,Stock,True,2026-05-08,,,91ca362e3d0b12506507
 SAC,NYSE,Safeguard Acquisition Corp. Class A Ordinary Shares,Stock,True,2026-05-08,,,77c35dbca4b47cb74ef8
 SAC.U,NYSE,"Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,True,2026-05-08,,,996cfc7de440f123db87

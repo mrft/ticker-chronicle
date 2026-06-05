@@ -1082,6 +1082,7 @@ NYSE,FT,Franklin Universal Trust Common Stock,Stock,,nasdaq_trader_symbol_direct
 NYSE,FTHY,First Trust High Yield Opportunities 2027 Term Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FTI,TechnipFMC plc Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NYSE,FTK,"Flotek Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,FTRA.U,"FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
 NYSE,FTS,Fortis Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,FTV,Fortive Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FTW,Presidio Production Company Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2293,7 +2294,7 @@ NYSE,RYZ,Ryerson Holding Corporation Common Stock,Stock,,nasdaq_trader_symbol_di
 NYSE,RZB,"Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",Stock,,nasdaq_trader_symbol_directory
 NYSE,RZC,"Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",Stock,,nasdaq_trader_symbol_directory
 NYSE,S,"SentinelOne, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,SA,"Seabridge Gold, Inc. Ordinary Shares (Canada)",Stock,,nasdaq_trader_symbol_directory
+NYSE,SA,"Seabridge Gold, Inc. Common Shares New",Stock,,nasdaq_trader_symbol_directory
 NYSE,SABA,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,SAC,Safeguard Acquisition Corp. Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,SAC.U,"Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
