@@ -352,6 +352,7 @@ NASDAQ,APXTU,Apex Treasury Corporation - Units,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,APXTW,Apex Treasury Corporation - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APYX,Apyx Medical Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AQB,"AquaBounty Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AQLG,HCM Large Cap Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AQMS,"Aqua Metals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AQST,"Aquestive Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AQWA,Global X Clean Water ETF,ETF,,nasdaq_trader_symbol_directory
@@ -789,6 +790,7 @@ NASDAQ,BSCX,Invesco BulletShares 2033 Corporate Bond ETF,ETF,,nasdaq_trader_symb
 NASDAQ,BSCY,Invesco BulletShares 2034 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSCZ,Invesco BulletShares 2035 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSET,"Bassett Furniture Industries, Incorporated - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BSIN,Big Sky Industrial Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSJR,Invesco BulletShares 2027 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSJS,Invesco BulletShares 2028 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
@@ -997,9 +999,6 @@ NASDAQ,CG,The Carlyle Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,CGABL,The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGBD,"Carlyle Secured Lending, Inc. - Closed End Fund",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGC,Canopy Growth Corporation - Common Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CGCT,Cartesian Growth Corporation III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CGCTU,Cartesian Growth Corporation III - unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CGCTW,Cartesian Growth Corporation III - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGEM,"Cullinan Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGEN,Compugen Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGNT,Cognyte Software Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1680,9 +1679,11 @@ NASDAQ,FAAA,Fidelity AAA CLO ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FAAR,First Trust Alternative Absolute Return Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FAB,First Trust Multi Cap Value AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FABC,"Fabric.AI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FAC,Factorial Energy Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FACT,FACT II Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FACTU,FACT II Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FACTW,FACT II Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FACWW,Factorial Energy Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FAD,First Trust Multi Cap Growth AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FALN,iShares Fallen Angels USD Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FAMI,"Farmmi, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -1881,6 +1882,7 @@ NASDAQ,FRPT,"Freshpet, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_director
 NASDAQ,FRSH,Freshworks Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRST,Primis Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRSX,Foresight Autonomous Holdings Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FRTT,Fort Technology Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRVO,Fervo Energy Company - Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRWD,Nomura Transformational Technologies ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FSBC,Five Star Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2089,6 +2091,8 @@ NASDAQ,GOODN,Gladstone Commercial Corporation - 6.625% Series E Cumulative Redee
 NASDAQ,GOODO,"Gladstone Commercial Corporation - 6.00% Series G Cumulative Redeemable Preferred Stock, par value $0.001 per share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GOOG,Alphabet Inc. - Class C Capital Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GOOGL,Alphabet Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GOOGM,Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GOOGN,Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GOSS,"Gossamer Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GOU,GraniteShares 2x Long GOOGL Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GOVI,Invesco Equal Weight 0-30 Year Treasury ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2854,8 +2858,8 @@ NASDAQ,LIF,"Life360, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIFE,Ethos Technologies Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LILA,Liberty Latin America Ltd. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LILAK,Liberty Latin America Ltd. - Class C Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LILAV,Liberty Latin America Ltd - Class A Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LILKV,Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LILAV,Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LILKV,Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LILPV,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIMN,"Liminatus Pharma, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIMNW,"Liminatus Pharma, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
@@ -3360,7 +3364,9 @@ NASDAQ,NGNE,Neurogene Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHIC,NewHold Investment Corp III - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHICU,NewHold Investment Corp III - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHICW,NewHold Investment Corp III - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NHIV,NewHold Investment Corp IV - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHIVU,NewHold Investment Corp IV - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NHIVW,NewHold Investment Corp IV - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHP,"National Healthcare Properties, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHPAP,"National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHPBP,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4376,7 +4382,6 @@ NASDAQ,SEIC,SEI Investments Company - Common Stock,Stock,,nasdaq_trader_symbol_d
 NASDAQ,SEIE,SEI Select International Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SEIS,SEI Select Small Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SELF,"Global Self Storage, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SELX,Semilux International Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SEMY,GraniteShares YieldBOOST Semiconductor ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SENEA,Seneca Foods Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SENEB,Seneca Foods Corp. - Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5046,7 +5051,6 @@ NASDAQ,USCB,"USCB Financial Holdings, Inc. - Class A Common Stock",Stock,,nasdaq
 NASDAQ,USCL,iShares Climate Conscious & Transition MSCI USA ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USDX,SGI Enhanced Core ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USEA,United Maritime Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,USEG,U.S. Energy Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,USFI,BrandywineGLOBAL - U.S. Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USGG,Leverage Shares 2X Long USAR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USGO,U.S. GoldMining Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory

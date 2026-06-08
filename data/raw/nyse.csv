@@ -251,7 +251,6 @@ NYSE,AWP,abrdn Global Premier Properties Fund Common Shares of Beneficial Intere
 NYSE,AWR,American States Water Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AX,"Axos Financial, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,AXIA,AXIA Energia American Depositary Shares (Each representing one Common Share),Stock,,nasdaq_trader_symbol_directory
-NYSE,AXIA$,AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share),Stock,,nasdaq_trader_symbol_directory
 NYSE,AXIA$C,"AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,AXP,American Express Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AXR,AMREP Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -621,7 +620,6 @@ NYSE,CMSA,CMS Energy Corporation 5.625% Junior Subordinated Notes due 2078,Stock
 NYSE,CMSC,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078,Stock,,nasdaq_trader_symbol_directory
 NYSE,CMSD,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079,Stock,,nasdaq_trader_symbol_directory
 NYSE,CMTG,"Claros Mortgage Trust, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,CMU,MFS Municipal Income Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CNA,CNA Financial Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CNC,Centene Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CNF,"CNFinance Holdings Limited American Depositary Shares, each representing two hundred (200) Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -731,8 +729,6 @@ NYSE,CWH,"Camping World Holdings, Inc. Class A Common Stock",Stock,,nasdaq_trade
 NYSE,CWK,Cushman & Wakefield Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,CWT,California Water Service Group Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CX,"Cemex, S.A.B. de C.V. Sponsored ADR",Stock,,nasdaq_trader_symbol_directory
-NYSE,CXE,MFS High Income Municipal Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,CXH,MFS Investment Grade Municipal Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CXM,"Sprinklr, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CXT,"Crane NXT, Co. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CXW,"CoreCivic, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1653,7 +1649,7 @@ NYSE,MFAN,"MFA Financial, Inc. 8.875% Senior Notes due 2029",Stock,,nasdaq_trade
 NYSE,MFAO,"MFA Financial, Inc. 9.000% Senior Notes due 2029",Stock,,nasdaq_trader_symbol_directory
 NYSE,MFC,Manulife Financial Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MFG,"Mizuho Financial Group, Inc. Sponosred ADR (Japan)",Stock,,nasdaq_trader_symbol_directory
-NYSE,MFM,MFS Municipal Income Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,MFM,Aberdeen Municipal Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,MFSB,MFS Active Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,MFSG,MFS Active Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,MFSI,MFS Active International ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2485,7 +2481,6 @@ NYSE,STLA,Stellantis N.V. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,STM,STMicroelectronics N.V. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,STN,Stantec Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,STNG,Scorpio Tankers Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,STRV,Strive 500 ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,STT,State Street Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,STT$G,"State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative",Stock,,nasdaq_trader_symbol_directory
 NYSE,STUB,"StubHub Holdings, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2493,6 +2488,7 @@ NYSE,STVN,Stevanato Group S.p.A. Ordinary Shares,Stock,,nasdaq_trader_symbol_dir
 NYSE,STWD,"STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc.",Stock,,nasdaq_trader_symbol_directory
 NYSE,STXD,Strive 1000 Dividend Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,STXE,Strive Emerging Markets Ex-China ETF,ETF,,nasdaq_trader_symbol_directory
+NYSE,STXF,Strive 500 ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,STXG,Strive 1000 Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,STXK,Strive Small-Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,STXT,Strive Total Return Bond ETF,ETF,,nasdaq_trader_symbol_directory
