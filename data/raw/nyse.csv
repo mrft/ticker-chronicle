@@ -1004,7 +1004,7 @@ NYSE,FCRS.U,"FutureCrest Acquisition Corp. Units, each consisting of one Class A
 NYSE,FCRS.W,"FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NYSE,FCT,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,FCX,"Freeport-McMoRan, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,FDP,"Fresh Del Monte Produce, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,FDP,Del Monte Corporation Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,FDS,FactSet Research Systems Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FDX,FedEx Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FDXF,"FedEx Freight Holding Company, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1929,6 +1929,7 @@ NYSE,OAK$B,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units",St
 NYSE,OBDC,Blue Owl Capital Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OBK,"Origin Bancorp, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OC,Owens Corning Inc Common Stock New,Stock,,nasdaq_trader_symbol_directory
+NYSE,OCAC.U,"Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",Stock,,nasdaq_trader_symbol_directory
 NYSE,ODC,Oil-Dri Corporation Of America Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ODV,Osisko Development Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,OEC,Orion S.A. Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2826,6 +2827,7 @@ NYSE,WGO,"Winnebago Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_d
 NYSE,WH,"Wyndham Hotels & Resorts, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WHD,"Cactus, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WHG,Westwood Holdings Group Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,WHK,WhiteHawk Minerals Corp Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,WHR,Whirlpool Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,WHR$A,"Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WIA,Western Asset Inflation-Linked Income Fund,Stock,,nasdaq_trader_symbol_directory
@@ -2876,7 +2878,7 @@ NYSE,WY,Weyerhaeuser Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,XFLH,XFLH Capital Corporation Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,XFLH.R,XFLH Capital Corporation Rights to receive one-seventh (1/7) of one Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NYSE,XFLH.U,"XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right",Stock,,nasdaq_trader_symbol_directory
-NYSE,XFLT,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+NYSE,XFLT,XAI Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,XHR,"Xenia Hotels & Resorts, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,XIFR,"XPLR Infrastructure, LP Common Units representing limited partner interests",Stock,,nasdaq_trader_symbol_directory
 NYSE,XOM,Exxon Mobil Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory

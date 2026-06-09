@@ -501,6 +501,7 @@ AHG,NASDAQ,Akso Health Group - American Depositary Shares,Stock,True,2026-05-08,
 AHMA,NASDAQ,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,Stock,True,2026-05-08,,,7148680003d7049ed1f5
 AIA,NASDAQ,iShares Asia 50 ETF,ETF,True,2026-05-08,,,56950b70451097607f26
 AIAI,NASDAQ,AIAI Holdings Corporation - Class A common stock,Stock,True,2026-05-14,,,8f1bac2325eb03d31d9c
+AIBZ,NASDAQ,Bitzero Holdings Inc. - Common Shares,Stock,True,2026-06-09,,,2c32d272c695375827cf
 AIDX,NASDAQ,"20/20 Biolabs, Inc. - Common Stock",Stock,True,2026-05-08,,,9491a96d323fb1612e9f
 AIFA,NASDAQ,"All In FutureTech Alliance, Inc. - Common Stock",Stock,True,2026-05-27,,,cf089b2a41ee4787dcc6
 AIFC,NASDAQ,AI Financial Corporation - Common Stock,Stock,True,2026-05-08,,,d814890cabc376e8f386
@@ -1170,7 +1171,7 @@ BTQ,NASDAQ,BTQ Technologies Corp. - Common Stock,Stock,True,2026-05-08,,,74a11eb
 BTSG,NASDAQ,"BrightSpring Health Services, Inc. - Common Stock",Stock,True,2026-05-08,,,3d509a30e2511e818a56
 BTSGU,NASDAQ,"BrightSpring Health Services, Inc. - Tangible Equity Unit",Stock,True,2026-05-08,,,2e953d3e2fed7db79938
 BTTC,NASDAQ,Black Titan Corp - Ordinary Shares,Stock,True,2026-05-08,,,d76cac0d17db9b9a632a
-BU,NASDAQ,Defiance Daily Target 2X Long BU ETF,ETF,True,2026-05-08,,,09ce66dc9ca3fb5df614
+BU,NASDAQ,Defiance Daily Target 2X Long BU ETF,ETF,False,2026-05-08,2026-06-09,Missing from current NASDAQ source snapshot; reason unavailable,09ce66dc9ca3fb5df614
 BUFC,NASDAQ,AB Conservative Buffer ETF,ETF,True,2026-05-08,,,523f52e4684e55d8b2ba
 BUFI,NASDAQ,AB International Buffer ETF,ETF,True,2026-05-08,,,540de0fa8eb36b041bba
 BUFM,NASDAQ,AB Moderate Buffer ETF,ETF,True,2026-05-08,,,feb05e5366b19db202d9
@@ -1623,7 +1624,7 @@ CVGI,NASDAQ,"Commercial Vehicle Group, Inc. - Common Stock",Stock,True,2026-05-0
 CVGW,NASDAQ,"Calavo Growers, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-29,Missing from current NASDAQ source snapshot; reason unavailable,2edbe7f117ba109b41d4
 CVKD,NASDAQ,"Cadrenal Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,a68b588191919e3ee5f9
 CVLT,NASDAQ,"Commvault Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,60c2f218baf2317dd950
-CVNX,NASDAQ,Defiance Daily Target 2X Long CVNA ETF,ETF,True,2026-05-08,,,5341b0b20de242035380
+CVNX,NASDAQ,Defiance Daily Target 2X Long CVNA ETF,ETF,False,2026-05-08,2026-06-09,Missing from current NASDAQ source snapshot; reason unavailable,5341b0b20de242035380
 CVRX,NASDAQ,"CVRx, Inc. - Common Stock",Stock,True,2026-05-08,,,304eee653d7a9a45eadd
 CVV,NASDAQ,CVD Equipment Corporation - Common Stock,Stock,True,2026-05-08,,,695f190e6d79e55e7a4f
 CWBC,NASDAQ,Community West Bancshares - Common Stock,Stock,True,2026-05-08,,,53aca712a116db5f6b5f
@@ -1901,6 +1902,7 @@ ELFY,NASDAQ,ALPS Electrification Infrastructure ETF,ETF,True,2026-05-08,,,ff8945
 ELIL,NASDAQ,Direxion Daily LLY Bull 2X ETF,ETF,True,2026-05-08,,,b0c7536d283caea88845
 ELMT,NASDAQ,The Elmet Group Co. - Common Stock,Stock,True,2026-05-08,,,1960260c3b9f4183fe00
 ELOG,NASDAQ,Eastern International Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,67aa3972ad8ee8c8ff40
+ELOX,NASDAQ,"Eloxx Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-06-09,,,d67fb643ab77fe59e228
 ELPW,NASDAQ,Elong Power Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,885da937f043f95d0408
 ELSE,NASDAQ,"Electro-Sensors, Inc. - Common Stock",Stock,True,2026-05-08,,,ba4a28450d774b9085e6
 ELTK,NASDAQ,Eltek Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,5cdcb9d082976832a222
@@ -2370,6 +2372,7 @@ GENK,NASDAQ,"GEN Restaurant Group, Inc. - Class A Common Stock",Stock,True,2026-
 GENVR,NASDAQ,Gen Digital Inc. - Contingent Value Rights,Stock,True,2026-05-08,,,a491ab68314a2870ded9
 GENZ,NASDAQ,VanEck Digital Native Economy ETF,ETF,True,2026-05-08,,,a8619ba55a783a4b4660
 GEOS,NASDAQ,Geospace Technologies Corporation - Common Stock,Stock,True,2026-05-08,,,a9227b05fe7a8d2c7b5c
+GEQ,NASDAQ,Cambria Global EW 2 ETF,ETF,True,2026-06-09,,,7f554aa93a157ef721fe
 GERN,NASDAQ,Geron Corporation - Common Stock,Stock,True,2026-05-08,,,6e2eee36329c4912283a
 GEVG,NASDAQ,Leverage Shares 2X Long GEV Daily ETF,ETF,True,2026-05-08,,,fcfaa0572c0202d4a6f0
 GEVO,NASDAQ,"Gevo, Inc. - Common Stock",Stock,True,2026-05-08,,,c7d2593850b78dd18e6f
@@ -2945,6 +2948,7 @@ IRWD,NASDAQ,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",Stock,True,2
 ISBA,NASDAQ,Isabella Bank Corporation - Common stock,Stock,True,2026-05-08,,,2b92cf5bfb711423a4e9
 ISHG,NASDAQ,iShares 1-3 Year International Treasury Bond ETF,ETF,True,2026-05-08,,,7bb383027e6bae040e9f
 ISHP,NASDAQ,First Trust S-Network E-Commerce ETF,ETF,True,2026-05-08,,,d9353b23755421d144e4
+ISNRU,NASDAQ,Snow Rothschild Acquisition Corp. - Units,Stock,True,2026-06-09,,,cb5f521a3b5ae31b96d7
 ISPC,NASDAQ,iSpecimen Inc. - Common Stock,Stock,True,2026-05-08,,,db9c636fa921bbbd4c90
 ISPR,NASDAQ,Ispire Technology Inc. - Common Stock,Stock,True,2026-05-08,,,a61d27075e039935df3a
 ISRG,NASDAQ,"Intuitive Surgical, Inc. - Common Stock",Stock,True,2026-05-08,,,66eed9615bc8d49be35d
@@ -3105,7 +3109,7 @@ KOYNU,NASDAQ,CSLM Digital Asset Acquisition Corp III - Units,Stock,True,2026-05-
 KOYNW,NASDAQ,CSLM Digital Asset Acquisition Corp III - Warrants,Stock,True,2026-05-08,,,d16a6723f26fc777d519
 KPDD,NASDAQ,KraneShares 2x Long PDD Daily ETF,ETF,True,2026-05-08,,,8338ca12476af116f178
 KPLT,NASDAQ,"Katapult Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,1ca9963134ef006b8196
-KPLTW,NASDAQ,"Katapult Holdings, Inc. - Warrant",Stock,True,2026-05-08,,,fde638526b040b1dae7d
+KPLTW,NASDAQ,"Katapult Holdings, Inc. - Warrant",Stock,False,2026-05-08,2026-06-09,Missing from current NASDAQ source snapshot; reason unavailable,fde638526b040b1dae7d
 KPRX,NASDAQ,"Kiora Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,57b677036858460b65cc
 KPTI,NASDAQ,Karyopharm Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,8b39f1650f2f4b4d492c
 KQQQ,NASDAQ,Kurv Technology Titans Select ETF,ETF,True,2026-05-08,,,6f371391b5f5be4105ea
@@ -4087,7 +4091,8 @@ PANL,NASDAQ,Pangaea Logistics Solutions Ltd. - Common Stock,Stock,True,2026-05-0
 PANW,NASDAQ,"Palo Alto Networks, Inc. - Common Stock",Stock,True,2026-05-08,,,0777629d6b0f4aa319ab
 PARK,NASDAQ,"Park Dental Partners, Inc. - Common Stock",Stock,True,2026-05-08,,,2df6a6d0970b07e1ffc9
 PASG,NASDAQ,"Passage Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,cb9f211f294dfd1774f2
-PASW,NASDAQ,"Ping An Biomedical Co., Ltd. - Ordinary Shares",Stock,True,2026-05-08,,,7f27c18439bfbfb5c8c3
+PASW,NASDAQ,"Ping An Biomedical Co., Ltd. - Ordinary Shares",Stock,False,2026-05-08,2026-06-09,Listing metadata changed,7f27c18439bfbfb5c8c3
+PASW,NASDAQ,"Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",Stock,True,2026-06-09,,,c3ca8ebe66f2a5054ad6
 PATK,NASDAQ,"Patrick Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,ff204af0773c9994ee6e
 PATN,NASDAQ,Pacer Nasdaq International Patent Leaders ETF,ETF,True,2026-05-08,,,f158e75ef8728eac24c3
 PAVM,NASDAQ,PAVmed Inc. - Common Stock,Stock,True,2026-05-08,,,f13726dc9f1ab9468889
@@ -6928,7 +6933,8 @@ FCRS.W,NYSE,"FutureCrest Acquisition Corp. Redeemable warrants, each whole warra
 FCRX,NYSE,"Crescent Capital BDC, Inc. 5.00% Notes due 2026",Stock,False,2026-05-08,2026-05-26,Missing from current NYSE source snapshot; reason unavailable,4bf99cc6cd26b70560b4
 FCT,NYSE,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,8ccf42a9cc7bd7c9bae0
 FCX,NYSE,"Freeport-McMoRan, Inc. Common Stock",Stock,True,2026-05-08,,,d6189ae9e5949d1000fe
-FDP,NYSE,"Fresh Del Monte Produce, Inc. Common Stock",Stock,True,2026-05-08,,,1fe6b843d48be486e9ce
+FDP,NYSE,"Fresh Del Monte Produce, Inc. Common Stock",Stock,False,2026-05-08,2026-06-09,Listing metadata changed,1fe6b843d48be486e9ce
+FDP,NYSE,Del Monte Corporation Ordinary Shares,Stock,True,2026-06-09,,,40fa7521211a1037b90f
 FDS,NYSE,FactSet Research Systems Inc. Common Stock,Stock,True,2026-05-08,,,9d437874495addbe2111
 FDX,NYSE,FedEx Corporation Common Stock,Stock,True,2026-05-08,,,ddd74ed017a12c537d45
 FDX.V,NYSE,FedEx Corporation Common Stock When-Issued,Stock,False,2026-05-27,2026-06-01,Missing from current NYSE source snapshot; reason unavailable,dc78e0bf9ec4baaebf73
@@ -7863,6 +7869,7 @@ OAK$B,NYSE,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units",St
 OBDC,NYSE,Blue Owl Capital Corporation Common Stock,Stock,True,2026-05-08,,,3502d5bd3b09df19356d
 OBK,NYSE,"Origin Bancorp, Inc. Common Stock",Stock,True,2026-05-08,,,e68786cc7604cd7f0235
 OC,NYSE,Owens Corning Inc Common Stock New,Stock,True,2026-05-08,,,edcf63cf04d1be12cbad
+OCAC.U,NYSE,"Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",Stock,True,2026-06-09,,,9e17bcb3ca06f9f7118a
 ODC,NYSE,Oil-Dri Corporation Of America Common Stock,Stock,True,2026-05-08,,,1537deff5c2971d47cb0
 ODV,NYSE,Osisko Development Corp. Common Shares,Stock,True,2026-05-08,,,d73401c8c25eb49ec561
 OEC,NYSE,Orion S.A. Common Shares,Stock,True,2026-05-08,,,d9e3cb065276749214ce
@@ -8767,6 +8774,7 @@ WGO,NYSE,"Winnebago Industries, Inc. Common Stock",Stock,True,2026-05-08,,,db59b
 WH,NYSE,"Wyndham Hotels & Resorts, Inc. Common Stock",Stock,True,2026-05-08,,,bc4fcf5754ece7c2ae4a
 WHD,NYSE,"Cactus, Inc. Class A Common Stock",Stock,True,2026-05-08,,,e29a7852266fc0153bc7
 WHG,NYSE,Westwood Holdings Group Inc Common Stock,Stock,True,2026-05-08,,,f61ab171407a04ddc80d
+WHK,NYSE,WhiteHawk Minerals Corp Class A Common Stock,Stock,True,2026-06-09,,,671aa52f9a274c1e44f3
 WHR,NYSE,Whirlpool Corporation Common Stock,Stock,True,2026-05-08,,,3e6f9c568a1c9f4ac4ca
 WHR$A,NYSE,"Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock",Stock,True,2026-05-08,,,e7de7519c1f2bd741d86
 WIA,NYSE,Western Asset Inflation-Linked Income Fund,Stock,True,2026-05-08,,,1ff6cac1e7022303b8f8
@@ -8817,7 +8825,8 @@ WY,NYSE,Weyerhaeuser Company Common Stock,Stock,True,2026-05-08,,,a7d040d461f212
 XFLH,NYSE,XFLH Capital Corporation Ordinary Shares,Stock,True,2026-05-08,,,88fbb04bdc52ab7ca445
 XFLH.R,NYSE,XFLH Capital Corporation Rights to receive one-seventh (1/7) of one Ordinary Share,Stock,True,2026-05-08,,,0e5c4190f5abb1c0214f
 XFLH.U,NYSE,"XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right",Stock,True,2026-05-08,,,24efb5df58bc65859bcd
-XFLT,NYSE,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,af140a86021ac005bd31
+XFLT,NYSE,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,Stock,False,2026-05-08,2026-06-09,Listing metadata changed,af140a86021ac005bd31
+XFLT,NYSE,XAI Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,Stock,True,2026-06-09,,,2538e59fa8a6d1d4dc20
 XHR,NYSE,"Xenia Hotels & Resorts, Inc. Common Stock",Stock,True,2026-05-08,,,6bd6842c0ce16a14f702
 XIFR,NYSE,"XPLR Infrastructure, LP Common Units representing limited partner interests",Stock,True,2026-05-08,,,5475856dec8627260916
 XOM,NYSE,Exxon Mobil Corporation Common Stock,Stock,True,2026-05-08,,,f75a8f1fe210e6d20028

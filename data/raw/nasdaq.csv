@@ -171,6 +171,7 @@ NASDAQ,AHG,Akso Health Group - American Depositary Shares,Stock,,nasdaq_trader_s
 NASDAQ,AHMA,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIA,iShares Asia 50 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AIAI,AIAI Holdings Corporation - Class A common stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AIBZ,Bitzero Holdings Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIDX,"20/20 Biolabs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIFA,"All In FutureTech Alliance, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIFC,AI Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -829,7 +830,6 @@ NASDAQ,BTQ,BTQ Technologies Corp. - Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,BTSG,"BrightSpring Health Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTSGU,"BrightSpring Health Services, Inc. - Tangible Equity Unit",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTTC,Black Titan Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BU,Defiance Daily Target 2X Long BU ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BUFC,AB Conservative Buffer ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BUFI,AB International Buffer ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BUFM,AB Moderate Buffer ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1271,7 +1271,6 @@ NASDAQ,CVCO,"Cavco Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,CVGI,"Commercial Vehicle Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVKD,"Cadrenal Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVLT,"Commvault Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CVNX,Defiance Daily Target 2X Long CVNA ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CVRX,"CVRx, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVV,CVD Equipment Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CWBC,Community West Bancshares - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1545,6 +1544,7 @@ NASDAQ,ELFY,ALPS Electrification Infrastructure ETF,ETF,,nasdaq_trader_symbol_di
 NASDAQ,ELIL,Direxion Daily LLY Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ELMT,The Elmet Group Co. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ELOG,Eastern International Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ELOX,"Eloxx Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ELPW,Elong Power Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ELSE,"Electro-Sensors, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ELTK,Eltek Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2009,6 +2009,7 @@ NASDAQ,GENK,"GEN Restaurant Group, Inc. - Class A Common Stock",Stock,,nasdaq_tr
 NASDAQ,GENVR,Gen Digital Inc. - Contingent Value Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GENZ,VanEck Digital Native Economy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GEOS,Geospace Technologies Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GEQ,Cambria Global EW 2 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GERN,Geron Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GEVG,Leverage Shares 2X Long GEV Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GEVO,"Gevo, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2572,6 +2573,7 @@ NASDAQ,IRWD,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",Stock,,nasda
 NASDAQ,ISBA,Isabella Bank Corporation - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISHG,iShares 1-3 Year International Treasury Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ISHP,First Trust S-Network E-Commerce ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ISNRU,Snow Rothschild Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISPC,iSpecimen Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISPR,Ispire Technology Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISRG,"Intuitive Surgical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2730,7 +2732,6 @@ NASDAQ,KOYNU,CSLM Digital Asset Acquisition Corp III - Units,Stock,,nasdaq_trade
 NASDAQ,KOYNW,CSLM Digital Asset Acquisition Corp III - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KPDD,KraneShares 2x Long PDD Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KPLT,"Katapult Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KPLTW,"Katapult Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KPRX,"Kiora Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KPTI,Karyopharm Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KQQQ,Kurv Technology Titans Select ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3700,7 +3701,7 @@ NASDAQ,PANL,Pangaea Logistics Solutions Ltd. - Common Stock,Stock,,nasdaq_trader
 NASDAQ,PANW,"Palo Alto Networks, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PARK,"Park Dental Partners, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PASG,"Passage Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PASW,"Ping An Biomedical Co., Ltd. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PASW,"Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PATK,"Patrick Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PATN,Pacer Nasdaq International Patent Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PAVM,PAVmed Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
