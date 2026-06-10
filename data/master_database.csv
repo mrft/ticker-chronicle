@@ -162,9 +162,9 @@ LCTX,AMEX,"Lineage Cell Therapeutics, Inc. Common Stock",Stock,True,2026-05-08,,
 LEGO,AMEX,Legato Merger Corp. IV Ordinary Shares,Stock,True,2026-05-08,,,e2b7d867cb088d58fae4
 LEGO.U,AMEX,"Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",Stock,True,2026-05-08,,,284fa333a833a9db71df
 LEGO.W,AMEX,"Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,93d209e50c2597baee4c
-LEGT,AMEX,Legato Merger Corp. III Ordinary Shares,Stock,True,2026-05-08,,,3ad113675bcdafedcdb9
-LEGT.U,AMEX,"Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",Stock,True,2026-05-08,,,04f08c63b03e20e9a240
-LEGT.W,AMEX,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,2e60072df9f1cd08476a
+LEGT,AMEX,Legato Merger Corp. III Ordinary Shares,Stock,False,2026-05-08,2026-06-10,Missing from current AMEX source snapshot; reason unavailable,3ad113675bcdafedcdb9
+LEGT.U,AMEX,"Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",Stock,False,2026-05-08,2026-06-10,Missing from current AMEX source snapshot; reason unavailable,04f08c63b03e20e9a240
+LEGT.W,AMEX,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",Stock,False,2026-05-08,2026-06-10,Missing from current AMEX source snapshot; reason unavailable,2e60072df9f1cd08476a
 LGCY,AMEX,Legacy Education Inc. Common Stock,Stock,True,2026-05-08,,,ee60c19e93b854d4ac15
 LGL,AMEX,"LGL Group, Inc. (The) Common Stock",Stock,True,2026-05-08,,,dd6ba3588c3d01e7f3b0
 LGL.R,AMEX,"LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",Stock,True,2026-06-08,,,c09916adf31cb61a766c
@@ -681,7 +681,9 @@ APPN,NASDAQ,Appian Corporation - Class A Common Stock,Stock,True,2026-05-08,,,44
 APPS,NASDAQ,"Digital Turbine, Inc. - Common Stock",Stock,True,2026-05-08,,,14e3d094d33215b2b35c
 APPX,NASDAQ,Tradr 2X Long APP Daily ETF,ETF,True,2026-05-08,,,6a2ea73b3847e252d8a6
 APRE,NASDAQ,"Aprea Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,eead2589a3f86891c7f0
-APURU,NASDAQ,Aperture AC - Units,Stock,True,2026-05-21,,,47d76d2b7d8a395bd32a
+APUR,NASDAQ,Aperture AC - Class A Ordinary Shares,Stock,True,2026-06-10,,,6dc79b16b947af91a46d
+APURR,NASDAQ,Aperture AC - Rights,Stock,True,2026-06-10,,,a13451dc24640b6f5587
+APURU,NASDAQ,Aperture AC - Units,Stock,False,2026-05-21,2026-06-10,Missing from current NASDAQ source snapshot; reason unavailable,47d76d2b7d8a395bd32a
 APVO,NASDAQ,Aptevo Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,48a4b8799da2f9b25daa
 APWC,NASDAQ,"Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share",Stock,True,2026-05-08,,,8bf253478afaefef6ab9
 APXT,NASDAQ,Apex Treasury Corporation - Class A Ordinary Share,Stock,True,2026-05-08,,,7d4e4215349b4176d6ad
@@ -1119,6 +1121,7 @@ BSAA,NASDAQ,BEST SPAC I Acquisition Corp. - Class A Ordinary Shares,Stock,True,2
 BSAAR,NASDAQ,BEST SPAC I Acquisition Corp. - Rights,Stock,True,2026-05-08,,,63f268e99be375022407
 BSAAU,NASDAQ,BEST SPAC I Acquisition Corp. - Unit,Stock,True,2026-05-08,,,f4fd652d723ad8da09f7
 BSBK,NASDAQ,Bogota Financial Corp. - Common Stock,Stock,True,2026-05-08,,,6493be56cad0956e374d
+BSCA,NASDAQ,Invesco BulletShares 2036 Corporate Bond ETF,ETF,True,2026-06-10,,,677529b08c07163b74d6
 BSCQ,NASDAQ,Invesco BulletShares 2026 Corporate Bond ETF,ETF,True,2026-05-08,,,5bad46a484e03c3c8bcb
 BSCR,NASDAQ,Invesco BulletShares 2027 Corporate Bond ETF,ETF,True,2026-05-08,,,c3984e39e6ee25516159
 BSCS,NASDAQ,Invesco BulletShares 2028 Corporate Bond ETF,ETF,True,2026-05-08,,,6f178eaeab2eacd84330
@@ -1130,6 +1133,8 @@ BSCX,NASDAQ,Invesco BulletShares 2033 Corporate Bond ETF,ETF,True,2026-05-08,,,e
 BSCY,NASDAQ,Invesco BulletShares 2034 Corporate Bond ETF,ETF,True,2026-05-08,,,22f7da2c2dd36e27af14
 BSCZ,NASDAQ,Invesco BulletShares 2035 Corporate Bond ETF,ETF,True,2026-05-08,,,a38fd471365ae5431eab
 BSET,NASDAQ,"Bassett Furniture Industries, Incorporated - Common Stock",Stock,True,2026-05-08,,,fba6f6be0f848082da9f
+BSGR,NASDAQ,Invesco BulletShares 2027 Treasury Bond ETF,ETF,True,2026-06-10,,,4a6def71c3b0c2e36e5b
+BSGT,NASDAQ,Invesco BulletShares 2029 Treasury Bond ETF,ETF,True,2026-06-10,,,a13ad91b8bc034ef0075
 BSIN,NASDAQ,Big Sky Industrial Inc. - Common Stock,Stock,True,2026-06-08,,,a08a6b95b1f9a1915f00
 BSJQ,NASDAQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,55490c2908703e0c051d
 BSJR,NASDAQ,Invesco BulletShares 2027 High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,a994637f47227ab26a47
@@ -1139,6 +1144,7 @@ BSJU,NASDAQ,Invesco BulletShares 2030 High Yield Corporate Bond ETF,ETF,True,202
 BSJV,NASDAQ,Invesco BulletShares 2031 High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,b86cf46dff5d0b52c139
 BSJW,NASDAQ,Invesco BulletShares 2032 High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,2fad050a5b24aaf0cb0e
 BSJX,NASDAQ,Invesco BulletShares 2033 High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,75e3dda47ca6cee085e3
+BSJY,NASDAQ,Invesco BulletShares 2034 High Yield Corporate Bond ETF,ETF,True,2026-06-10,,,26f9837f74cd82eaf421
 BSMQ,NASDAQ,Invesco BulletShares 2026 Municipal Bond ETF,ETF,True,2026-05-08,,,bb4a9a122c82b21d1220
 BSMR,NASDAQ,Invesco BulletShares 2027 Municipal Bond ETF,ETF,True,2026-05-08,,,bd6d1ae45bcacb8579c2
 BSMS,NASDAQ,Invesco BulletShares 2028 Municipal Bond ETF,ETF,True,2026-05-08,,,1053a6fa43b6841861ec
@@ -1150,6 +1156,9 @@ BSMY,NASDAQ,Invesco BulletShares 2034 Municipal Bond ETF,ETF,True,2026-05-08,,,f
 BSMZ,NASDAQ,Invesco BulletShares 2035 Municipal Bond ETF,ETF,True,2026-05-08,,,30a1d6f9c992ee48855a
 BSRR,NASDAQ,Sierra Bancorp - Common Stock,Stock,True,2026-05-08,,,80e35bdae9e4f8247f40
 BSSX,NASDAQ,Invesco BulletShares 2033 Municipal Bond ETF,ETF,True,2026-05-08,,,b68ca27c12c4b6fba875
+BSTS,NASDAQ,Invesco BulletShares 2028 Treasury Bond ETF,ETF,True,2026-06-10,,,01f5695c71b2cc876650
+BSTU,NASDAQ,Invesco BulletShares 2030 Treasury Bond ETF,ETF,True,2026-06-10,,,11116d04b267ad2365d8
+BSTV,NASDAQ,Invesco BulletShares 2031 Treasury Bond ETF,ETF,True,2026-06-10,,,c2cc9884068e69bca006
 BSVN,NASDAQ,Bank7 Corp. - Common stock,Stock,True,2026-05-08,,,a7cc935e23e9097e0124
 BSVO,NASDAQ,EA Bridgeway Omni Small-Cap Value ETF,ETF,True,2026-05-08,,,8c9b4fbbfbf004b62628
 BSY,NASDAQ,"Bentley Systems, Incorporated - Class B Common Stock",Stock,True,2026-05-08,,,ddb2b57cc33e7a9f87d9
@@ -1936,6 +1945,8 @@ ENHU,NASDAQ,iShares Enhanced Large Cap Core Active ETF,ETF,True,2026-05-08,,,3b8
 ENLT,NASDAQ,Enlight Renewable Energy Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,0e7216f0d80a19d59d2a
 ENLV,NASDAQ,Enlivex Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,b85d556a38f0a7875a1f
 ENPH,NASDAQ,"Enphase Energy, Inc. - Common Stock",Stock,True,2026-05-08,,,2f8832494547558e8364
+ENRD,NASDAQ,Einride AB - American Depositary Shares,Stock,True,2026-06-10,,,1c48e7198fc36fc71ebf
+ENRDW,NASDAQ,Einride AB - Warrants,Stock,True,2026-06-10,,,1c042e048f71db2a8fab
 ENSC,NASDAQ,"Ensysce Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,841bcaf22328b7740998
 ENSG,NASDAQ,"The Ensign Group, Inc. - Common Stock",Stock,True,2026-05-08,,,7e9f6831756888de3270
 ENTA,NASDAQ,"Enanta Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,fd83ee6c374294feed0a
@@ -2981,6 +2992,7 @@ IXHL,NASDAQ,Incannex Healthcare Inc. - Common Stock,Stock,True,2026-05-08,,,7f4a
 IXUS,NASDAQ,iShares Core MSCI Total International Stock ETF,ETF,True,2026-05-08,,,724f29f4f23305bceb97
 IZEA,NASDAQ,"IZEA Worldwide, Inc. - Common Stock",Stock,True,2026-05-08,,,d62f05ee08c6fc7af5e7
 IZM,NASDAQ,ICZOOM Group Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,55041cd9f55fbf0601d2
+JABRU,NASDAQ,JAB Acquisition Corp I - Units,Stock,True,2026-06-10,,,00529174f9a91accdc20
 JACK,NASDAQ,Jack In The Box Inc. - Common Stock,Stock,True,2026-05-08,,,63771ebb1b48b9fcd1e4
 JAGX,NASDAQ,"Jaguar Health, Inc. - Common Stock",Stock,True,2026-05-08,,,67a13348bc2f1584a016
 JAKK,NASDAQ,"JAKKS Pacific, Inc. - Common Stock",Stock,True,2026-05-08,,,6a373935b850f3f4229f
@@ -4106,6 +4118,7 @@ PBEU,NASDAQ,Portfolio Building Block European Banks Index ETF,ETF,True,2026-05-0
 PBFS,NASDAQ,"Pioneer Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,ba94f2b286a39a60fcd3
 PBHC,NASDAQ,"Pathfinder Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,ff28498c60b01c03e4c8
 PBK,NASDAQ,PowerBank Corporation - Common Stock,Stock,True,2026-06-03,,,f03a28abf1e12b3e23a3
+PBLS,NASDAQ,"Parabilis Medicines, Inc. - Common Stock",Stock,True,2026-06-10,,,3ecfdbc1ac6db0b8597d
 PBM,NASDAQ,Psyence Biomedical Ltd. - Common Shares,Stock,True,2026-05-08,,,10701fc3a7eb767f0e60
 PBMWW,NASDAQ,Psyence Biomedical Ltd. - Warrant,Stock,True,2026-05-08,,,9eea21e54e2b2b57b11b
 PBOG,NASDAQ,Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF,ETF,True,2026-05-08,,,2f513d7ad955bd9d53e8
@@ -4820,6 +4833,7 @@ SHMD,NASDAQ,SCHMID Group N.V. - Class A Ordinary Shares,Stock,True,2026-05-08,,,
 SHMDW,NASDAQ,SCHMID Group N.V. - Warrants,Stock,True,2026-05-08,,,4200c7171aaa4781d412
 SHOO,NASDAQ,"Steven Madden, Ltd. - Common Stock",Stock,True,2026-05-08,,,879682098905131d7655
 SHOP,NASDAQ,Shopify Inc. - Class A Subordinate Voting Shares,Stock,True,2026-05-08,,,d5e266395d013a679ba7
+SHOTU,NASDAQ,RMG ML Sports Holdings - Unit,Stock,True,2026-06-10,,,d57f3345a0a574f7b4cd
 SHPH,NASDAQ,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",Stock,True,2026-05-08,,,8e1241c9a9926c972f6e
 SHPU,NASDAQ,Direxion Daily SHOP Bull 2X ETF,ETF,True,2026-05-08,,,adf5f46fe4d41d1e4903
 SHRY,NASDAQ,First Trust Bloomberg Shareholder Yield ETF,ETF,True,2026-05-08,,,557f0eba08142c93eadf
@@ -6864,6 +6878,7 @@ EQR,NYSE,Equity Residential Common Shares of Beneficial Interest,Stock,True,2026
 EQS,NYSE,"Equus Total Return, Inc. Common Stock",Stock,True,2026-05-08,,,418414a1dd31a6465822
 EQT,NYSE,EQT Corporation Common Stock,Stock,True,2026-05-08,,,4611cba71274fd22819f
 ERO,NYSE,Ero Copper Corp. Common Shares,Stock,True,2026-05-08,,,de73ed9b25c43a7be416
+EROC,NYSE,"ERock, Inc. Class A Common Stock",Stock,True,2026-06-10,,,1dcbb7bfc67c9c421641
 EROK,NYSE,"EagleRock Land, LLC Class A shares representing limited liability company interests",Stock,True,2026-05-14,,,b1f37d40ceb2a8100538
 ES,NYSE,Eversource Energy (D/B/A) Common Stock,Stock,True,2026-05-08,,,e6e31a5b7f4b90ca28d8
 ESAB,NYSE,ESAB Corporation Common Stock,Stock,True,2026-05-08,,,d6b2078682be3a6edc53
@@ -8558,6 +8573,7 @@ TRAK,NYSE,"ReposiTrak, Inc. Common Stock",Stock,True,2026-05-08,,,e15f7aadbca9ad
 TRC,NYSE,Tejon Ranch Co Common Stock,Stock,True,2026-05-08,,,c00a728f492ca9f09d13
 TREX,NYSE,"Trex Company, Inc. Common Stock",Stock,True,2026-05-08,,,2358904c8c8a34470420
 TRGP,NYSE,"Targa Resources, Inc. Common Stock",Stock,True,2026-05-08,,,bd6914608b8abd1ad3f6
+TRLV,NYSE,Trulieve Cannabis Corp. Subordinate Voting Shares,Stock,True,2026-06-10,,,b59846d47353beced9d8
 TRN,NYSE,"Trinity Industries, Inc. Common Stock",Stock,True,2026-05-08,,,8ab2a5e001947740ef75
 TRNO,NYSE,Terreno Realty Corporation Common Stock,Stock,True,2026-05-08,,,65134fc2b64b7315a829
 TROX,NYSE,Tronox Holdings plc Ordinary Shares (UK),Stock,True,2026-05-08,,,f02e1bd0c6a2c5443ac1

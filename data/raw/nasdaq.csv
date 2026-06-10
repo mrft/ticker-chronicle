@@ -345,7 +345,8 @@ NASDAQ,APPN,Appian Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbo
 NASDAQ,APPS,"Digital Turbine, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APPX,Tradr 2X Long APP Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,APRE,"Aprea Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,APURU,Aperture AC - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,APUR,Aperture AC - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,APURR,Aperture AC - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APVO,Aptevo Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APWC,"Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APXT,Apex Treasury Corporation - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
@@ -780,6 +781,7 @@ NASDAQ,BSAA,BEST SPAC I Acquisition Corp. - Class A Ordinary Shares,Stock,,nasda
 NASDAQ,BSAAR,BEST SPAC I Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSAAU,BEST SPAC I Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSBK,Bogota Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BSCA,Invesco BulletShares 2036 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSCQ,Invesco BulletShares 2026 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSCR,Invesco BulletShares 2027 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSCS,Invesco BulletShares 2028 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
@@ -791,6 +793,8 @@ NASDAQ,BSCX,Invesco BulletShares 2033 Corporate Bond ETF,ETF,,nasdaq_trader_symb
 NASDAQ,BSCY,Invesco BulletShares 2034 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSCZ,Invesco BulletShares 2035 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSET,"Bassett Furniture Industries, Incorporated - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BSGR,Invesco BulletShares 2027 Treasury Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BSGT,Invesco BulletShares 2029 Treasury Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSIN,Big Sky Industrial Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSJR,Invesco BulletShares 2027 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
@@ -800,6 +804,7 @@ NASDAQ,BSJU,Invesco BulletShares 2030 High Yield Corporate Bond ETF,ETF,,nasdaq_
 NASDAQ,BSJV,Invesco BulletShares 2031 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSJW,Invesco BulletShares 2032 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSJX,Invesco BulletShares 2033 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BSJY,Invesco BulletShares 2034 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSMQ,Invesco BulletShares 2026 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSMR,Invesco BulletShares 2027 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSMS,Invesco BulletShares 2028 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
@@ -811,6 +816,9 @@ NASDAQ,BSMY,Invesco BulletShares 2034 Municipal Bond ETF,ETF,,nasdaq_trader_symb
 NASDAQ,BSMZ,Invesco BulletShares 2035 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSRR,Sierra Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSSX,Invesco BulletShares 2033 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BSTS,Invesco BulletShares 2028 Treasury Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BSTU,Invesco BulletShares 2030 Treasury Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BSTV,Invesco BulletShares 2031 Treasury Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSVN,Bank7 Corp. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSVO,EA Bridgeway Omni Small-Cap Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSY,"Bentley Systems, Incorporated - Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1578,6 +1586,8 @@ NASDAQ,ENHU,iShares Enhanced Large Cap Core Active ETF,ETF,,nasdaq_trader_symbol
 NASDAQ,ENLT,Enlight Renewable Energy Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENLV,Enlivex Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENPH,"Enphase Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ENRD,Einride AB - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ENRDW,Einride AB - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENSC,"Ensysce Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENSG,"The Ensign Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENTA,"Enanta Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2606,6 +2616,7 @@ NASDAQ,IXHL,Incannex Healthcare Inc. - Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,IXUS,iShares Core MSCI Total International Stock ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IZEA,"IZEA Worldwide, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IZM,ICZOOM Group Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,JABRU,JAB Acquisition Corp I - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JACK,Jack In The Box Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JAGX,"Jaguar Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JAKK,"JAKKS Pacific, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3715,6 +3726,7 @@ NASDAQ,PBEU,Portfolio Building Block European Banks Index ETF,ETF,,nasdaq_trader
 NASDAQ,PBFS,"Pioneer Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PBHC,"Pathfinder Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PBK,PowerBank Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PBLS,"Parabilis Medicines, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PBM,Psyence Biomedical Ltd. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PBMWW,Psyence Biomedical Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PBOG,Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4425,6 +4437,7 @@ NASDAQ,SHMD,SCHMID Group N.V. - Class A Ordinary Shares,Stock,,nasdaq_trader_sym
 NASDAQ,SHMDW,SCHMID Group N.V. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHOO,"Steven Madden, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHOP,Shopify Inc. - Class A Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SHOTU,RMG ML Sports Holdings - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHPH,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHPU,Direxion Daily SHOP Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SHRY,First Trust Bloomberg Shareholder Yield ETF,ETF,,nasdaq_trader_symbol_directory

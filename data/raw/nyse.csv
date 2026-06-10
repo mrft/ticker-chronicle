@@ -936,6 +936,7 @@ NYSE,EQR,Equity Residential Common Shares of Beneficial Interest,Stock,,nasdaq_t
 NYSE,EQS,"Equus Total Return, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,EQT,EQT Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ERO,Ero Copper Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,EROC,"ERock, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,EROK,"EagleRock Land, LLC Class A shares representing limited liability company interests",Stock,,nasdaq_trader_symbol_directory
 NYSE,ES,Eversource Energy (D/B/A) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ESAB,ESAB Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2614,6 +2615,7 @@ NYSE,TRAK,"ReposiTrak, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TRC,Tejon Ranch Co Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TREX,"Trex Company, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TRGP,"Targa Resources, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,TRLV,Trulieve Cannabis Corp. Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,TRN,"Trinity Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TRNO,Terreno Realty Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TROX,Tronox Holdings plc Ordinary Shares (UK),Stock,,nasdaq_trader_symbol_directory
