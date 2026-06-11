@@ -814,6 +814,7 @@ AUROW,NASDAQ,"Aurora Innovation, Inc. - Warrant",Stock,True,2026-05-08,,,071765c
 AUTL,NASDAQ,Autolus Therapeutics plc - American Depositary Shares,Stock,True,2026-05-08,,,572c857943b2c919566e
 AUUD,NASDAQ,Auddia Inc. - Common Stock,Stock,True,2026-05-08,,,92383bcd2c2721c920c7
 AVAH,NASDAQ,Aveanna Healthcare Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,520759a57e8550793849
+AVAT,NASDAQ,Avalanche Treasury Corporation - Class A Common Stock,Stock,True,2026-06-11,,,3ff6d75ab55f5c1a8d39
 AVAV,NASDAQ,"AeroVironment, Inc. - Common Stock",Stock,True,2026-05-08,,,453de7350ce540e770c2
 AVBH,NASDAQ,"Avidbank Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,bb1e1c2104446dc57485
 AVBP,NASDAQ,"ArriVent BioPharma, Inc. - Common Stock",Stock,True,2026-05-08,,,2b3aececd89f2cfe2af6
@@ -1096,7 +1097,9 @@ BRBI,NASDAQ,BRBI BR Partners S.A. - ADSs,Stock,True,2026-05-08,,,dcfca92886638f0
 BRCB,NASDAQ,"Black Rock Coffee Bar, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,e2d42e330319bb3d754f
 BREM,NASDAQ,iShares Emerging Markets Bond Active ETF,ETF,True,2026-05-08,,,340d6297076d7f1c9ae4
 BRES,NASDAQ,Burney U.S. Equity Select ETF,ETF,True,2026-05-08,,,43e4997780435011583f
-BREZU,NASDAQ,Breeze Acquisition Corp. II - Units,Stock,True,2026-05-13,,,9b83aa74025c81bd57be
+BREZ,NASDAQ,Breeze Acquisition Corp. II - Ordinary Shares,Stock,True,2026-06-11,,,6de697efeb0be1ebca0a
+BREZR,NASDAQ,Breeze Acquisition Corp. II - Rights,Stock,True,2026-06-11,,,29ba07a8f07866ce6b24
+BREZU,NASDAQ,Breeze Acquisition Corp. II - Units,Stock,False,2026-05-13,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,9b83aa74025c81bd57be
 BRFH,NASDAQ,Barfresh Food Group Inc. - Common Stock,Stock,True,2026-05-08,,,5dcae4590d4352fceaca
 BRHY,NASDAQ,iShares High Yield Active ETF,ETF,True,2026-05-08,,,d3a9db4c8cf7bd74c925
 BRID,NASDAQ,Bridgford Foods Corporation - Common Stock,Stock,True,2026-05-08,,,164dc1dd2dc28867c726
@@ -2242,6 +2245,7 @@ FPXE,NASDAQ,First Trust IPOX Europe Equity Opportunities ETF,ETF,True,2026-05-08
 FPXI,NASDAQ,First Trust International Equity Opportunities ETF,ETF,True,2026-05-08,,,f290ea71c8b4a0700125
 FRAF,NASDAQ,Franklin Financial Services Corporation - Common Stock,Stock,True,2026-05-08,,,8cce2908303f74d5e9f0
 FRBA,NASDAQ,First Bank - Common Stock,Stock,True,2026-05-08,,,074f43d400daf010b6cf
+FRBT,NASDAQ,"Forbright, Inc. - Class A Common Stock",Stock,True,2026-06-11,,,3399e4e0eee100fb4a56
 FRD,NASDAQ,Friedman Industries Inc. - Common Stock,Stock,True,2026-05-08,,,b3a5d650b537b7d00a0b
 FRGT,NASDAQ,"Freight Technologies, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,ffe725eb01774ec8f71e
 FRHC,NASDAQ,Freedom Holding Corp. - Common Stock,Stock,True,2026-05-08,,,f8a455b6d5526b9c52c5
@@ -3385,7 +3389,7 @@ MANH,NASDAQ,"Manhattan Associates, Inc. - Common Stock",Stock,True,2026-05-08,,,
 MAR,NASDAQ,Marriott International - Class A Common Stock,Stock,True,2026-05-08,,,a23ea087a329b6f9c119
 MARA,NASDAQ,"MARA Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,409de4ad097bb421726a
 MARPS,NASDAQ,Marine Petroleum Trust - Units of Beneficial Interest,Stock,True,2026-05-08,,,6f0fc2130c3a322234b6
-MASI,NASDAQ,Masimo Corporation - Common Stock,Stock,True,2026-05-08,,,8d5c8de907d74fcc1274
+MASI,NASDAQ,Masimo Corporation - Common Stock,Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,8d5c8de907d74fcc1274
 MASK,NASDAQ,3 E Network Technology Group Ltd - Class A Ordinary Shares,Stock,True,2026-05-08,,,15bc7d965e996139a9ad
 MASS,NASDAQ,908 Devices Inc. - Common Stock,Stock,True,2026-05-08,,,4849b383a96eaefcbedd
 MAT,NASDAQ,"Mattel, Inc. - Common Stock",Stock,True,2026-05-08,,,b59898750f48fbb36e87
@@ -3517,9 +3521,9 @@ MLAA,NASDAQ,Mountain Lake Acquisition Corp. II - Class A Ordinary Shares,Stock,T
 MLAAU,NASDAQ,Mountain Lake Acquisition Corp. II - Units,Stock,True,2026-05-08,,,709438ccdae4d6bd3838
 MLAAW,NASDAQ,Mountain Lake Acquisition Corp. II - Warrants,Stock,True,2026-05-08,,,b80172210302517a6cd2
 MLAB,NASDAQ,"Mesa Laboratories, Inc. - Common Stock",Stock,True,2026-05-08,,,b4b628c0d105c24576b5
-MLAC,NASDAQ,Mountain Lake Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,52c5029f34246556b151
-MLACR,NASDAQ,Mountain Lake Acquisition Corp. - Right,Stock,True,2026-05-08,,,72a01b9c6793482966d0
-MLACU,NASDAQ,Mountain Lake Acquisition Corp. - Units,Stock,True,2026-05-08,,,31d7ac7e0eecdf159a6a
+MLAC,NASDAQ,Mountain Lake Acquisition Corp. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,52c5029f34246556b151
+MLACR,NASDAQ,Mountain Lake Acquisition Corp. - Right,Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,72a01b9c6793482966d0
+MLACU,NASDAQ,Mountain Lake Acquisition Corp. - Units,Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,31d7ac7e0eecdf159a6a
 MLCI,NASDAQ,Mount Logan Capital Inc. - Common Stock,Stock,True,2026-05-08,,,e20a8bf4b6ea689e11e4
 MLCIL,NASDAQ,Mount Logan Capital Inc. - 8.00% Notes Due 2031,Stock,True,2026-05-08,,,1a3f776b75e304baeb95
 MLCO,NASDAQ,Melco Resorts & Entertainment Limited - American Depositary Shares,Stock,True,2026-05-08,,,914984c22f18c116f5be
@@ -3805,7 +3809,7 @@ NOEMR,NASDAQ,CO2 Energy Transition Corp. - Right,Stock,True,2026-05-08,,,51eef1f
 NOEMU,NASDAQ,CO2 Energy Transition Corp. - Unit,Stock,True,2026-05-08,,,d7592437fe6c66ce34e3
 NOEMW,NASDAQ,CO2 Energy Transition Corp. - Warrant,Stock,True,2026-05-08,,,ff939a88fb11dd91e6a2
 NOMA,NASDAQ,NOMADAR Corp. - Class A Common Stock,Stock,True,2026-05-08,,,4319134abe202e48e5e0
-NOTV,NASDAQ,"Inotiv, Inc. - Common Stock",Stock,True,2026-05-08,,,e269fb44d71137481cc2
+NOTV,NASDAQ,"Inotiv, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,e269fb44d71137481cc2
 NOVT,NASDAQ,Novanta Inc. - Common Shares,Stock,True,2026-05-08,,,bdaa9465f341420218d0
 NOVTU,NASDAQ,Novanta Inc. - Tangible Equity Units,Stock,True,2026-05-08,,,51ba4f697eb030e65d05
 NOWL,NASDAQ,GraniteShares 2x Long NOW Daily ETF,ETF,True,2026-05-08,,,380b3c715f146f397b60
@@ -4457,7 +4461,7 @@ QSEA,NASDAQ,Quartzsea Acquisition Corporation - Ordinary Shares,Stock,True,2026-
 QSEAR,NASDAQ,Quartzsea Acquisition Corporation - Rights,Stock,True,2026-05-08,,,2ad8cb5a80245ce69013
 QSEAU,NASDAQ,Quartzsea Acquisition Corporation - Units,Stock,True,2026-05-08,,,9d7efbe3d7b74065b149
 QSI,NASDAQ,Quantum-Si Incorporated - Class A Common Stock,Stock,True,2026-05-08,,,dc9fcf4b7fd7b363b299
-QSIAW,NASDAQ,Quantum-Si Incorporated - Warrant,Stock,True,2026-05-08,,,144ac91845f48542023a
+QSIAW,NASDAQ,Quantum-Si Incorporated - Warrant,Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,144ac91845f48542023a
 QSIX,NASDAQ,Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF,ETF,True,2026-05-08,,,de6fe4eea5d9bd4b71ac
 QSML,NASDAQ,WisdomTree U.S. SmallCap Quality Growth Fund,ETF,True,2026-05-08,,,c6e8b59dcbf43b158c3e
 QTEC,NASDAQ,First Trust NASDAQ-100-Technology Sector Index Fund,ETF,True,2026-05-08,,,bfb0c831ade1de0efa92
@@ -4820,6 +4824,7 @@ SGMT,NASDAQ,Sagimet Biosciences Inc. - Series A Common Stock,Stock,True,2026-05-
 SGP,NASDAQ,"SpyGlass Pharma, Inc. - Common Stock",Stock,True,2026-05-08,,,da7aeaee338060061ed6
 SGRP,NASDAQ,"SPAR Group, Inc. - Common Stock",Stock,True,2026-05-08,,,71f3dd271743f7f0e21d
 SGRY,NASDAQ,"Surgery Partners, Inc. - Common Stock",Stock,True,2026-05-08,,,6c93c8c21585e77328df
+SGVA,NASDAQ,F/m Accumulator Ultrashort Treasury Fund,ETF,True,2026-06-11,,,08ec668378049f257343
 SHAZ,NASDAQ,"SharonAI Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,451441c7fc4380d2209d
 SHBI,NASDAQ,"Shore Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,da24296ac89229c12c7e
 SHC,NASDAQ,Sotera Health Company - Common Stock,Stock,True,2026-05-08,,,cd965cb316bd88066ffc
@@ -5504,9 +5509,9 @@ UYSCR,NASDAQ,UY Scuti Acquisition Corp. - Rights,Stock,True,2026-05-08,,,a095bb1
 UYSCU,NASDAQ,UY Scuti Acquisition Corp. - Units,Stock,True,2026-05-08,,,669f6468a3a84211fb47
 UZX,NASDAQ,Linkage Global Inc - Class A Ordinary Shares,Stock,True,2026-05-18,,,627b3794d2e8a7eaab50
 VABK,NASDAQ,Virginia National Bankshares Corporation - Common Stock,Stock,True,2026-05-08,,,426508d63ed1f2081d21
-VACH,NASDAQ,Voyager Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-08,,,2460d086bbca75e8759a
-VACHU,NASDAQ,Voyager Acquisition Corp - Unit,Stock,True,2026-05-08,,,51e233d04bbff61b81c5
-VACHW,NASDAQ,Voyager Acquisition Corp - Warrants,Stock,True,2026-05-08,,,57a5c6bcac1ecb65bfeb
+VACH,NASDAQ,Voyager Acquisition Corp - Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,2460d086bbca75e8759a
+VACHU,NASDAQ,Voyager Acquisition Corp - Unit,Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,51e233d04bbff61b81c5
+VACHW,NASDAQ,Voyager Acquisition Corp - Warrants,Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,57a5c6bcac1ecb65bfeb
 VALG,NASDAQ,Leverage Shares 2X Long VALE Daily ETF,ETF,True,2026-05-08,,,0aded5e39c1ca286fdf1
 VALN,NASDAQ,Valneva SE - American Depositary Shares,Stock,True,2026-05-08,,,f9063ee0738a7874e176
 VALU,NASDAQ,"Value Line, Inc. - Common Stock",Stock,True,2026-05-08,,,1e0087f061dbfd3f9c2a
@@ -5616,6 +5621,8 @@ VRSK,NASDAQ,"Verisk Analytics, Inc. - Common Stock",Stock,True,2026-05-08,,,c51b
 VRSN,NASDAQ,"VeriSign, Inc. - Common Stock",Stock,True,2026-05-08,,,55249e495f463a2edcfe
 VRTL,NASDAQ,GraniteShares 2x Long VRT Daily ETF,ETF,True,2026-05-08,,,26526a7a93566bda8299
 VRTX,NASDAQ,Vertex Pharmaceuticals Incorporated - Common Stock,Stock,True,2026-05-08,,,61d8fc0aea34ff2ba34d
+VRXA,NASDAQ,Veraxa Biotech AG - Ordinary Shares,Stock,True,2026-06-11,,,5ee14264115c8a216b09
+VRXAW,NASDAQ,Veraxa Biotech AG - Warrants,Stock,True,2026-06-11,,,1f7f81e9a6e56356e9a1
 VS,NASDAQ,Versus Systems Inc. - Common Stock,Stock,True,2026-05-08,,,1880e42de11934ad9378
 VSA,NASDAQ,VisionSys AI Inc. - American Depositary Shares,Stock,True,2026-05-08,,,a04d130781405ecefbab
 VSAT,NASDAQ,"ViaSat, Inc. - Common Stock",Stock,True,2026-05-08,,,3d773646c7009e303043

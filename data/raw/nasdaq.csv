@@ -475,6 +475,7 @@ NASDAQ,AUROW,"Aurora Innovation, Inc. - Warrant",Stock,,nasdaq_trader_symbol_dir
 NASDAQ,AUTL,Autolus Therapeutics plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AUUD,Auddia Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AVAH,Aveanna Healthcare Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AVAT,Avalanche Treasury Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AVAV,"AeroVironment, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AVBH,"Avidbank Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AVBP,"ArriVent BioPharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -756,7 +757,8 @@ NASDAQ,BRBI,BRBI BR Partners S.A. - ADSs,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRCB,"Black Rock Coffee Bar, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BREM,iShares Emerging Markets Bond Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRES,Burney U.S. Equity Select ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,BREZU,Breeze Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BREZ,Breeze Acquisition Corp. II - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BREZR,Breeze Acquisition Corp. II - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRFH,Barfresh Food Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRHY,iShares High Yield Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRID,Bridgford Foods Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1879,6 +1881,7 @@ NASDAQ,FPXE,First Trust IPOX Europe Equity Opportunities ETF,ETF,,nasdaq_trader_
 NASDAQ,FPXI,First Trust International Equity Opportunities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FRAF,Franklin Financial Services Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRBA,First Bank - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FRBT,"Forbright, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRD,Friedman Industries Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRGT,"Freight Technologies, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRHC,Freedom Holding Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3002,7 +3005,6 @@ NASDAQ,MANH,"Manhattan Associates, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,MAR,Marriott International - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MARA,"MARA Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MARPS,Marine Petroleum Trust - Units of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MASI,Masimo Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MASK,3 E Network Technology Group Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MASS,908 Devices Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAT,"Mattel, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3133,9 +3135,6 @@ NASDAQ,MLAA,Mountain Lake Acquisition Corp. II - Class A Ordinary Shares,Stock,,
 NASDAQ,MLAAU,Mountain Lake Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MLAAW,Mountain Lake Acquisition Corp. II - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MLAB,"Mesa Laboratories, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MLAC,Mountain Lake Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MLACR,Mountain Lake Acquisition Corp. - Right,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MLACU,Mountain Lake Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MLCI,Mount Logan Capital Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MLCIL,Mount Logan Capital Inc. - 8.00% Notes Due 2031,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MLCO,Melco Resorts & Entertainment Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3421,7 +3420,6 @@ NASDAQ,NOEMR,CO2 Energy Transition Corp. - Right,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,NOEMU,CO2 Energy Transition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NOEMW,CO2 Energy Transition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NOMA,NOMADAR Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NOTV,"Inotiv, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NOVT,Novanta Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NOVTU,Novanta Inc. - Tangible Equity Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NOWL,GraniteShares 2x Long NOW Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4064,7 +4062,6 @@ NASDAQ,QSEA,Quartzsea Acquisition Corporation - Ordinary Shares,Stock,,nasdaq_tr
 NASDAQ,QSEAR,Quartzsea Acquisition Corporation - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QSEAU,Quartzsea Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QSI,Quantum-Si Incorporated - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,QSIAW,Quantum-Si Incorporated - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QSIX,Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QSML,WisdomTree U.S. SmallCap Quality Growth Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,ETF,,nasdaq_trader_symbol_directory
@@ -4424,6 +4421,7 @@ NASDAQ,SGMT,Sagimet Biosciences Inc. - Series A Common Stock,Stock,,nasdaq_trade
 NASDAQ,SGP,"SpyGlass Pharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGRP,"SPAR Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGRY,"Surgery Partners, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SGVA,F/m Accumulator Ultrashort Treasury Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHBI,"Shore Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHC,Sotera Health Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5098,9 +5096,6 @@ NASDAQ,UYSCR,UY Scuti Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,UYSCU,UY Scuti Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UZX,Linkage Global Inc - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VABK,Virginia National Bankshares Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,VACH,Voyager Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,VACHU,Voyager Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,VACHW,Voyager Acquisition Corp - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VALG,Leverage Shares 2X Long VALE Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VALN,Valneva SE - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VALU,"Value Line, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5210,6 +5205,8 @@ NASDAQ,VRSK,"Verisk Analytics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,VRSN,"VeriSign, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VRTL,GraniteShares 2x Long VRT Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VRTX,Vertex Pharmaceuticals Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VRXA,Veraxa Biotech AG - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VRXAW,Veraxa Biotech AG - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VS,Versus Systems Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VSA,VisionSys AI Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VSAT,"ViaSat, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
