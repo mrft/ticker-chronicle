@@ -160,7 +160,7 @@ NASDAQ,AGNCO,"AGNC Investment Corp. - Depositary Shares, each representing a 1/1
 NASDAQ,AGNCP,"AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGNCZ,"AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 8.75% Series H Fixed-Rate Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGNG,Global X Aging Population ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,AGNT,"eXp World Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AGNT,"AGNT, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGPU,Axe Compute Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGRZ,Agroz Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGYS,"Agilysys, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1808,11 +1808,6 @@ NASDAQ,FINY,GraniteShares YieldBOOST Financials ETF,ETF,,nasdaq_trader_symbol_di
 NASDAQ,FIP,FTAI Infrastructure Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FISI,"Financial Institutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FISV,"Fiserv, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FITB,Fifth Third Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FITBI,Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FITBM,"Fifth Third Bancorp - Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FITBO,"Fifth Third Bancorp - Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FITBP,"Fifth Third Bancorp - Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIVE,"Five Below, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIVN,"Five9, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIVY,YieldMax Dorsey Wright Hybrid 5 Income ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2680,7 +2675,6 @@ NASDAQ,JZ,Jianzhi Education Technology Group Company Limited - American Deposita
 NASDAQ,JZXN,"Jiuzi Holdings, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KALA,"KALA BIO, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KALU,Kaiser Aluminum Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KALV,"KalVista Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KARO,Karooooo Ltd. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KAT,Scharf ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KBAB,KraneShares 2x Long BABA Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4362,7 +4356,6 @@ NASDAQ,SCPQ,Social Commerce Partners Corporation - Class A Ordinary Shares,Stock
 NASDAQ,SCPQU,Social Commerce Partners Corporation - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCPQW,Social Commerce Partners Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCSC,"ScanSource, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SCVL,"Shoe Carnival, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCWO,374Water Inc. - common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCYX,"SCYNEXIS, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCZ,iShares MSCI EAFE Small-Cap ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4433,6 +4426,7 @@ NASDAQ,SHIP,Seanergy Maritime Holdings Corp. - Common Stock,Stock,,nasdaq_trader
 NASDAQ,SHLS,"Shoals Technologies Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHMD,SCHMID Group N.V. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHMDW,SCHMID Group N.V. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SHOE,"Shoe Station Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHOO,"Steven Madden, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHOP,Shopify Inc. - Class A Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHOTU,RMG ML Sports Holdings - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -4578,6 +4572,7 @@ NASDAQ,SPBC,Simplify US Equity PLUS Bitcoin Strategy ETF,ETF,,nasdaq_trader_symb
 NASDAQ,SPCB,"SuperCom, Ltd. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SPCK,SPAC and New Issue ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SPCT,Liberty One Spectrum ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,SPCX,Space Exploration Technologies Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SPEG,Silver Pegasus Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SPEGR,Silver Pegasus Acquisition Corp - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SPEGU,Silver Pegasus Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory

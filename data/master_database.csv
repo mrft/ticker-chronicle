@@ -490,7 +490,8 @@ AGNCO,NASDAQ,"AGNC Investment Corp. - Depositary Shares, each representing a 1/1
 AGNCP,NASDAQ,"AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,a7d6f4702d5802cb2533
 AGNCZ,NASDAQ,"AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 8.75% Series H Fixed-Rate Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,87d273480404197d7f10
 AGNG,NASDAQ,Global X Aging Population ETF,ETF,True,2026-05-08,,,22a7c5d36a3633167732
-AGNT,NASDAQ,"eXp World Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,a3b1adb9ec605d224232
+AGNT,NASDAQ,"eXp World Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-12,Listing metadata changed,a3b1adb9ec605d224232
+AGNT,NASDAQ,"AGNT, Inc. - Common Stock",Stock,True,2026-06-12,,,7380caf2a0b33315c2e7
 AGPU,NASDAQ,Axe Compute Inc. - Common Stock,Stock,True,2026-05-08,,,6693947a00db02ec49a3
 AGRZ,NASDAQ,Agroz Inc. - Ordinary Shares,Stock,True,2026-05-08,,,ba23069f1561558ea337
 AGYS,NASDAQ,"Agilysys, Inc. - Common Stock",Stock,True,2026-05-08,,,6e0e562a028c17bbca16
@@ -2170,11 +2171,11 @@ FINY,NASDAQ,GraniteShares YieldBOOST Financials ETF,ETF,True,2026-05-08,,,7e3137
 FIP,NASDAQ,FTAI Infrastructure Inc. - Common Stock,Stock,True,2026-05-08,,,0826915ff9275ff5d5f4
 FISI,NASDAQ,"Financial Institutions, Inc. - Common Stock",Stock,True,2026-05-08,,,d90ce6e92d868bce2756
 FISV,NASDAQ,"Fiserv, Inc. - Common Stock",Stock,True,2026-05-08,,,f1a552bdbd7539ae7b9e
-FITB,NASDAQ,Fifth Third Bancorp - Common Stock,Stock,True,2026-05-08,,,7c58433403fa8c693303
-FITBI,NASDAQ,Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I,Stock,True,2026-05-08,,,907b620d3e6ee1352064
-FITBM,NASDAQ,"Fifth Third Bancorp - Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",Stock,True,2026-05-08,,,f37a1b36bac81b950c2c
-FITBO,NASDAQ,"Fifth Third Bancorp - Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",Stock,True,2026-05-08,,,28b8b03c094eeec8c4e0
-FITBP,NASDAQ,"Fifth Third Bancorp - Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",Stock,True,2026-05-08,,,8d07e531dea43868f89f
+FITB,NASDAQ,Fifth Third Bancorp - Common Stock,Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,7c58433403fa8c693303
+FITBI,NASDAQ,Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I,Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,907b620d3e6ee1352064
+FITBM,NASDAQ,"Fifth Third Bancorp - Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,f37a1b36bac81b950c2c
+FITBO,NASDAQ,"Fifth Third Bancorp - Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,28b8b03c094eeec8c4e0
+FITBP,NASDAQ,"Fifth Third Bancorp - Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,8d07e531dea43868f89f
 FIVE,NASDAQ,"Five Below, Inc. - Common Stock",Stock,True,2026-05-08,,,33a675f4ca8499c0bd43
 FIVN,NASDAQ,"Five9, Inc. - Common Stock",Stock,True,2026-05-08,,,f97a6ec129bc3bfc86c1
 FIVY,NASDAQ,YieldMax Dorsey Wright Hybrid 5 Income ETF,ETF,True,2026-05-08,,,3e1d9df26a72811d42f2
@@ -3057,7 +3058,7 @@ JZ,NASDAQ,Jianzhi Education Technology Group Company Limited - American Deposita
 JZXN,NASDAQ,"Jiuzi Holdings, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,efe0e1e458ca6fbaf0f2
 KALA,NASDAQ,"KALA BIO, Inc. - Common Stock",Stock,True,2026-05-08,,,f79b4fbc4ac2f4140aad
 KALU,NASDAQ,Kaiser Aluminum Corporation - Common Stock,Stock,True,2026-05-08,,,37ae13fe01f3d150796b
-KALV,NASDAQ,"KalVista Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,4c47638feff67fcabfb3
+KALV,NASDAQ,"KalVista Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,4c47638feff67fcabfb3
 KARO,NASDAQ,Karooooo Ltd. - Ordinary shares,Stock,True,2026-05-08,,,71ee823b085a3415245e
 KAT,NASDAQ,Scharf ETF,ETF,True,2026-05-08,,,7564ed6df5aa11fd42e0
 KBAB,NASDAQ,KraneShares 2x Long BABA Daily ETF,ETF,True,2026-05-08,,,da14e611c5f5d1dcaff3
@@ -4764,7 +4765,7 @@ SCPQ,NASDAQ,Social Commerce Partners Corporation - Class A Ordinary Shares,Stock
 SCPQU,NASDAQ,Social Commerce Partners Corporation - Unit,Stock,True,2026-05-08,,,afecf1b914de9986f286
 SCPQW,NASDAQ,Social Commerce Partners Corporation - Warrant,Stock,True,2026-05-08,,,13ac438e6123c0abfd48
 SCSC,NASDAQ,"ScanSource, Inc. - Common Stock",Stock,True,2026-05-08,,,b0c269a9f9d8f876ff4b
-SCVL,NASDAQ,"Shoe Carnival, Inc. - Common Stock",Stock,True,2026-05-08,,,23931a76221403d66467
+SCVL,NASDAQ,"Shoe Carnival, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,23931a76221403d66467
 SCWO,NASDAQ,374Water Inc. - common stock,Stock,True,2026-05-08,,,83c64b582f90409f68cf
 SCYX,NASDAQ,"SCYNEXIS, Inc. - Common Stock",Stock,True,2026-05-08,,,f5e7e6fb06bccca80358
 SCZ,NASDAQ,iShares MSCI EAFE Small-Cap ETF,ETF,True,2026-05-08,,,4dceb27cc81d3f660277
@@ -4836,6 +4837,7 @@ SHIP,NASDAQ,Seanergy Maritime Holdings Corp. - Common Stock,Stock,True,2026-05-0
 SHLS,NASDAQ,"Shoals Technologies Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,02675046e0ce9216efa5
 SHMD,NASDAQ,SCHMID Group N.V. - Class A Ordinary Shares,Stock,True,2026-05-08,,,e01ab6db88387b0ea56a
 SHMDW,NASDAQ,SCHMID Group N.V. - Warrants,Stock,True,2026-05-08,,,4200c7171aaa4781d412
+SHOE,NASDAQ,"Shoe Station Group, Inc. - Common Stock",Stock,True,2026-06-12,,,394b337bc467a7161aa0
 SHOO,NASDAQ,"Steven Madden, Ltd. - Common Stock",Stock,True,2026-05-08,,,879682098905131d7655
 SHOP,NASDAQ,Shopify Inc. - Class A Subordinate Voting Shares,Stock,True,2026-05-08,,,d5e266395d013a679ba7
 SHOTU,NASDAQ,RMG ML Sports Holdings - Unit,Stock,True,2026-06-10,,,d57f3345a0a574f7b4cd
@@ -4984,6 +4986,7 @@ SPBC,NASDAQ,Simplify US Equity PLUS Bitcoin Strategy ETF,ETF,True,2026-05-08,,,7
 SPCB,NASDAQ,"SuperCom, Ltd. - Ordinary Shares",Stock,True,2026-05-08,,,6422e6156226a48646b9
 SPCK,NASDAQ,SPAC and New Issue ETF,ETF,True,2026-05-08,,,ab9fcc19cc04bfd29d3c
 SPCT,NASDAQ,Liberty One Spectrum ETF,ETF,True,2026-05-08,,,7c071fad38666fc52d81
+SPCX,NASDAQ,Space Exploration Technologies Corp. - Class A Common Stock,Stock,True,2026-06-12,,,ae550ac5e06fd0ccb954
 SPEG,NASDAQ,Silver Pegasus Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-08,,,1328923a3a281795a4e7
 SPEGR,NASDAQ,Silver Pegasus Acquisition Corp - Rights,Stock,True,2026-05-08,,,401d3b16628f18c1d5cf
 SPEGU,NASDAQ,Silver Pegasus Acquisition Corp - Unit,Stock,True,2026-05-08,,,2507a6f1a6c6b26f9aa7
@@ -6987,6 +6990,11 @@ FIHL,NYSE,Fidelis Insurance Holdings Limited Common Shares,Stock,False,2026-05-0
 FINS,NYSE,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,56e034a73df837ef1f7a
 FINV,NYSE,FinVolution Group American Depositary Shares,Stock,True,2026-05-08,,,e80eadee045a5875a190
 FIS,NYSE,"Fidelity National Information Services, Inc. Common Stock",Stock,True,2026-05-08,,,2bf67db98f3cf63da174
+FITB,NYSE,Fifth Third Bancorp Common Stock,Stock,True,2026-06-12,,,c7ee51394f44914b49ff
+FITB$A,NYSE,"Fifth Third Bancorp Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",Stock,True,2026-06-12,,,1a3e699d5acc52845f22
+FITB$I,NYSE,Fifth Third Bancorp Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I,Stock,True,2026-06-12,,,d7ddb9494ee157fbf06d
+FITB$K,NYSE,"Fifth Third Bancorp Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",Stock,True,2026-06-12,,,62762e5b675359f7deda
+FITB$M,NYSE,"Fifth Third Bancorp Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",Stock,True,2026-06-12,,,789c9a4457310bcdf149
 FIX,NYSE,"Comfort Systems USA, Inc. Common Stock",Stock,True,2026-05-08,,,89937c5abe9a6e9a61f9
 FIXT,NYSE,TCW Core Plus Bond ETF,ETF,True,2026-05-08,,,c24f71cd90366b887a68
 FLC,NYSE,Flaherty & Crumrine Total Return Fund Inc Common Stock,Stock,True,2026-05-08,,,3c6b45c100484805ad4d

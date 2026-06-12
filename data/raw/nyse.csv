@@ -1033,6 +1033,11 @@ NYSE,FIGS,"FIGS, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_director
 NYSE,FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,FINV,FinVolution Group American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,FIS,"Fidelity National Information Services, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,FITB,Fifth Third Bancorp Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,FITB$A,"Fifth Third Bancorp Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory
+NYSE,FITB$I,Fifth Third Bancorp Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I,Stock,,nasdaq_trader_symbol_directory
+NYSE,FITB$K,"Fifth Third Bancorp Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",Stock,,nasdaq_trader_symbol_directory
+NYSE,FITB$M,"Fifth Third Bancorp Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",Stock,,nasdaq_trader_symbol_directory
 NYSE,FIX,"Comfort Systems USA, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FIXT,TCW Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,FLC,Flaherty & Crumrine Total Return Fund Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
