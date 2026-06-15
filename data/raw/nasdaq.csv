@@ -1238,6 +1238,7 @@ NASDAQ,CSBR,"Champions Oncology, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,CSCL,Direxion Daily CSCO Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CSCO,"Cisco Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CSCS,Direxion Daily CSCO Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,CSEN,Cohen & Steers Future of Energy Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CSGP,"CoStar Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CSHR,CoinShares PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CSHRW,CoinShares PLC - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -1911,7 +1912,6 @@ NASDAQ,FTA,First Trust Large Cap Value AlphaDEX Fund,ETF,,nasdaq_trader_symbol_d
 NASDAQ,FTAG,First Trust Indxx Global Agriculture ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FTAI,FTAI Aviation Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FTAIM,FTAI Aviation Ltd. - 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FTAIN,FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FTC,First Trust Large Cap Growth AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FTCI,"FTC Solar, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FTCS,First Trust Capital Strength ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2285,6 +2285,8 @@ NASDAQ,HOFT,Hooker Furnishings Corporation - Common Stock,Stock,,nasdaq_trader_s
 NASDAQ,HOLO,MicroCloud Hologram Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HOLOW,MicroCloud Hologram Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HON,Honeywell International Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HONAV,Honeywell Aerospace Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HONIV,Honeywell International Inc. - Common Stock Ex Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HOOD,"Robinhood Markets, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HOOG,Leverage Shares 2X Long HOOD Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HOOX,Defiance Daily Target 2X Long HOOD ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2313,9 +2315,6 @@ NASDAQ,HSCS,HeartSciences Inc. - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,HSCSW,HeartSciences Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HSDT,Solana Company - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HSIC,"Henry Schein, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HSPT,Horizon Space Acquisition II Corp. - Ordinary share,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HSPTR,Horizon Space Acquisition II Corp. - Right,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HSPTU,Horizon Space Acquisition II Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HST,"Host Hotels & Resorts, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HSTM,"HealthStream, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HTCO,High-Trend International Group - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4470,6 +4469,7 @@ NASDAQ,SKYW,"SkyWest, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYX,SKYX Platforms Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYY,First Trust Cloud Computing ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SLAB,"Silicon Laboratories, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SLBT,SL Science Holding Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLDB,Solid Biosciences Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLDE,"Slide Insurance Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLDP,"Solid Power, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4820,8 +4820,10 @@ NASDAQ,THYP,21shares Hyperliquid ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TIGO,Millicom International Cellular S.A. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TIGR,UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TIL,"Instil Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TILC,Thrivent International Large Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TILE,"Interface, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TIPT,Tiptree Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TISC,Thrivent International Small Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TITN,Titan Machinery Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TJGC,TJGC Group Limited - ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TKLF,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory

@@ -153,7 +153,7 @@ ISOU,AMEX,IsoEnergy Ltd. Common Shares,Stock,True,2026-05-08,,,a5921e62e31f8a639
 ITP,AMEX,"IT Tech Packaging, Inc. Common Stock",Stock,True,2026-05-08,,,efcd53c2a02d8a65bd66
 ITRG,AMEX,Integra Resources Corp. Common Shares,Stock,True,2026-05-08,,,3b2e0918e878c62a4afe
 JAGU,AMEX,Jaguar Uranium Corp. Class A Common Shares,Stock,True,2026-05-08,,,7cd72b48dc44af25622f
-JMG,AMEX,JM Group Limited Ordinary Shares,Stock,True,2026-05-08,,,56860278e8d956d26e86
+JMG,AMEX,JM Group Limited Ordinary Shares,Stock,False,2026-05-08,2026-06-15,Missing from current AMEX source snapshot; reason unavailable,56860278e8d956d26e86
 JOB,AMEX,GEE Group Inc. Common Stock,Stock,True,2026-05-08,,,030d6173b69c9e418aca
 KAPA,AMEX,"Kairos Pharma, Ltd. Common Stock",Stock,True,2026-05-08,,,26fe3b913c8d8ddf693a
 KNRX,AMEX,KNOREX LTD. Class A Ordinary Shares,Stock,True,2026-05-08,,,10a6ea588c9f33c5aa05
@@ -278,7 +278,7 @@ STRW,AMEX,"Strawberry Fields REIT, Inc. Common Stock",Stock,True,2026-05-08,,,85
 STXS,AMEX,"Stereotaxis, Inc. Common Stock",Stock,True,2026-05-08,,,1f1a0ed7163885017666
 SVM,AMEX,Silvercorp Metals Inc. Common Shares,Stock,True,2026-05-08,,,568a41911103718d904a
 SYNX,AMEX,Silynxcom Ltd. Ordinary Shares,Stock,True,2026-05-08,,,4b1214d7c7f38fe7091f
-TCGL,AMEX,TechCreate Group Ltd. Class A Ordinary Shares,Stock,True,2026-05-08,,,4dcb6a2a90c2f6a32a2b
+TCGL,AMEX,TechCreate Group Ltd. Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-15,Missing from current AMEX source snapshot; reason unavailable,4dcb6a2a90c2f6a32a2b
 TGB,AMEX,"Taseko Mines, Ltd. Common Stock",Stock,True,2026-05-08,,,50e60bebb68449abef17
 TGE.W,AMEX,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",Stock,True,2026-05-08,,,2fcf863f8c99f249d853
 TGEN,AMEX,Tecogen Inc. Common Stock,Stock,True,2026-05-08,,,43910b9f9270efc93cbb
@@ -1589,6 +1589,7 @@ CSBR,NASDAQ,"Champions Oncology, Inc. - Common Stock",Stock,True,2026-05-08,,,01
 CSCL,NASDAQ,Direxion Daily CSCO Bull 2X ETF,ETF,True,2026-05-08,,,ef558d554a0949db6535
 CSCO,NASDAQ,"Cisco Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,6af11e5a134e83072779
 CSCS,NASDAQ,Direxion Daily CSCO Bear 1X ETF,ETF,True,2026-05-08,,,b57dfedc8aea5b2c8c55
+CSEN,NASDAQ,Cohen & Steers Future of Energy Active ETF,ETF,True,2026-06-15,,,76c3d9f2c02a0a3036e2
 CSGP,NASDAQ,"CoStar Group, Inc. - Common Stock",Stock,True,2026-05-08,,,f88c7c543e1b14755858
 CSGS,NASDAQ,"CSG Systems International, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-15,Missing from current NASDAQ source snapshot; reason unavailable,92f21c8218637ccef391
 CSHR,NASDAQ,CoinShares PLC - Ordinary Shares,Stock,True,2026-05-08,,,0f19e5fe9615698c6caa
@@ -2281,7 +2282,7 @@ FTA,NASDAQ,First Trust Large Cap Value AlphaDEX Fund,ETF,True,2026-05-08,,,f8f5a
 FTAG,NASDAQ,First Trust Indxx Global Agriculture ETF,ETF,True,2026-05-08,,,410cfdd646d725ba2517
 FTAI,NASDAQ,FTAI Aviation Ltd. - Common Stock,Stock,True,2026-05-08,,,fa2c035e6611f0722517
 FTAIM,NASDAQ,FTAI Aviation Ltd. - 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares,Stock,True,2026-05-08,,,44136c56d02857aed32e
-FTAIN,NASDAQ,FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares,Stock,True,2026-05-08,,,916f66c36fd37cb4c6d7
+FTAIN,NASDAQ,FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares,Stock,False,2026-05-08,2026-06-15,Missing from current NASDAQ source snapshot; reason unavailable,916f66c36fd37cb4c6d7
 FTC,NASDAQ,First Trust Large Cap Growth AlphaDEX Fund,ETF,True,2026-05-08,,,b93d9bbdc0000159d18a
 FTCI,NASDAQ,"FTC Solar, Inc. - Common Stock",Stock,True,2026-05-08,,,bfb3cd5ae15d27e7c2dc
 FTCS,NASDAQ,First Trust Capital Strength ETF,ETF,True,2026-05-08,,,99099ffe882aded61b85
@@ -2661,6 +2662,8 @@ HOFT,NASDAQ,Hooker Furnishings Corporation - Common Stock,Stock,True,2026-05-08,
 HOLO,NASDAQ,MicroCloud Hologram Inc. - Ordinary Shares,Stock,True,2026-05-08,,,ce968ff313a3ebe87f98
 HOLOW,NASDAQ,MicroCloud Hologram Inc. - Warrant,Stock,True,2026-05-08,,,842fc0dcc9c721183d0f
 HON,NASDAQ,Honeywell International Inc. - Common Stock,Stock,True,2026-05-08,,,758c96dd93229361d6ea
+HONAV,NASDAQ,Honeywell Aerospace Inc. - Common Stock,Stock,True,2026-06-15,,,9779d1b315d92cb5090c
+HONIV,NASDAQ,Honeywell International Inc. - Common Stock Ex Distribution When Issued,Stock,True,2026-06-15,,,e78d043125fe124ffc34
 HOOD,NASDAQ,"Robinhood Markets, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,db6d58c8541b31a836ca
 HOOG,NASDAQ,Leverage Shares 2X Long HOOD Daily ETF,ETF,True,2026-05-08,,,e76ddae74735d634a083
 HOOX,NASDAQ,Defiance Daily Target 2X Long HOOD ETF,ETF,True,2026-05-08,,,f1924e885bbfbb34b685
@@ -2690,9 +2693,9 @@ HSCS,NASDAQ,HeartSciences Inc. - Common Stock,Stock,True,2026-05-08,,,d81f8850a4
 HSCSW,NASDAQ,HeartSciences Inc. - Warrant,Stock,True,2026-05-08,,,450b180011d8e307f466
 HSDT,NASDAQ,Solana Company - Class A Common Stock,Stock,True,2026-05-08,,,d13c8ad0bd5aca30c30a
 HSIC,NASDAQ,"Henry Schein, Inc. - Common Stock",Stock,True,2026-05-08,,,b25e96be2071d8679897
-HSPT,NASDAQ,Horizon Space Acquisition II Corp. - Ordinary share,Stock,True,2026-05-08,,,bdefbd4dc66c0e700e5b
-HSPTR,NASDAQ,Horizon Space Acquisition II Corp. - Right,Stock,True,2026-05-08,,,5ad2acd53494fd725fe1
-HSPTU,NASDAQ,Horizon Space Acquisition II Corp. - Units,Stock,True,2026-05-08,,,a456c84ce6fc7675c83e
+HSPT,NASDAQ,Horizon Space Acquisition II Corp. - Ordinary share,Stock,False,2026-05-08,2026-06-15,Missing from current NASDAQ source snapshot; reason unavailable,bdefbd4dc66c0e700e5b
+HSPTR,NASDAQ,Horizon Space Acquisition II Corp. - Right,Stock,False,2026-05-08,2026-06-15,Missing from current NASDAQ source snapshot; reason unavailable,5ad2acd53494fd725fe1
+HSPTU,NASDAQ,Horizon Space Acquisition II Corp. - Units,Stock,False,2026-05-08,2026-06-15,Missing from current NASDAQ source snapshot; reason unavailable,a456c84ce6fc7675c83e
 HST,NASDAQ,"Host Hotels & Resorts, Inc. - Common Stock",Stock,True,2026-05-08,,,c1a851e3aca87c7262d3
 HSTM,NASDAQ,"HealthStream, Inc. - Common Stock",Stock,True,2026-05-08,,,36dc6547c71c1fa3f035
 HTCO,NASDAQ,High-Trend International Group - Class A Ordinary Shares,Stock,True,2026-05-08,,,2302e50d8974072d7cca
@@ -4881,6 +4884,7 @@ SKYW,NASDAQ,"SkyWest, Inc. - Common Stock",Stock,True,2026-05-08,,,587a4c869c2c5
 SKYX,NASDAQ,SKYX Platforms Corp. - Common Stock,Stock,True,2026-05-08,,,4bd560ed0c64864ebf4a
 SKYY,NASDAQ,First Trust Cloud Computing ETF,ETF,True,2026-05-08,,,d709f7f70bdc5a977529
 SLAB,NASDAQ,"Silicon Laboratories, Inc. - Common Stock",Stock,True,2026-05-08,,,706477d8dffef33b03f1
+SLBT,NASDAQ,SL Science Holding Limited - Ordinary Shares,Stock,True,2026-06-15,,,d04593cf795fcfdfbf98
 SLDB,NASDAQ,Solid Biosciences Inc. - Common Stock,Stock,True,2026-05-08,,,9a1bec93785480b0c210
 SLDE,NASDAQ,"Slide Insurance Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,09f7f2f8f3c4f3f145cf
 SLDP,NASDAQ,"Solid Power, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,b5988d8f6e4b4d63eeb1
@@ -5237,8 +5241,10 @@ THYP,NASDAQ,21shares Hyperliquid ETF,ETF,True,2026-05-12,,,e8fb25bc367e4db21bbd
 TIGO,NASDAQ,Millicom International Cellular S.A. - Common Stock,Stock,True,2026-05-08,,,cf67174f5633ccd9c69a
 TIGR,NASDAQ,UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares,Stock,True,2026-05-08,,,bbb9c81262c97023ee21
 TIL,NASDAQ,"Instil Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,ede2796470852b731716
+TILC,NASDAQ,Thrivent International Large Cap ETF,ETF,True,2026-06-15,,,1cd3de99dd9e5676bcfb
 TILE,NASDAQ,"Interface, Inc. - Common Stock",Stock,True,2026-05-08,,,e1f8d80b5036ce5bcd70
 TIPT,NASDAQ,Tiptree Inc. - Common Stock,Stock,True,2026-05-08,,,5bbf2c721bae70a8cfc3
+TISC,NASDAQ,Thrivent International Small Cap ETF,ETF,True,2026-06-15,,,4703a5c9f6112e1f6bed
 TITN,NASDAQ,Titan Machinery Inc. - Common Stock,Stock,True,2026-05-08,,,99581d13698404912cf3
 TJGC,NASDAQ,TJGC Group Limited - ordinary shares,Stock,True,2026-05-08,,,150f3e92dab7efacd5f2
 TKLF,NASDAQ,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",Stock,True,2026-05-08,,,c883c69efb086e896f81
@@ -8258,7 +8264,7 @@ RYAM,NYSE,Rayonier Advanced Materials Inc. Common Stock,Stock,True,2026-05-08,,,
 RYAN,NYSE,"Ryan Specialty Holdings, Inc. Class A Common Stock",Stock,True,2026-05-08,,,121e05e5dba85cc1d84d
 RYN,NYSE,Rayonier Inc. REIT Common Stock,Stock,True,2026-05-08,,,1b6842ffe98aea61d8ea
 RYZ,NYSE,Ryerson Holding Corporation Common Stock,Stock,True,2026-05-08,,,5c4d23f83ed2dab7cb15
-RZB,NYSE,"Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",Stock,True,2026-05-08,,,d708302ffb89a069d103
+RZB,NYSE,"Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",Stock,False,2026-05-08,2026-06-15,Missing from current NYSE source snapshot; reason unavailable,d708302ffb89a069d103
 RZC,NYSE,"Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",Stock,True,2026-05-08,,,838091d46a139d42cf21
 S,NYSE,"SentinelOne, Inc. Class A Common Stock",Stock,True,2026-05-08,,,a5ca5e5cf9851d233f64
 SA,NYSE,"Seabridge Gold, Inc. Ordinary Shares (Canada)",Stock,False,2026-05-08,2026-06-05,Listing metadata changed,511b0e84ec0abcbd8a0c
