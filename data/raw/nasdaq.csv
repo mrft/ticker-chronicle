@@ -654,6 +654,7 @@ NASDAQ,BIOX,Bioceres Crop Solutions Corp. - Ordinary Shares,Stock,,nasdaq_trader
 NASDAQ,BIOY,GraniteShares YieldBOOST Biotech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BIRD,"Allbirds, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIS,ProShares UltraShort Nasdaq Biotechnology,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BITA,iShares Bitcoin Premium Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BITS,Global X Blockchain & Bitcoin Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BIVI,BioVie Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIVIW,BioVie Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -1753,7 +1754,6 @@ NASDAQ,FDTS,First Trust Developed Markets ex-US Small Cap AlphaDEX Fund,ETF,,nas
 NASDAQ,FDTX,Fidelity Disruptive Technology ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDUS,Fidus Investment Corporation - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FEAM,"5E Advanced Materials, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FEAT,YieldMax Dorsey Wright Featured 5 Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FEBO,Fenbo Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FEED,"ENvue Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FEIM,"Frequency Electronics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1811,7 +1811,6 @@ NASDAQ,FISI,"Financial Institutions, Inc. - Common Stock",Stock,,nasdaq_trader_s
 NASDAQ,FISV,"Fiserv, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIVE,"Five Below, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIVN,"Five9, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FIVY,YieldMax Dorsey Wright Hybrid 5 Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FIXD,First Trust Smith Opportunistic Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FIYY,GraniteShares YieldBOOST 20Y Treasuries ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FIZZ,National Beverage Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1835,6 +1834,7 @@ NASDAQ,FLXS,"Flexsteel Industries, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,FLY,Firefly Aerospace Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FLYE,"Fly-E Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FLYW,Flywire Corporation - Voting Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FLZH,"Flash Sports & Media Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FMAC,Future Money Acquisition Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FMACR,Future Money Acquisition Corporation - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FMACU,Future Money Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
@@ -1921,6 +1921,7 @@ NASDAQ,FTEK,"Fuel Tech, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directo
 NASDAQ,FTFT,Future FinTech Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FTGC,First Trust Global Tactical Commodity Strategy Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FTGS,First Trust Growth Strength ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,FTH,"Faeth Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FTHAU,Forefront Tech Holdings Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FTHI,First Trust BuyWrite Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FTHM,Fathom Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2093,7 +2094,6 @@ NASDAQ,GNTA,Genenta Science S.p.A. - American Depositary Shares,Stock,,nasdaq_tr
 NASDAQ,GNTX,Gentex Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GO,Grocery Outlet Holding Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GOAI,Eva Live Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GOCO,"GoHealth, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GOGO,Gogo Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GOOD,Gladstone Commercial Corporation - Real Estate Investment Trust,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GOODN,Gladstone Commercial Corporation - 6.625% Series E Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3064,7 +3064,6 @@ NASDAQ,MDXH,MDxHealth SA - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MEDP,"Medpace Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MEDX,Horizon Kinetics Medical ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MEGL,Magic Empire Global Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MEHA,"Functional Brands, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MELI,"MercadoLibre, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MEMA,Man Active Emerging Markets Alternative ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MEMS,Matthews Emerging Markets Discovery Active ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4496,6 +4495,7 @@ NASDAQ,SLXNW,Silexion Therapeutics Corp - Warrant,Stock,,nasdaq_trader_symbol_di
 NASDAQ,SMBC,"Southern Missouri Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SMCF,Themes US Small Cap Cash Flow Champions ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMCI,"Super Micro Computer, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SMCIP,"Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SMCL,GraniteShares 2x Long SMCI Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMCO,Hilton Small-MidCap Opportunity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMCX,Defiance Daily Target 2X Long SMCI ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4529,7 +4529,6 @@ NASDAQ,SNFCA,Security National Financial Corporation - Class A Common Stock,Stoc
 NASDAQ,SNGX,"Soligenix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNOA,"Sonoma Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNPS,"Synopsys, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SNSE,"Sensei Biotherapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNSR,Global X Internet of Things ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SNT,Senstar Technologies Corporation - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNTG,Sentage Holdings Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -5019,7 +5018,6 @@ NASDAQ,UFOX,Defiance Connective Technologies ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,UFPI,"UFP Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UFPT,"UFP Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UG,"United-Guardian, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,UGRO,"urban-gro, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UITB,VictoryShares Core Intermediate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UIVM,VictoryShares International Value Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UK,Ucommune International Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -5415,6 +5413,7 @@ NASDAQ,XRXDW,Xerox Holdings Corporation - Warrants,Stock,,nasdaq_trader_symbol_d
 NASDAQ,XSLL,Xsolla SPAC 1 - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XSLLU,Xsolla SPAC 1 - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XSLLW,Xsolla SPAC 1 - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XSPC,VegaShares SpaceX & Beyond Earth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XSPI,NEOS Boosted S&P 500 High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XT,iShares Future Exponential Technologies ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XTIA,"XTI Aerospace, Inc. Common Stock - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5439,6 +5438,7 @@ NASDAQ,YHNAR,YHN Acquisition I Limited - Right,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,YHNAU,YHN Acquisition I Limited - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YI,"111, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YIBO,Planet Image International Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,YICCU,Yorkville International Capital Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YJ,Yunji Inc. - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YLDE,Franklin ClearBridge Enhanced Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YMAT,"J-Star Holding Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory

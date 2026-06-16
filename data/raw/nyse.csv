@@ -409,6 +409,7 @@ NYSE,BML$H,"Bank of America Corporation Depositary Shares (Each representing a 1
 NYSE,BML$J,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)",Stock,,nasdaq_trader_symbol_directory
 NYSE,BML$L,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)",Stock,,nasdaq_trader_symbol_directory
 NYSE,BMN,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+NYSE,BMNP,"BitMine Immersion Technologies, Inc. 9.5% Series A Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BMNR,"BitMine Immersion Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BMO,Bank Of Montreal Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BMY,Bristol-Myers Squibb Company Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1528,7 +1529,6 @@ NYSE,KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferr
 NYSE,KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),Stock,,nasdaq_trader_symbol_directory
 NYSE,KVUE,Kenvue Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KVYO,"Klaviyo, Inc. Series A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,KW,Kennedy-Wilson Holdings Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KWR,Quaker Houghton Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KWY,Kingsway Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",Stock,,nasdaq_trader_symbol_directory
