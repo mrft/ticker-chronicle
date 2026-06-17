@@ -702,6 +702,8 @@ NYSE,CTEST.O,NYSE Test One Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CTEST.S,NYSE Test Six Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CTEST.V,NYSE Test One Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CTEV,Claritev Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,CTGG,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),Stock,,nasdaq_trader_symbol_directory
+NYSE,CTHH,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),Stock,,nasdaq_trader_symbol_directory
 NYSE,CTO,"CTO Realty Growth, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CTO$A,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CTOS,"Custom Truck One Source, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2268,6 +2270,7 @@ NYSE,RPM,RPM International Inc. Common Stock,Stock,,nasdaq_trader_symbol_directo
 NYSE,RPT,Rithm Property Trust Inc. Common stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RQI,Cohen & Steers Quality Income Realty Fund Inc Common Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,RQI.V,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,RRC,Range Resources Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RRX,Regal Rexnord Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RS,"Reliance, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2666,7 +2669,6 @@ NYSE,TXT,Textron Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TY,Tri Continental Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TY$,Tri Continental Corporation Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TYG,Tortoise Energy Infrastructure Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,TYG.R,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 NYSE,TYL,"Tyler Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,U,Unity Software Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,UA,"Under Armour, Inc. Class C Common Stock",Stock,,nasdaq_trader_symbol_directory

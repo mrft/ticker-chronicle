@@ -209,6 +209,8 @@ NRO,AMEX,Neuberger Real Estate Securities Income Fund Inc. Common Stock,Stock,Tr
 NRXS,AMEX,"Neuraxis, Inc. Common Stock",Stock,True,2026-05-08,,,ebe0ef0b11e9ace04e27
 NSRX,AMEX,Nasus Pharma Ltd. Ordinary Shares,Stock,True,2026-05-08,,,9b17cc939e413fcb9dbc
 NTIP,AMEX,"Network-1 Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,49596a6b82a129e6fc3d
+NVA,AMEX,Nova Minerals Corp Common Stock,Stock,True,2026-06-17,,,f3e0bd1f18851a9d2ad0
+NVA.W,AMEX,Nova Minerals Corp Warrants to Purchase Common Stock,Stock,True,2026-06-17,,,ecaed44d990f56323ad1
 NXB,AMEX,NextBoat Inc. Common Stcok,Stock,True,2026-05-29,,,e7290b115728db5fcb14
 OBE,AMEX,Obsidian Energy Ltd. Common Shares,Stock,True,2026-05-08,,,6c7e148a121c82bdc715
 OGEN,AMEX,Oragenics Inc. Common Stock,Stock,True,2026-05-08,,,8d765d4b5a921e0323e6
@@ -760,7 +762,7 @@ ASPI,NASDAQ,ASP Isotopes Inc. - Common Stock,Stock,True,2026-05-08,,,292523d319c
 ASPS,NASDAQ,Altisource Portfolio Solutions S.A. - Common Stock,Stock,True,2026-05-08,,,863542ade8e43946dcca
 ASPSW,NASDAQ,Altisource Portfolio Solutions S.A. - Net Settle Stakeholder Warrants,Stock,True,2026-05-08,,,3c24b02c2649ffcd5262
 ASPSZ,NASDAQ,Altisource Portfolio Solutions S.A. - Cash Exercise Stakeholder Warrants,Stock,True,2026-05-08,,,e9c064c178fc35ae396b
-ASRT,NASDAQ,"Assertio Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,295020dc5ff8240a1a67
+ASRT,NASDAQ,"Assertio Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-17,Missing from current NASDAQ source snapshot; reason unavailable,295020dc5ff8240a1a67
 ASRV,NASDAQ,AmeriServ Financial Inc. - Common Stock,Stock,True,2026-05-08,,,13ca55205468135b4e80
 ASST,NASDAQ,"Strive, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,2c3fdb56d0847f921a1d
 ASTC,NASDAQ,Astrotech Corporation - Common Stock,Stock,True,2026-05-08,,,ce196dfe13c67634cb7d
@@ -1226,6 +1228,7 @@ CAC,NASDAQ,Camden National Corporation - Common Stock,Stock,True,2026-05-08,,,22
 CACC,NASDAQ,Credit Acceptance Corporation - Common Stock,Stock,True,2026-05-08,,,4cf9127ba717b609f032
 CADL,NASDAQ,"Candel Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,6c3f116b4d299fe2e5eb
 CAEP,NASDAQ,"Cantor Equity Partners III, Inc. - Class A Ordinary Shares",Stock,False,2026-05-08,2026-05-18,Missing from current NASDAQ source snapshot; reason unavailable,ef241e502a20aef46b9c
+CAES,NASDAQ,"Cantor Equity Partners VII, Inc. - Class A Ordinary Shares",Stock,True,2026-06-17,,,04b4dc7da69f245254b5
 CAFG,NASDAQ,Pacer US Small Cap Cash Cows Growth Leaders ETF,ETF,True,2026-05-08,,,e1cdb9db705a6a74f9cc
 CAI,NASDAQ,"Caris Life Sciences, Inc. - Common Stock",Stock,True,2026-05-08,,,d9d880a6f21ff442bf0d
 CAIIU,NASDAQ,Collective Acquisition Corp. II - Units,Stock,True,2026-05-08,,,f867cd8947ea82c34f1f
@@ -1650,7 +1653,9 @@ CWY,NASDAQ,GraniteShares YieldBOOST CRWV ETF,ETF,True,2026-05-08,,,b28751b10b761
 CXAI,NASDAQ,CXApp Inc. - Class A Common Stock,Stock,True,2026-05-08,,,ba93eec1c023fe10460e
 CXAIW,NASDAQ,CXApp Inc. - Warrant,Stock,True,2026-05-08,,,7609e0ed30187c76d543
 CXDO,NASDAQ,"Crexendo, Inc. - Common Stock",Stock,True,2026-05-08,,,779190732bb9898dba0a
+CXII,NASDAQ,Churchill Capital Corp XII - Class A Ordinary Shares,Stock,True,2026-06-17,,,7eb18faec124797080f8
 CXIIU,NASDAQ,Churchill Capital Corp XII - Units,Stock,True,2026-05-08,,,ec88d1584ca7ccf82170
+CXIIW,NASDAQ,Churchill Capital Corp XII - Warrants,Stock,True,2026-06-17,,,7f58d7b25a70fce49671
 CXSE,NASDAQ,WisdomTree China ex-State-Owned Enterprises Fund,ETF,True,2026-05-08,,,80f9f6dd56e8e7f8c08b
 CYAB,NASDAQ,"Cyabra, Inc. - Common Stock",Stock,True,2026-05-08,,,45bef1f97d35725ee6f8
 CYCN,NASDAQ,"Cyclerion Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,b19d2184cf0f8e477ce8
@@ -3067,6 +3072,7 @@ KALU,NASDAQ,Kaiser Aluminum Corporation - Common Stock,Stock,True,2026-05-08,,,3
 KALV,NASDAQ,"KalVista Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,4c47638feff67fcabfb3
 KARO,NASDAQ,Karooooo Ltd. - Ordinary shares,Stock,True,2026-05-08,,,71ee823b085a3415245e
 KAT,NASDAQ,Scharf ETF,ETF,True,2026-05-08,,,7564ed6df5aa11fd42e0
+KAZR,NASDAQ,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,True,2026-06-17,,,4877ace68b66bfd40e09
 KBAB,NASDAQ,KraneShares 2x Long BABA Daily ETF,ETF,True,2026-05-08,,,da14e611c5f5d1dcaff3
 KBDU,NASDAQ,KraneShares 2x Long BIDU Daily ETF,ETF,True,2026-05-08,,,eee95a6273cbc56d5d43
 KBON,NASDAQ,Karbon Capital Partners Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,4714eb73389382728812
@@ -3262,11 +3268,12 @@ LIF,NASDAQ,"Life360, Inc. - Common Stock",Stock,True,2026-05-08,,,16e5fe40725f6d
 LIFE,NASDAQ,Ethos Technologies Inc. - Class A Common Stock,Stock,True,2026-05-08,,,924323cfeca807a5df8c
 LILA,NASDAQ,Liberty Latin America Ltd. - Class A Common Stock,Stock,True,2026-05-08,,,9ab0b5840a2e447f6a0f
 LILAK,NASDAQ,Liberty Latin America Ltd. - Class C Common Stock,Stock,True,2026-05-08,,,1d80e2dcc766b1bd21ef
+LILAP,NASDAQ,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,Stock,True,2026-06-17,,,da2783c5c8840f621b18
 LILAV,NASDAQ,Liberty Latin America Ltd - Class A Common Stock Ex-Distribution When Issued,Stock,False,2026-06-01,2026-06-08,Listing metadata changed,e98ad6504d9a0f2399d7
-LILAV,NASDAQ,Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued,Stock,True,2026-06-08,,,3b653e4f623fe51b7b45
+LILAV,NASDAQ,Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued,Stock,False,2026-06-08,2026-06-17,Missing from current NASDAQ source snapshot; reason unavailable,3b653e4f623fe51b7b45
 LILKV,NASDAQ,Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued,Stock,False,2026-06-01,2026-06-08,Listing metadata changed,44ab7eba2f07888f3aae
-LILKV,NASDAQ,Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued,Stock,True,2026-06-08,,,8d3b63850f2100c9b5e2
-LILPV,NASDAQ,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,Stock,True,2026-06-01,,,da2783c5c8840f621b18
+LILKV,NASDAQ,Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued,Stock,False,2026-06-08,2026-06-17,Missing from current NASDAQ source snapshot; reason unavailable,8d3b63850f2100c9b5e2
+LILPV,NASDAQ,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,Stock,False,2026-06-01,2026-06-17,Missing from current NASDAQ source snapshot; reason unavailable,da2783c5c8840f621b18
 LIMN,NASDAQ,"Liminatus Pharma, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,a23ab54b61e218dc2ff4
 LIMNW,NASDAQ,"Liminatus Pharma, Inc. - Warrants",Stock,True,2026-05-08,,,5bb81d83eca8b60098e2
 LIN,NASDAQ,Linde plc - Ordinary Shares,Stock,True,2026-05-08,,,64823da1497a75e2df49
@@ -4761,7 +4768,7 @@ SCII,NASDAQ,SC II Acquisition Corp. - Class A ordinary share,Stock,True,2026-05-
 SCIIR,NASDAQ,SC II Acquisition Corp. - Rights,Stock,True,2026-05-08,,,89481cded12f8b71db95
 SCIIU,NASDAQ,SC II Acquisition Corp. - Units,Stock,True,2026-05-08,,,945aab492bb662a24285
 SCKT,NASDAQ,"Socket Mobile, Inc. - Common Stock",Stock,True,2026-05-08,,,a93b6cea7d9ac2c4efc3
-SCLS,NASDAQ,Stoneport Advisors Commodity Long Short ETF,ETF,True,2026-05-08,,,f7b30ebbb2b1e6dbd5cd
+SCLS,NASDAQ,Stoneport Advisors Commodity Long Short ETF,ETF,False,2026-05-08,2026-06-17,Missing from current NASDAQ source snapshot; reason unavailable,f7b30ebbb2b1e6dbd5cd
 SCLX,NASDAQ,Scilex Holding Company - Common Stock,Stock,True,2026-05-08,,,b1cbff9c7d8815ae0ea4
 SCLXW,NASDAQ,Scilex Holding Company - Warrant,Stock,True,2026-05-08,,,e2139e102f035a0b6b94
 SCNI,NASDAQ,Scinai Immunotherapeutics Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,33580cfef2f6b570b1e7
@@ -4871,7 +4878,7 @@ SITM,NASDAQ,SiTime Corporation - Common Stock,Stock,True,2026-05-08,,,075f7cea2b
 SJ,NASDAQ,Scienjoy Holding Corporation - Class A Ordinary Shares,Stock,True,2026-05-08,,,42a4b18f2a3ff8535e99
 SJCP,NASDAQ,SanJac Alpha Core Plus Bond ETF,ETF,True,2026-05-08,,,67daaa1b660b96523bed
 SJLD,NASDAQ,SanJac Alpha Low Duration ETF,ETF,True,2026-05-08,,,77521566266bce0138c6
-SKBL,NASDAQ,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,4877ace68b66bfd40e09
+SKBL,NASDAQ,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-17,Other delisting reason: Details unavailable (source: FMP Delisted API),4877ace68b66bfd40e09
 SKIN,NASDAQ,SkinHealth Systems Inc. - Class A Common Stock,Stock,True,2026-05-08,,,413da9f80912b1a4efaf
 SKK,NASDAQ,SKK Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,e6d732b9136c032b0f13
 SKOR,NASDAQ,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,True,2026-05-08,,,d50356e268e0c605ef4f
@@ -6655,6 +6662,8 @@ CTEST.O,NYSE,NYSE Test One Common Stock,Stock,True,2026-05-08,,,1775274fa7d55518
 CTEST.S,NYSE,NYSE Test Six Common Stock,Stock,True,2026-05-08,,,4c8a3be5a7b543b1640f
 CTEST.V,NYSE,NYSE Test One Common Stock,Stock,True,2026-05-08,,,1775274fa7d555189f3c
 CTEV,NYSE,Claritev Corporation Class A Common Stock,Stock,True,2026-05-08,,,1eb476ee97fb6f9c539d
+CTGG,NYSE,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),Stock,True,2026-06-17,,,4078613ca2dc71ae659c
+CTHH,NYSE,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),Stock,True,2026-06-17,,,6296573cdd763580e298
 CTO,NYSE,"CTO Realty Growth, Inc. Common Stock",Stock,True,2026-05-08,,,da11b3c56f524ed0889e
 CTO$A,NYSE,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,cb7a0ea974163700351e
 CTOS,NYSE,"Custom Truck One Source, Inc. Common Stock",Stock,True,2026-05-08,,,dbf78ca95e7406dc697d
@@ -8245,6 +8254,7 @@ RPM,NYSE,RPM International Inc. Common Stock,Stock,True,2026-05-08,,,e64703945ad
 RPT,NYSE,Rithm Property Trust Inc. Common stock,Stock,True,2026-05-08,,,f08d39857bd7075c464d
 RPT$C,NYSE,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,81c08676f2262d928e3b
 RQI,NYSE,Cohen & Steers Quality Income Realty Fund Inc Common Shares,Stock,True,2026-05-08,,,ae520cae47a87963893c
+RQI.V,NYSE,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",Stock,True,2026-06-17,,,8e263f5d431d5d699074
 RRC,NYSE,Range Resources Corporation Common Stock,Stock,True,2026-05-08,,,76082777e5ea3cfd7682
 RRX,NYSE,Regal Rexnord Corporation Common Stock,Stock,True,2026-05-08,,,6b7c1bd5633ca53fbc50
 RS,NYSE,"Reliance, Inc. Common Stock",Stock,True,2026-05-08,,,fc606302e56cf530720a
@@ -8648,7 +8658,7 @@ TXT,NYSE,Textron Inc. Common Stock,Stock,True,2026-05-08,,,d99a144da1b6b07b2758
 TY,NYSE,Tri Continental Corporation Common Stock,Stock,True,2026-05-08,,,f61a19875edcd33a1e74
 TY$,NYSE,Tri Continental Corporation Preferred Stock,Stock,True,2026-05-08,,,5df692e784a27fc39c82
 TYG,NYSE,Tortoise Energy Infrastructure Corporation Common Stock,Stock,True,2026-05-08,,,b1f294a06eb3c5940cc3
-TYG.R,NYSE,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",Stock,True,2026-05-21,,,588fc29f26dd160d099e
+TYG.R,NYSE,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",Stock,False,2026-05-21,2026-06-17,Missing from current NYSE source snapshot; reason unavailable,588fc29f26dd160d099e
 TYG.V,NYSE,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",Stock,False,2026-05-19,2026-05-21,Missing from current NYSE source snapshot; reason unavailable,50de0c5162d8c1766ab2
 TYL,NYSE,"Tyler Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,7be7bb71ae93664f8d25
 U,NYSE,Unity Software Inc. Common Stock,Stock,True,2026-05-08,,,a8e5f9dc47c949f7c57f

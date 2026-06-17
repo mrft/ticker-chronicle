@@ -420,7 +420,6 @@ NASDAQ,ASPI,ASP Isotopes Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,ASPS,Altisource Portfolio Solutions S.A. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASPSW,Altisource Portfolio Solutions S.A. - Net Settle Stakeholder Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASPSZ,Altisource Portfolio Solutions S.A. - Cash Exercise Stakeholder Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ASRT,"Assertio Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASRV,AmeriServ Financial Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASST,"Strive, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASTC,Astrotech Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -880,6 +879,7 @@ NASDAQ,CABR,"Caring Brands, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_dir
 NASDAQ,CAC,Camden National Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CACC,Credit Acceptance Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CADL,"Candel Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CAES,"Cantor Equity Partners VII, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CAFG,Pacer US Small Cap Cash Cows Growth Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CAI,"Caris Life Sciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CAIIU,Collective Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
@@ -1293,7 +1293,9 @@ NASDAQ,CWY,GraniteShares YieldBOOST CRWV ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CXAI,CXApp Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CXAIW,CXApp Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CXDO,"Crexendo, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CXII,Churchill Capital Corp XII - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CXIIU,Churchill Capital Corp XII - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CXIIW,Churchill Capital Corp XII - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CXSE,WisdomTree China ex-State-Owned Enterprises Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CYAB,"Cyabra, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CYCN,"Cyclerion Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2676,6 +2678,7 @@ NASDAQ,KALA,"KALA BIO, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_director
 NASDAQ,KALU,Kaiser Aluminum Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KARO,Karooooo Ltd. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KAT,Scharf ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,KAZR,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KBAB,KraneShares 2x Long BABA Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KBDU,KraneShares 2x Long BIDU Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KBON,Karbon Capital Partners Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2866,9 +2869,7 @@ NASDAQ,LIF,"Life360, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIFE,Ethos Technologies Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LILA,Liberty Latin America Ltd. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LILAK,Liberty Latin America Ltd. - Class C Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LILAV,Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LILKV,Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LILPV,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LILAP,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIMN,"Liminatus Pharma, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIMNW,"Liminatus Pharma, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIN,Linde plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4344,7 +4345,6 @@ NASDAQ,SCII,SC II Acquisition Corp. - Class A ordinary share,Stock,,nasdaq_trade
 NASDAQ,SCIIR,SC II Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCIIU,SC II Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCKT,"Socket Mobile, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SCLS,Stoneport Advisors Commodity Long Short ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SCLX,Scilex Holding Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCLXW,Scilex Holding Company - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCNI,Scinai Immunotherapeutics Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4452,7 +4452,6 @@ NASDAQ,SITM,SiTime Corporation - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,SJ,Scienjoy Holding Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SJCP,SanJac Alpha Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SJLD,SanJac Alpha Low Duration ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,SKBL,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKIN,SkinHealth Systems Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKK,SKK Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,,nasdaq_trader_symbol_directory
