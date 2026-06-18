@@ -237,7 +237,7 @@ PLAG,AMEX,Planet Green Holdings Corp. Common Stock,Stock,True,2026-05-08,,,f8a30
 PLG,AMEX,Platinum Group Metals Ltd. Ordinary Shares (Canada),Stock,True,2026-05-08,,,a3fda65f8ad91bb138d4
 PLX,AMEX,"Protalix BioTherapeutics, Inc. (DE) Common Stock",Stock,True,2026-05-08,,,c1a71a38e11f16281fdd
 PMI,AMEX,"Picard Medical, Inc. Common Stock",Stock,True,2026-05-08,,,bc89174e43807bdd5138
-PMNT,AMEX,Perfect Moment Ltd. Common Stock,Stock,True,2026-05-08,,,0a1fc7d23676cf9a4cd3
+PMNT,AMEX,Perfect Moment Ltd. Common Stock,Stock,False,2026-05-08,2026-06-18,Missing from current AMEX source snapshot; reason unavailable,0a1fc7d23676cf9a4cd3
 POAS,AMEX,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,Stock,True,2026-05-08,,,ce59d71a7b9be5f9f08c
 PRK,AMEX,Park National Corporation Common Stock,Stock,True,2026-05-08,,,bbca60b912463e24038b
 PTHS,AMEX,Pelthos Therapeutics Inc. Common Stock,Stock,True,2026-05-08,,,b722b6d7d70a713f14a9
@@ -2172,11 +2172,13 @@ FIGR,NASDAQ,"Figure Technology Solutions, Inc. - Class A Common Stock",Stock,Tru
 FIGX,NASDAQ,FIGX Capital Acquisition Corp. - Class A ordinary share,Stock,True,2026-05-08,,,fa626fbde2bacb9d576f
 FIGXU,NASDAQ,FIGX Capital Acquisition Corp. - Units,Stock,True,2026-05-08,,,20cb45efe75f2e826591
 FIGXW,NASDAQ,FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.,Stock,True,2026-05-08,,,c4758c4c734ae4bf317c
+FIMU,NASDAQ,Fidelity Intermediate Municipal Income ETF,ETF,True,2026-06-18,,,1873bb9529df102e04d0
 FINW,NASDAQ,FinWise Bancorp - Common Stock,Stock,True,2026-05-08,,,48fe0d89e23f8cce9d5c
 FINX,NASDAQ,Global X FinTech ETF,ETF,True,2026-05-08,,,12a43b08fac982f7dd46
 FINY,NASDAQ,GraniteShares YieldBOOST Financials ETF,ETF,True,2026-05-08,,,7e3137aba2293a80824c
 FIP,NASDAQ,FTAI Infrastructure Inc. - Common Stock,Stock,True,2026-05-08,,,0826915ff9275ff5d5f4
 FISI,NASDAQ,"Financial Institutions, Inc. - Common Stock",Stock,True,2026-05-08,,,d90ce6e92d868bce2756
+FISN,NASDAQ,"Deep Fission, Inc. - Common Stock",Stock,True,2026-06-18,,,84bd1b04db666e889bc7
 FISV,NASDAQ,"Fiserv, Inc. - Common Stock",Stock,True,2026-05-08,,,f1a552bdbd7539ae7b9e
 FITB,NASDAQ,Fifth Third Bancorp - Common Stock,Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,7c58433403fa8c693303
 FITBI,NASDAQ,Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I,Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,907b620d3e6ee1352064
@@ -2256,6 +2258,7 @@ FRAF,NASDAQ,Franklin Financial Services Corporation - Common Stock,Stock,True,20
 FRBA,NASDAQ,First Bank - Common Stock,Stock,True,2026-05-08,,,074f43d400daf010b6cf
 FRBT,NASDAQ,"Forbright, Inc. - Class A Common Stock",Stock,True,2026-06-11,,,3399e4e0eee100fb4a56
 FRD,NASDAQ,Friedman Industries Inc. - Common Stock,Stock,True,2026-05-08,,,b3a5d650b537b7d00a0b
+FREI,NASDAQ,Fidelity Real Estate Income ETF,ETF,True,2026-06-18,,,62faedb9e258a8b41ddc
 FRGT,NASDAQ,"Freight Technologies, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,ffe725eb01774ec8f71e
 FRHC,NASDAQ,Freedom Holding Corp. - Common Stock,Stock,True,2026-05-08,,,f8a455b6d5526b9c52c5
 FRME,NASDAQ,First Merchants Corporation - Common Stock,Stock,True,2026-05-08,,,158fb2bc941ad9085c5c
@@ -2281,6 +2284,7 @@ FSHPR,NASDAQ,Flag Ship Acquisition Corp. - Right,Stock,True,2026-05-08,,,101f69c
 FSHPU,NASDAQ,Flag Ship Acquisition Corp. - Unit,Stock,True,2026-05-08,,,5204426189bf386b57f6
 FSLR,NASDAQ,"First Solar, Inc. - Common Stock",Stock,True,2026-05-08,,,356657898ce82a7794f1
 FSLY,NASDAQ,"Fastly, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,823ede797d9caac63016
+FSTB,NASDAQ,Fidelity Short-Term Bond ETF,ETF,True,2026-06-18,,,d274e1a465e8f969a071
 FSTR,NASDAQ,L.B. Foster Company - Common Stock,Stock,True,2026-05-08,,,7af0133eca9da16cb5d3
 FSUN,NASDAQ,FirstSun Capital Bancorp - Common Stock,Stock,True,2026-05-08,,,88c16e5d6c56f4ba7e16
 FSV,NASDAQ,FirstService Corporation - Common Shares,Stock,True,2026-05-08,,,9d470415768eef6f5c93
@@ -2761,7 +2765,9 @@ IAC,NASDAQ,IAC Inc. - Common Stock,Stock,False,2026-05-08,2026-06-04,Missing fro
 IACO,NASDAQ,Idea Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,2de5af73a4f6e285a4d3
 IACOU,NASDAQ,Idea Acquisition Corp. - Units,Stock,True,2026-05-08,,,0040388093df0c42d7c0
 IACOW,NASDAQ,Idea Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,88b115d32c5553c9e8e0
+IACQ,NASDAQ,Irenic Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-06-18,,,8cc77671d48f9b5d1d50
 IACQU,NASDAQ,Irenic Acquisition Corp. - Unit,Stock,True,2026-05-08,,,27391b3d7c34caabbd5f
+IACQW,NASDAQ,Irenic Acquisition Corp. - Warrants,Stock,True,2026-06-18,,,faad39499cfac34690f0
 IALT,NASDAQ,iShares Systematic Alternatives Active ETF,ETF,True,2026-05-08,,,ab9f0fcca17805af0b1e
 IART,NASDAQ,Integra LifeSciences Holdings Corporation - Common Stock,Stock,True,2026-05-08,,,13d2d4c876c98f2947c3
 IBAC,NASDAQ,IB Acquisition Corp. - Common Stock,Stock,True,2026-05-08,,,636fe0f14ffc8c6f90da
@@ -3070,6 +3076,7 @@ JZXN,NASDAQ,"Jiuzi Holdings, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,efe
 KALA,NASDAQ,"KALA BIO, Inc. - Common Stock",Stock,True,2026-05-08,,,f79b4fbc4ac2f4140aad
 KALU,NASDAQ,Kaiser Aluminum Corporation - Common Stock,Stock,True,2026-05-08,,,37ae13fe01f3d150796b
 KALV,NASDAQ,"KalVista Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,4c47638feff67fcabfb3
+KARD,NASDAQ,"Kardigan, Inc. - Common Stock",Stock,True,2026-06-18,,,975b1c75d21eadce5085
 KARO,NASDAQ,Karooooo Ltd. - Ordinary shares,Stock,True,2026-05-08,,,71ee823b085a3415245e
 KAT,NASDAQ,Scharf ETF,ETF,True,2026-05-08,,,7564ed6df5aa11fd42e0
 KAZR,NASDAQ,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,True,2026-06-17,,,4877ace68b66bfd40e09
@@ -3682,7 +3689,7 @@ MYMI,NASDAQ,State Street My2029 Municipal Bond ETF,ETF,True,2026-05-08,,,9eb9dff
 MYMJ,NASDAQ,State Street My2030 Municipal Bond ETF,ETF,True,2026-05-08,,,09c0c582bda97ce44cc1
 MYMK,NASDAQ,State Street My2031 Municipal Bond ETF,ETF,True,2026-05-08,,,8a5f7885365a545414cd
 MYPS,NASDAQ,"PLAYSTUDIOS, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,e505a10a41d714f9fea7
-MYPSW,NASDAQ,"PLAYSTUDIOS, Inc. - Warrant",Stock,True,2026-05-08,,,0a038cf0b7f071f2a37d
+MYPSW,NASDAQ,"PLAYSTUDIOS, Inc. - Warrant",Stock,False,2026-05-08,2026-06-18,Missing from current NASDAQ source snapshot; reason unavailable,0a038cf0b7f071f2a37d
 MYRG,NASDAQ,"MYR Group, Inc. - Common Stock",Stock,True,2026-05-08,,,d49d7d0f69aa225d5827
 MYSE,NASDAQ,"Myseum.AI, Inc. - Common Stock",Stock,True,2026-05-08,,,b76b3b268c66f1d69a16
 MYSEW,NASDAQ,"Myseum.AI, Inc. - Series A Warrant",Stock,True,2026-05-08,,,f5de7a5bac31142ceebc
@@ -3874,6 +3881,7 @@ NUCL,NASDAQ,Eagle Nuclear Energy Corp. - Common stock,Stock,True,2026-05-08,,,c5
 NUCLW,NASDAQ,Eagle Nuclear Energy Corp. - Warrants,Stock,True,2026-05-08,,,f16d34351046c81b3541
 NUG,NASDAQ,Leverage Shares 2X Long NU Daily ETF,ETF,True,2026-05-08,,,8a2ceee9908c14aa5aa5
 NUGY,NASDAQ,GraniteShares YieldBOOST Gold Miners ETF,ETF,True,2026-05-08,,,76a3c391fc79e7a8c6e9
+NUIF,NASDAQ,Nuveen US Infrastructure ETF,ETF,True,2026-06-18,,,f6235b303af7d048ba5b
 NUSB,NASDAQ,Nuveen Ultra Short Income ETF,ETF,True,2026-05-08,,,0e6d00e395bf018f193a
 NUTR,NASDAQ,Nusatrip Incorporated - Common Stock,Stock,True,2026-05-08,,,b7d657eec10068b6ec78
 NUTX,NASDAQ,Nutex Health Inc. - Common Stock,Stock,True,2026-05-08,,,06a0a8a5a6ad808c1831
@@ -3896,6 +3904,7 @@ NVMI,NASDAQ,Nova Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,c376cb63eb57b2db
 NVNI,NASDAQ,Nvni Group Limited - Ordinary Shares,Stock,True,2026-05-08,,,d07fdc124e1e96d53155
 NVNIW,NASDAQ,Nvni Group Limited - Warrants,Stock,True,2026-05-08,,,73a232dad06d4e6c639a
 NVNO,NASDAQ,enVVeno Medical Corporation - Common Stock,Stock,True,2026-05-08,,,d841ad091d602ad0823e
+NVPS,NASDAQ,PurePlay Nvidia Ecosystem Picks & Shovels Index ETF,ETF,True,2026-06-18,,,19136944e37f495be9ee
 NVTS,NASDAQ,Navitas Semiconductor Corporation - Common Stock,Stock,True,2026-05-08,,,90d42527383c38f5bb59
 NVVE,NASDAQ,Nuvve Holding Corp. - Common Stock,Stock,True,2026-05-08,,,6839d0b007192a10f04f
 NVX,NASDAQ,NOVONIX Limited - American Depository Shares,Stock,True,2026-05-08,,,6d1e9dc2378deada8734
@@ -4021,6 +4030,7 @@ OPEN,NASDAQ,Opendoor Technologies Inc - Common Stock,Stock,True,2026-05-08,,,122
 OPENL,NASDAQ,"Opendoor Technologies Inc - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",Stock,True,2026-05-08,,,e841381f3d3b1b3e857f
 OPENW,NASDAQ,"Opendoor Technologies Inc - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",Stock,True,2026-05-08,,,bb591744ab50130bd1f8
 OPENZ,NASDAQ,"Opendoor Technologies Inc - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",Stock,True,2026-05-08,,,59601d8d2639b8bfc9f7
+OPI,NASDAQ,Office Properties Income Trust - Common shares of beneficial interest,Stock,True,2026-06-18,,,b0f199a449ed60363c34
 OPK,NASDAQ,"Opko Health, Inc. - Common Stock",Stock,True,2026-05-08,,,ecef345672a5a1b9328f
 OPPJ,NASDAQ,WisdomTree Japan Opportunities Fund,ETF,True,2026-05-08,,,2bafe00ccbbfd196a20e
 OPRA,NASDAQ,Opera Limited - American Depositary Shares,Stock,True,2026-05-08,,,0fc71d7059eab5026dfe
@@ -4273,7 +4283,8 @@ PMTRU,NASDAQ,Perimeter Acquisition Corp. I - Unit,Stock,True,2026-05-08,,,170e27
 PMTRW,NASDAQ,Perimeter Acquisition Corp. I - Warrant,Stock,True,2026-05-08,,,b66786a811e4d0746487
 PMTS,NASDAQ,CPI Card Group Inc. - Common Stock,Stock,True,2026-05-08,,,5a585d99e4ead1221494
 PMVP,NASDAQ,"PMV Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,8f4fc5a41b3caa42d7ab
-PN,NASDAQ,Skycorp Solar Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,db1f32da2f6b0deca676
+PN,NASDAQ,Skycorp Solar Group Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-18,Listing metadata changed,db1f32da2f6b0deca676
+PN,NASDAQ,PN Smart Energy Limited - Class A Ordinary Shares,Stock,True,2026-06-18,,,643c161cd08230572578
 PNBK,NASDAQ,Patriot National Bancorp Inc. - Common Stock,Stock,True,2026-05-08,,,3d18ec7bfa92d695ca5e
 PNQI,NASDAQ,Invesco Nasdaq Internet ETF,ETF,True,2026-05-08,,,9a054db8fa32ac4e229b
 PNRG,NASDAQ,PrimeEnergy Resources Corporation - Common Stock,Stock,True,2026-05-08,,,a21d1cb9ed9bb8a3bb2c
@@ -5404,6 +5415,7 @@ TVAIR,NASDAQ,Thayer Ventures Acquisition Corporation II - Rights,Stock,True,2026
 TVAIU,NASDAQ,Thayer Ventures Acquisition Corporation II - Unit,Stock,True,2026-05-08,,,56324312ae601a004442
 TVGN,NASDAQ,Tevogen Bio Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,df03fbf206545290cdb6
 TVGNW,NASDAQ,Tevogen Bio Holdings Inc. - Warrant,Stock,True,2026-05-08,,,97367a90b3f8575b5180
+TVIVU,NASDAQ,Texas Ventures Acquisition IV Corp - Units,Stock,True,2026-06-18,,,80f7e9509b97c4cc281c
 TVRD,NASDAQ,"Tvardi Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,28493471bda1e2093b84
 TVTX,NASDAQ,"Travere Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,141bc9317c094f73fbb3
 TW,NASDAQ,Tradeweb Markets Inc. - Class A Common Stock,Stock,True,2026-05-08,,,ebfe20fdb7fdc9918464
@@ -5741,6 +5753,7 @@ WKSP,NASDAQ,"Worksport, Ltd. - Common Stock",Stock,True,2026-05-08,,,1416c024d5c
 WLAC,NASDAQ,Willow Lane Acquisition Corp. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,cf1b17885e08e5162941
 WLACU,NASDAQ,Willow Lane Acquisition Corp. - Unit,Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,e1e320a7e1b025d31c00
 WLACW,NASDAQ,Willow Lane Acquisition Corp. - Warrants,Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,9233a5038916587ea404
+WLCOU,NASDAQ,Wilco 63 Corporation - Units,Stock,True,2026-06-18,,,a66640d2745fbd9a8063
 WLDN,NASDAQ,"Willdan Group, Inc. - Common Stock",Stock,True,2026-05-08,,,0dd2f15510cda0ad6df9
 WLDS,NASDAQ,Wearable Devices Ltd. - Ordinary Share,Stock,True,2026-05-08,,,b3cd94eeb70735d63ccb
 WLDSW,NASDAQ,Wearable Devices Ltd. - Warrant,Stock,True,2026-05-08,,,2c9f25e85a15904d629b
@@ -6971,6 +6984,7 @@ FBP,NYSE,First BanCorp. New Common Stock,Stock,True,2026-05-08,,,143b265194731df
 FBRT,NYSE,"Franklin BSP Realty Trust, Inc. Common Stock",Stock,True,2026-05-08,,,84b7aa453e4da251d389
 FBRT$E,NYSE,"Franklin BSP Realty Trust, Inc. 7.50% Series E Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,ca832c9d2c043fbc441c
 FC,NYSE,Franklin Covey Company Common Stock,Stock,True,2026-05-08,,,3d30a621042f7ad289b0
+FCBM,NYSE,"First Carolina Financial Services, Inc. Common Stock",Stock,True,2026-06-18,,,659fcbd76ce99de1b938
 FCF,NYSE,First Commonwealth Financial Corporation Common Stock,Stock,True,2026-05-08,,,90bf9fca2a116b12b140
 FCN,NYSE,"FTI Consulting, Inc. Common Stock",Stock,True,2026-05-08,,,f3128390904e479771a6
 FCPT,NYSE,"Four Corners Property Trust, Inc. Common Stock",Stock,True,2026-05-08,,,0d3848ac77e0d71e2ce7
@@ -8069,6 +8083,8 @@ PLD,NYSE,"Prologis, Inc. Common Stock",Stock,True,2026-05-08,,,e664dbed778e0d0bd
 PLGO,NYSE,Pelagos Insurance Capital Limited Common Shares,Stock,True,2026-05-12,,,e703b3caefdf1a08f124
 PLNT,NYSE,"Planet Fitness, Inc. Common Stock",Stock,True,2026-05-08,,,f4e9205b1ac3ec174a4d
 PLOW,NYSE,"Douglas Dynamics, Inc. Common Stock",Stock,True,2026-05-08,,,fd3530c7884d204e1fa4
+PLUN,NYSE,Plutonian Acquisition Corp II Class A Ordinary Shares,Stock,True,2026-06-18,,,9f7cf9497aa0501f7a3c
+PLUN.R,NYSE,"Plutonian Acquisition Corp II Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",Stock,True,2026-06-18,,,6f0836070a0bebdf52a7
 PLUN.U,NYSE,"Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",Stock,True,2026-05-08,,,4e0e1da88bfa1ca3c8e0
 PM,NYSE,Philip Morris International Inc Common Stock,Stock,True,2026-05-08,,,b63862b146681906f373
 PML,NYSE,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,50d262699b022f94a9a4

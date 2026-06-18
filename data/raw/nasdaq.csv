@@ -1805,11 +1805,13 @@ NASDAQ,FIGR,"Figure Technology Solutions, Inc. - Class A Common Stock",Stock,,na
 NASDAQ,FIGX,FIGX Capital Acquisition Corp. - Class A ordinary share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIGXU,FIGX Capital Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIGXW,FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FIMU,Fidelity Intermediate Municipal Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FINW,FinWise Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FINX,Global X FinTech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FINY,GraniteShares YieldBOOST Financials ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FIP,FTAI Infrastructure Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FISI,"Financial Institutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FISN,"Deep Fission, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FISV,"Fiserv, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIVE,"Five Below, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIVN,"Five9, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1881,6 +1883,7 @@ NASDAQ,FRAF,Franklin Financial Services Corporation - Common Stock,Stock,,nasdaq
 NASDAQ,FRBA,First Bank - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRBT,"Forbright, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRD,Friedman Industries Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FREI,Fidelity Real Estate Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FRGT,"Freight Technologies, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRHC,Freedom Holding Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRME,First Merchants Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1906,6 +1909,7 @@ NASDAQ,FSHPR,Flag Ship Acquisition Corp. - Right,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,FSHPU,Flag Ship Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FSLR,"First Solar, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FSLY,"Fastly, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FSTB,Fidelity Short-Term Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FSTR,L.B. Foster Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FSUN,FirstSun Capital Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FSV,FirstService Corporation - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2373,7 +2377,9 @@ NASDAQ,HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,ETF,,nasdaq_tra
 NASDAQ,IACO,Idea Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IACOU,Idea Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IACOW,Idea Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IACQ,Irenic Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IACQU,Irenic Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IACQW,Irenic Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IALT,iShares Systematic Alternatives Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IART,Integra LifeSciences Holdings Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IBAC,IB Acquisition Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2676,6 +2682,7 @@ NASDAQ,JZ,Jianzhi Education Technology Group Company Limited - American Deposita
 NASDAQ,JZXN,"Jiuzi Holdings, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KALA,"KALA BIO, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KALU,Kaiser Aluminum Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KARD,"Kardigan, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KARO,Karooooo Ltd. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KAT,Scharf ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KAZR,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3272,7 +3279,6 @@ NASDAQ,MYMI,State Street My2029 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,MYMJ,State Street My2030 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYMK,State Street My2031 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYPS,"PLAYSTUDIOS, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MYPSW,"PLAYSTUDIOS, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MYRG,"MYR Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MYSE,"Myseum.AI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MYSEW,"Myseum.AI, Inc. - Series A Warrant",Stock,,nasdaq_trader_symbol_directory
@@ -3462,6 +3468,7 @@ NASDAQ,NUCL,Eagle Nuclear Energy Corp. - Common stock,Stock,,nasdaq_trader_symbo
 NASDAQ,NUCLW,Eagle Nuclear Energy Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUG,Leverage Shares 2X Long NU Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUGY,GraniteShares YieldBOOST Gold Miners ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,NUIF,Nuveen US Infrastructure ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUSB,Nuveen Ultra Short Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUTR,Nusatrip Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUTX,Nutex Health Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3482,6 +3489,7 @@ NASDAQ,NVMI,Nova Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVNI,Nvni Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVNIW,Nvni Group Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVNO,enVVeno Medical Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NVPS,PurePlay Nvidia Ecosystem Picks & Shovels Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NVTS,Navitas Semiconductor Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVVE,Nuvve Holding Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVX,NOVONIX Limited - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3604,6 +3612,7 @@ NASDAQ,OPEN,Opendoor Technologies Inc - Common Stock,Stock,,nasdaq_trader_symbol
 NASDAQ,OPENL,"Opendoor Technologies Inc - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPENW,"Opendoor Technologies Inc - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPENZ,"Opendoor Technologies Inc - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OPI,Office Properties Income Trust - Common shares of beneficial interest,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPK,"Opko Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPPJ,WisdomTree Japan Opportunities Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OPRA,Opera Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3854,7 +3863,7 @@ NASDAQ,PMTRU,Perimeter Acquisition Corp. I - Unit,Stock,,nasdaq_trader_symbol_di
 NASDAQ,PMTRW,Perimeter Acquisition Corp. I - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PMTS,CPI Card Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PMVP,"PMV Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PN,Skycorp Solar Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PN,PN Smart Energy Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PNBK,Patriot National Bancorp Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PNQI,Invesco Nasdaq Internet ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PNRG,PrimeEnergy Resources Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4969,6 +4978,7 @@ NASDAQ,TVAIR,Thayer Ventures Acquisition Corporation II - Rights,Stock,,nasdaq_t
 NASDAQ,TVAIU,Thayer Ventures Acquisition Corporation II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TVGN,Tevogen Bio Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TVGNW,Tevogen Bio Holdings Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TVIVU,Texas Ventures Acquisition IV Corp - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TVRD,"Tvardi Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TVTX,"Travere Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TW,Tradeweb Markets Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5296,6 +5306,7 @@ NASDAQ,WIX,Wix.com Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WKEY,WISeKey International Holding Ltd - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WKHS,"Workhorse Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WKSP,"Worksport, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,WLCOU,Wilco 63 Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WLDN,"Willdan Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WLDS,Wearable Devices Ltd. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WLDSW,Wearable Devices Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory

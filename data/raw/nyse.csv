@@ -1000,6 +1000,7 @@ NYSE,FBP,First BanCorp. New Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FBRT,"Franklin BSP Realty Trust, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FBRT$E,"Franklin BSP Realty Trust, Inc. 7.50% Series E Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FC,Franklin Covey Company Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,FCBM,"First Carolina Financial Services, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FCF,First Commonwealth Financial Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FCN,"FTI Consulting, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FCPT,"Four Corners Property Trust, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2085,6 +2086,8 @@ NYSE,PLD,"Prologis, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PLGO,Pelagos Insurance Capital Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,PLNT,"Planet Fitness, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PLOW,"Douglas Dynamics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,PLUN,Plutonian Acquisition Corp II Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,PLUN.R,"Plutonian Acquisition Corp II Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,PLUN.U,"Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,PM,Philip Morris International Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
