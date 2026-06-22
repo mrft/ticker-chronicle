@@ -651,7 +651,7 @@ NASDAQ,BILI,Bilibili Inc. - American Depositary Shares,Stock,,nasdaq_trader_symb
 NASDAQ,BIOA,"BioAge Labs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIOX,Bioceres Crop Solutions Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIOY,GraniteShares YieldBOOST Biotech ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,BIRD,"Allbirds, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BIRD,"Smartbird, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIS,ProShares UltraShort Nasdaq Biotechnology,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BITA,iShares Bitcoin Premium Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BITS,Global X Blockchain & Bitcoin Strategy ETF,ETF,,nasdaq_trader_symbol_directory
@@ -848,7 +848,6 @@ NASDAQ,BULD,Pacer BlueStar Engineering the Future ETF,ETF,,nasdaq_trader_symbol_
 NASDAQ,BULG,Leverage Shares 2X Long BULL Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BULL,Webull Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BULLW,Webull Corporation - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BULX,GraniteShares 2x Long BULL Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BUSE,First Busey Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BUSEP,"First Busey Corporation - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock, $0.001 par value",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BUUU,BUUU Group Limited - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
@@ -882,7 +881,9 @@ NASDAQ,CADL,"Candel Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,CAES,"Cantor Equity Partners VII, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CAFG,Pacer US Small Cap Cash Cows Growth Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CAI,"Caris Life Sciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CAII,Collective Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CAIIU,Collective Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CAIIW,Collective Acquisition Corp. II - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CAIQ,Calamos Nasdaq Autocallable Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CAKE,The Cheesecake Factory Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CALC,"CalciMedica, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1639,7 +1640,6 @@ NASDAQ,ETHA,iShares Ethereum Trust ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ETHB,iShares Staked Ethereum Trust ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ETON,"Eton Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ETOR,eToro Group Ltd. - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ETRL,GraniteShares 2x Long ETOR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ETS,Elite Express Holding Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EU,enCore Energy Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EUDA,Euda Health Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1928,7 +1928,9 @@ NASDAQ,FTFT,Future FinTech Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol
 NASDAQ,FTGC,First Trust Global Tactical Commodity Strategy Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FTGS,First Trust Growth Strength ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FTH,"Faeth Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FTHA,Forefront Tech Holdings Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FTHAU,Forefront Tech Holdings Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FTHAW,Forefront Tech Holdings Acquisition Corp - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FTHI,First Trust BuyWrite Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FTHM,Fathom Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FTLF,"FitLife Brands, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1993,7 +1995,9 @@ NASDAQ,GBFH,GBank Financial Holdings Inc. - Common Stock,Stock,,nasdaq_trader_sy
 NASDAQ,GBLI,"Global Indemnity Group, LLC - Class A Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GBUG,Sprott Active Gold & Silver Miners ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GCBC,"Greene County Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GCGR,General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GCGRU,General Catalyst Global Resilience Merger Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GCGRW,General Catalyst Global Resilience Merger Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GCL,GCL Global Holdings Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GCLWW,GCL Global Holdings Ltd - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GCMG,GCM Grosvenor Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2204,6 +2208,7 @@ NASDAQ,HAFC,Hanmi Financial Corporation - Common Stock,Stock,,nasdaq_trader_symb
 NASDAQ,HAIN,"The Hain Celestial Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HALO,"Halozyme Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HAO,Haoxi Health Technology Limited - Class A Ord Share,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HAPN,"Happen, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HAS,"Hasbro, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HAVA,Harvard Ave Acquisition Corporation - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HAVAR,Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2709,7 +2714,9 @@ NASDAQ,KEEL,Keel Infrastructure Corp. - Common Stock,Stock,,nasdaq_trader_symbol
 NASDAQ,KELYA,"Kelly Services, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KELYB,"Kelly Services, Inc. - Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KEQU,Kewaunee Scientific Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KEYY,Keystone Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KEYYU,Keystone Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KEYYW,Keystone Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KFFB,Kentucky First Federal Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KFII,K&F Growth Acquisition Corp. II - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KFIIR,K&F Growth Acquisition Corp. II - Rights,Stock,,nasdaq_trader_symbol_directory
@@ -3038,6 +3045,8 @@ NASDAQ,MBVIU,M3-Brigade Acquisition VI Corp. - Units,Stock,,nasdaq_trader_symbol
 NASDAQ,MBVIW,M3-Brigade Acquisition VI Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MBWM,Mercantile Bank Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MBX,"MBX Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MCAH,Mountain Crest Acquisition 6 Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MCAHR,Mountain Crest Acquisition 6 Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MCAHU,Mountain Crest Acquisition 6 Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MCBS,"MetroCity Bankshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MCDS,JPMorgan Fundamental Data Science Mid Core ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3209,7 +3218,6 @@ NASDAQ,MSAI,"MultiSensor AI Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_
 NASDAQ,MSAIW,"MultiSensor AI Holdings, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSBI,"Midland States Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSBIP,"Midland States Bancorp, Inc. - Depositary Shares Each Representing a 1/40th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MSDD,GraniteShares 2x Short MSTR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MSEX,Middlesex Water Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSFD,Direxion Daily MSFT Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MSFL,GraniteShares 2x Long MSFT Daily ETF,ETF,,nasdaq_trader_symbol_directory

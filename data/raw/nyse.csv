@@ -574,7 +574,6 @@ NYSE,CIB,Grupo Cibest S.A. American Depositary Shares each representing four Pre
 NYSE,CICB,CION Investment Corporation 7.50% Notes due 2029,Stock,,nasdaq_trader_symbol_directory
 NYSE,CICC,CION Investment Corporation 7.50% Notes due 2031,Stock,,nasdaq_trader_symbol_directory
 NYSE,CIEN,Ciena Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,CIF,MFS Intermediate High Income Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CIG,Comp En De Mn Cemig ADS American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,CIG.C,Comp En De Mn Cemig ADS American Depositary Receipts,Stock,,nasdaq_trader_symbol_directory
 NYSE,CII,"BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1036,6 +1035,7 @@ NYSE,FIG,"Figma, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_director
 NYSE,FIGS,"FIGS, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,FINV,FinVolution Group American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,FIRY,Firy Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FIS,"Fidelity National Information Services, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FITB,Fifth Third Bancorp Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FITB$A,"Fifth Third Bancorp Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory
@@ -1546,7 +1546,6 @@ NYSE,LAW,"CS Disco, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LAZ,"Lazard, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,Stock,,nasdaq_trader_symbol_directory
 NYSE,LBRT,Liberty Energy Inc. Class A common stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,LC,LendingClub Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LCII,LCI Industries,Stock,,nasdaq_trader_symbol_directory
 NYSE,LCLN,"Lincoln International, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LDI,"loanDepot, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1632,7 +1631,6 @@ NYSE,MCI,Barings Corporate Investors Common Stock,Stock,,nasdaq_trader_symbol_di
 NYSE,MCK,McKesson Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MCN,XAI Madison Equity Premium Income Fund Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,MCO,Moody's Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,MCR,MFS Charter Income Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MCS,Marcus Corporation (The) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MCY,Mercury General Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MD,"Pediatrix Medical Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1705,7 +1703,7 @@ NYSE,MMK,State Street Prime Money Market ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,MMKT,Texas Capital Government Money Market ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,MMM,3M Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MMS,"Maximus, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,MMT,MFS Multimarket Income Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,MMT,Aberdeen Multi-Market Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,Stock,,nasdaq_trader_symbol_directory
 NYSE,MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -1762,7 +1760,9 @@ NYSE,MTDR,Matador Resources Company Common Stock,Stock,,nasdaq_trader_symbol_dir
 NYSE,MTG,MGIC Investment Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MTH,Meritage Homes Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MTN,"Vail Resorts, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,MTNE,CH4 Natural Solutions Corporation Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,MTNE.U,"CH4 Natural Solutions Corporation Units, each consisting of one Class A ordinary share and one-half of one Warrant",Stock,,nasdaq_trader_symbol_directory
+NYSE,MTNE.W,"CH4 Natural Solutions Corporation Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,MTR,Mesa Royalty Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MTRN,Materion Corporation,Stock,,nasdaq_trader_symbol_directory
 NYSE,MTUS,Metallus Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2273,7 +2273,7 @@ NYSE,RPM,RPM International Inc. Common Stock,Stock,,nasdaq_trader_symbol_directo
 NYSE,RPT,Rithm Property Trust Inc. Common stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RQI,Cohen & Steers Quality Income Realty Fund Inc Common Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,RQI.V,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
+NYSE,RQI.R,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 NYSE,RRC,Range Resources Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RRX,Regal Rexnord Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RS,"Reliance, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2394,7 +2394,6 @@ NYSE,SJM,The J.M. Smucker Company Common Stock,Stock,,nasdaq_trader_symbol_direc
 NYSE,SJT,San Juan Basin Royalty Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKE,Skeena Resources Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKIL,Skillsoft Corp. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,SKLZ,Skillz Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKM,"SK Telecom Co., Ltd. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SKT,Tanger Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKY,"Champion Homes, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
