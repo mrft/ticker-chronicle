@@ -326,6 +326,7 @@ XTNT,AMEX,"Xtant Medical Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,17
 YCBD,AMEX,"cbdMD, Inc. Common Stock",Stock,True,2026-05-08,,,ac934c116bd54e0ec5cc
 ZDGE,AMEX,"Zedge, Inc. Class B Common Stock",Stock,True,2026-05-08,,,d789297abeeaa7753ded
 ZONE,AMEX,CleanCore Solutions Inc. Class B Common Stock,Stock,True,2026-05-08,,,2de3829970426de5636e
+AAAP,NASDAQ,Pacer Barings CLO Market Flex ETF,ETF,True,2026-06-23,,,5976f4ffc2d2099aaced
 AACB,NASDAQ,Artius II Acquisition Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,224a766a4bb75d0dae7a
 AACBR,NASDAQ,Artius II Acquisition Inc. - Rights,Stock,True,2026-05-08,,,711d39cf25af2d68d8c4
 AACBU,NASDAQ,Artius II Acquisition Inc. - Units,Stock,True,2026-05-08,,,48e505de1bc02d40b5d7
@@ -2426,6 +2427,7 @@ GGROW,NASDAQ,Gogoro Inc. - Warrant,Stock,True,2026-05-08,,,dec4d3f5d628eadb2198
 GGRP,NASDAQ,"The Glimpse Group, Inc. - Common Stock",Stock,True,2026-05-08,,,d83317869036590b2b9c
 GH,NASDAQ,"Guardant Health, Inc. - Common Stock",Stock,True,2026-05-08,,,4df093eb08d55b5086e4
 GHRS,NASDAQ,GH Research PLC - Ordinary Shares,Stock,True,2026-05-08,,,f9b5f4c887cde7f71857
+GHXIU,NASDAQ,"Gores Holdings XI, Inc. - Units",Stock,True,2026-06-23,,,24c84ba015b44344908a
 GIBO,NASDAQ,GIBO Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,addc71aa8694c7eb91df
 GIBOW,NASDAQ,GIBO Holdings Limited - Warrants,Stock,True,2026-05-08,,,7e1c23beb711175408b2
 GIEQ,NASDAQ,Goldman Sachs Data Enhanced International Equity ETF,ETF,True,2026-05-21,,,3ed56fd14aac061a31d3
@@ -3334,9 +3336,9 @@ LOBO,NASDAQ,LOBO TECHNOLOGIES LTD. - Class A Ordinary Shares,Stock,True,2026-05-
 LOCO,NASDAQ,"El Pollo Loco Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,688b138c5e0d17c147b5
 LOGI,NASDAQ,Logitech International S.A. - Registered Shares,Stock,True,2026-05-08,,,b22b2e5b3ff4b10b901d
 LOGO,NASDAQ,Alpha Brands Consumption Leaders ETF,ETF,True,2026-05-08,,,20e37ac396e9f3172b7f
-LOKV,NASDAQ,Live Oak Acquisition Corp. V - Class A Ordinary Shares,Stock,True,2026-05-08,,,902195e9443611d4c1a6
-LOKVU,NASDAQ,Live Oak Acquisition Corp. V - Units,Stock,True,2026-05-08,,,8a407724d67cf9a506c8
-LOKVW,NASDAQ,Live Oak Acquisition Corp. V - Warrants,Stock,True,2026-05-08,,,a6af06df41940260adda
+LOKV,NASDAQ,Live Oak Acquisition Corp. V - Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-23,Missing from current NASDAQ source snapshot; reason unavailable,902195e9443611d4c1a6
+LOKVU,NASDAQ,Live Oak Acquisition Corp. V - Units,Stock,False,2026-05-08,2026-06-23,Missing from current NASDAQ source snapshot; reason unavailable,8a407724d67cf9a506c8
+LOKVW,NASDAQ,Live Oak Acquisition Corp. V - Warrants,Stock,False,2026-05-08,2026-06-23,Missing from current NASDAQ source snapshot; reason unavailable,a6af06df41940260adda
 LONA,NASDAQ,"LeonaBio, Inc. - Common Stock",Stock,True,2026-05-08,,,4d6e9f7e5e3e4bd71748
 LOOP,NASDAQ,"Loop Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,cec9e4027149d8600ff7
 LOPE,NASDAQ,"Grand Canyon Education, Inc. - Common Stock",Stock,True,2026-05-08,,,990cc08471f4647f8e77
@@ -4079,8 +4081,10 @@ OSCG,NASDAQ,Leverage Shares 2X Long OSCR Daily ETF,ETF,True,2026-05-08,,,a36159c
 OSCX,NASDAQ,Defiance Daily Target 2x Long OSCR ETF,ETF,True,2026-05-08,,,9b055e9f63ee5bfb0648
 OSIS,NASDAQ,"OSI Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,b6c0335d121b53be1cf6
 OSPN,NASDAQ,OneSpan Inc. - Common Stock,Stock,True,2026-05-08,,,945169c7344cb6396850
-OSRH,NASDAQ,"OSR Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,627d25c7c145245f3c34
-OSRHW,NASDAQ,"OSR Holdings, Inc. - Warrant",Stock,True,2026-05-08,,,6286bd99800d338377f6
+OSRH,NASDAQ,"OSR Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-23,Listing metadata changed,627d25c7c145245f3c34
+OSRH,NASDAQ,"OSR Health, Inc. - Common Stock",Stock,True,2026-06-23,,,3f561cf3b4ba4ee0fd4a
+OSRHW,NASDAQ,"OSR Holdings, Inc. - Warrant",Stock,False,2026-05-08,2026-06-23,Listing metadata changed,6286bd99800d338377f6
+OSRHW,NASDAQ,"OSR Health, Inc. - Warrant",Stock,True,2026-06-23,,,b53418a3a15780faa1dd
 OSS,NASDAQ,"One Stop Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,d2e122eef7a83335f19b
 OST,NASDAQ,"Ostin Technology Group Co., Ltd. - Class A Ordinary Shares",Stock,True,2026-05-08,,,4fe1e3ec4913cd403754
 OSUR,NASDAQ,"OraSure Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,ed68eb17df3490a49255
@@ -4165,6 +4169,7 @@ PBOG,NASDAQ,Portfolio Building Block Integrated Oil and Gas and Exploration and 
 PBPH,NASDAQ,Portfolio Building Block World Pharma and Biotech Index ETF,ETF,True,2026-05-08,,,5127b7301719716f2dfa
 PBQQ,NASDAQ,PGIM Laddered Nasdaq-100 Buffer 12 ETF,ETF,True,2026-05-08,,,7bcc497a1bf712d3be66
 PBRG,NASDAQ,Leverage Shares 2X Long PBR Daily ETF,ETF,True,2026-05-08,,,f285e3c02d67ec3ddbc2
+PBSC,NASDAQ,Pacer Barings Secured Credit Flex ETF,ETF,True,2026-06-23,,,b337377439f457a1c786
 PBYI,NASDAQ,Puma Biotechnology Inc - Common Stock,Stock,True,2026-05-08,,,aa046bd27b3b16e095e9
 PC,NASDAQ,Premium Catering (Holdings) Limited - Ordinary Shares,Stock,True,2026-05-08,,,876b39cb9aa927057333
 PCAP,NASDAQ,ProCap Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-08,,,d2ebd09a58e257f1837b
@@ -4968,7 +4973,7 @@ SMXWW,NASDAQ,SMX (Security Matters) Public Limited Company - Warrant,Stock,True,
 SMYY,NASDAQ,GraniteShares YieldBOOST SMCI ETF,ETF,True,2026-05-08,,,c5de383000cc42ccc2f9
 SNAG,NASDAQ,Leverage Shares 2x Long SNAP Daily ETF,ETF,True,2026-05-08,,,246fa40a6f64db17752f
 SNAL,NASDAQ,"Snail, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,18d1b308b08c22aa2da3
-SNBR,NASDAQ,Sleep Number Corporation - Common Stock,Stock,True,2026-05-08,,,4fe6b54bf51563d86b9b
+SNBR,NASDAQ,Sleep Number Corporation - Common Stock,Stock,False,2026-05-08,2026-06-23,Missing from current NASDAQ source snapshot; reason unavailable,4fe6b54bf51563d86b9b
 SNCY,NASDAQ,"Sun Country Airlines Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-14,Missing from current NASDAQ source snapshot; reason unavailable,80290f171c930ead3a80
 SND,NASDAQ,"Smart Sand, Inc. - Common Stock",Stock,True,2026-05-08,,,520e8cac735db022a5d1
 SNDK,NASDAQ,Sandisk Corporation - Common Stock When-Issued,Stock,True,2026-05-08,,,d711d5c966c16b32258b
@@ -5184,7 +5189,7 @@ TACOU,NASDAQ,Berto Acquisition Corp. - unit,Stock,True,2026-05-08,,,89aaae54ec0d
 TACOW,NASDAQ,Berto Acquisition Corp. - Warrant,Stock,True,2026-05-08,,,24e41b752cc39ab3f7e9
 TACT,NASDAQ,TransAct Technologies Incorporated - Common Stock,Stock,True,2026-05-08,,,cc5dff2010fbc6df505c
 TALK,NASDAQ,"Talkspace, Inc. - Common Stock",Stock,True,2026-05-08,,,e4d9df546cfa1fd31e25
-TALKW,NASDAQ,"Talkspace, Inc. - Warrant",Stock,True,2026-05-08,,,9fbe2e7b75faa453fe22
+TALKW,NASDAQ,"Talkspace, Inc. - Warrant",Stock,False,2026-05-08,2026-06-23,Missing from current NASDAQ source snapshot; reason unavailable,9fbe2e7b75faa453fe22
 TANH,NASDAQ,Tantech Holdings Ltd. - Class A Common Shares,Stock,True,2026-05-08,,,46a17785b51fcf4eada4
 TAOP,NASDAQ,Taoping Inc. - Ordinary Shares,Stock,True,2026-05-08,,,e06d41dd9f37971f8ec9
 TAOX,NASDAQ,Tao Synergies Inc. - Common Stock,Stock,True,2026-05-08,,,ab1aae5897be33fbc4d1
@@ -5310,7 +5315,9 @@ TMED,NASDAQ,T. Rowe Price Health Care ETF,ETF,True,2026-05-08,,,0a22cead50a662cd
 TMET,NASDAQ,iShares Transition-Enabling Metals ETF,ETF,False,2026-05-08,2026-05-29,Missing from current NASDAQ source snapshot; reason unavailable,25515727c52e4c88d8ae
 TMNL,NASDAQ,T. Rowe Price Long Municipal Income ETF,ETF,True,2026-05-08,,,6e1965e05cc5337f7f4a
 TMNS,NASDAQ,T. Rowe Price Short Municipal Income ETF,ETF,True,2026-05-08,,,3747993b6918660830bb
+TMS,NASDAQ,Teamshares Inc. - Common Stock,Stock,True,2026-06-23,,,81b455ddcd9bcaa74a7d
 TMSF,NASDAQ,T. Rowe Price Multi-Sector Income ETF,ETF,True,2026-05-08,,,5320117d3091835628c0
+TMSWW,NASDAQ,Teamshares Inc. - Warrants,Stock,True,2026-06-23,,,d18ca8a9296478bd5949
 TMTS,NASDAQ,Spartacus Acquisition Corp. II - Class A Ordinary Shares,Stock,True,2026-05-08,,,14917e39e7e5409a7750
 TMTSU,NASDAQ,Spartacus Acquisition Corp. II - Unit,Stock,True,2026-05-08,,,02cdd2f27c23205cf36b
 TMTSW,NASDAQ,Spartacus Acquisition Corp. II - Warrants,Stock,True,2026-05-08,,,1184bd4fc00240943343
@@ -8188,7 +8195,9 @@ PYT,NYSE,PPlus Tr GSC-2 Tr Ctf Fltg Rate,Stock,True,2026-05-08,,,fdbac71886427b4
 Q,NYSE,"Qnity Electronics, Inc. Common Stock",Stock,True,2026-05-08,,,1ca880438d749f04b02c
 QBTS,NYSE,D-Wave Quantum Inc. Common Shares,Stock,True,2026-05-08,,,14bdfedcd0af3da7288b
 QGEN,NYSE,Qiagen N.V. Common Shares,Stock,True,2026-05-08,,,2f78b9944c968f6c787e
-QLEP.U,NYSE,"Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant",Stock,True,2026-05-08,,,4f2e5694ae835eb640aa
+QLEP,NYSE,Quantum Leap Acquisition Corp Class A Ordinary Shares,Stock,True,2026-06-23,,,12206d6db168b920e5e3
+QLEP.U,NYSE,"Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant",Stock,False,2026-05-08,2026-06-23,Missing from current NYSE source snapshot; reason unavailable,4f2e5694ae835eb640aa
+QLEP.W,NYSE,"Quantum Leap Acquisition Corp Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",Stock,True,2026-06-23,,,906de5b94a3a4e80fb25
 QRED,NYSE,QuasarEdge Acquisition Corporation Ordinary Shares,Stock,True,2026-05-08,,,9bccc16c72a1b50890ea
 QRED.R,NYSE,QuasarEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one Ordinary Share,Stock,True,2026-05-08,,,81b1237a71621ca3c031
 QRED.U,NYSE,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",Stock,True,2026-05-08,,,c14295ff6413395a4bcb
@@ -8633,6 +8642,7 @@ TPH,NYSE,"Tri Pointe Homes, Inc. Common Stock",Stock,False,2026-05-08,2026-05-14
 TPL,NYSE,Texas Pacific Land Corporation Common Stock,Stock,True,2026-05-08,,,808bdfc21616f5fcecb9
 TPR,NYSE,"Tapestry, Inc. Common Stock",Stock,True,2026-05-08,,,eab578b92da3bf80f1b0
 TPTA,NYSE,"Terra Property Trust, Inc. 6.00% Notes due 2026",Stock,True,2026-05-08,,,1156156227fe2fe10689
+TPTS,NYSE,"Terra Property Trust, Inc. 7.00% Senior Secured Notes due 2029",Stock,True,2026-06-23,,,07e3bdac332e9777560b
 TPVG,NYSE,TriplePoint Venture Growth BDC Corp. Common Stock,Stock,True,2026-05-08,,,7b29f42c908c6104e231
 TPYP,NYSE,Tortoise North American Pipeline ETF,ETF,True,2026-05-08,,,b808636d02fe0f1d2e5d
 TPZ,NYSE,Tortoise Electrification Infrastructure ETF,ETF,True,2026-05-08,,,8c81464f1dbad5990db5

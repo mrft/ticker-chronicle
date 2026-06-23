@@ -1,4 +1,5 @@
 Exchange,Symbol,Name,InstrumentType,FirstIpoDate,Source
+NASDAQ,AAAP,Pacer Barings CLO Market Flex ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AACB,Artius II Acquisition Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AACBR,Artius II Acquisition Inc. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AACBU,Artius II Acquisition Inc. - Units,Stock,,nasdaq_trader_symbol_directory
@@ -2046,6 +2047,7 @@ NASDAQ,GGROW,Gogoro Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GGRP,"The Glimpse Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GH,"Guardant Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GHRS,GH Research PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GHXIU,"Gores Holdings XI, Inc. - Units",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIBO,GIBO Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIBOW,GIBO Holdings Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIEQ,Goldman Sachs Data Enhanced International Equity ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2927,9 +2929,6 @@ NASDAQ,LOBO,LOBO TECHNOLOGIES LTD. - Class A Ordinary Shares,Stock,,nasdaq_trade
 NASDAQ,LOCO,"El Pollo Loco Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LOGI,Logitech International S.A. - Registered Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LOGO,Alpha Brands Consumption Leaders ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,LOKV,Live Oak Acquisition Corp. V - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LOKVU,Live Oak Acquisition Corp. V - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LOKVW,Live Oak Acquisition Corp. V - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LONA,"LeonaBio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LOOP,"Loop Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LOPE,"Grand Canyon Education, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3657,8 +3656,8 @@ NASDAQ,OSCG,Leverage Shares 2X Long OSCR Daily ETF,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,OSCX,Defiance Daily Target 2x Long OSCR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OSIS,"OSI Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSPN,OneSpan Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OSRH,"OSR Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OSRHW,"OSR Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OSRH,"OSR Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OSRHW,"OSR Health, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSS,"One Stop Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OST,"Ostin Technology Group Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSUR,"OraSure Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3741,6 +3740,7 @@ NASDAQ,PBOG,Portfolio Building Block Integrated Oil and Gas and Exploration and 
 NASDAQ,PBPH,Portfolio Building Block World Pharma and Biotech Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PBQQ,PGIM Laddered Nasdaq-100 Buffer 12 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PBRG,Leverage Shares 2X Long PBR Daily ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,PBSC,Pacer Barings Secured Credit Flex ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PBYI,Puma Biotechnology Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PC,Premium Catering (Holdings) Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCAP,ProCap Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4534,7 +4534,6 @@ NASDAQ,SMXWW,SMX (Security Matters) Public Limited Company - Warrant,Stock,,nasd
 NASDAQ,SMYY,GraniteShares YieldBOOST SMCI ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SNAG,Leverage Shares 2x Long SNAP Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SNAL,"Snail, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SNBR,Sleep Number Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SND,"Smart Sand, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNDK,Sandisk Corporation - Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNDL,SNDL Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4744,7 +4743,6 @@ NASDAQ,TACOU,Berto Acquisition Corp. - unit,Stock,,nasdaq_trader_symbol_director
 NASDAQ,TACOW,Berto Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TACT,TransAct Technologies Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TALK,"Talkspace, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,TALKW,"Talkspace, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TANH,Tantech Holdings Ltd. - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TAOP,Taoping Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TAOX,Tao Synergies Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4869,7 +4867,9 @@ NASDAQ,TMDX,"TransMedics Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol
 NASDAQ,TMED,T. Rowe Price Health Care ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TMNL,T. Rowe Price Long Municipal Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TMNS,T. Rowe Price Short Municipal Income ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TMS,Teamshares Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TMSF,T. Rowe Price Multi-Sector Income ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TMSWW,Teamshares Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TMTS,Spartacus Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TMTSU,Spartacus Acquisition Corp. II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TMTSW,Spartacus Acquisition Corp. II - Warrants,Stock,,nasdaq_trader_symbol_directory

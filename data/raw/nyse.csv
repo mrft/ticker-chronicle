@@ -2175,7 +2175,8 @@ NYSE,PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,Stock,,nasdaq_trader_symbol_directory
 NYSE,Q,"Qnity Electronics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,QBTS,D-Wave Quantum Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,QGEN,Qiagen N.V. Common Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,QLEP.U,"Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
+NYSE,QLEP,Quantum Leap Acquisition Corp Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,QLEP.W,"Quantum Leap Acquisition Corp Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,QRED,QuasarEdge Acquisition Corporation Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,QRED.R,QuasarEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NYSE,QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",Stock,,nasdaq_trader_symbol_directory
@@ -2613,6 +2614,7 @@ NYSE,TPC,Tutor Perini Corporation Common Stock,Stock,,nasdaq_trader_symbol_direc
 NYSE,TPL,Texas Pacific Land Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TPR,"Tapestry, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026",Stock,,nasdaq_trader_symbol_directory
+NYSE,TPTS,"Terra Property Trust, Inc. 7.00% Senior Secured Notes due 2029",Stock,,nasdaq_trader_symbol_directory
 NYSE,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TPYP,Tortoise North American Pipeline ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,TPZ,Tortoise Electrification Infrastructure ETF,ETF,,nasdaq_trader_symbol_directory
