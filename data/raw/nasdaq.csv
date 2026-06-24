@@ -273,7 +273,10 @@ NASDAQ,AMD,"Advanced Micro Devices, Inc. - Common Stock",Stock,,nasdaq_trader_sy
 NASDAQ,AMDD,Direxion Daily AMD Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AMDG,Leverage Shares 2X Long AMD Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AMDL,GraniteShares 2x Long AMD Daily ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AMEI,Amana Equity Income ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AMEM,Amana Developing World ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AMGN,Amgen Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AMGR,Amana Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AMID,Argent Mid Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AMIX,"Autonomix Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMKR,"Amkor Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1347,7 +1350,6 @@ NASDAQ,DEFT,"Defi Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol
 NASDAQ,DEMZ,Democratic Large Cap Core ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DERM,Journey Medical Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DETX,"Liberty Defense Holdings, Ltd. - Common Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DEVS,DevvStream Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DFDV,DeFi Development Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DFDVW,DeFi Development Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DFGP,Dimensional Global Core Plus Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1513,6 +1515,7 @@ NASDAQ,EBIZ,Global X E-commerce ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EBMT,"Eagle Bancorp Montana, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EBON,Ebang International Holdings Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ECBK,"ECB Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ECHO,EchoStar Corporation - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ECOR,"electroCore, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ECOW,Pacer Emerging Markets Cash Cows 100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ECPG,Encore Capital Group Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3636,14 +3639,12 @@ NASDAQ,ORCS,Direxion Daily ORCL Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ORCU,Direxion Daily ORCL Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ORCX,Defiance Daily Target 2X Long ORCL ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ORGN,"Origin Materials, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ORGNW,"Origin Materials, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORGO,Organogenesis Holdings Inc. - Class A,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORIC,"Oric Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORIO,Orion Digital Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORIQ,Origin Investment Corp I - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORIQU,Origin Investment Corp I - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORIQW,Origin Investment Corp I - Redeemable Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ORIS,Oriental Rise Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORKA,"Oruka Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORKT,Orangekloud Technology Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORLG,Leverage Shares 2X Long ORLY Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4034,6 +4035,7 @@ NASDAQ,QMID,WisdomTree U.S. MidCap Quality Growth Fund,ETF,,nasdaq_trader_symbol
 NASDAQ,QMMM,QMMM Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMOM,Alpha Architect U.S. Quantitative Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QNCX,"Quince Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,QNDX,State Street SPDR Portfolio Nasdaq 100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QNRX,"Quoin Pharmaceuticals, Ltd. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNST,"QuinStreet, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNT,Quantinuum Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4288,8 +4290,8 @@ NASDAQ,RTH,VanEck Retail ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RTXG,Leverage Shares 2X Long RTX Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RTYY,GraniteShares YieldBoost RIOT ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RUBI,Rubico Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RUM,Rumble Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RUMBW,Rumble Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RUM,RUM Group Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RUMBW,RUM Group Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RUN,Sunrun Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RUNN,Running Oak Efficient Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RUSC,Russell Investments U.S. Small Cap Equity ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4339,7 +4341,6 @@ NASDAQ,SATA,"Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock",St
 NASDAQ,SATG,Leverage Shares 2X Long SATS Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SATL,Satellogic Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SATLW,Satellogic Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SATS,EchoStar Corporation - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SBAC,SBA Communications Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SBC,SBC Medical Group Holdings Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SBCF,Seacoast Banking Corporation of Florida - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4517,6 +4518,7 @@ NASDAQ,SMCO,Hilton Small-MidCap Opportunity ETF,ETF,,nasdaq_trader_symbol_direct
 NASDAQ,SMCX,Defiance Daily Target 2X Long SMCI ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMCZ,Defiance Daily Target 2X Short SMCI ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMH,VanEck Semiconductor ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,SMHC,VanEck China Semiconductor ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMHX,VanEck Fabless Semiconductor ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMID,Smith-Midland Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SMMT,Summit Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory

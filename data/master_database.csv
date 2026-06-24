@@ -610,7 +610,10 @@ AMD,NASDAQ,"Advanced Micro Devices, Inc. - Common Stock",Stock,True,2026-05-08,,
 AMDD,NASDAQ,Direxion Daily AMD Bear 1X ETF,ETF,True,2026-05-08,,,fd4827ca38f5088ccb58
 AMDG,NASDAQ,Leverage Shares 2X Long AMD Daily ETF,ETF,True,2026-05-08,,,6eae681a153eac9fd4bf
 AMDL,NASDAQ,GraniteShares 2x Long AMD Daily ETF,ETF,True,2026-05-08,,,c508cea1213b88311b0c
+AMEI,NASDAQ,Amana Equity Income ETF,ETF,True,2026-06-24,,,584ea4054c0104a2acc5
+AMEM,NASDAQ,Amana Developing World ETF,ETF,True,2026-06-24,,,c6c4f8a99ea2f7a0a15f
 AMGN,NASDAQ,Amgen Inc. - Common Stock,Stock,True,2026-05-08,,,74ce058cc1db058fc96f
+AMGR,NASDAQ,Amana Growth ETF,ETF,True,2026-06-24,,,76fa6d45fae5ab101db6
 AMID,NASDAQ,Argent Mid Cap ETF,ETF,True,2026-05-08,,,a24694a3585d624c5dc5
 AMIX,NASDAQ,"Autonomix Medical, Inc. - Common Stock",Stock,True,2026-05-08,,,d49e5b96f98df1142b9e
 AMKR,NASDAQ,"Amkor Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,c01e8a27555258c5c6b4
@@ -1709,7 +1712,7 @@ DEFT,NASDAQ,"Defi Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,e6f
 DEMZ,NASDAQ,Democratic Large Cap Core ETF,ETF,True,2026-05-08,,,86346cab257802f3d3f9
 DERM,NASDAQ,Journey Medical Corporation - Common Stock,Stock,True,2026-05-08,,,3917c0ee984c84def695
 DETX,NASDAQ,"Liberty Defense Holdings, Ltd. - Common Shares",Stock,True,2026-05-08,,,c635d230019e66fa3022
-DEVS,NASDAQ,DevvStream Corp. - Common Stock,Stock,True,2026-05-08,,,cad1cc242fa614cf3ec1
+DEVS,NASDAQ,DevvStream Corp. - Common Stock,Stock,False,2026-05-08,2026-06-24,Missing from current NASDAQ source snapshot; reason unavailable,cad1cc242fa614cf3ec1
 DFDV,NASDAQ,DeFi Development Corp. - Common Stock,Stock,True,2026-05-08,,,9a0a4d4d5f1150e55b9b
 DFDVW,NASDAQ,DeFi Development Corp. - Warrant,Stock,True,2026-05-08,,,4b184eb8475dfce7c279
 DFGP,NASDAQ,Dimensional Global Core Plus Fixed Income ETF,ETF,True,2026-05-08,,,1c767c4b7edb6e847356
@@ -1878,6 +1881,7 @@ EBIZ,NASDAQ,Global X E-commerce ETF,ETF,True,2026-05-08,,,f17a0799ddf3c33dd945
 EBMT,NASDAQ,"Eagle Bancorp Montana, Inc. - Common Stock",Stock,True,2026-05-08,,,cb769613c7918736d00b
 EBON,NASDAQ,Ebang International Holdings Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,0defcca297652a65c137
 ECBK,NASDAQ,"ECB Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,942a5337d2270e052f03
+ECHO,NASDAQ,EchoStar Corporation - Common stock,Stock,True,2026-06-24,,,638a3878c55ca5111e3e
 ECOR,NASDAQ,"electroCore, Inc. - Common Stock",Stock,True,2026-05-08,,,6838546efe55a7d01ace
 ECOW,NASDAQ,Pacer Emerging Markets Cash Cows 100 ETF,ETF,True,2026-05-08,,,475f96511587ca044d30
 ECPG,NASDAQ,Encore Capital Group Inc - Common Stock,Stock,True,2026-05-08,,,35a3f0d8d7638ccc1a95
@@ -4061,14 +4065,14 @@ ORCS,NASDAQ,Direxion Daily ORCL Bear 1X ETF,ETF,True,2026-05-08,,,e90875308c356a
 ORCU,NASDAQ,Direxion Daily ORCL Bull 2X ETF,ETF,True,2026-05-08,,,e30b222ec9b7cd05103a
 ORCX,NASDAQ,Defiance Daily Target 2X Long ORCL ETF,ETF,True,2026-05-08,,,dc6bc12e82fc31346e7a
 ORGN,NASDAQ,"Origin Materials, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,5ca2cce02891532f66f3
-ORGNW,NASDAQ,"Origin Materials, Inc. - Warrant",Stock,True,2026-05-08,,,fabd31e81594c0f50cd1
+ORGNW,NASDAQ,"Origin Materials, Inc. - Warrant",Stock,False,2026-05-08,2026-06-24,Missing from current NASDAQ source snapshot; reason unavailable,fabd31e81594c0f50cd1
 ORGO,NASDAQ,Organogenesis Holdings Inc. - Class A,Stock,True,2026-05-08,,,d1f72ac4bdcf03e88233
 ORIC,NASDAQ,"Oric Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,e2076c636f3bb58ffdc0
 ORIO,NASDAQ,Orion Digital Corp. - Common Shares,Stock,True,2026-05-08,,,33f384faba38895c4233
 ORIQ,NASDAQ,Origin Investment Corp I - Ordinary Shares,Stock,True,2026-05-08,,,b12eb69d1794b226915d
 ORIQU,NASDAQ,Origin Investment Corp I - Units,Stock,True,2026-05-08,,,8bd4a4b5c727a605babb
 ORIQW,NASDAQ,Origin Investment Corp I - Redeemable Warrant,Stock,True,2026-05-08,,,416e73ffe7d67ab8983f
-ORIS,NASDAQ,Oriental Rise Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,64b9714ae3998831f1ef
+ORIS,NASDAQ,Oriental Rise Holdings Limited - Ordinary Shares,Stock,False,2026-05-08,2026-06-24,Missing from current NASDAQ source snapshot; reason unavailable,64b9714ae3998831f1ef
 ORKA,NASDAQ,"Oruka Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,709d8d21224bccac120c
 ORKT,NASDAQ,Orangekloud Technology Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,8cf464658174e7d084d7
 ORLG,NASDAQ,Leverage Shares 2X Long ORLY Daily ETF,ETF,True,2026-05-08,,,f3ac6f3412274c4f64f9
@@ -4465,6 +4469,7 @@ QMID,NASDAQ,WisdomTree U.S. MidCap Quality Growth Fund,ETF,True,2026-05-08,,,ada
 QMMM,NASDAQ,QMMM Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,3de66dd79f4ad24b1e42
 QMOM,NASDAQ,Alpha Architect U.S. Quantitative Momentum ETF,ETF,True,2026-05-08,,,bba14e310381abb69794
 QNCX,NASDAQ,"Quince Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,98930c4fa884732ca20d
+QNDX,NASDAQ,State Street SPDR Portfolio Nasdaq 100 ETF,ETF,True,2026-06-24,,,c29313f776cad68052e0
 QNRX,NASDAQ,"Quoin Pharmaceuticals, Ltd. - American Depositary Shares",Stock,True,2026-05-08,,,fc30cc7c7f116ac8ffaa
 QNST,NASDAQ,"QuinStreet, Inc. - Common Stock",Stock,True,2026-05-08,,,43ade2961cbf4e511cc6
 QNT,NASDAQ,Quantinuum Inc. - Class A Common Stock,Stock,True,2026-06-04,,,8a4cd5b33d3c7a4c8334
@@ -4720,8 +4725,10 @@ RTH,NASDAQ,VanEck Retail ETF,ETF,True,2026-05-08,,,25ba867522a4dab24130
 RTXG,NASDAQ,Leverage Shares 2X Long RTX Daily ETF,ETF,True,2026-05-08,,,3d0e27cfb2ecc1255ed0
 RTYY,NASDAQ,GraniteShares YieldBoost RIOT ETF,ETF,True,2026-05-08,,,ea53bad5dfc4d9ac8daf
 RUBI,NASDAQ,Rubico Inc. - Common Stock,Stock,True,2026-05-08,,,faef87f3c719f17de6c6
-RUM,NASDAQ,Rumble Inc. - Class A Common Stock,Stock,True,2026-05-08,,,495727349bf44cc85418
-RUMBW,NASDAQ,Rumble Inc. - Warrant,Stock,True,2026-05-08,,,04d63edba2ad1697af8e
+RUM,NASDAQ,Rumble Inc. - Class A Common Stock,Stock,False,2026-05-08,2026-06-24,Listing metadata changed,495727349bf44cc85418
+RUM,NASDAQ,RUM Group Inc. - Class A Common Stock,Stock,True,2026-06-24,,,df61abc4635cc970f3c0
+RUMBW,NASDAQ,Rumble Inc. - Warrant,Stock,False,2026-05-08,2026-06-24,Listing metadata changed,04d63edba2ad1697af8e
+RUMBW,NASDAQ,RUM Group Inc. - Warrant,Stock,True,2026-06-24,,,b42636dd1e368ac9a9ee
 RUN,NASDAQ,Sunrun Inc. - Common Stock,Stock,True,2026-05-08,,,0ef01c18cd83845c0dba
 RUNN,NASDAQ,Running Oak Efficient Growth ETF,ETF,True,2026-05-08,,,a43995947aee04d11540
 RUSC,NASDAQ,Russell Investments U.S. Small Cap Equity ETF,ETF,True,2026-05-08,,,b8e143c96d485237b734
@@ -4773,7 +4780,7 @@ SATA,NASDAQ,"Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock",St
 SATG,NASDAQ,Leverage Shares 2X Long SATS Daily ETF,ETF,True,2026-05-08,,,9be21530d6d5b952f9fa
 SATL,NASDAQ,Satellogic Inc. - Class A Common Stock,Stock,True,2026-05-08,,,562aba107736cf81cc7b
 SATLW,NASDAQ,Satellogic Inc. - Warrant,Stock,True,2026-05-08,,,a4c80a98321056fa38d5
-SATS,NASDAQ,EchoStar Corporation - Common stock,Stock,True,2026-05-08,,,638a3878c55ca5111e3e
+SATS,NASDAQ,EchoStar Corporation - Common stock,Stock,False,2026-05-08,2026-06-24,Missing from current NASDAQ source snapshot; reason unavailable,638a3878c55ca5111e3e
 SBAC,NASDAQ,SBA Communications Corporation - Class A Common Stock,Stock,True,2026-05-08,,,e278aebd9fb4056f8786
 SBC,NASDAQ,SBC Medical Group Holdings Incorporated - Common Stock,Stock,True,2026-05-08,,,46cb31820909901b9c44
 SBCF,NASDAQ,Seacoast Banking Corporation of Florida - Common Stock,Stock,True,2026-05-08,,,b6327a4df3ebfd05794f
@@ -4956,6 +4963,7 @@ SMCO,NASDAQ,Hilton Small-MidCap Opportunity ETF,ETF,True,2026-05-08,,,99e8ff52c0
 SMCX,NASDAQ,Defiance Daily Target 2X Long SMCI ETF,ETF,True,2026-05-08,,,0e1218b6306734c3d295
 SMCZ,NASDAQ,Defiance Daily Target 2X Short SMCI ETF,ETF,True,2026-05-08,,,21352f52ccd12d3f746c
 SMH,NASDAQ,VanEck Semiconductor ETF,ETF,True,2026-05-08,,,438cb8193ffddc489da1
+SMHC,NASDAQ,VanEck China Semiconductor ETF,ETF,True,2026-06-24,,,f779955b77e3c223ead2
 SMHX,NASDAQ,VanEck Fabless Semiconductor ETF,ETF,True,2026-05-08,,,5e15c1fc1dfaed395f36
 SMID,NASDAQ,Smith-Midland Corporation - Common Stock,Stock,True,2026-05-08,,,b4c9e748311e52756797
 SMMT,NASDAQ,Summit Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,8d40bf931c6187e5bf5f
