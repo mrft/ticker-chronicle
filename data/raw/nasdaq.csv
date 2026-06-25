@@ -109,7 +109,6 @@ NASDAQ,ADSE,ADS-TEC ENERGY PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,ADSEW,ADS-TEC ENERGY PLC - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADSK,"Autodesk, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADTN,"ADTRAN Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ADTX,"Aditxt, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADUR,Aduro Clean Technologies Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADUS,Addus HomeCare Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADV,Advantage Solutions Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -203,6 +202,7 @@ NASDAQ,AIRT,"Air T, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIRTP,"Air T, Inc. - Trust Preferred Securities",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AISP,"Airship AI Holdings, Inc - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AISPW,"Airship AI Holdings, Inc - Warrants",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AIX,Defiance US 100 Tech AI Moat ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AIXC,"AIxCrypto Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIXI,XIAO-I Corporation - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AKAM,"Akamai Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -251,6 +251,7 @@ NASDAQ,ALOVW,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants",Stock,,n
 NASDAQ,ALOY,REalloys Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALP,Alpha Compute Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALPS,ALPS Group Inc - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ALPXU,Alpex Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALRM,"Alarm.com Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALRS,Alerus Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALT,"Altimmune, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -919,7 +920,7 @@ NASDAQ,CAST,"FreeCast, Inc. - Class A common stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,CASY,"Caseys General Stores, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CATH,Global X S&P 500 Catholic Values ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CATY,Cathay General Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CBAT,"CBAK Energy Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CBAT,CBAK Energy Technology Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CBC,"Central Bancompany, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CBFV,"CB Financial Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CBIO,"Crescent Biopharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1015,6 +1016,7 @@ NASDAQ,CG,The Carlyle Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,CGABL,The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGBD,"Carlyle Secured Lending, Inc. - Closed End Fund",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGC,Canopy Growth Corporation - Common Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CGCFU,Cartesian Growth Corporation IV - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGEM,"Cullinan Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGEN,Compugen Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGNT,Cognyte Software Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1127,7 +1129,6 @@ NASDAQ,CNOB,"ConnectOne Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,CNOBP,"ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNQQ,Rayliant-ChinaAMC Transformative China Tech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CNSP,"CNS Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CNTA,Centessa Pharmaceuticals plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNTB,Connect Biopharma Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNTN,"Canton Strategic Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNTX,Context Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1439,6 +1440,7 @@ NASDAQ,DRVN,Driven Brands Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symb
 NASDAQ,DSAC,Daedalus Special Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DSACU,Daedalus Special Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DSACW,Daedalus Special Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,DSC,DSC Holdings Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DSGN,"Design Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DSGR,"Distribution Solutions Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DSGX,The Descartes Systems Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1970,6 +1972,7 @@ NASDAQ,FVCB,"FVCBankcorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direc
 NASDAQ,FVN,Future Vision II Acquisition Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FVNNR,Future Vision II Acquisition Corporation - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FVNNU,Future Vision II Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FWACU,Futurewave Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWDI,"Forward Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWONA,Liberty Media Corporation - Series A Liberty Formula One Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWONK,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Stock,,nasdaq_trader_symbol_directory

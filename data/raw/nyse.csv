@@ -399,7 +399,7 @@ NYSE,BLK,"BlackRock, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BLND,"Blend Labs, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BLSH,Bullish Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,BLW,Blackrock Limited Duration Income Trust,Stock,,nasdaq_trader_symbol_directory
-NYSE,BLX,"Banco Latinoamericano de Comercio Exterior, S.A.",Stock,,nasdaq_trader_symbol_directory
+NYSE,BLX,"Bladex, Inc. Class E Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BMA,Banco Macro S.A. ADR (representing Ten Class B Common Shares),Stock,,nasdaq_trader_symbol_directory
 NYSE,BME,Blackrock Health Sciences Trust,Stock,,nasdaq_trader_symbol_directory
 NYSE,BMEZ,BlackRock Health Sciences Term Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
@@ -725,7 +725,6 @@ NYSE,CVS,CVS Health Corporation Common Stock,Stock,,nasdaq_trader_symbol_directo
 NYSE,CVSA,Covista Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,CVX,Chevron Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CW,Curtiss-Wright Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,CWAN,"Clearwater Analytics Holdings, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CWEN,"Clearway Energy, Inc. Class C Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CWH,"Camping World Holdings, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CWK,Cushman & Wakefield Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -809,6 +808,7 @@ NYSE,DOLE,Dole plc Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,DOUG,Douglas Elliman Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DOV,Dover Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DOW,Dow Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,DPC,DPC Holdings PLC Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,Stock,,nasdaq_trader_symbol_directory
 NYSE,DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,DRD,DRDGOLD Limited American Depositary Shares,Stock,,nasdaq_trader_symbol_directory

@@ -438,7 +438,7 @@ ADSE,NASDAQ,ADS-TEC ENERGY PLC - Ordinary Shares,Stock,True,2026-05-08,,,bf12b51
 ADSEW,NASDAQ,ADS-TEC ENERGY PLC - Warrant,Stock,True,2026-05-08,,,f85bf43d79d304aeead3
 ADSK,NASDAQ,"Autodesk, Inc. - Common Stock",Stock,True,2026-05-08,,,7cdda6505a0cc32b53f2
 ADTN,NASDAQ,"ADTRAN Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,2373aa38a083b64e284f
-ADTX,NASDAQ,"Aditxt, Inc. - Common Stock",Stock,True,2026-05-08,,,7e61f95d6c3e7c84b033
+ADTX,NASDAQ,"Aditxt, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-25,Missing from current NASDAQ source snapshot; reason unavailable,7e61f95d6c3e7c84b033
 ADUR,NASDAQ,Aduro Clean Technologies Inc. - Common Stock,Stock,True,2026-05-08,,,4fa312ee86ea7c7eeb89
 ADUS,NASDAQ,Addus HomeCare Corporation - Common Stock,Stock,True,2026-05-08,,,5e50d86f693fdb647f4b
 ADV,NASDAQ,Advantage Solutions Inc. - Class A Common Stock,Stock,True,2026-05-08,,,d8a4675e1647a31c49d2
@@ -536,6 +536,7 @@ AIRT,NASDAQ,"Air T, Inc. - Common Stock",Stock,True,2026-05-08,,,6fb7636e292a2f9
 AIRTP,NASDAQ,"Air T, Inc. - Trust Preferred Securities",Stock,True,2026-05-08,,,b2729569cd71035963be
 AISP,NASDAQ,"Airship AI Holdings, Inc - Class A Common Stock",Stock,True,2026-05-08,,,15ec9b683af4e74553c4
 AISPW,NASDAQ,"Airship AI Holdings, Inc - Warrants",Stock,True,2026-05-08,,,cfc43913d1ba75e120ec
+AIX,NASDAQ,Defiance US 100 Tech AI Moat ETF,ETF,True,2026-06-25,,,748d8dfdfe526b2de1c7
 AIXC,NASDAQ,"AIxCrypto Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,3d63778098feb54de505
 AIXI,NASDAQ,XIAO-I Corporation - American Depositary Shares,Stock,True,2026-05-08,,,ec71461b964049cf8616
 AKAM,NASDAQ,"Akamai Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,f51ce6efc1fc28e6581e
@@ -587,6 +588,7 @@ ALOVW,NASDAQ,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants",Stock,Tr
 ALOY,NASDAQ,REalloys Inc. - Common Stock,Stock,True,2026-05-08,,,46dc81e3e175c097fd79
 ALP,NASDAQ,Alpha Compute Corp - Common Stock,Stock,True,2026-05-08,,,f1e96b24986a92a11c81
 ALPS,NASDAQ,ALPS Group Inc - Ordinary Share,Stock,True,2026-05-08,,,bc44583b2eb2d2a64ead
+ALPXU,NASDAQ,Alpex Acquisition Corporation - Units,Stock,True,2026-06-25,,,077dff7c7b2b81d4d153
 ALRM,NASDAQ,"Alarm.com Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,2ea6465a5610aa40a157
 ALRS,NASDAQ,Alerus Financial Corporation - Common Stock,Stock,True,2026-05-08,,,ceb23e311f0acf2c91cc
 ALT,NASDAQ,"Altimmune, Inc. - Common Stock",Stock,True,2026-05-08,,,7c8bbf8ebec9c46e2089
@@ -1270,7 +1272,8 @@ CAST,NASDAQ,"FreeCast, Inc. - Class A common stock",Stock,True,2026-05-08,,,319f
 CASY,NASDAQ,"Caseys General Stores, Inc. - Common Stock",Stock,True,2026-05-08,,,302127c6db83a856e2d5
 CATH,NASDAQ,Global X S&P 500 Catholic Values ETF,ETF,True,2026-05-08,,,099d9da39bc8fd9385ad
 CATY,NASDAQ,Cathay General Bancorp - Common Stock,Stock,True,2026-05-08,,,1ffa0b970282a8900f9b
-CBAT,NASDAQ,"CBAK Energy Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,2fc850b4f9e9b5e88d64
+CBAT,NASDAQ,"CBAK Energy Technology, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-25,Listing metadata changed,2fc850b4f9e9b5e88d64
+CBAT,NASDAQ,CBAK Energy Technology Limited - Ordinary Shares,Stock,True,2026-06-25,,,b18e406274f8473ffe0f
 CBC,NASDAQ,"Central Bancompany, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,b0fbf78f1824452cbd4f
 CBFV,NASDAQ,"CB Financial Services, Inc. - Common Stock",Stock,True,2026-05-08,,,0bd334070ea22b33affe
 CBIO,NASDAQ,"Crescent Biopharma, Inc. - Common Stock",Stock,True,2026-05-08,,,83feacae5ad6d8fc3a36
@@ -1368,6 +1371,7 @@ CG,NASDAQ,The Carlyle Group Inc. - Common Stock,Stock,True,2026-05-08,,,29432d5d
 CGABL,NASDAQ,The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061,Stock,True,2026-05-08,,,c0c75e1abb0811aa56a6
 CGBD,NASDAQ,"Carlyle Secured Lending, Inc. - Closed End Fund",Stock,True,2026-05-08,,,0f11c03e6f562cfda7c0
 CGC,NASDAQ,Canopy Growth Corporation - Common Shares,Stock,True,2026-05-08,,,8553ccf43603012b4c0d
+CGCFU,NASDAQ,Cartesian Growth Corporation IV - Units,Stock,True,2026-06-25,,,32005ed67b011c0d387f
 CGCT,NASDAQ,Cartesian Growth Corporation III - Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-08,Missing from current NASDAQ source snapshot; reason unavailable,c906533c507809d0bb24
 CGCTU,NASDAQ,Cartesian Growth Corporation III - unit,Stock,False,2026-05-08,2026-06-08,Missing from current NASDAQ source snapshot; reason unavailable,52f6bb4a3c936a4bc66d
 CGCTW,NASDAQ,Cartesian Growth Corporation III - Warrant,Stock,False,2026-05-08,2026-06-08,Missing from current NASDAQ source snapshot; reason unavailable,2081bdc2df5f56bd7296
@@ -1483,7 +1487,7 @@ CNOB,NASDAQ,"ConnectOne Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,b0
 CNOBP,NASDAQ,"ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)",Stock,True,2026-05-08,,,294793be9884e6c06de4
 CNQQ,NASDAQ,Rayliant-ChinaAMC Transformative China Tech ETF,ETF,True,2026-05-08,,,7fa529b4a63749c86c8a
 CNSP,NASDAQ,"CNS Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,d19309fbbe536296ff7f
-CNTA,NASDAQ,Centessa Pharmaceuticals plc - American Depositary Shares,Stock,True,2026-05-08,,,d15c30f895f55598068f
+CNTA,NASDAQ,Centessa Pharmaceuticals plc - American Depositary Shares,Stock,False,2026-05-08,2026-06-25,Missing from current NASDAQ source snapshot; reason unavailable,d15c30f895f55598068f
 CNTB,NASDAQ,Connect Biopharma Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,10562a7825085c113f11
 CNTN,NASDAQ,"Canton Strategic Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,e277aefa4233040beb95
 CNTX,NASDAQ,Context Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,5a3ecab34c1a387fb788
@@ -1804,6 +1808,7 @@ DRVN,NASDAQ,Driven Brands Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,e
 DSAC,NASDAQ,Daedalus Special Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,937ede0fbf8b140eeed0
 DSACU,NASDAQ,Daedalus Special Acquisition Corp. - Unit,Stock,True,2026-05-08,,,6d3e24cb0798454748c0
 DSACW,NASDAQ,Daedalus Special Acquisition Corp. - Warrant,Stock,True,2026-05-08,,,6f4767b71e81e522ffe9
+DSC,NASDAQ,DSC Holdings Ltd. - American Depositary Shares,Stock,True,2026-06-25,,,9cb227e4619777166ed4
 DSGN,NASDAQ,"Design Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,c467d83f36d83e6935bb
 DSGR,NASDAQ,"Distribution Solutions Group, Inc. - Common Stock",Stock,True,2026-05-08,,,70c8edfe6e0184d7fb36
 DSGX,NASDAQ,The Descartes Systems Group Inc. - Common Stock,Stock,True,2026-05-08,,,88d28b6cd36bc04cb852
@@ -2350,6 +2355,7 @@ FVCB,NASDAQ,"FVCBankcorp, Inc. - Common Stock",Stock,True,2026-05-08,,,ee53d9a10
 FVN,NASDAQ,Future Vision II Acquisition Corporation - Ordinary Shares,Stock,True,2026-05-08,,,6673d5849a7840f7e614
 FVNNR,NASDAQ,Future Vision II Acquisition Corporation - Right,Stock,True,2026-05-08,,,ba455607d0c0a3975260
 FVNNU,NASDAQ,Future Vision II Acquisition Corporation - Units,Stock,True,2026-05-08,,,a51de225eee396051586
+FWACU,NASDAQ,Futurewave Acquisition Corporation - Units,Stock,True,2026-06-25,,,bdb188e6f760a5a8122e
 FWDI,NASDAQ,"Forward Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,b02244be4e14099b0018
 FWONA,NASDAQ,Liberty Media Corporation - Series A Liberty Formula One Common Stock,Stock,True,2026-05-08,,,d57127a9f7ba36cee15c
 FWONK,NASDAQ,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Stock,True,2026-05-08,,,2af5e5652f41b29d4c7c
@@ -6396,7 +6402,8 @@ BLK,NYSE,"BlackRock, Inc. Common Stock",Stock,True,2026-05-08,,,f311a5fbdc04ba91
 BLND,NYSE,"Blend Labs, Inc. Class A Common Stock",Stock,True,2026-05-08,,,6d80586708ce2869408f
 BLSH,NYSE,Bullish Ordinary Shares,Stock,True,2026-05-08,,,225846dd8b17b8290614
 BLW,NYSE,Blackrock Limited Duration Income Trust,Stock,True,2026-05-08,,,08429b7b58f83e91cd00
-BLX,NYSE,"Banco Latinoamericano de Comercio Exterior, S.A.",Stock,True,2026-05-08,,,dd011eb7ef5cc62b700f
+BLX,NYSE,"Banco Latinoamericano de Comercio Exterior, S.A.",Stock,False,2026-05-08,2026-06-25,Listing metadata changed,dd011eb7ef5cc62b700f
+BLX,NYSE,"Bladex, Inc. Class E Common Stock",Stock,True,2026-06-25,,,7c867b88c730563a0ad5
 BMA,NYSE,Banco Macro S.A. ADR (representing Ten Class B Common Shares),Stock,True,2026-05-08,,,95a829fd1b1a6b6f6ef5
 BME,NYSE,Blackrock Health Sciences Trust,Stock,True,2026-05-08,,,b89141a2d9c04d9c46b1
 BMEZ,NYSE,BlackRock Health Sciences Term Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,2b73fff0dffd073a3af6
@@ -6726,7 +6733,7 @@ CVS,NYSE,CVS Health Corporation Common Stock,Stock,True,2026-05-08,,,1d2b1888f51
 CVSA,NYSE,Covista Inc. Common Shares,Stock,True,2026-05-08,,,bb92696b00a12b34f07f
 CVX,NYSE,Chevron Corporation Common Stock,Stock,True,2026-05-08,,,4e625aa2b1b53651c8f7
 CW,NYSE,Curtiss-Wright Corporation Common Stock,Stock,True,2026-05-08,,,8a0d00513d9a254e87c5
-CWAN,NYSE,"Clearwater Analytics Holdings, Inc. Class A Common Stock",Stock,True,2026-05-08,,,b4041ec69948c04e87cb
+CWAN,NYSE,"Clearwater Analytics Holdings, Inc. Class A Common Stock",Stock,False,2026-05-08,2026-06-25,Missing from current NYSE source snapshot; reason unavailable,b4041ec69948c04e87cb
 CWEN,NYSE,"Clearway Energy, Inc. Class C Common Stock",Stock,True,2026-05-08,,,e1128ff5ba57cb942b53
 CWH,NYSE,"Camping World Holdings, Inc. Class A Common Stock",Stock,True,2026-05-08,,,288d598d3fb123908b8f
 CWK,NYSE,Cushman & Wakefield Ltd. Common Shares,Stock,True,2026-05-08,,,fdf543ce45f731574b0b
@@ -6815,6 +6822,7 @@ DOLE,NYSE,Dole plc Ordinary Shares,Stock,True,2026-05-08,,,cb086a3d88df53f7edc2
 DOUG,NYSE,Douglas Elliman Inc. Common Stock,Stock,True,2026-05-08,,,ab28496087cc50ffeb20
 DOV,NYSE,Dover Corporation Common Stock,Stock,True,2026-05-08,,,94e0156b288ecfaa7282
 DOW,NYSE,Dow Inc. Common Stock,Stock,True,2026-05-08,,,a58059aa3f1dc03fc821
+DPC,NYSE,DPC Holdings PLC Ordinary Shares,Stock,True,2026-06-25,,,212ecc99ad275b58e2c5
 DPG,NYSE,Duff & Phelps Utility and Infrastructure Fund Inc.,Stock,True,2026-05-08,,,6970b0c9521e999bc068
 DQ,NYSE,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",Stock,True,2026-05-08,,,af9cf0d16a11545ec0ee
 DRD,NYSE,DRDGOLD Limited American Depositary Shares,Stock,True,2026-05-08,,,8040a689d723fb72cc89
