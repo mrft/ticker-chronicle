@@ -3114,6 +3114,7 @@ NASDAQ,MFIG,Motley Fool Innovative Growth ETF,ETF,,nasdaq_trader_symbol_director
 NASDAQ,MFIN,Medallion Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MFLX,First Trust Flexible Municipal High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MFMO,Motley Fool Momentum Factor ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,MFPVV,"Midera Food Processing, Inc. - Common Stock When Issued",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MFVL,Motley Fool Value Factor ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MGEE,MGE Energy Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGIH,Millennium Group International Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3128,6 +3129,7 @@ NASDAQ,MGTX,MeiraGTx Holdings plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_
 NASDAQ,MGX,"Metagenomi Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGYR,"Magyar Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIDD,The Middleby Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MIDDV,Middleby Corp. - Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MILN,Global X Millennial Consumer ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MIMI,Mint Incorporation Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIND,"MIND Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4386,7 +4388,6 @@ NASDAQ,SDGR,"Schrodinger, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direc
 NASDAQ,SDHI,Siddhi Acquisition Corp - Class A Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SDHIR,Siddhi Acquisition Corp - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SDHIU,Siddhi Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SDM,Smart Digital Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SDOT,Sadot Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SDSI,American Century Short Duration Strategic Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SDST,Stardust Power Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5078,6 +5079,8 @@ NASDAQ,USAR,"USA Rare Earth, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_di
 NASDAQ,USAU,U.S. Gold Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,USCB,"USCB Financial Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,USCL,iShares Climate Conscious & Transition MSCI USA ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,USDE,StablecoinX Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,USDEW,StablecoinX Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,USDX,SGI Enhanced Core ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USEA,United Maritime Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,USFI,BrandywineGLOBAL - U.S. Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5179,7 +5182,7 @@ NASDAQ,VIRC,Virco Manufacturing Corporation - Common Stock,Stock,,nasdaq_trader_
 NASDAQ,VISN,"Vistance Networks, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VITL,"Vital Farms, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VIVK,"Vivakor, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,VIVO,VivoPower PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VIVO,VivoPower PLC - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VIVS,"VivoSim Labs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VKTX,"Viking Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VLGEA,"Village Super Market, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory

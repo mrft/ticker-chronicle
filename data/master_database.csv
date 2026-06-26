@@ -4,7 +4,8 @@ ACU,AMEX,Acme United Corporation. Common Stock,Stock,True,2026-05-08,,,25b14afa8
 AEF,AMEX,"abrdn Emerging Markets ex-China Fund, Inc. Common Stock",Stock,True,2026-05-08,,,b1873f5ac343ea9e6c1c
 AEON,AMEX,"AEON Biopharma, Inc. Class A Common Stock",Stock,True,2026-05-08,,,59a6af82db3037823d30
 AGIG,AMEX,Abundia Global Impact Group Inc. Common stock,Stock,True,2026-05-08,,,bc542edc5a70f1a79e6c
-AIB,AMEX,"BlockchAIn Digital Infrastructure, Inc Common Shares",Stock,True,2026-05-08,,,99f8030cbd1fec2ae850
+AIB,AMEX,"BlockchAIn Digital Infrastructure, Inc Common Shares",Stock,False,2026-05-08,2026-06-26,Listing metadata changed,99f8030cbd1fec2ae850
+AIB,AMEX,AIB Data Centers Inc. Common Stock,Stock,True,2026-06-26,,,bd68dfc6822de3e7375a
 AIM,AMEX,AIM ImmunoTech Inc. Common Stock,Stock,True,2026-05-08,,,53ee31882bd6ffe653bd
 AIRI,AMEX,Air Industries Group Common Stock,Stock,True,2026-05-08,,,60be9067337b7c02f563
 AMBO,AMEX,Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),Stock,True,2026-05-08,,,3ee594b79cb398ce29fc
@@ -3531,6 +3532,7 @@ MFIG,NASDAQ,Motley Fool Innovative Growth ETF,ETF,True,2026-05-08,,,18615fe27e74
 MFIN,NASDAQ,Medallion Financial Corp. - Common Stock,Stock,True,2026-05-08,,,864b4dc92d728cb5477b
 MFLX,NASDAQ,First Trust Flexible Municipal High Income ETF,ETF,True,2026-05-08,,,517c080ee74c06be0e89
 MFMO,NASDAQ,Motley Fool Momentum Factor ETF,ETF,True,2026-05-08,,,42b03fc75b51f306c395
+MFPVV,NASDAQ,"Midera Food Processing, Inc. - Common Stock When Issued",Stock,True,2026-06-26,,,a675a7d9b13341989a16
 MFVL,NASDAQ,Motley Fool Value Factor ETF,ETF,True,2026-05-08,,,9066f7bd6492d55aabc7
 MGEE,NASDAQ,MGE Energy Inc. - Common Stock,Stock,True,2026-05-08,,,1f62cb180bf9d87b7943
 MGIH,NASDAQ,Millennium Group International Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,b3270f060778106137f0
@@ -3545,6 +3547,7 @@ MGTX,NASDAQ,MeiraGTx Holdings plc - Ordinary Shares,Stock,True,2026-05-08,,,5daa
 MGX,NASDAQ,"Metagenomi Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,51a281cd982555c583ea
 MGYR,NASDAQ,"Magyar Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,10113082899e33facc5c
 MIDD,NASDAQ,The Middleby Corporation - Common Stock,Stock,True,2026-05-08,,,d05185d201b36ee106c7
+MIDDV,NASDAQ,Middleby Corp. - Common Stock Ex-Distribution When Issued,Stock,True,2026-06-26,,,0082b3f086dbcf36d736
 MILN,NASDAQ,Global X Millennial Consumer ETF,ETF,True,2026-05-08,,,5181b5dc995a84d7ceee
 MIMI,NASDAQ,Mint Incorporation Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,9619e31d5a3404dbd4dd
 MIND,NASDAQ,"MIND Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,d2e4036a931faff781fc
@@ -4831,7 +4834,7 @@ SDGR,NASDAQ,"Schrodinger, Inc. - Common Stock",Stock,True,2026-05-08,,,c33e05cbf
 SDHI,NASDAQ,Siddhi Acquisition Corp - Class A Common stock,Stock,True,2026-05-08,,,74f5c117f151079097f7
 SDHIR,NASDAQ,Siddhi Acquisition Corp - Right,Stock,True,2026-05-08,,,6868ddfb2e8c6e8578a5
 SDHIU,NASDAQ,Siddhi Acquisition Corp - Unit,Stock,True,2026-05-08,,,e78822d2f6b8487f6a01
-SDM,NASDAQ,Smart Digital Group Limited - Ordinary Shares,Stock,True,2026-05-08,,,8af4a4bf4ffcfad5f6cb
+SDM,NASDAQ,Smart Digital Group Limited - Ordinary Shares,Stock,False,2026-05-08,2026-06-26,Missing from current NASDAQ source snapshot; reason unavailable,8af4a4bf4ffcfad5f6cb
 SDOT,NASDAQ,Sadot Group Inc. - Common Stock,Stock,True,2026-05-08,,,5d09cd9061a157b666a2
 SDSI,NASDAQ,American Century Short Duration Strategic Income ETF,ETF,True,2026-05-08,,,e7da8457c11587bef5e1
 SDST,NASDAQ,Stardust Power Inc. - Common Stock,Stock,True,2026-05-08,,,645de463182fcd6276ec
@@ -5537,6 +5540,8 @@ USAR,NASDAQ,"USA Rare Earth, Inc. - Common Stock",Stock,True,2026-05-08,,,dcec20
 USAU,NASDAQ,U.S. Gold Corp. - Common Stock,Stock,True,2026-05-08,,,f3f99a5a39e543552a6e
 USCB,NASDAQ,"USCB Financial Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,78de429c8af157cf73e7
 USCL,NASDAQ,iShares Climate Conscious & Transition MSCI USA ETF,ETF,True,2026-05-08,,,40378aaf9a014954b3bb
+USDE,NASDAQ,StablecoinX Inc. - Class A Common Stock,Stock,True,2026-06-26,,,87897519ce92fb425564
+USDEW,NASDAQ,StablecoinX Inc. - Warrants,Stock,True,2026-06-26,,,7216b3e827c650ddd24e
 USDX,NASDAQ,SGI Enhanced Core ETF,ETF,True,2026-05-08,,,11b5d40fa252ca37f8e2
 USEA,NASDAQ,United Maritime Corporation - Common Stock,Stock,True,2026-05-08,,,cd293946cdeab3f74a97
 USEG,NASDAQ,U.S. Energy Corp. - Common Stock,Stock,False,2026-05-08,2026-06-08,Missing from current NASDAQ source snapshot; reason unavailable,d0cb5caf0a404b97ca80
@@ -5643,7 +5648,8 @@ VIRC,NASDAQ,Virco Manufacturing Corporation - Common Stock,Stock,True,2026-05-08
 VISN,NASDAQ,"Vistance Networks, Inc. - Common Stock",Stock,True,2026-05-08,,,7f72f62fa20fb781021b
 VITL,NASDAQ,"Vital Farms, Inc. - Common Stock",Stock,True,2026-05-08,,,0c9ec7dc174505ae818e
 VIVK,NASDAQ,"Vivakor, Inc. - Common Stock",Stock,True,2026-05-08,,,0cec9038fca38f20e277
-VIVO,NASDAQ,VivoPower PLC - Ordinary Shares,Stock,True,2026-05-08,,,0d3a804333047664d78f
+VIVO,NASDAQ,VivoPower PLC - Ordinary Shares,Stock,False,2026-05-08,2026-06-26,Listing metadata changed,0d3a804333047664d78f
+VIVO,NASDAQ,VivoPower PLC - Class A Ordinary Shares,Stock,True,2026-06-26,,,390735c016203a1c7ae1
 VIVS,NASDAQ,"VivoSim Labs, Inc. - Common Stock",Stock,True,2026-05-08,,,6e68d89c5fd5661b10ca
 VKTX,NASDAQ,"Viking Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,5c027af448de77389d38
 VLGEA,NASDAQ,"Village Super Market, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,103c04de355be96a5ae4
@@ -7568,7 +7574,7 @@ LAC,NYSE,Lithium Americas Corp. Common Shares,Stock,True,2026-05-08,,,952952dde5
 LAD,NYSE,"Lithia Motors, Inc. Common Stock",Stock,True,2026-05-08,,,41432a3025bd07cc810f
 LADR,NYSE,Ladder Capital Corp Class A Common Stock,Stock,True,2026-05-08,,,0b6f9217b056e5059f35
 LANV,NYSE,Lanvin Group Holdings Limited Ordinary Shares,Stock,True,2026-05-08,,,230d8654f74c4a5b2cd6
-LANV.W,NYSE,"Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",Stock,True,2026-05-08,,,12ca67788e9f980aedab
+LANV.W,NYSE,"Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",Stock,False,2026-05-08,2026-06-26,Missing from current NYSE source snapshot; reason unavailable,12ca67788e9f980aedab
 LAR,NYSE,Lithium Argentina AG Common Shares,Stock,True,2026-05-08,,,001143f6291b554eab58
 LAW,NYSE,"CS Disco, Inc. Common Stock",Stock,True,2026-05-08,,,1c07e4805e7f941e3935
 LAZ,NYSE,"Lazard, Inc. Common Stock",Stock,True,2026-05-08,,,0c849662d1e9ad591c3d
@@ -7652,6 +7658,7 @@ MATV,NYSE,"Mativ Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,f2a66d087a
 MATX,NYSE,"Matson, Inc. Common Stock",Stock,True,2026-05-08,,,27541f6b0f21bf9b1100
 MAX,NYSE,"MediaAlpha, Inc. Class A Common Stock",Stock,True,2026-05-08,,,df3b79626e129586b34a
 MBC,NYSE,"MasterBrand, Inc. Common Stock",Stock,True,2026-05-08,,,0bf74d99ba96682f65fb
+MBGL.V,NYSE,Mobility Global Inc. Common Stock When-Issued,Stock,True,2026-06-26,,,5525db28fe50db62e131
 MBI,NYSE,MBIA Inc. Common Stock,Stock,True,2026-05-08,,,36e4c23eba10113ed557
 MC,NYSE,Moelis & Company Class A Common Stock,Stock,True,2026-05-08,,,48e5d7a3fca34986b8b2
 MCB,NYSE,Metropolitan Bank Holding Corp. Common Stock,Stock,True,2026-05-08,,,f47c9f273fc467df482b
@@ -8153,7 +8160,7 @@ PPL,NYSE,PPL Corporation Common Stock,Stock,True,2026-05-08,,,cbab12fb228be2a11f
 PPLC,NYSE,PPL Corporation Corporate Units,Stock,True,2026-05-08,,,11479e727da841373ca4
 PPT,NYSE,Putnam Premier Income Trust Common Stock,Stock,True,2026-05-08,,,f39ac6d3c710c01f6ca0
 PR,NYSE,Permian Resources Corporation Class A Common Stock,Stock,True,2026-05-08,,,39fd2ced8a7915ac7116
-PRA,NYSE,ProAssurance Corporation Common Stock,Stock,True,2026-05-08,,,2dfc2032984dc2cd5cfd
+PRA,NYSE,ProAssurance Corporation Common Stock,Stock,False,2026-05-08,2026-06-26,Missing from current NYSE source snapshot; reason unavailable,2dfc2032984dc2cd5cfd
 PRCS,NYSE,Parnassus Core Select ETF,ETF,True,2026-05-08,,,bd40b572adf60c63f56b
 PRG,NYSE,"PROG Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,af3526fa459807ef6a95
 PRGO,NYSE,Perrigo Company plc Ordinary Shares,Stock,True,2026-05-08,,,ba88e4b8338750670fbb
@@ -8429,6 +8436,7 @@ SID,NYSE,Companhia Siderurgica Nacional S.A. Common Stock,Stock,True,2026-05-08,
 SIG,NYSE,Signet Jewelers Limited Common Shares,Stock,True,2026-05-08,,,d8064b801292f6bdb0ca
 SII,NYSE,Sprott Inc. Common Shares,Stock,True,2026-05-08,,,45c0fc08f894fe9d3f79
 SILA,NYSE,"Sila Realty Trust, Inc. Common Stock",Stock,True,2026-05-08,,,8e7552042f3e5aced360
+SIND,NYSE,Sinda Ltd. Common Stock,Stock,True,2026-06-26,,,cb2b3ee3b90b58b15416
 SITC,NYSE,SITE Centers Corp. Common Stock,Stock,True,2026-05-08,,,5835e9570e6651f41a69
 SITE,NYSE,"SiteOne Landscape Supply, Inc. Common Stock",Stock,True,2026-05-08,,,4036263e9eed8b96fd04
 SJM,NYSE,The J.M. Smucker Company Common Stock,Stock,True,2026-05-08,,,9d6826a13ab0dcd5d7a9
@@ -8492,6 +8500,7 @@ SPE$C,NYSE,"Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock, S
 SPG,NYSE,"Simon Property Group, Inc. Common Stock",Stock,True,2026-05-08,,,024afc5fc224602da399
 SPG$J,NYSE,"Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,c227e4a91b87eedb55ac
 SPGI,NYSE,S&P Global Inc. Common Stock,Stock,True,2026-05-08,,,b5f875d9e31a11faee6f
+SPGI.V,NYSE,S&P Global Inc. Common Stock When-Issued,Stock,True,2026-06-26,,,502d0716c6aa612bfbb7
 SPH,NYSE,"Suburban Propane Partners, L.P. Common Stock",Stock,True,2026-05-08,,,94647271b4695a331245
 SPHR,NYSE,Sphere Entertainment Co. Class A Common Stock,Stock,True,2026-05-08,,,10ee3a61563b16755e89
 SPIR,NYSE,"Spire Global, Inc. Class A Common Stock",Stock,True,2026-05-08,,,42526c818d4307986723

@@ -1540,7 +1540,6 @@ NYSE,LAC,Lithium Americas Corp. Common Shares,Stock,,nasdaq_trader_symbol_direct
 NYSE,LAD,"Lithia Motors, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LADR,Ladder Capital Corp Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LANV,Lanvin Group Holdings Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,LANV.W,"Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NYSE,LAR,Lithium Argentina AG Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,LAW,"CS Disco, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LAZ,"Lazard, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1623,6 +1622,7 @@ NYSE,MATV,"Mativ Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_direct
 NYSE,MATX,"Matson, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MAX,"MediaAlpha, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MBC,"MasterBrand, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,MBGL.V,Mobility Global Inc. Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NYSE,MBI,MBIA Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MC,Moelis & Company Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MCB,Metropolitan Bank Holding Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2117,7 +2117,6 @@ NYSE,PPL,PPL Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PPLC,PPL Corporation Corporate Units,Stock,,nasdaq_trader_symbol_directory
 NYSE,PPT,Putnam Premier Income Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PR,Permian Resources Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,PRA,ProAssurance Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PRCS,Parnassus Core Select ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,PRG,"PROG Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PRGO,Perrigo Company plc Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2389,6 +2388,7 @@ NYSE,SID,Companhia Siderurgica Nacional S.A. Common Stock,Stock,,nasdaq_trader_s
 NYSE,SIG,Signet Jewelers Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,SII,Sprott Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,SILA,"Sila Realty Trust, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,SIND,Sinda Ltd. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SITC,SITE Centers Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SITE,"SiteOne Landscape Supply, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SJM,The J.M. Smucker Company Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2451,6 +2451,7 @@ NYSE,SPE$C,"Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock, S
 NYSE,SPG,"Simon Property Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SPG$J,"Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SPGI,S&P Global Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,SPGI.V,S&P Global Inc. Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NYSE,SPH,"Suburban Propane Partners, L.P. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SPHR,Sphere Entertainment Co. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SPIR,"Spire Global, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
