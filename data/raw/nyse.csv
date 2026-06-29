@@ -797,6 +797,7 @@ NYSE,DLX,Deluxe Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DLY,DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,DMA,Destra Multi-Alternative Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,DMC,Del Monte Corporation Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,DMO,Western Asset Mortgage Opportunity Fund Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,DNOW,DNOW Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1008,7 +1009,6 @@ NYSE,FCRS.U,"FutureCrest Acquisition Corp. Units, each consisting of one Class A
 NYSE,FCRS.W,"FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NYSE,FCT,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,FCX,"Freeport-McMoRan, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,FDP,Del Monte Corporation Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,FDS,FactSet Research Systems Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FDX,FedEx Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FDXF,"FedEx Freight Holding Company, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1984,6 +1984,8 @@ NYSE,ORN,"Orion Group Holdings, Inc. Common",Stock,,nasdaq_trader_symbol_directo
 NYSE,OSCR,"Oscar Health, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OSG,"Octave Specialty Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OSK,Oshkosh Corporation (Holding Company)Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,OTAI,Starlink AI Acquisition Corporation Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,OTAI.R,"Starlink AI Acquisition Corporation Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",Stock,,nasdaq_trader_symbol_directory
 NYSE,OTAI.U,"Starlink AI Acquisition Corporation Units, each consisting of one Ordinary Share, and one Right to receive one-fourth (1/4) of one ordinary share",Stock,,nasdaq_trader_symbol_directory
 NYSE,OTF,Blue Owl Technology Finance Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OTIS,Otis Worldwide Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory

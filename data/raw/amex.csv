@@ -161,7 +161,6 @@ AMEX,LEGO.U,"Legato Merger Corp. IV Units, each consisting of one ordinary share
 AMEX,LEGO.W,"Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 AMEX,LGCY,Legacy Education Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,LGL,"LGL Group, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
-AMEX,LGL.R,"LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 AMEX,LGPS,LogProstyle Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,LODE,Comstock Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,LPA,Logistic Properties of the Americas Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -265,12 +264,12 @@ AMEX,SLND.W,"Southland Holdings, Inc. Warrants",Stock,,nasdaq_trader_symbol_dire
 AMEX,SLSR,Solaris Resources Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,SMJF,SMJ International Holdings Inc. Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,SOAR,"Volato Group, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-AMEX,SRXH,"SRX Health Solutions, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,SRXH,SRX Global Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,STRW,"Strawberry Fields REIT, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 AMEX,STXS,"Stereotaxis, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 AMEX,SVM,Silvercorp Metals Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,SYNX,Silynxcom Ltd. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-AMEX,TGB,"Taseko Mines, Ltd. Common Stock",Stock,,nasdaq_trader_symbol_directory
+AMEX,TGB,Trekor Metals Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 AMEX,TGEN,Tecogen Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,THM,"International Tower Hill Mines, Ltd. Ordinary Shares (Canada)",Stock,,nasdaq_trader_symbol_directory

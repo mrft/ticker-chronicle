@@ -342,6 +342,8 @@ NASDAQ,APLD,Applied Digital Corporation - Common Stock,Stock,,nasdaq_trader_symb
 NASDAQ,APLM,Apollomics Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLMW,Apollomics Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APM,Aptorum Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,APMC,AmperCap Acquisition Company - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,APMCR,AmperCap Acquisition Company - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APMCU,AmperCap Acquisition Company - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APOG,"Apogee Enterprises, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APP,Applovin Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2304,8 +2306,7 @@ NASDAQ,HOFT,Hooker Furnishings Corporation - Common Stock,Stock,,nasdaq_trader_s
 NASDAQ,HOLO,MicroCloud Hologram Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HOLOW,MicroCloud Hologram Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HON,Honeywell International Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HONAV,Honeywell Aerospace Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HONIV,Honeywell International Inc. - Common Stock Ex Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HONA,Honeywell Aerospace Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HOOD,"Robinhood Markets, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HOOG,Leverage Shares 2X Long HOOD Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HOOX,Defiance Daily Target 2X Long HOOD ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3422,7 +3423,6 @@ NASDAQ,NMRA,"Neumora Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,NMRK,"Newmark Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NMTC,NeuroOne Medical Technologies Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NN,NextNav Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NNAVW,NextNav Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NNBR,"NN, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NNDM,Nano Dimension Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NNE,Nano Nuclear Energy Inc. - common stock,Stock,,nasdaq_trader_symbol_directory
@@ -5037,7 +5037,7 @@ NASDAQ,UFCS,"United Fire Group, Inc - Common Stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,UFG,Uni-Fuels Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UFIV,US Treasury 5 Year Note ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UFO,Procure Space ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,UFOX,Defiance Connective Technologies ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,UFOX,Defiance Space and Connective Tech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UFPI,"UFP Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UFPT,"UFP Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UG,"United-Guardian, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory

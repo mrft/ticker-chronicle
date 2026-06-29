@@ -168,7 +168,7 @@ LEGT.U,AMEX,"Legato Merger Corp. III Units, each consisting of one Ordinary Shar
 LEGT.W,AMEX,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",Stock,False,2026-05-08,2026-06-10,Missing from current AMEX source snapshot; reason unavailable,2e60072df9f1cd08476a
 LGCY,AMEX,Legacy Education Inc. Common Stock,Stock,True,2026-05-08,,,ee60c19e93b854d4ac15
 LGL,AMEX,"LGL Group, Inc. (The) Common Stock",Stock,True,2026-05-08,,,dd6ba3588c3d01e7f3b0
-LGL.R,AMEX,"LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",Stock,True,2026-06-08,,,c09916adf31cb61a766c
+LGL.R,AMEX,"LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",Stock,False,2026-06-08,2026-06-29,Missing from current AMEX source snapshot; reason unavailable,c09916adf31cb61a766c
 LGL.V,AMEX,"LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued",Stock,False,2026-06-03,2026-06-08,Missing from current AMEX source snapshot; reason unavailable,7188be84ea449883eecb
 LGPS,AMEX,LogProstyle Inc. Common Shares,Stock,True,2026-05-08,,,baaab61933d04a9fe298
 LODE,AMEX,Comstock Inc. Common Stock,Stock,True,2026-05-08,,,d7e02745e129a354a751
@@ -276,13 +276,15 @@ SLND.W,AMEX,"Southland Holdings, Inc. Warrants",Stock,True,2026-05-08,,,8e3d399e
 SLSR,AMEX,Solaris Resources Inc. Common Shares,Stock,True,2026-05-08,,,bffe8e83ad5a8ebce334
 SMJF,AMEX,SMJ International Holdings Inc. Class A Ordinary Shares,Stock,True,2026-05-08,,,433cb35e27e3f8604ecd
 SOAR,AMEX,"Volato Group, Inc. Class A Common Stock",Stock,True,2026-05-08,,,95bba1602dc77e156914
-SRXH,AMEX,"SRX Health Solutions, Inc. Common Stock",Stock,True,2026-05-08,,,40d0e565a81f453bcfe7
+SRXH,AMEX,"SRX Health Solutions, Inc. Common Stock",Stock,False,2026-05-08,2026-06-29,Listing metadata changed,40d0e565a81f453bcfe7
+SRXH,AMEX,SRX Global Inc. Common Stock,Stock,True,2026-06-29,,,0a69ab7cb4c053e8028e
 STRW,AMEX,"Strawberry Fields REIT, Inc. Common Stock",Stock,True,2026-05-08,,,85af20f9a5dd88f1f61e
 STXS,AMEX,"Stereotaxis, Inc. Common Stock",Stock,True,2026-05-08,,,1f1a0ed7163885017666
 SVM,AMEX,Silvercorp Metals Inc. Common Shares,Stock,True,2026-05-08,,,568a41911103718d904a
 SYNX,AMEX,Silynxcom Ltd. Ordinary Shares,Stock,True,2026-05-08,,,4b1214d7c7f38fe7091f
 TCGL,AMEX,TechCreate Group Ltd. Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-15,Missing from current AMEX source snapshot; reason unavailable,4dcb6a2a90c2f6a32a2b
-TGB,AMEX,"Taseko Mines, Ltd. Common Stock",Stock,True,2026-05-08,,,50e60bebb68449abef17
+TGB,AMEX,"Taseko Mines, Ltd. Common Stock",Stock,False,2026-05-08,2026-06-29,Listing metadata changed,50e60bebb68449abef17
+TGB,AMEX,Trekor Metals Limited Common Shares,Stock,True,2026-06-29,,,798b9e63a9c34f2d1ac7
 TGE.W,AMEX,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",Stock,True,2026-05-08,,,2fcf863f8c99f249d853
 TGEN,AMEX,Tecogen Inc. Common Stock,Stock,True,2026-05-08,,,43910b9f9270efc93cbb
 THM,AMEX,"International Tower Hill Mines, Ltd. Ordinary Shares (Canada)",Stock,True,2026-05-08,,,b153e9f61ea5a64618b2
@@ -683,6 +685,8 @@ APLM,NASDAQ,Apollomics Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,b7
 APLMW,NASDAQ,Apollomics Inc. - Warrant,Stock,True,2026-05-08,,,1f4416d40c9fb30545f5
 APLS,NASDAQ,"Apellis Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-15,Missing from current NASDAQ source snapshot; reason unavailable,f4a2c9a60e63d2dba774
 APM,NASDAQ,Aptorum Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,ae05f45e0b86e546450b
+APMC,NASDAQ,AmperCap Acquisition Company - Ordinary Shares,Stock,True,2026-06-29,,,a0e7a820fd67ad86dda8
+APMCR,NASDAQ,AmperCap Acquisition Company - Right,Stock,True,2026-06-29,,,df905249ced540549e79
 APMCU,NASDAQ,AmperCap Acquisition Company - Unit,Stock,True,2026-06-03,,,f514a79c00f20454251f
 APOG,NASDAQ,"Apogee Enterprises, Inc. - Common Stock",Stock,True,2026-05-08,,,fb53576ed337d7abe6c5
 APP,NASDAQ,Applovin Corporation - Class A Common Stock,Stock,True,2026-05-08,,,fbdb0e35bffed5c0562f
@@ -2695,8 +2699,9 @@ HOFT,NASDAQ,Hooker Furnishings Corporation - Common Stock,Stock,True,2026-05-08,
 HOLO,NASDAQ,MicroCloud Hologram Inc. - Ordinary Shares,Stock,True,2026-05-08,,,ce968ff313a3ebe87f98
 HOLOW,NASDAQ,MicroCloud Hologram Inc. - Warrant,Stock,True,2026-05-08,,,842fc0dcc9c721183d0f
 HON,NASDAQ,Honeywell International Inc. - Common Stock,Stock,True,2026-05-08,,,758c96dd93229361d6ea
-HONAV,NASDAQ,Honeywell Aerospace Inc. - Common Stock,Stock,True,2026-06-15,,,9779d1b315d92cb5090c
-HONIV,NASDAQ,Honeywell International Inc. - Common Stock Ex Distribution When Issued,Stock,True,2026-06-15,,,e78d043125fe124ffc34
+HONA,NASDAQ,Honeywell Aerospace Inc. - Common Stock,Stock,True,2026-06-29,,,9779d1b315d92cb5090c
+HONAV,NASDAQ,Honeywell Aerospace Inc. - Common Stock,Stock,False,2026-06-15,2026-06-29,Missing from current NASDAQ source snapshot; reason unavailable,9779d1b315d92cb5090c
+HONIV,NASDAQ,Honeywell International Inc. - Common Stock Ex Distribution When Issued,Stock,False,2026-06-15,2026-06-29,Missing from current NASDAQ source snapshot; reason unavailable,e78d043125fe124ffc34
 HOOD,NASDAQ,"Robinhood Markets, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,db6d58c8541b31a836ca
 HOOG,NASDAQ,Leverage Shares 2X Long HOOD Daily ETF,ETF,True,2026-05-08,,,e76ddae74735d634a083
 HOOX,NASDAQ,Defiance Daily Target 2X Long HOOD ETF,ETF,True,2026-05-08,,,f1924e885bbfbb34b685
@@ -3845,7 +3850,7 @@ NMRA,NASDAQ,"Neumora Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,
 NMRK,NASDAQ,"Newmark Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,d2c0b5e14bfff6876a50
 NMTC,NASDAQ,NeuroOne Medical Technologies Corporation - Common Stock,Stock,True,2026-05-08,,,088571f99f780d5648c1
 NN,NASDAQ,NextNav Inc. - Common stock,Stock,True,2026-05-08,,,0bb36a4f4b79027e909c
-NNAVW,NASDAQ,NextNav Inc. - Warrant,Stock,True,2026-05-08,,,2f7819ab6e49d9491e44
+NNAVW,NASDAQ,NextNav Inc. - Warrant,Stock,False,2026-05-08,2026-06-29,Missing from current NASDAQ source snapshot; reason unavailable,2f7819ab6e49d9491e44
 NNBR,NASDAQ,"NN, Inc. - Common Stock",Stock,True,2026-05-08,,,cf31c820f6c020689255
 NNDM,NASDAQ,Nano Dimension Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,5d571e94c6881909fb33
 NNE,NASDAQ,Nano Nuclear Energy Inc. - common stock,Stock,True,2026-05-08,,,3a58d50c6e46da774d2b
@@ -5497,7 +5502,8 @@ UFCS,NASDAQ,"United Fire Group, Inc - Common Stock",Stock,True,2026-05-08,,,5150
 UFG,NASDAQ,Uni-Fuels Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,d8ea90d46d8aed2f4db9
 UFIV,NASDAQ,US Treasury 5 Year Note ETF,ETF,True,2026-05-08,,,7ec20c71a56950263d3b
 UFO,NASDAQ,Procure Space ETF,ETF,True,2026-05-08,,,e23ace38e40851188fef
-UFOX,NASDAQ,Defiance Connective Technologies ETF,ETF,True,2026-05-08,,,e7969e408feedad475f0
+UFOX,NASDAQ,Defiance Connective Technologies ETF,ETF,False,2026-05-08,2026-06-29,Listing metadata changed,e7969e408feedad475f0
+UFOX,NASDAQ,Defiance Space and Connective Tech ETF,ETF,True,2026-06-29,,,5c32d9e0c8921153e6ee
 UFPI,NASDAQ,"UFP Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,c9527dc49ee4ad7ace49
 UFPT,NASDAQ,"UFP Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,49ec9b600a4ace9d2106
 UG,NASDAQ,"United-Guardian, Inc. - Common Stock",Stock,True,2026-05-08,,,815d3e0ec0aaf81c6825
@@ -6817,6 +6823,7 @@ DLX,NYSE,Deluxe Corporation Common Stock,Stock,True,2026-05-08,,,fb761c3c51f062f
 DLY,NYSE,DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,06ead142d322a4916685
 DMA,NYSE,Destra Multi-Alternative Fund Common Stock,Stock,True,2026-05-08,,,079fcd907a5e5dcb794e
 DMB,NYSE,"BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock",Stock,True,2026-05-08,,,7aea884c945e7b81aed4
+DMC,NYSE,Del Monte Corporation Ordinary Shares,Stock,True,2026-06-29,,,40fa7521211a1037b90f
 DMO,NYSE,Western Asset Mortgage Opportunity Fund Inc. Common Stock,Stock,True,2026-05-08,,,3b829a9ed9e28d02a96b
 DNA,NYSE,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock",Stock,True,2026-05-08,,,85a6c2106241624710a5
 DNOW,NYSE,DNOW Inc. Common Stock,Stock,True,2026-05-08,,,f870fc3d9750d7e3211f
@@ -7036,7 +7043,7 @@ FCRX,NYSE,"Crescent Capital BDC, Inc. 5.00% Notes due 2026",Stock,False,2026-05-
 FCT,NYSE,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,8ccf42a9cc7bd7c9bae0
 FCX,NYSE,"Freeport-McMoRan, Inc. Common Stock",Stock,True,2026-05-08,,,d6189ae9e5949d1000fe
 FDP,NYSE,"Fresh Del Monte Produce, Inc. Common Stock",Stock,False,2026-05-08,2026-06-09,Listing metadata changed,1fe6b843d48be486e9ce
-FDP,NYSE,Del Monte Corporation Ordinary Shares,Stock,True,2026-06-09,,,40fa7521211a1037b90f
+FDP,NYSE,Del Monte Corporation Ordinary Shares,Stock,False,2026-06-09,2026-06-29,Missing from current NYSE source snapshot; reason unavailable,40fa7521211a1037b90f
 FDS,NYSE,FactSet Research Systems Inc. Common Stock,Stock,True,2026-05-08,,,9d437874495addbe2111
 FDX,NYSE,FedEx Corporation Common Stock,Stock,True,2026-05-08,,,ddd74ed017a12c537d45
 FDX.V,NYSE,FedEx Corporation Common Stock When-Issued,Stock,False,2026-05-27,2026-06-01,Missing from current NYSE source snapshot; reason unavailable,dc78e0bf9ec4baaebf73
@@ -8027,6 +8034,8 @@ ORN,NYSE,"Orion Group Holdings, Inc. Common",Stock,True,2026-05-08,,,11416f68a25
 OSCR,NYSE,"Oscar Health, Inc. Class A Common Stock",Stock,True,2026-05-08,,,b49b3880248c5a9cbcfc
 OSG,NYSE,"Octave Specialty Group, Inc. Common Stock",Stock,True,2026-05-08,,,d973a71b59d508af6c46
 OSK,NYSE,Oshkosh Corporation (Holding Company)Common Stock,Stock,True,2026-05-08,,,b7bad5ccefc03963c6ea
+OTAI,NYSE,Starlink AI Acquisition Corporation Ordinary Shares,Stock,True,2026-06-29,,,2a3de3d7b21d8f564c17
+OTAI.R,NYSE,"Starlink AI Acquisition Corporation Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",Stock,True,2026-06-29,,,93f720454fb86fa379b0
 OTAI.U,NYSE,"Starlink AI Acquisition Corporation Units, each consisting of one Ordinary Share, and one Right to receive one-fourth (1/4) of one ordinary share",Stock,True,2026-05-08,,,ac3f101fd0945874d1f9
 OTF,NYSE,Blue Owl Technology Finance Corp. Common Stock,Stock,True,2026-05-08,,,fb6e6963388f4ffd09d3
 OTIS,NYSE,Otis Worldwide Corporation Common Stock,Stock,True,2026-05-08,,,a6ff271437512162ae08
