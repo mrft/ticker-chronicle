@@ -1,6 +1,7 @@
 Exchange,Symbol,Name,InstrumentType,FirstIpoDate,Source
 NYSE,A,"Agilent Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,AA,Alcoa Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,AAC.U,"Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
 NYSE,AADX,"Applied Aerospace & Defense, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,AAMI,Acadian Asset Management Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AAP,Advance Auto Parts Inc.,Stock,,nasdaq_trader_symbol_directory
@@ -1163,6 +1164,7 @@ NYSE,GJT,"Synthetic Fixed-Income Securities, Inc. Floating Rate Structured Repac
 NYSE,GKOS,Glaukos Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GL,Globe Life Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GL$D,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,Stock,,nasdaq_trader_symbol_directory
+NYSE,GLAS,Glass House Brands Inc. Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,GLED,GalaxyEdge Acquisition Corporation Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,GLED.R,GalaxyEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one ordinary share,Stock,,nasdaq_trader_symbol_directory
 NYSE,GLED.U,"GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share",Stock,,nasdaq_trader_symbol_directory
@@ -2616,7 +2618,6 @@ NYSE,TPB,"Turning Point Brands, Inc. Common Stock",Stock,,nasdaq_trader_symbol_d
 NYSE,TPC,Tutor Perini Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TPL,Texas Pacific Land Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TPR,"Tapestry, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026",Stock,,nasdaq_trader_symbol_directory
 NYSE,TPTS,"Terra Property Trust, Inc. 7.00% Senior Secured Notes due 2029",Stock,,nasdaq_trader_symbol_directory
 NYSE,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TPYP,Tortoise North American Pipeline ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2804,7 +2805,6 @@ NYSE,VYX,NCR Voyix Corporation Common Stock,Stock,,nasdaq_trader_symbol_director
 NYSE,VZ,Verizon Communications Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,W,Wayfair Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,WAB,Westinghouse Air Brake Technologies Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,WAGN,Pabrai Wagons ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,WAL,Western Alliance Bancorporation Common Stock (DE),Stock,,nasdaq_trader_symbol_directory
 NYSE,WAL$A,"Western Alliance Bancorporation Depositary Shares, Each Representing a 1/400th Interest in a Share of 4.250% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory
 NYSE,WAT,Waters Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory

@@ -2472,7 +2472,7 @@ GLBS,NASDAQ,Globus Maritime Limited - Common Stock,Stock,True,2026-05-08,,,c5044
 GLCR,NASDAQ,GlacierShares Nasdaq Iceland ETF,ETF,True,2026-05-08,,,3e471e4503f691950fa1
 GLDB,NASDAQ,IDX Alternative FIAT ETF,ETF,True,2026-05-08,,,ea514fc864ab29f97038
 GLDI,NASDAQ,"ETRACS Gold Shares Covered Call ETNs due February 2, 2033",ETF,True,2026-05-08,,,ede17e2c77ce81c1af42
-GLDY,NASDAQ,Defiance Gold Enhanced Options Income ETF,ETF,True,2026-05-08,,,5650a3381ae9fb324174
+GLDY,NASDAQ,Defiance Gold Enhanced Options Income ETF,ETF,False,2026-05-08,2026-06-30,Missing from current NASDAQ source snapshot; reason unavailable,5650a3381ae9fb324174
 GLE,NASDAQ,Global Engine Group Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,0220776322c2e936099c
 GLGG,NASDAQ,Leverage Shares 2X Long GLXY Daily ETF,ETF,True,2026-05-08,,,baf423957a7aeb8f1c29
 GLIBA,NASDAQ,"GCI Liberty, Inc. - Series A GCI Group Common Stock",Stock,False,2026-05-08,2026-05-26,Listing metadata changed,6ef9a819ac0b81ca8bb9
@@ -2508,6 +2508,7 @@ GO,NASDAQ,Grocery Outlet Holding Corp. - Common Stock,Stock,True,2026-05-08,,,a4
 GOAI,NASDAQ,Eva Live Inc. - Common Stock,Stock,True,2026-05-08,,,a3e1b86c1f271c2bc753
 GOCO,NASDAQ,"GoHealth, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-06-16,Missing from current NASDAQ source snapshot; reason unavailable,5110b6ef3972ea346e6b
 GOGO,NASDAQ,Gogo Inc. - Common Stock,Stock,True,2026-05-08,,,8a7eca5f4e026d2ffd26
+GOLI,NASDAQ,Defiance Gold Enhanced Options Income ETF,ETF,True,2026-06-30,,,5650a3381ae9fb324174
 GOOD,NASDAQ,Gladstone Commercial Corporation - Real Estate Investment Trust,Stock,True,2026-05-08,,,0e821109648d1ee0b9e3
 GOODN,NASDAQ,Gladstone Commercial Corporation - 6.625% Series E Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,e6043329370612d89bab
 GOODO,NASDAQ,"Gladstone Commercial Corporation - 6.00% Series G Cumulative Redeemable Preferred Stock, par value $0.001 per share",Stock,True,2026-05-08,,,7b4e1526a1f80f84f0dc
@@ -2690,7 +2691,7 @@ HMR,NASDAQ,Heidmar Maritime Holdings Corp. - Common Stock,Stock,True,2026-05-08,
 HMYY,NASDAQ,GraniteShares YieldBoost HIMS ETF,ETF,True,2026-05-08,,,4878c78d21a5bb29d0b9
 HNDL,NASDAQ,Strategy Shares Nasdaq 7HANDL Index ETF,ETF,True,2026-05-08,,,6ece53d61f1ee688af92
 HNNA,NASDAQ,"Hennessy Advisors, Inc. - Common Stock",Stock,True,2026-05-08,,,99f99f8a95a4335779d7
-HNNAZ,NASDAQ,"Hennessy Advisors, Inc. - 4.875% Notes due 2026",Stock,True,2026-05-08,,,3f2517e201636cb77c85
+HNNAZ,NASDAQ,"Hennessy Advisors, Inc. - 4.875% Notes due 2026",Stock,False,2026-05-08,2026-06-30,Missing from current NASDAQ source snapshot; reason unavailable,3f2517e201636cb77c85
 HNRG,NASDAQ,Hallador Energy Company - Common Stock,Stock,True,2026-05-08,,,d6c8c850f71b45f320c6
 HNST,NASDAQ,"The Honest Company, Inc. - Common Stock",Stock,True,2026-05-08,,,92c7340f7a62f645fdea
 HNVR,NASDAQ,"Hanover Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,44391a768c453685bad0
@@ -5235,7 +5236,7 @@ TBCH,NASDAQ,Turtle Beach Corporation - Common Stock,Stock,True,2026-05-08,,,9508
 TBH,NASDAQ,"Brag House Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,b268a782cd25ff1ed7f9
 TBIL,NASDAQ,F/m US Treasury 3 Month Bill Fund,ETF,True,2026-05-08,,,1932aca36eca88650e76
 TBLA,NASDAQ,Taboola.com Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,ea9400e7476fbdf6eb44
-TBLAW,NASDAQ,Taboola.com Ltd. - Warrant,Stock,True,2026-05-08,,,a76fd2c2c4655faf2526
+TBLAW,NASDAQ,Taboola.com Ltd. - Warrant,Stock,False,2026-05-08,2026-06-30,Missing from current NASDAQ source snapshot; reason unavailable,a76fd2c2c4655faf2526
 TBLD,NASDAQ,Thornburg Income Builder Opportunities Trust - Closed End Fund,Stock,True,2026-05-08,,,67888cc2b2cf8fc88c88
 TBPH,NASDAQ,"Theravance Biopharma, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,f3bb8d4bf3e6eeb4c5f7
 TBRG,NASDAQ,"TruBridge, Inc. - Common Stock",Stock,True,2026-05-08,,,0d9412552b2468f73ecb
@@ -6013,6 +6014,7 @@ ZYBT,NASDAQ,Zhengye Biotechnology Holding Limited - Class A Ordinary Shares,Stoc
 ZYME,NASDAQ,Zymeworks Inc. - Common Stock,Stock,True,2026-05-08,,,31502e4d1105beca52ab
 A,NYSE,"Agilent Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,d01e8cf537eac6e34990
 AA,NYSE,Alcoa Corporation Common Stock,Stock,True,2026-05-08,,,af6ab8a6bd9068361d8a
+AAC.U,NYSE,"Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant",Stock,True,2026-06-30,,,c47b7f8bdd5f06413219
 AADX,NYSE,"Applied Aerospace & Defense, Inc. Common Stock",Stock,True,2026-06-03,,,b8694537fa15a560e332
 AAMI,NYSE,Acadian Asset Management Inc. Common Stock,Stock,True,2026-05-08,,,0b580c1dd264d8142ebd
 AAP,NYSE,Advance Auto Parts Inc.,Stock,True,2026-05-08,,,1682dd1923bbb67105d4
@@ -7201,6 +7203,7 @@ GJT,NYSE,"Synthetic Fixed-Income Securities, Inc. Floating Rate Structured Repac
 GKOS,NYSE,Glaukos Corporation Common Stock,Stock,True,2026-05-08,,,4e76e87c28702540aac5
 GL,NYSE,Globe Life Inc. Common Stock,Stock,True,2026-05-08,,,3fcd616f6259b5f40370
 GL$D,NYSE,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,Stock,True,2026-05-08,,,795ed71c1c4ce04a1381
+GLAS,NYSE,Glass House Brands Inc. Subordinate Voting Shares,Stock,True,2026-06-30,,,fc1482e5c21644db3ee1
 GLED,NYSE,GalaxyEdge Acquisition Corporation Ordinary Shares,Stock,True,2026-05-08,,,32507eef3795e2b356f1
 GLED.R,NYSE,GalaxyEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one ordinary share,Stock,True,2026-05-08,,,6357d9a0411b69ce2293
 GLED.U,NYSE,"GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share",Stock,True,2026-05-08,,,9cf2e7235e1d38937135
@@ -8675,7 +8678,7 @@ TPC,NYSE,Tutor Perini Corporation Common Stock,Stock,True,2026-05-08,,,8df11fb90
 TPH,NYSE,"Tri Pointe Homes, Inc. Common Stock",Stock,False,2026-05-08,2026-05-14,Missing from current NYSE source snapshot; reason unavailable,38cb6101b88b05821d75
 TPL,NYSE,Texas Pacific Land Corporation Common Stock,Stock,True,2026-05-08,,,808bdfc21616f5fcecb9
 TPR,NYSE,"Tapestry, Inc. Common Stock",Stock,True,2026-05-08,,,eab578b92da3bf80f1b0
-TPTA,NYSE,"Terra Property Trust, Inc. 6.00% Notes due 2026",Stock,True,2026-05-08,,,1156156227fe2fe10689
+TPTA,NYSE,"Terra Property Trust, Inc. 6.00% Notes due 2026",Stock,False,2026-05-08,2026-06-30,Missing from current NYSE source snapshot; reason unavailable,1156156227fe2fe10689
 TPTS,NYSE,"Terra Property Trust, Inc. 7.00% Senior Secured Notes due 2029",Stock,True,2026-06-23,,,07e3bdac332e9777560b
 TPVG,NYSE,TriplePoint Venture Growth BDC Corp. Common Stock,Stock,True,2026-05-08,,,7b29f42c908c6104e231
 TPYP,NYSE,Tortoise North American Pipeline ETF,ETF,True,2026-05-08,,,b808636d02fe0f1d2e5d
@@ -8867,7 +8870,7 @@ VYX,NYSE,NCR Voyix Corporation Common Stock,Stock,True,2026-05-08,,,82a64c38d7b1
 VZ,NYSE,Verizon Communications Inc. Common Stock,Stock,True,2026-05-08,,,2241d960685578c5872b
 W,NYSE,Wayfair Inc. Class A Common Stock,Stock,True,2026-05-08,,,3673f45233d9971c8545
 WAB,NYSE,Westinghouse Air Brake Technologies Corporation Common Stock,Stock,True,2026-05-08,,,918622e604870ded5406
-WAGN,NYSE,Pabrai Wagons ETF,ETF,True,2026-05-08,,,df7384348e6d4c379792
+WAGN,NYSE,Pabrai Wagons ETF,ETF,False,2026-05-08,2026-06-30,Missing from current NYSE source snapshot; reason unavailable,df7384348e6d4c379792
 WAL,NYSE,Western Alliance Bancorporation Common Stock (DE),Stock,True,2026-05-08,,,3d68bc1b784029432928
 WAL$A,NYSE,"Western Alliance Bancorporation Depositary Shares, Each Representing a 1/400th Interest in a Share of 4.250% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",Stock,True,2026-05-08,,,b4129371e755eea12c85
 WAT,NYSE,Waters Corporation Common Stock,Stock,True,2026-05-08,,,5c44e8faad36172d4114
