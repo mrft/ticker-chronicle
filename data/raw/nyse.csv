@@ -394,7 +394,6 @@ NYSE,BKT,BlackRock Income Trust Inc. (The),Stock,,nasdaq_trader_symbol_directory
 NYSE,BKU,"BankUnited, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BKV,BKV Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BLCO,Bausch + Lomb Corporation Common Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,BLD,TopBuild Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BLDR,"Builders FirstSource, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BLK,"BlackRock, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BLND,"Blend Labs, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1433,7 +1432,6 @@ NYSE,JENA.R,"Jena Acquisition Corporation II Rights, each right to acquire one-t
 NYSE,JENA.U,"Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right",Stock,,nasdaq_trader_symbol_directory
 NYSE,JFR,Nuveen Floating Rate Income Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,JHG,Janus Henderson Group plc Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,JHI,John Hancock Investors Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,JHS,John Hancock Income Securities Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,JHX,James Hardie Industries plc. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1624,7 +1622,7 @@ NYSE,MATV,"Mativ Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_direct
 NYSE,MATX,"Matson, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MAX,"MediaAlpha, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MBC,"MasterBrand, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,MBGL.V,Mobility Global Inc. Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
+NYSE,MBGL,Mobility Global Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MBI,MBIA Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MC,Moelis & Company Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MCB,Metropolitan Bank Holding Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2363,7 +2361,6 @@ NYSE,SEAL$A,Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred
 NYSE,SEAL$B,Seapeak LLC 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units,Stock,,nasdaq_trader_symbol_directory
 NYSE,SEG,Seaport Entertainment Group Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SEI,"Solaris Energy Infrastructure, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,SEM,Select Medical Holdings Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SES,SES AI Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SES.W,"SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,SF,Stifel Financial Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2391,7 +2388,6 @@ NYSE,SI,"Shoulder Innovations, Inc. Common Stock",Stock,,nasdaq_trader_symbol_di
 NYSE,SID,Companhia Siderurgica Nacional S.A. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SIG,Signet Jewelers Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,SII,Sprott Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,SILA,"Sila Realty Trust, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SIND,Sinda Ltd. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SITC,SITE Centers Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SITE,"SiteOne Landscape Supply, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2455,7 +2451,6 @@ NYSE,SPE$C,"Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock, S
 NYSE,SPG,"Simon Property Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SPG$J,"Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SPGI,S&P Global Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,SPGI.V,S&P Global Inc. Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NYSE,SPH,"Suburban Propane Partners, L.P. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SPHR,Sphere Entertainment Co. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SPIR,"Spire Global, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2489,7 +2484,6 @@ NYSE,ST,Sensata Technologies Holding plc Ordinary Shares,Stock,,nasdaq_trader_sy
 NYSE,STAG,"Stag Industrial, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,STC,Stewart Information Services Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,STE,STERIS plc (Ireland) Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,STEL,"Stellar Bancorp, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,STEM,"Stem, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,STEW,"SRH Total Return Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,STG,"Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares",Stock,,nasdaq_trader_symbol_directory

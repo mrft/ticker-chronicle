@@ -129,7 +129,10 @@ NASDAQ,AENTW,Alliance Entertainment Holding Corporation - Warrants,Stock,,nasdaq
 NASDAQ,AEP,"American Electric Power Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AERT,"Aeries Technology, Inc. - Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AERTW,"Aeries Technology, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AESP,Aeon Acquisition I Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AESPR,Aeon Acquisition I Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AESPU,Aeon Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AESPW,Aeon Acquisition I Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AEVA,"Aeva Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AEYE,"AudioEye, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AFBI,"Affinity Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -823,6 +826,7 @@ NASDAQ,BSMV,Invesco BulletShares 2031 Municipal Bond ETF,ETF,,nasdaq_trader_symb
 NASDAQ,BSMW,Invesco BulletShares 2032 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSMY,Invesco BulletShares 2034 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSMZ,Invesco BulletShares 2035 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BSP,Bending Spoons S.p.A. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSRR,Sierra Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSSX,Invesco BulletShares 2033 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSTS,Invesco BulletShares 2028 Treasury Bond ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1520,6 +1524,7 @@ NASDAQ,EBMT,"Eagle Bancorp Montana, Inc. - Common Stock",Stock,,nasdaq_trader_sy
 NASDAQ,EBON,Ebang International Holdings Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ECBK,"ECB Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ECHO,EchoStar Corporation - Common stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ECHX,Leverage Shares 2X Long ECHO Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ECOR,"electroCore, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ECOW,Pacer Emerging Markets Cash Cows 100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ECPG,Encore Capital Group Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2300,6 +2305,7 @@ NASDAQ,HNNA,"Hennessy Advisors, Inc. - Common Stock",Stock,,nasdaq_trader_symbol
 NASDAQ,HNRG,Hallador Energy Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HNST,"The Honest Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HNVR,"Hanover Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HODO,House of Doge Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HODU,Direxion Daily HOOD Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HOFT,Hooker Furnishings Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HOLO,MicroCloud Hologram Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2610,6 +2616,7 @@ NASDAQ,ISTB,iShares Core 1-5 Year USD Bond ETF,ETF,,nasdaq_trader_symbol_directo
 NASDAQ,ISTM,iShares Strategic Metals ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ISTR,Investar Holding Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISUL,GraniteShares 2x Long ISRG Daily ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ITG,"ITG, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ITHA,ITHAX Acquisition Corp III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ITHAU,ITHAX Acquisition Corp III - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ITHAW,ITHAX Acquisition Corp III - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -2892,6 +2899,7 @@ NASDAQ,LIFE,Ethos Technologies Inc. - Class A Common Stock,Stock,,nasdaq_trader_
 NASDAQ,LILA,Liberty Latin America Ltd. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LILAK,Liberty Latin America Ltd. - Class C Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LILAP,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LIME,"Neutron Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIMN,"Liminatus Pharma, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIMNW,"Liminatus Pharma, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIN,Linde plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3452,6 +3460,8 @@ NASDAQ,NRSNW,NeuroSense Therapeutics Ltd. - Warrant,Stock,,nasdaq_trader_symbol_
 NASDAQ,NRXP,"NRX Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSI,National Security Emerging Markets Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NSIT,"Insight Enterprises, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NSLR,Neostellar Capital Corp. - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NSLRL,Neostellar Capital Corp. - 6.00% Notes due 2026,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSPR,InspireMD Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSSC,"NAPCO Security Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSTS,"NSTS Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3661,6 +3671,7 @@ NASDAQ,OSCG,Leverage Shares 2X Long OSCR Daily ETF,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,OSCX,Defiance Daily Target 2x Long OSCR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OSIS,"OSI Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSPN,OneSpan Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OSPRU,Osprey Acquisition Corp. III - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSRH,"OSR Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSRHW,"OSR Health, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSS,"One Stop Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4342,7 +4353,6 @@ NASDAQ,SANG,Sangoma Technologies Corporation - Common Shares,Stock,,nasdaq_trade
 NASDAQ,SANM,Sanmina Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SARK,Tradr 1X Short Innovation Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SATA,"Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SATG,Leverage Shares 2X Long SATS Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SATL,Satellogic Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SATLW,Satellogic Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SBAC,SBA Communications Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4647,8 +4657,6 @@ NASDAQ,SSNC,"SS&C Technologies Holdings, Inc. - Common Stock",Stock,,nasdaq_trad
 NASDAQ,SSP,E.W. Scripps Company (The) - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SSRM,SSR Mining Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SSS,CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,SSSS,SuRo Capital Corp. - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SSSSL,SuRo Capital Corp. - 6.00% Notes due 2026,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SSTI,"SoundThinking, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SSYS,"Stratasys, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STAA,STAAR Surgical Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4768,7 +4776,6 @@ NASDAQ,TAXT,Northern Trust Tax-Exempt Bond ETF,ETF,,nasdaq_trader_symbol_directo
 NASDAQ,TAYD,"Taylor Devices, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBBK,"The Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBCH,Turtle Beach Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,TBH,"Brag House Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBIL,F/m US Treasury 3 Month Bill Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TBLA,Taboola.com Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBLD,Thornburg Income Builder Opportunities Trust - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
@@ -5169,7 +5176,6 @@ NASDAQ,VHCP,Vine Hill Capital Investment Corp. II - Class A Ordinary Shares,Stoc
 NASDAQ,VHCPU,Vine Hill Capital Investment Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VHCPW,Vine Hill Capital Investment Corp. II - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VHUB,"VenHub Global, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,VIASP,"Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VIAV,Viavi Solutions Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VICR,Vicor Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VIGI,Vanguard International Dividend Appreciation ETF,ETF,,nasdaq_trader_symbol_directory

@@ -462,7 +462,10 @@ AENTW,NASDAQ,Alliance Entertainment Holding Corporation - Warrants,Stock,True,20
 AEP,NASDAQ,"American Electric Power Company, Inc. - Common Stock",Stock,True,2026-05-08,,,10226d98c96f7b2eda17
 AERT,NASDAQ,"Aeries Technology, Inc. - Class A Ordinary Share",Stock,True,2026-05-08,,,fefa236e3ac36e621399
 AERTW,NASDAQ,"Aeries Technology, Inc. - Warrant",Stock,True,2026-05-08,,,f4df86c036bb879649fe
+AESP,NASDAQ,Aeon Acquisition I Corp. - Class A Ordinary Shares,Stock,True,2026-07-01,,,e77cd498bcda48322f50
+AESPR,NASDAQ,Aeon Acquisition I Corp. - Rights,Stock,True,2026-07-01,,,4b5646c02cc33633cf44
 AESPU,NASDAQ,Aeon Acquisition I Corp. - Units,Stock,True,2026-06-03,,,ddf1dd6c68c03f22463b
+AESPW,NASDAQ,Aeon Acquisition I Corp. - Warrants,Stock,True,2026-07-01,,,10ababafb24f82f5cd96
 AEVA,NASDAQ,"Aeva Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,0f2f504cb14bb2969169
 AEYE,NASDAQ,"AudioEye, Inc. - Common Stock",Stock,True,2026-05-08,,,619b7872bfc83aeb53f9
 AFBI,NASDAQ,"Affinity Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,e39cceb99cecd19aedfc
@@ -1173,6 +1176,7 @@ BSMV,NASDAQ,Invesco BulletShares 2031 Municipal Bond ETF,ETF,True,2026-05-08,,,4
 BSMW,NASDAQ,Invesco BulletShares 2032 Municipal Bond ETF,ETF,True,2026-05-08,,,56eb9ae78acaf541d9f3
 BSMY,NASDAQ,Invesco BulletShares 2034 Municipal Bond ETF,ETF,True,2026-05-08,,,f48c9ff6882a0d4d15e1
 BSMZ,NASDAQ,Invesco BulletShares 2035 Municipal Bond ETF,ETF,True,2026-05-08,,,30a1d6f9c992ee48855a
+BSP,NASDAQ,Bending Spoons S.p.A. - Ordinary Shares,Stock,True,2026-07-01,,,fce544324402ba0162b1
 BSRR,NASDAQ,Sierra Bancorp - Common Stock,Stock,True,2026-05-08,,,80e35bdae9e4f8247f40
 BSSX,NASDAQ,Invesco BulletShares 2033 Municipal Bond ETF,ETF,True,2026-05-08,,,b68ca27c12c4b6fba875
 BSTS,NASDAQ,Invesco BulletShares 2028 Treasury Bond ETF,ETF,True,2026-06-10,,,01f5695c71b2cc876650
@@ -1892,6 +1896,7 @@ EBMT,NASDAQ,"Eagle Bancorp Montana, Inc. - Common Stock",Stock,True,2026-05-08,,
 EBON,NASDAQ,Ebang International Holdings Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,0defcca297652a65c137
 ECBK,NASDAQ,"ECB Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,942a5337d2270e052f03
 ECHO,NASDAQ,EchoStar Corporation - Common stock,Stock,True,2026-06-24,,,638a3878c55ca5111e3e
+ECHX,NASDAQ,Leverage Shares 2X Long ECHO Daily ETF,ETF,True,2026-07-01,,,fb90b1de0d7ade02d25c
 ECOR,NASDAQ,"electroCore, Inc. - Common Stock",Stock,True,2026-05-08,,,6838546efe55a7d01ace
 ECOW,NASDAQ,Pacer Emerging Markets Cash Cows 100 ETF,ETF,True,2026-05-08,,,475f96511587ca044d30
 ECPG,NASDAQ,Encore Capital Group Inc - Common Stock,Stock,True,2026-05-08,,,35a3f0d8d7638ccc1a95
@@ -2695,6 +2700,7 @@ HNNAZ,NASDAQ,"Hennessy Advisors, Inc. - 4.875% Notes due 2026",Stock,False,2026-
 HNRG,NASDAQ,Hallador Energy Company - Common Stock,Stock,True,2026-05-08,,,d6c8c850f71b45f320c6
 HNST,NASDAQ,"The Honest Company, Inc. - Common Stock",Stock,True,2026-05-08,,,92c7340f7a62f645fdea
 HNVR,NASDAQ,"Hanover Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,44391a768c453685bad0
+HODO,NASDAQ,House of Doge Inc. - Common Stock,Stock,True,2026-07-01,,,54dd3de14bdc939fadf6
 HODU,NASDAQ,Direxion Daily HOOD Bull 2X ETF,ETF,True,2026-05-08,,,e22da5f2e88efdbe86ce
 HOFT,NASDAQ,Hooker Furnishings Corporation - Common Stock,Stock,True,2026-05-08,,,3f09ae6d7f3986467e6f
 HOLO,NASDAQ,MicroCloud Hologram Inc. - Ordinary Shares,Stock,True,2026-05-08,,,ce968ff313a3ebe87f98
@@ -3017,6 +3023,7 @@ ISTB,NASDAQ,iShares Core 1-5 Year USD Bond ETF,ETF,True,2026-05-08,,,9dabebaf78f
 ISTM,NASDAQ,iShares Strategic Metals ETF,ETF,True,2026-05-29,,,d540587540f6bd48118f
 ISTR,NASDAQ,Investar Holding Corporation - Common Stock,Stock,True,2026-05-08,,,bd78914324af7f6e3d70
 ISUL,NASDAQ,GraniteShares 2x Long ISRG Daily ETF,ETF,True,2026-05-08,,,b069fa6b21975070d2e5
+ITG,NASDAQ,"ITG, Inc. - Class A Common Stock",Stock,True,2026-07-01,,,1d37a47e4e9b64600a05
 ITHA,NASDAQ,ITHAX Acquisition Corp III - Class A Ordinary Shares,Stock,True,2026-05-08,,,ea02a644e0226c442d0b
 ITHAU,NASDAQ,ITHAX Acquisition Corp III - Units,Stock,True,2026-05-08,,,05c5dbaf7add730adf17
 ITHAW,NASDAQ,ITHAX Acquisition Corp III - Warrants,Stock,True,2026-05-08,,,d77f769d3b5ac93510a7
@@ -3310,6 +3317,7 @@ LILAV,NASDAQ,Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution W
 LILKV,NASDAQ,Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued,Stock,False,2026-06-01,2026-06-08,Listing metadata changed,44ab7eba2f07888f3aae
 LILKV,NASDAQ,Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued,Stock,False,2026-06-08,2026-06-17,Missing from current NASDAQ source snapshot; reason unavailable,8d3b63850f2100c9b5e2
 LILPV,NASDAQ,Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,Stock,False,2026-06-01,2026-06-17,Missing from current NASDAQ source snapshot; reason unavailable,da2783c5c8840f621b18
+LIME,NASDAQ,"Neutron Holdings, Inc. - Common Stock",Stock,True,2026-07-01,,,7cb40b6675d3bf5dfb76
 LIMN,NASDAQ,"Liminatus Pharma, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,a23ab54b61e218dc2ff4
 LIMNW,NASDAQ,"Liminatus Pharma, Inc. - Warrants",Stock,True,2026-05-08,,,5bb81d83eca8b60098e2
 LIN,NASDAQ,Linde plc - Ordinary Shares,Stock,True,2026-05-08,,,64823da1497a75e2df49
@@ -3884,6 +3892,8 @@ NRXP,NASDAQ,"NRX Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,0
 NRXPW,NASDAQ,"NRX Pharmaceuticals, Inc. - Warrant",Stock,False,2026-05-08,2026-05-26,Missing from current NASDAQ source snapshot; reason unavailable,4a945452581760b73e90
 NSI,NASDAQ,National Security Emerging Markets Index ETF,ETF,True,2026-05-08,,,0b0aacc0e892aaf3aa79
 NSIT,NASDAQ,"Insight Enterprises, Inc. - Common Stock",Stock,True,2026-05-08,,,4fd2da27e0d69b151b5b
+NSLR,NASDAQ,Neostellar Capital Corp. - Closed End Fund,Stock,True,2026-07-01,,,15f61c1a366119249d0d
+NSLRL,NASDAQ,Neostellar Capital Corp. - 6.00% Notes due 2026,Stock,True,2026-07-01,,,23adfda43750ef1b6f6b
 NSPR,NASDAQ,InspireMD Inc. - Common Stock,Stock,True,2026-05-08,,,75960896065ec77f276b
 NSSC,NASDAQ,"NAPCO Security Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,e33e9c63d6def64b492f
 NSTS,NASDAQ,"NSTS Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,455ca8f433da9e73b4cf
@@ -4100,6 +4110,7 @@ OSCG,NASDAQ,Leverage Shares 2X Long OSCR Daily ETF,ETF,True,2026-05-08,,,a36159c
 OSCX,NASDAQ,Defiance Daily Target 2x Long OSCR ETF,ETF,True,2026-05-08,,,9b055e9f63ee5bfb0648
 OSIS,NASDAQ,"OSI Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,b6c0335d121b53be1cf6
 OSPN,NASDAQ,OneSpan Inc. - Common Stock,Stock,True,2026-05-08,,,945169c7344cb6396850
+OSPRU,NASDAQ,Osprey Acquisition Corp. III - Units,Stock,True,2026-07-01,,,2cb77a20dd40da505023
 OSRH,NASDAQ,"OSR Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-23,Listing metadata changed,627d25c7c145245f3c34
 OSRH,NASDAQ,"OSR Health, Inc. - Common Stock",Stock,True,2026-06-23,,,3f561cf3b4ba4ee0fd4a
 OSRHW,NASDAQ,"OSR Holdings, Inc. - Warrant",Stock,False,2026-05-08,2026-06-23,Listing metadata changed,6286bd99800d338377f6
@@ -4792,7 +4803,7 @@ SANG,NASDAQ,Sangoma Technologies Corporation - Common Shares,Stock,True,2026-05-
 SANM,NASDAQ,Sanmina Corporation - Common Stock,Stock,True,2026-05-08,,,eec6736b97f6b560d890
 SARK,NASDAQ,Tradr 1X Short Innovation Daily ETF,ETF,True,2026-05-08,,,cdd9205220b7ff3912ab
 SATA,NASDAQ,"Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock",Stock,True,2026-05-08,,,8254a4ddb1920ce709f9
-SATG,NASDAQ,Leverage Shares 2X Long SATS Daily ETF,ETF,True,2026-05-08,,,9be21530d6d5b952f9fa
+SATG,NASDAQ,Leverage Shares 2X Long SATS Daily ETF,ETF,False,2026-05-08,2026-07-01,Other delisting reason: Details unavailable (source: FMP Delisted API),9be21530d6d5b952f9fa
 SATL,NASDAQ,Satellogic Inc. - Class A Common Stock,Stock,True,2026-05-08,,,562aba107736cf81cc7b
 SATLW,NASDAQ,Satellogic Inc. - Warrant,Stock,True,2026-05-08,,,a4c80a98321056fa38d5
 SATS,NASDAQ,EchoStar Corporation - Common stock,Stock,False,2026-05-08,2026-06-24,Missing from current NASDAQ source snapshot; reason unavailable,638a3878c55ca5111e3e
@@ -5108,8 +5119,8 @@ SSNC,NASDAQ,"SS&C Technologies Holdings, Inc. - Common Stock",Stock,True,2026-05
 SSP,NASDAQ,E.W. Scripps Company (The) - Class A Common Stock,Stock,True,2026-05-08,,,e3c5a71a5f26aad98886
 SSRM,NASDAQ,SSR Mining Inc. - Common Stock,Stock,True,2026-05-08,,,7220e19412ae98273a8e
 SSS,NASDAQ,CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF,ETF,True,2026-05-08,,,73607c766ddfa210f34d
-SSSS,NASDAQ,SuRo Capital Corp. - Closed End Fund,Stock,True,2026-05-08,,,8e0513912a39d72c7df0
-SSSSL,NASDAQ,SuRo Capital Corp. - 6.00% Notes due 2026,Stock,True,2026-05-08,,,f9f93d73b450832949d8
+SSSS,NASDAQ,SuRo Capital Corp. - Closed End Fund,Stock,False,2026-05-08,2026-07-01,Missing from current NASDAQ source snapshot; reason unavailable,8e0513912a39d72c7df0
+SSSSL,NASDAQ,SuRo Capital Corp. - 6.00% Notes due 2026,Stock,False,2026-05-08,2026-07-01,Missing from current NASDAQ source snapshot; reason unavailable,f9f93d73b450832949d8
 SSTI,NASDAQ,"SoundThinking, Inc. - Common Stock",Stock,True,2026-05-08,,,39b9fdad6a8629847e6a
 SSYS,NASDAQ,"Stratasys, Ltd. - Common Stock",Stock,True,2026-05-08,,,84475fdf94debc3c5c07
 STAA,NASDAQ,STAAR Surgical Company - Common Stock,Stock,True,2026-05-08,,,f9a0c980e5dcb3a22de4
@@ -5233,7 +5244,7 @@ TAXT,NASDAQ,Northern Trust Tax-Exempt Bond ETF,ETF,True,2026-05-08,,,20ca5d5afab
 TAYD,NASDAQ,"Taylor Devices, Inc. - Common Stock",Stock,True,2026-05-08,,,46cb97729f6f57820760
 TBBK,NASDAQ,"The Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,03de663580fdde82be48
 TBCH,NASDAQ,Turtle Beach Corporation - Common Stock,Stock,True,2026-05-08,,,9508538bfb7352aef28e
-TBH,NASDAQ,"Brag House Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,b268a782cd25ff1ed7f9
+TBH,NASDAQ,"Brag House Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-01,Missing from current NASDAQ source snapshot; reason unavailable,b268a782cd25ff1ed7f9
 TBIL,NASDAQ,F/m US Treasury 3 Month Bill Fund,ETF,True,2026-05-08,,,1932aca36eca88650e76
 TBLA,NASDAQ,Taboola.com Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,ea9400e7476fbdf6eb44
 TBLAW,NASDAQ,Taboola.com Ltd. - Warrant,Stock,False,2026-05-08,2026-06-30,Missing from current NASDAQ source snapshot; reason unavailable,a76fd2c2c4655faf2526
@@ -5644,7 +5655,7 @@ VHCP,NASDAQ,Vine Hill Capital Investment Corp. II - Class A Ordinary Shares,Stoc
 VHCPU,NASDAQ,Vine Hill Capital Investment Corp. II - Units,Stock,True,2026-05-08,,,4ab8adabec5e59d53415
 VHCPW,NASDAQ,Vine Hill Capital Investment Corp. II - Warrants,Stock,True,2026-05-08,,,eb19ee07ddb9d7a07c95
 VHUB,NASDAQ,"VenHub Global, Inc. - Common Stock",Stock,True,2026-05-08,,,301967ec2018784a0e3a
-VIASP,NASDAQ,"Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",Stock,True,2026-05-08,,,1cf33a4a24ddbdb4b09a
+VIASP,NASDAQ,"Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",Stock,False,2026-05-08,2026-07-01,Missing from current NASDAQ source snapshot; reason unavailable,1cf33a4a24ddbdb4b09a
 VIAV,NASDAQ,Viavi Solutions Inc. - Common Stock,Stock,True,2026-05-08,,,5f4a98f8acfb6a94129f
 VICR,NASDAQ,Vicor Corporation - Common Stock,Stock,True,2026-05-08,,,e22dc0c22392b1dbc144
 VIGI,NASDAQ,Vanguard International Dividend Appreciation ETF,ETF,True,2026-05-08,,,8ca29feb3cedb1221958
@@ -6410,7 +6421,7 @@ BKT,NYSE,BlackRock Income Trust Inc. (The),Stock,True,2026-05-08,,,8899c6c1c4262
 BKU,NYSE,"BankUnited, Inc. Common Stock",Stock,True,2026-05-08,,,80e044a9ff9c1276e4ad
 BKV,NYSE,BKV Corporation Common Stock,Stock,True,2026-05-08,,,540428236c5b2f7b9c80
 BLCO,NYSE,Bausch + Lomb Corporation Common Shares,Stock,True,2026-05-08,,,52c495592fab7aca54c7
-BLD,NYSE,TopBuild Corp. Common Stock,Stock,True,2026-05-08,,,dd73233a455e13c5c1d7
+BLD,NYSE,TopBuild Corp. Common Stock,Stock,False,2026-05-08,2026-07-01,Other delisting reason: Details unavailable (source: FMP Delisted API),dd73233a455e13c5c1d7
 BLDR,NYSE,"Builders FirstSource, Inc. Common Stock",Stock,True,2026-05-08,,,78473eeb0eee2c5acdab
 BLK,NYSE,"BlackRock, Inc. Common Stock",Stock,True,2026-05-08,,,f311a5fbdc04ba919525
 BLND,NYSE,"Blend Labs, Inc. Class A Common Stock",Stock,True,2026-05-08,,,6d80586708ce2869408f
@@ -7473,7 +7484,7 @@ JENA.R,NYSE,"Jena Acquisition Corporation II Rights, each right to acquire one-t
 JENA.U,NYSE,"Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right",Stock,True,2026-05-08,,,8c23e7531c7858c74cca
 JFR,NYSE,Nuveen Floating Rate Income Fund Common Stock,Stock,True,2026-05-08,,,0b21c75d97cf7866b5c0
 JGH,NYSE,Nuveen Global High Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,5469c5ebd4fcf598a74b
-JHG,NYSE,Janus Henderson Group plc Ordinary Shares,Stock,True,2026-05-08,,,5b17a83608f0f336be0d
+JHG,NYSE,Janus Henderson Group plc Ordinary Shares,Stock,False,2026-05-08,2026-07-01,Other delisting reason: Details unavailable (source: FMP Delisted API),5b17a83608f0f336be0d
 JHI,NYSE,John Hancock Investors Trust Common Stock,Stock,True,2026-05-08,,,b0a02dedb5bbc08f03b2
 JHS,NYSE,John Hancock Income Securities Trust Common Stock,Stock,True,2026-05-08,,,ea3966c7839e58791bcf
 JHX,NYSE,James Hardie Industries plc. Ordinary Shares,Stock,True,2026-05-08,,,199651f6bf02d4f5c758
@@ -7668,7 +7679,8 @@ MATV,NYSE,"Mativ Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,f2a66d087a
 MATX,NYSE,"Matson, Inc. Common Stock",Stock,True,2026-05-08,,,27541f6b0f21bf9b1100
 MAX,NYSE,"MediaAlpha, Inc. Class A Common Stock",Stock,True,2026-05-08,,,df3b79626e129586b34a
 MBC,NYSE,"MasterBrand, Inc. Common Stock",Stock,True,2026-05-08,,,0bf74d99ba96682f65fb
-MBGL.V,NYSE,Mobility Global Inc. Common Stock When-Issued,Stock,True,2026-06-26,,,5525db28fe50db62e131
+MBGL,NYSE,Mobility Global Inc. Common Stock,Stock,True,2026-07-01,,,fd1b43b1baa4a75a5f6c
+MBGL.V,NYSE,Mobility Global Inc. Common Stock When-Issued,Stock,False,2026-06-26,2026-07-01,Missing from current NYSE source snapshot; reason unavailable,5525db28fe50db62e131
 MBI,NYSE,MBIA Inc. Common Stock,Stock,True,2026-05-08,,,36e4c23eba10113ed557
 MC,NYSE,Moelis & Company Class A Common Stock,Stock,True,2026-05-08,,,48e5d7a3fca34986b8b2
 MCB,NYSE,Metropolitan Bank Holding Corp. Common Stock,Stock,True,2026-05-08,,,f47c9f273fc467df482b
@@ -8419,7 +8431,7 @@ SEAL$A,NYSE,Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred
 SEAL$B,NYSE,Seapeak LLC 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units,Stock,True,2026-05-08,,,0dc559308916e92bc80b
 SEG,NYSE,Seaport Entertainment Group Inc. Common Stock,Stock,True,2026-05-08,,,fbbbed267bb6897f30ac
 SEI,NYSE,"Solaris Energy Infrastructure, Inc. Class A Common Stock",Stock,True,2026-05-08,,,986f7cf07b66a51bba33
-SEM,NYSE,Select Medical Holdings Corporation Common Stock,Stock,True,2026-05-08,,,f82ef887dee532d08ade
+SEM,NYSE,Select Medical Holdings Corporation Common Stock,Stock,False,2026-05-08,2026-07-01,Missing from current NYSE source snapshot; reason unavailable,f82ef887dee532d08ade
 SES,NYSE,SES AI Corporation Class A Common Stock,Stock,True,2026-05-08,,,7f114013200bd6608e5a
 SES.W,NYSE,"SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,5e6514507e1891867647
 SF,NYSE,Stifel Financial Corporation Common Stock,Stock,True,2026-05-08,,,d6a109efb2d2dbebb38f
@@ -8447,7 +8459,7 @@ SI,NYSE,"Shoulder Innovations, Inc. Common Stock",Stock,True,2026-05-08,,,4ed5a8
 SID,NYSE,Companhia Siderurgica Nacional S.A. Common Stock,Stock,True,2026-05-08,,,9788a1a51637ead0639e
 SIG,NYSE,Signet Jewelers Limited Common Shares,Stock,True,2026-05-08,,,d8064b801292f6bdb0ca
 SII,NYSE,Sprott Inc. Common Shares,Stock,True,2026-05-08,,,45c0fc08f894fe9d3f79
-SILA,NYSE,"Sila Realty Trust, Inc. Common Stock",Stock,True,2026-05-08,,,8e7552042f3e5aced360
+SILA,NYSE,"Sila Realty Trust, Inc. Common Stock",Stock,False,2026-05-08,2026-07-01,Other delisting reason: Details unavailable (source: FMP Delisted API),8e7552042f3e5aced360
 SIND,NYSE,Sinda Ltd. Common Stock,Stock,True,2026-06-26,,,cb2b3ee3b90b58b15416
 SITC,NYSE,SITE Centers Corp. Common Stock,Stock,True,2026-05-08,,,5835e9570e6651f41a69
 SITE,NYSE,"SiteOne Landscape Supply, Inc. Common Stock",Stock,True,2026-05-08,,,4036263e9eed8b96fd04
@@ -8512,7 +8524,7 @@ SPE$C,NYSE,"Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock, S
 SPG,NYSE,"Simon Property Group, Inc. Common Stock",Stock,True,2026-05-08,,,024afc5fc224602da399
 SPG$J,NYSE,"Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,c227e4a91b87eedb55ac
 SPGI,NYSE,S&P Global Inc. Common Stock,Stock,True,2026-05-08,,,b5f875d9e31a11faee6f
-SPGI.V,NYSE,S&P Global Inc. Common Stock When-Issued,Stock,True,2026-06-26,,,502d0716c6aa612bfbb7
+SPGI.V,NYSE,S&P Global Inc. Common Stock When-Issued,Stock,False,2026-06-26,2026-07-01,Missing from current NYSE source snapshot; reason unavailable,502d0716c6aa612bfbb7
 SPH,NYSE,"Suburban Propane Partners, L.P. Common Stock",Stock,True,2026-05-08,,,94647271b4695a331245
 SPHR,NYSE,Sphere Entertainment Co. Class A Common Stock,Stock,True,2026-05-08,,,10ee3a61563b16755e89
 SPIR,NYSE,"Spire Global, Inc. Class A Common Stock",Stock,True,2026-05-08,,,42526c818d4307986723
@@ -8546,7 +8558,7 @@ ST,NYSE,Sensata Technologies Holding plc Ordinary Shares,Stock,True,2026-05-08,,
 STAG,NYSE,"Stag Industrial, Inc. Common Stock",Stock,True,2026-05-08,,,75cb0b5e4d15a7b9e878
 STC,NYSE,Stewart Information Services Corporation Common Stock,Stock,True,2026-05-08,,,57a21b90ed8d402136f8
 STE,NYSE,STERIS plc (Ireland) Ordinary Shares,Stock,True,2026-05-08,,,63740d47200665d2ae72
-STEL,NYSE,"Stellar Bancorp, Inc. Common Stock",Stock,True,2026-05-08,,,0f104342073004b97bcc
+STEL,NYSE,"Stellar Bancorp, Inc. Common Stock",Stock,False,2026-05-08,2026-07-01,Missing from current NYSE source snapshot; reason unavailable,0f104342073004b97bcc
 STEM,NYSE,"Stem, Inc. Class A Common Stock",Stock,True,2026-05-08,,,8f192ebe731ea4b09136
 STEW,NYSE,"SRH Total Return Fund, Inc. Common Stock",Stock,True,2026-05-08,,,baa9f2024e84e8645140
 STG,NYSE,"Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares",Stock,True,2026-05-08,,,8a565127a41ac348ce38
