@@ -1233,7 +1233,6 @@ NYSE,GUT,Gabelli Utility Trust (The) Common Stock,Stock,,nasdaq_trader_symbol_di
 NYSE,GUT$C,Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,GVA,Granite Construction Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GWH,"ESS Tech, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,GWH.W,"ESS Tech, Inc. Warrant",Stock,,nasdaq_trader_symbol_directory
 NYSE,GWRE,"Guidewire Software, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GWW,"W.W. Grainger, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GXO,"GXO Logistics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2359,6 +2358,7 @@ NYSE,SDRL,Seadrill Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,SE,"Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,SEAL$A,Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred Units,Stock,,nasdaq_trader_symbol_directory
 NYSE,SEAL$B,Seapeak LLC 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units,Stock,,nasdaq_trader_symbol_directory
+NYSE,SECZ,Securitize Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SEG,Seaport Entertainment Group Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SEI,"Solaris Energy Infrastructure, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SES,SES AI Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2753,6 +2753,7 @@ NYSE,VGNT,Versigent PLC Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,VHI,"Valhi, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VIA,"Via Transportation, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VICI,VICI Properties Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,VII.U,"Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",Stock,,nasdaq_trader_symbol_directory
 NYSE,VIK,Viking Holdings Ltd Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,VIPS,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,VIRT,"Virtu Financial, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2890,7 +2891,7 @@ NYSE,XFLH.U,"XFLH Capital Corporation Units, each consisting of one Ordinary Sha
 NYSE,XFLT,XAI Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,XHR,"Xenia Hotels & Resorts, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,XIFR,"XPLR Infrastructure, LP Common Units representing limited partner interests",Stock,,nasdaq_trader_symbol_directory
-NYSE,XOM,Exxon Mobil Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,XOM,ExxonMobil Holdings Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,XPER,Xperi Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,XPEV,"XPeng Inc. American depositary shares, each representing two Class A ordinary shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,XPO,"XPO, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory

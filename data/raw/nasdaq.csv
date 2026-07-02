@@ -458,7 +458,6 @@ NASDAQ,ATLC,Atlanticus Holdings Corporation - Common Stock,Stock,,nasdaq_trader_
 NASDAQ,ATLCL,Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATLCP,"Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATLCZ,Atlanticus Holdings Corporation - 9.25% Senior Notes due 2029,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ATLN,Atlantic International Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATLO,Ames National Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATLX,Atlas Lithium Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATNI,"ATN International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1006,7 +1005,6 @@ NASDAQ,CEPF,"Cantor Equity Partners IV, Inc. - Class A Ordinary Shares",Stock,,n
 NASDAQ,CEPI,REX Crypto Equity Premium Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CEPO,"Cantor Equity Partners I, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CEPS,"Cantor Equity Partners VI, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CEPT,"Cantor Equity Partners II, Inc. - Class A ordinary share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CEPV,"Cantor Equity Partners V, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CERS,Cerus Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CERT,"Certara, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1056,7 +1054,7 @@ NASDAQ,CHPX,Global X AI Semiconductor & Quantum ETF,ETF,,nasdaq_trader_symbol_di
 NASDAQ,CHR,"Cheer Holding, Inc. - Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHRD,Chord Energy Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHRI,Global X S&P 500 Christian Values ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,CHRN,ChronoScale Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CHRN,ChronoScale Holdings Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHRS,"Coherus Oncology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHRW,"C.H. Robinson Worldwide, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHSCL,"CHS Inc - Class B Cumulative Redeemable Preferred Stock, Series 4",Stock,,nasdaq_trader_symbol_directory
@@ -1077,6 +1075,7 @@ NASDAQ,CIIT,"Tianci International, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,CINF,Cincinnati Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CING,Cingulate Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CINGW,Cingulate Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CIRC,"Circle8 Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CISO,"CISO Global, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CISS,C3is Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CIVB,"Civista Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1666,7 +1665,6 @@ NASDAQ,EVCM,EverCommerce Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,EVER,"EverQuote, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVGN,Evogene Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVGO,EVgo Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,EVGOW,"EVgo Inc. - Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVLV,"Evolv Technologies Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVLVW,"Evolv Technologies Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVMT,Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1986,6 +1984,7 @@ NASDAQ,FWONK,Liberty Media Corporation - Series C Liberty Formula One Common Sto
 NASDAQ,FWRD,Forward Air Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWRG,"First Watch Restaurant Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FXACU,FortuneX Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FXHO,UTime Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FXNC,First National Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FYC,First Trust Small Cap Growth AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FYT,First Trust Small Cap Value AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
@@ -2183,6 +2182,8 @@ NASDAQ,GSM,Ferroglobe PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_director
 NASDAQ,GSRF,GSR IV Acquisition Corp. - Class A ordinary share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GSRFR,GSR IV Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GSRFU,GSR IV Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GSRV,GSR V Acquisition Corp. - Class A ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GSRVR,GSR V Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GSRVU,GSR V Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GSUN,Golden Sun Technology Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GT,The Goodyear Tire & Rubber Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2590,6 +2591,8 @@ NASDAQ,IPW,iPower Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPWR,Ideal Power Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPX,IperionX Limited - American Depositary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQ,"iQIYI, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IQMX,IQM Quantum Computers Oyj - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IQMXW,IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQQQ,ProShares Nasdaq-100 High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IQST,iQSTEL Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IRD,"Opus Genetics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3136,6 +3139,7 @@ NASDAQ,MGRX,"Mangoceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_di
 NASDAQ,MGTX,MeiraGTx Holdings plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGX,"Metagenomi Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGYR,"Magyar Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MIACU,Meridian3 Industrials Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIDD,The Middleby Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIDDV,Middleby Corp. - Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MILN,Global X Millennial Consumer ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3415,7 +3419,6 @@ NASDAQ,NIVF,NewGenIvf Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trad
 NASDAQ,NIVFW,NewGenIvf Group Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NIXT,Research Affiliates Deletions ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NIXX,"Nixxy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NIXXW,"Nixxy, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NKLR,Terra Innovatum Global N.V. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NKSH,"National Bankshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NKTR,Nektar Therapeutics - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3652,7 +3655,6 @@ NASDAQ,ORBX,Global X Space Tech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ORCS,Direxion Daily ORCL Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ORCU,Direxion Daily ORCL Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ORCX,Defiance Daily Target 2X Long ORCL ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,ORGN,"Origin Materials, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORGO,Organogenesis Holdings Inc. - Class A,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORIC,"Oric Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORIO,Orion Digital Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4114,9 +4116,6 @@ NASDAQ,QXQ,SGI Enhanced Nasdaq-100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QYLD,Global X NASDAQ 100 Covered Call ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RAA,SMI 3Fourteen REAL Asset Allocation ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,RAAQ,Real Asset Acquisition Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RAAQU,Real Asset Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RAAQW,Real Asset Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RACC,Research Alliance Corporation III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RADX,Radiopharm Theranostics Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RAIL,"Freightcar America, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5146,6 +5145,7 @@ NASDAQ,VCIG,VCI Global Limited - Ordinary Share,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,VCIT,Vanguard Intermediate-Term Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VCLT,Vanguard Long-Term Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VCRB,Vanguard Core Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,VCRE,Vicore Pharma Holding AB - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VCSH,Vanguard Short-Term Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VCTR,"Victory Capital Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VCYT,"Veracyte, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5372,7 +5372,6 @@ NASDAQ,WTGUU,Wintergreen Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_di
 NASDAQ,WTIP,WisdomTree Inflation Plus Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WTMU,WisdomTree Core Laddered Municipal Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WTMY,WisdomTree High Income Laddered Municipal Fund,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,WTO,UTime Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WTW,Willis Towers Watson Public Limited Company - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WULF,TeraWulf Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WVE,Wave Life Sciences Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
