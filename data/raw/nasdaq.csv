@@ -1617,6 +1617,7 @@ NASDAQ,ENVX,Enovix Corporation - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,ENZL,iShares MSCI New Zealand ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EOLS,"Evolus, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EOSE,"Eos Energy Enterprises, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EOSER,"Eos Energy Enterprises, Inc. - Right",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EPOW,E-Power Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EPRX,Eupraxia Pharmaceuticals Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EPSM,Epsium Enterprise Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2204,7 +2205,9 @@ NASDAQ,GTOQ,Invesco High Yield Systematic Bond ETF,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,GTPE,Goldman Sachs MSCI World Private Equity Return Tracker ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GTR,WisdomTree Target Range Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GTX,Garrett Motion Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GUAC,Berto Acquisition Corp. II - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GUACU,Berto Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GUACW,Berto Acquisition Corp. II - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GURE,"Gulf Resources, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GUSE,Goldman Sachs Enhanced U.S. Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GUTS,"Fractyl Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2446,7 +2449,9 @@ NASDAQ,ICOP,iShares Copper and Metals Mining ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,ICU,SeaStar Medical Holding Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ICUCW,SeaStar Medical Holding Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ICUI,"ICU Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IDAC,Iron Dome Acquisition I Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IDACU,Iron Dome Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IDACW,Iron Dome Acquisition I Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IDAI,T Stamp Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IDCC,"InterDigital, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IDEF,iShares Defense Industrials Active ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2917,7 +2922,6 @@ NASDAQ,LITP,Sprott Lithium Miners ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LITS,"Lite Strategy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIVE,Live Ventures Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIVN,LivaNova PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LIXT,"Lixte Biotechnology Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LKFN,Lakeland Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LKFT,Lakefront Biotherapeutics - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LKQ,LKQ Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3141,7 +3145,7 @@ NASDAQ,MGX,"Metagenomi Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_s
 NASDAQ,MGYR,"Magyar Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIACU,Meridian3 Industrials Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIDD,The Middleby Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MIDDV,Middleby Corp. - Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MIDDV,The Middleby Corporation - Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MILN,Global X Millennial Consumer ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MIMI,Mint Incorporation Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIND,"MIND Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3423,6 +3427,7 @@ NASDAQ,NKLR,Terra Innovatum Global N.V. - Ordinary shares,Stock,,nasdaq_trader_s
 NASDAQ,NKSH,"National Bankshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NKTR,Nektar Therapeutics - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NKTX,"Nkarta, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NMAD,"Nomad Power Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NMFC,New Mountain Finance Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NMFCZ,New Mountain Finance Corporation - 8.250% Notes due 2028,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NMIH,NMI Holdings Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3979,7 +3984,9 @@ NASDAQ,PSNYW,Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW),Stock,
 NASDAQ,PSTR,PeakShares Sector Rotation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PSTV,"PLUS THERAPEUTICS, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSWD,Xtrackers Cybersecurity Select Equity ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,PTAC,Patriot Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTACU,Patriot Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PTACW,Patriot Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTC,PTC Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTCT,"PTC Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTEN,"Patterson-UTI Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4712,7 +4719,7 @@ NASDAQ,SVACW,Spring Valley Acquisition Corp. III - Warrant,Stock,,nasdaq_trader_
 NASDAQ,SVAQ,Silicon Valley Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVAQU,Silicon Valley Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVAQW,Silicon Valley Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SVC,Service Properties Trust - Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SVC,Service Properties Trust - Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVCC,Stellar V Capital Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVCCU,Stellar V Capital Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVCCW,Stellar V Capital Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory

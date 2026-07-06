@@ -1995,6 +1995,7 @@ ENVX,NASDAQ,Enovix Corporation - Common Stock,Stock,True,2026-05-08,,,4314f575d2
 ENZL,NASDAQ,iShares MSCI New Zealand ETF,ETF,True,2026-05-08,,,2328784e3a77bdb6c7b9
 EOLS,NASDAQ,"Evolus, Inc. - Common Stock",Stock,True,2026-05-08,,,4b549cdbd1f8b0445142
 EOSE,NASDAQ,"Eos Energy Enterprises, Inc. - Common Stock",Stock,True,2026-05-08,,,d8ad9d9a33b2da64f9ab
+EOSER,NASDAQ,"Eos Energy Enterprises, Inc. - Right",Stock,True,2026-07-06,,,12cf3a371773bb854fbe
 EPOW,NASDAQ,E-Power Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,6b4904dddd29801115a3
 EPRX,NASDAQ,Eupraxia Pharmaceuticals Inc. - Common Stock,Stock,True,2026-05-08,,,0ac6928084e040ac5ce4
 EPSM,NASDAQ,Epsium Enterprise Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,88c9db194c99f2893f6e
@@ -2604,7 +2605,9 @@ GTOQ,NASDAQ,Invesco High Yield Systematic Bond ETF,ETF,True,2026-05-08,,,51d9045
 GTPE,NASDAQ,Goldman Sachs MSCI World Private Equity Return Tracker ETF,ETF,True,2026-05-08,,,b3d57103cfdd1be9e8fd
 GTR,NASDAQ,WisdomTree Target Range Fund,ETF,True,2026-05-08,,,7ec6a084d6d923bc25f4
 GTX,NASDAQ,Garrett Motion Inc. - Common Stock,Stock,True,2026-05-08,,,a4b149933941f58d0ead
+GUAC,NASDAQ,Berto Acquisition Corp. II - Ordinary Shares,Stock,True,2026-07-06,,,1bb329b3b9933d6eb29c
 GUACU,NASDAQ,Berto Acquisition Corp. II - Units,Stock,True,2026-05-15,,,f09b174e48a32f748194
+GUACW,NASDAQ,Berto Acquisition Corp. II - Warrants,Stock,True,2026-07-06,,,5e7b49350841a0358ae8
 GURE,NASDAQ,"Gulf Resources, Inc. - Common Stock",Stock,True,2026-05-08,,,95864e6d9bb690a6a6f0
 GUSE,NASDAQ,Goldman Sachs Enhanced U.S. Equity ETF,ETF,True,2026-05-08,,,8290b0d4c365472ed47e
 GUTS,NASDAQ,"Fractyl Health, Inc. - Common Stock",Stock,True,2026-05-08,,,6be5e1456d6b016c68d5
@@ -2854,7 +2857,9 @@ ICOP,NASDAQ,iShares Copper and Metals Mining ETF,ETF,True,2026-05-08,,,8ff55f269
 ICU,NASDAQ,SeaStar Medical Holding Corporation - Common Stock,Stock,True,2026-05-08,,,71b4b40855efe00fd893
 ICUCW,NASDAQ,SeaStar Medical Holding Corporation - Warrant,Stock,True,2026-05-08,,,2962b47a3c6b55ce6e0c
 ICUI,NASDAQ,"ICU Medical, Inc. - Common Stock",Stock,True,2026-05-08,,,29b2cf85515300423e5a
+IDAC,NASDAQ,Iron Dome Acquisition I Corp. - Class A Ordinary Shares,Stock,True,2026-07-06,,,ad3ac19af512f786af18
 IDACU,NASDAQ,Iron Dome Acquisition I Corp. - Units,Stock,True,2026-05-15,,,0de412e60a49d3a556bd
+IDACW,NASDAQ,Iron Dome Acquisition I Corp. - Warrant,Stock,True,2026-07-06,,,457111b87b7d9f63b723
 IDAI,NASDAQ,T Stamp Inc. - Class A Common Stock,Stock,True,2026-05-08,,,977b698d473da0361981
 IDCC,NASDAQ,"InterDigital, Inc. - Common Stock",Stock,True,2026-05-08,,,489337420d6deba4f9c4
 IDEF,NASDAQ,iShares Defense Industrials Active ETF,ETF,True,2026-05-08,,,9ee8548940e601672a82
@@ -3341,7 +3346,7 @@ LITP,NASDAQ,Sprott Lithium Miners ETF,ETF,True,2026-05-08,,,b55fd396345f48e2b98b
 LITS,NASDAQ,"Lite Strategy, Inc. - Common Stock",Stock,True,2026-05-08,,,4a28e82dcdb944e7b707
 LIVE,NASDAQ,Live Ventures Incorporated - Common Stock,Stock,True,2026-05-08,,,364b8ee548f0c2ec8cb0
 LIVN,NASDAQ,LivaNova PLC - Ordinary Shares,Stock,True,2026-05-08,,,50388398e147f5eca8e2
-LIXT,NASDAQ,"Lixte Biotechnology Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,06f700d6db1cd29cc319
+LIXT,NASDAQ,"Lixte Biotechnology Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-06,Other delisting reason: Details unavailable (source: FMP Delisted API),06f700d6db1cd29cc319
 LKFN,NASDAQ,Lakeland Financial Corporation - Common Stock,Stock,True,2026-05-08,,,ad24d25dc2f752a037dd
 LKFT,NASDAQ,Lakefront Biotherapeutics - American Depositary Shares,Stock,True,2026-05-08,,,59ac29f41467ec877061
 LKQ,NASDAQ,LKQ Corporation - Common Stock,Stock,True,2026-05-08,,,12ba7da491a3ee3f3886
@@ -3571,7 +3576,8 @@ MGX,NASDAQ,"Metagenomi Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,
 MGYR,NASDAQ,"Magyar Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,10113082899e33facc5c
 MIACU,NASDAQ,Meridian3 Industrials Acquisition Corp - Units,Stock,True,2026-07-02,,,07a6f297eff4f7870ae4
 MIDD,NASDAQ,The Middleby Corporation - Common Stock,Stock,True,2026-05-08,,,d05185d201b36ee106c7
-MIDDV,NASDAQ,Middleby Corp. - Common Stock Ex-Distribution When Issued,Stock,True,2026-06-26,,,0082b3f086dbcf36d736
+MIDDV,NASDAQ,Middleby Corp. - Common Stock Ex-Distribution When Issued,Stock,False,2026-06-26,2026-07-06,Listing metadata changed,0082b3f086dbcf36d736
+MIDDV,NASDAQ,The Middleby Corporation - Common Stock Ex-Distribution When Issued,Stock,True,2026-07-06,,,a763c1c8dad98d32f143
 MILN,NASDAQ,Global X Millennial Consumer ETF,ETF,True,2026-05-08,,,5181b5dc995a84d7ceee
 MIMI,NASDAQ,Mint Incorporation Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,9619e31d5a3404dbd4dd
 MIND,NASDAQ,"MIND Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,d2e4036a931faff781fc
@@ -3859,6 +3865,7 @@ NKLR,NASDAQ,Terra Innovatum Global N.V. - Ordinary shares,Stock,True,2026-05-08,
 NKSH,NASDAQ,"National Bankshares, Inc. - Common Stock",Stock,True,2026-05-08,,,a3487730150e97efd14d
 NKTR,NASDAQ,Nektar Therapeutics - Common Stock,Stock,True,2026-05-08,,,dd2a8819d92290496a83
 NKTX,NASDAQ,"Nkarta, Inc. - Common Stock",Stock,True,2026-05-08,,,677677461c0611110499
+NMAD,NASDAQ,"Nomad Power Solutions, Inc. - Common Stock",Stock,True,2026-07-06,,,7f3896d616db279286db
 NMFC,NASDAQ,New Mountain Finance Corporation - Common Stock,Stock,True,2026-05-08,,,9d2d611f1a10d1fce715
 NMFCZ,NASDAQ,New Mountain Finance Corporation - 8.250% Notes due 2028,Stock,True,2026-05-08,,,5b769bb66468e80fb04d
 NMIH,NASDAQ,NMI Holdings Inc - Common Stock,Stock,True,2026-05-08,,,6079da00327eed422a87
@@ -4432,7 +4439,9 @@ PSNYW,NASDAQ,Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW),Stock,
 PSTR,NASDAQ,PeakShares Sector Rotation ETF,ETF,True,2026-05-08,,,f46b1eec484cfc763700
 PSTV,NASDAQ,"PLUS THERAPEUTICS, Inc. - Common Stock",Stock,True,2026-05-08,,,a1df20756265d59b7ecd
 PSWD,NASDAQ,Xtrackers Cybersecurity Select Equity ETF,ETF,True,2026-05-08,,,370be3979646385aab23
+PTAC,NASDAQ,Patriot Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-07-06,,,ed43ffe05b587a31d0c2
 PTACU,NASDAQ,Patriot Acquisition Corp. - Units,Stock,True,2026-05-15,,,73dd4780b5e030345061
+PTACW,NASDAQ,Patriot Acquisition Corp. - Warrants,Stock,True,2026-07-06,,,d84feeb055cd76b0c569
 PTC,NASDAQ,PTC Inc. - Common Stock,Stock,True,2026-05-08,,,528fcc847cf90ad33b56
 PTCT,NASDAQ,"PTC Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,4f861317aae0836c70e2
 PTEN,NASDAQ,"Patterson-UTI Energy, Inc. - Common Stock",Stock,True,2026-05-08,,,70a37711798daf60ad09
@@ -5190,7 +5199,8 @@ SVACW,NASDAQ,Spring Valley Acquisition Corp. III - Warrant,Stock,True,2026-05-08
 SVAQ,NASDAQ,Silicon Valley Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,14b0eef4b1454c58bdac
 SVAQU,NASDAQ,Silicon Valley Acquisition Corp. - Units,Stock,True,2026-05-08,,,18663584ca7fc623d9c7
 SVAQW,NASDAQ,Silicon Valley Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,470d139b04e2cb9c7aa4
-SVC,NASDAQ,Service Properties Trust - Shares of Beneficial Interest,Stock,True,2026-05-08,,,852142200988a11322df
+SVC,NASDAQ,Service Properties Trust - Shares of Beneficial Interest,Stock,False,2026-05-08,2026-07-06,Listing metadata changed,852142200988a11322df
+SVC,NASDAQ,Service Properties Trust - Common Shares of Beneficial Interest,Stock,True,2026-07-06,,,c4239161fd4c3f94e63c
 SVCC,NASDAQ,Stellar V Capital Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,ad3cfb0308bd4158d66e
 SVCCU,NASDAQ,Stellar V Capital Corp. - Unit,Stock,True,2026-05-08,,,37bf5bb141315dcfc394
 SVCCW,NASDAQ,Stellar V Capital Corp. - Warrant,Stock,True,2026-05-08,,,51cbe9e43f331f0a40c9
@@ -7735,7 +7745,8 @@ MFSM,NYSE,MFS Active Intermediate Muni Bond ETF,ETF,True,2026-05-08,,,54354caa18
 MFSV,NYSE,MFS Active Value ETF,ETF,True,2026-05-08,,,799c523fa345d7d5a2e3
 MG,NYSE,Mistras Group Inc Common Stock,Stock,True,2026-05-08,,,a7c77d9cb7f3d994b193
 MGA,NYSE,"Magna International, Inc. Common Stock",Stock,True,2026-05-08,,,ccc81dd2576e55f9495f
-MGF,NYSE,MFS Government Markets Income Trust Common Stock,Stock,True,2026-05-08,,,bf441587392976a05952
+MGF,NYSE,MFS Government Markets Income Trust Common Stock,Stock,False,2026-05-08,2026-07-06,Listing metadata changed,bf441587392976a05952
+MGF,NYSE,Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest,Stock,True,2026-07-06,,,9d2e2f0ffcf77968d7b4
 MGM,NYSE,MGM Resorts International Common Stock,Stock,True,2026-05-08,,,5202e7365f4943148f28
 MGR,NYSE,"Affiliated Managers Group, Inc. 5.875% Junior Subordinated Notes due 2059",Stock,True,2026-05-08,,,731b58b350fb056bc593
 MGRB,NYSE,"Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060",Stock,True,2026-05-08,,,368bb05328c58a67a448
@@ -7751,7 +7762,8 @@ MHNC,NYSE,"Maiden Holdings North America, Ltd. 7.75% Notes due 2043",Stock,True,
 MHO,NYSE,"M/I Homes, Inc. Common Stock",Stock,True,2026-05-08,,,82e86cdb2e0ce8914866
 MIAX,NYSE,"Miami International Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,a39d78175a0f3e59e751
 MICC,NYSE,The Magnum Ice Cream Company N.V. Ordinary Shares,Stock,True,2026-05-08,,,8df18703ea3cc92064c4
-MIN,NYSE,MFS Intermediate Income Trust Common Stock,Stock,True,2026-05-08,,,bfc917f6b5a48168f2cb
+MIN,NYSE,MFS Intermediate Income Trust Common Stock,Stock,False,2026-05-08,2026-07-06,Listing metadata changed,bfc917f6b5a48168f2cb
+MIN,NYSE,Aberdeen Intermediate Income Fund Common Shares of Beneficial Interest,Stock,True,2026-07-06,,,ffc392f741c4befa4e50
 MIR,NYSE,"Mirion Technologies, Inc. Class A Common Stock",Stock,True,2026-05-08,,,c28324c0dead751c00cb
 MITN,NYSE,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",Stock,True,2026-05-08,,,d92596bcc6e01bb7ad07
 MITP,NYSE,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",Stock,True,2026-05-08,,,d92596bcc6e01bb7ad07
@@ -8485,7 +8497,8 @@ SKT,NYSE,Tanger Inc. Common Stock,Stock,True,2026-05-08,,,8dea9d5e400fd0277412
 SKY,NYSE,"Champion Homes, Inc. Common Stock",Stock,True,2026-05-08,,,2f5f0fbe01b270999981
 SKYH,NYSE,Sky Harbour Group Corporation Class A Common Stock,Stock,True,2026-05-08,,,0aabe04dc4dc979e043e
 SKYH.W,NYSE,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,2eacef7bb697988b2868
-SLAI,NYSE,SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares),Stock,True,2026-05-08,,,27cb70a725ed1527b938
+SLAI,NYSE,SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares),Stock,False,2026-05-08,2026-07-06,Listing metadata changed,27cb70a725ed1527b938
+SLAI,NYSE,SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares),Stock,True,2026-07-06,,,a76387e87b45eeca417b
 SLB,NYSE,SLB Limited Common Shares,Stock,True,2026-05-08,,,8a4e68975eeeba9c89b2
 SLF,NYSE,Sun Life Financial Inc. Common Stock,Stock,True,2026-05-08,,,1b1736f6f0d8213144c2
 SLG,NYSE,SL Green Realty Corp Common Stock,Stock,True,2026-05-08,,,428981b54c79a34341c1
