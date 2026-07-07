@@ -254,7 +254,10 @@ NASDAQ,ALOVW,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants",Stock,,n
 NASDAQ,ALOY,REalloys Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALP,Alpha Compute Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALPS,ALPS Group Inc - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ALPX,Alpex Acquisition Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ALPXR,Alpex Acquisition Corporation - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALPXU,Alpex Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ALPXW,Alpex Acquisition Corporation - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALRM,"Alarm.com Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALRS,Alerus Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALT,"Altimmune, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -547,9 +550,6 @@ NASDAQ,BASG,Brown Advisory Sustainable Growth ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,BASV,Brown Advisory Sustainable Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BATRA,"Atlanta Braves Holdings, Inc. - Series A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BATRK,"Atlanta Braves Holdings, Inc. - Series C Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BAYA,Bayview Acquisition Corp - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BAYAR,Bayview Acquisition Corp - Right,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BAYAU,Bayview Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBB,CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BBCP,"Concrete Pumping Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBCQ,Bleichroeder Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -563,6 +563,7 @@ NASDAQ,BBLGW,Bone Biologics Corp - warrants,Stock,,nasdaq_trader_symbol_director
 NASDAQ,BBNX,"Beta Bionics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBOT,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBSI,"Barrett Business Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BBUL,GraniteShares 2x Long BB Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BBYY,GraniteShares YieldBOOST BABA ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BCAB,"BioAtla, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCAL,California BanCorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -571,6 +572,7 @@ NASDAQ,BCARU,D. Boral ARC Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbo
 NASDAQ,BCARW,D. Boral ARC Acquisition I Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCAX,Bicara Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCBP,"BCB Bancorp, Inc. (NJ) - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BCCQU,Bleichroeder Acquisition Corp. III - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCDA,"BioCardia, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCFN,Baron Financials ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BCG,"Binah Capital Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1984,7 +1986,9 @@ NASDAQ,FWONA,Liberty Media Corporation - Series A Liberty Formula One Common Sto
 NASDAQ,FWONK,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWRD,Forward Air Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWRG,"First Watch Restaurant Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FXAC,FortuneX Acquisition Corporation - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FXACU,FortuneX Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FXACW,FortuneX Acquisition Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FXHO,UTime Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FXNC,First National Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FYC,First Trust Small Cap Growth AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
@@ -3129,7 +3133,7 @@ NASDAQ,MFIG,Motley Fool Innovative Growth ETF,ETF,,nasdaq_trader_symbol_director
 NASDAQ,MFIN,Medallion Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MFLX,First Trust Flexible Municipal High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MFMO,Motley Fool Momentum Factor ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,MFPVV,"Midera Food Processing, Inc. - Common Stock When Issued",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MFP,"Midera Food Processing, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MFVL,Motley Fool Value Factor ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MGEE,MGE Energy Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGIH,Millennium Group International Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3145,7 +3149,6 @@ NASDAQ,MGX,"Metagenomi Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_s
 NASDAQ,MGYR,"Magyar Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIACU,Meridian3 Industrials Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIDD,The Middleby Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MIDDV,The Middleby Corporation - Common Stock Ex-Distribution When Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MILN,Global X Millennial Consumer ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MIMI,Mint Incorporation Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIND,"MIND Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4006,6 +4009,7 @@ NASDAQ,PTORW,Praetorian Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_
 NASDAQ,PTRN,Pattern Group Inc. - Series A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PUBM,"PubMatic, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PUI,Invesco Dorsey Wright Utilities Momentum ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,PUL,GraniteShares 2x Long P Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PULM,"Pulmatrix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PURR,Hyperliquid Strategies Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PUSA,Aureus Greenway Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4180,7 +4184,6 @@ NASDAQ,REAL,"The RealReal, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_dire
 NASDAQ,REAX,"The Real Brokerage, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REBN,"Reborn Coffee, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RECT,Rectitude Holdings Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,REE,REE Automotive Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REFI,"Chicago Atlantic Real Estate Finance, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REFR,Research Frontiers Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REG,Regency Centers Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory

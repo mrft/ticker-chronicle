@@ -596,7 +596,10 @@ ALOVW,NASDAQ,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants",Stock,Tr
 ALOY,NASDAQ,REalloys Inc. - Common Stock,Stock,True,2026-05-08,,,46dc81e3e175c097fd79
 ALP,NASDAQ,Alpha Compute Corp - Common Stock,Stock,True,2026-05-08,,,f1e96b24986a92a11c81
 ALPS,NASDAQ,ALPS Group Inc - Ordinary Share,Stock,True,2026-05-08,,,bc44583b2eb2d2a64ead
+ALPX,NASDAQ,Alpex Acquisition Corporation - Class A Ordinary Shares,Stock,True,2026-07-07,,,5624d2d5936774358de9
+ALPXR,NASDAQ,Alpex Acquisition Corporation - Rights,Stock,True,2026-07-07,,,8b75a45b0d99cf0581ca
 ALPXU,NASDAQ,Alpex Acquisition Corporation - Units,Stock,True,2026-06-25,,,077dff7c7b2b81d4d153
+ALPXW,NASDAQ,Alpex Acquisition Corporation - Warrants,Stock,True,2026-07-07,,,32a746c34cd78b8b2cb4
 ALRM,NASDAQ,"Alarm.com Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,2ea6465a5610aa40a157
 ALRS,NASDAQ,Alerus Financial Corporation - Common Stock,Stock,True,2026-05-08,,,ceb23e311f0acf2c91cc
 ALT,NASDAQ,"Altimmune, Inc. - Common Stock",Stock,True,2026-05-08,,,7c8bbf8ebec9c46e2089
@@ -897,9 +900,9 @@ BASG,NASDAQ,Brown Advisory Sustainable Growth ETF,ETF,True,2026-05-08,,,2d8b4da1
 BASV,NASDAQ,Brown Advisory Sustainable Value ETF,ETF,True,2026-05-08,,,f718b664c683564aa4d1
 BATRA,NASDAQ,"Atlanta Braves Holdings, Inc. - Series A Common Stock",Stock,True,2026-05-08,,,a1f34ea5369368e419b5
 BATRK,NASDAQ,"Atlanta Braves Holdings, Inc. - Series C Common Stock",Stock,True,2026-05-08,,,18a28161b2980ba1e36c
-BAYA,NASDAQ,Bayview Acquisition Corp - Ordinary Share,Stock,True,2026-05-08,,,d3db3300273c80f80ab8
-BAYAR,NASDAQ,Bayview Acquisition Corp - Right,Stock,True,2026-05-08,,,7cc126526fae54cb5b83
-BAYAU,NASDAQ,Bayview Acquisition Corp - Unit,Stock,True,2026-05-08,,,f9b935ab35e4e3ff1a50
+BAYA,NASDAQ,Bayview Acquisition Corp - Ordinary Share,Stock,False,2026-05-08,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,d3db3300273c80f80ab8
+BAYAR,NASDAQ,Bayview Acquisition Corp - Right,Stock,False,2026-05-08,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,7cc126526fae54cb5b83
+BAYAU,NASDAQ,Bayview Acquisition Corp - Unit,Stock,False,2026-05-08,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,f9b935ab35e4e3ff1a50
 BBB,NASDAQ,CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF,ETF,True,2026-05-08,,,004806d58bc0c5b3ec04
 BBCP,NASDAQ,"Concrete Pumping Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,b7cf4ac725f087f69d91
 BBCQ,NASDAQ,Bleichroeder Acquisition Corp. II - Class A Ordinary Shares,Stock,True,2026-05-08,,,26291b9dc8d6b2939b1b
@@ -913,6 +916,7 @@ BBLGW,NASDAQ,Bone Biologics Corp - warrants,Stock,True,2026-05-08,,,fa1f1061d24b
 BBNX,NASDAQ,"Beta Bionics, Inc. - Common Stock",Stock,True,2026-05-08,,,86796c2e5d62fbd98364
 BBOT,NASDAQ,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,cc282863699f836b8d5d
 BBSI,NASDAQ,"Barrett Business Services, Inc. - Common Stock",Stock,True,2026-05-08,,,474d83bfbbc617ba2f52
+BBUL,NASDAQ,GraniteShares 2x Long BB Daily ETF,ETF,True,2026-07-07,,,9ef420d2bb641832379b
 BBYY,NASDAQ,GraniteShares YieldBOOST BABA ETF,ETF,True,2026-05-08,,,a02a72a25ca017460e48
 BCAB,NASDAQ,"BioAtla, Inc. - Common Stock",Stock,True,2026-05-08,,,5e20421c2ae18571f676
 BCAL,NASDAQ,California BanCorp - Common Stock,Stock,True,2026-05-08,,,d365b65cbf98babe978e
@@ -921,6 +925,7 @@ BCARU,NASDAQ,D. Boral ARC Acquisition I Corp. - Units,Stock,True,2026-05-08,,,93
 BCARW,NASDAQ,D. Boral ARC Acquisition I Corp. - Warrant,Stock,True,2026-05-08,,,34f216272880d860cb92
 BCAX,NASDAQ,Bicara Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,7e7ea6cd8200e521619a
 BCBP,NASDAQ,"BCB Bancorp, Inc. (NJ) - Common Stock",Stock,True,2026-05-08,,,9b0f9364a1a2cc789609
+BCCQU,NASDAQ,Bleichroeder Acquisition Corp. III - Units,Stock,True,2026-07-07,,,ef7b9d55e37ab9da9286
 BCDA,NASDAQ,"BioCardia, Inc. - Common Stock",Stock,True,2026-05-08,,,a892c8a8ed7ade6298d2
 BCFN,NASDAQ,Baron Financials ETF,ETF,True,2026-05-08,,,80d5c924bcc90fc27505
 BCG,NASDAQ,"Binah Capital Group, Inc. - Common Stock",Stock,True,2026-05-08,,,99a1d343b2b6e03f8d3e
@@ -2376,7 +2381,9 @@ FWONA,NASDAQ,Liberty Media Corporation - Series A Liberty Formula One Common Sto
 FWONK,NASDAQ,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Stock,True,2026-05-08,,,2af5e5652f41b29d4c7c
 FWRD,NASDAQ,Forward Air Corporation - Common Stock,Stock,True,2026-05-08,,,ffc690ada07cd0b55a0b
 FWRG,NASDAQ,"First Watch Restaurant Group, Inc. - Common Stock",Stock,True,2026-05-08,,,32814793b313881d3a01
+FXAC,NASDAQ,FortuneX Acquisition Corporation - Ordinary shares,Stock,True,2026-07-07,,,e7f3705a305bad230e36
 FXACU,NASDAQ,FortuneX Acquisition Corporation - Units,Stock,True,2026-05-22,,,1a9c3ac8e1a1e9f817e8
+FXACW,NASDAQ,FortuneX Acquisition Corporation - Warrant,Stock,True,2026-07-07,,,4e221a6f1751686e9320
 FXHO,NASDAQ,UTime Limited - Class A Ordinary Shares,Stock,True,2026-07-02,,,e5fa4f940b08c7776937
 FXNC,NASDAQ,First National Corporation - Common Stock,Stock,True,2026-05-08,,,72f5e85f69292f603ef2
 FYC,NASDAQ,First Trust Small Cap Growth AlphaDEX Fund,ETF,True,2026-05-08,,,872835fbc7dc41008e7b
@@ -3560,7 +3567,8 @@ MFIG,NASDAQ,Motley Fool Innovative Growth ETF,ETF,True,2026-05-08,,,18615fe27e74
 MFIN,NASDAQ,Medallion Financial Corp. - Common Stock,Stock,True,2026-05-08,,,864b4dc92d728cb5477b
 MFLX,NASDAQ,First Trust Flexible Municipal High Income ETF,ETF,True,2026-05-08,,,517c080ee74c06be0e89
 MFMO,NASDAQ,Motley Fool Momentum Factor ETF,ETF,True,2026-05-08,,,42b03fc75b51f306c395
-MFPVV,NASDAQ,"Midera Food Processing, Inc. - Common Stock When Issued",Stock,True,2026-06-26,,,a675a7d9b13341989a16
+MFP,NASDAQ,"Midera Food Processing, Inc. - Common Stock",Stock,True,2026-07-07,,,5f4e61a396ddda8e7a86
+MFPVV,NASDAQ,"Midera Food Processing, Inc. - Common Stock When Issued",Stock,False,2026-06-26,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,a675a7d9b13341989a16
 MFVL,NASDAQ,Motley Fool Value Factor ETF,ETF,True,2026-05-08,,,9066f7bd6492d55aabc7
 MGEE,NASDAQ,MGE Energy Inc. - Common Stock,Stock,True,2026-05-08,,,1f62cb180bf9d87b7943
 MGIH,NASDAQ,Millennium Group International Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,b3270f060778106137f0
@@ -3577,7 +3585,7 @@ MGYR,NASDAQ,"Magyar Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,101130
 MIACU,NASDAQ,Meridian3 Industrials Acquisition Corp - Units,Stock,True,2026-07-02,,,07a6f297eff4f7870ae4
 MIDD,NASDAQ,The Middleby Corporation - Common Stock,Stock,True,2026-05-08,,,d05185d201b36ee106c7
 MIDDV,NASDAQ,Middleby Corp. - Common Stock Ex-Distribution When Issued,Stock,False,2026-06-26,2026-07-06,Listing metadata changed,0082b3f086dbcf36d736
-MIDDV,NASDAQ,The Middleby Corporation - Common Stock Ex-Distribution When Issued,Stock,True,2026-07-06,,,a763c1c8dad98d32f143
+MIDDV,NASDAQ,The Middleby Corporation - Common Stock Ex-Distribution When Issued,Stock,False,2026-07-06,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,a763c1c8dad98d32f143
 MILN,NASDAQ,Global X Millennial Consumer ETF,ETF,True,2026-05-08,,,5181b5dc995a84d7ceee
 MIMI,NASDAQ,Mint Incorporation Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,9619e31d5a3404dbd4dd
 MIND,NASDAQ,"MIND Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,d2e4036a931faff781fc
@@ -4461,6 +4469,7 @@ PTORW,NASDAQ,Praetorian Acquisition Corp. - Warrant,Stock,True,2026-05-08,,,52b2
 PTRN,NASDAQ,Pattern Group Inc. - Series A Common Stock,Stock,True,2026-05-08,,,d4ccb94a29de44d4b503
 PUBM,NASDAQ,"PubMatic, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,95ca9a70c4d2ef8d8c8d
 PUI,NASDAQ,Invesco Dorsey Wright Utilities Momentum ETF,ETF,True,2026-05-08,,,4bd91d1d8ae1bdac093d
+PUL,NASDAQ,GraniteShares 2x Long P Daily ETF,ETF,True,2026-07-07,,,0bfdeb40fb1e4d9b14b6
 PULM,NASDAQ,"Pulmatrix, Inc. - Common Stock",Stock,True,2026-05-08,,,180d330e7a6bee774968
 PURR,NASDAQ,Hyperliquid Strategies Inc - Common Stock,Stock,True,2026-05-08,,,059bb6b3f7058454a605
 PUSA,NASDAQ,Aureus Greenway Holdings Inc. - Common Stock,Stock,True,2026-05-18,,,52e1a9b10577e7785adc
@@ -4639,7 +4648,7 @@ REAL,NASDAQ,"The RealReal, Inc. - Common Stock",Stock,True,2026-05-08,,,0c3389d3
 REAX,NASDAQ,"The Real Brokerage, Inc. - Common Shares",Stock,True,2026-05-08,,,feb1658ff510b5b39d7a
 REBN,NASDAQ,"Reborn Coffee, Inc. - Common Stock",Stock,True,2026-05-08,,,ec2bedcc168cfe41f206
 RECT,NASDAQ,Rectitude Holdings Ltd - Ordinary Shares,Stock,True,2026-05-08,,,8a28ad047560cd98912b
-REE,NASDAQ,REE Automotive Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,b73ea61da643d251dc02
+REE,NASDAQ,REE Automotive Ltd. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,b73ea61da643d251dc02
 REFI,NASDAQ,"Chicago Atlantic Real Estate Finance, Inc. - Common Stock",Stock,True,2026-05-08,,,4a7d771b0e8cf4665743
 REFR,NASDAQ,Research Frontiers Incorporated - Common Stock,Stock,True,2026-05-08,,,9514b2b7a4a7f49ad45c
 REG,NASDAQ,Regency Centers Corporation - Common Stock,Stock,True,2026-05-08,,,7cfdc2926caea5bd0f49
