@@ -485,7 +485,8 @@ AGAE,NASDAQ,Allied Gaming & Entertainment Inc. - Common Stock,Stock,False,2026-0
 AGCC,NASDAQ,Agencia Comercial Spirits Ltd - Class A Ordinary Share,Stock,True,2026-05-08,,,f98f77ec9b9f38ebc96b
 AGEM,NASDAQ,abrdn Emerging Markets Dividend Active ETF,ETF,True,2026-05-08,,,931e73c409b40aefdafb
 AGEN,NASDAQ,Agenus Inc. - Common Stock,Stock,True,2026-05-08,,,3bb30b4e6113d345285a
-AGGA,NASDAQ,EA Astoria Dynamic Core US Fixed Income ETF,ETF,True,2026-05-08,,,eb32d51b332e9d4715bc
+AGGA,NASDAQ,EA Astoria Dynamic Core US Fixed Income ETF,ETF,False,2026-05-08,2026-07-08,Listing metadata changed,eb32d51b332e9d4715bc
+AGGA,NASDAQ,EA Astoria Beacon Dynamic Core US Fixed Income ETF,ETF,True,2026-07-08,,,056ff4be31075fea1f22
 AGH,NASDAQ,Aureus Greenway Holdings Inc. - Common Stock,Stock,False,2026-05-08,2026-05-18,Missing from current NASDAQ source snapshot; reason unavailable,52e1a9b10577e7785adc
 AGIO,NASDAQ,"Agios Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,f468688b82b18a44fc7f
 AGIX,NASDAQ,KraneShares Artificial Intelligence & Technology ETF,ETF,False,2026-05-08,2026-06-01,Listing metadata changed,570a2cf0af32548c107b
@@ -1037,6 +1038,7 @@ BKMS,NASDAQ,BNY Mellon Municipal Short Duration ETF,ETF,True,2026-05-08,,,db42c2
 BKNG,NASDAQ,Booking Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,e435559cd47d2178c73b
 BKR,NASDAQ,Baker Hughes Company - Common Stock,Stock,True,2026-05-08,,,53f6bd255201d47d2555
 BKYI,NASDAQ,"BIO-key International, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-13,Missing from current NASDAQ source snapshot; reason unavailable,00542a237e9ec54f7308
+BKYI,NASDAQ,"BIO-key International, Inc. - Common Stock",Stock,True,2026-07-08,,,00542a237e9ec54f7308
 BL,NASDAQ,"BlackLine, Inc. - Common Stock",Stock,True,2026-05-08,,,67b2f3e857eeff31814e
 BLBD,NASDAQ,Blue Bird Corporation - Common Stock,Stock,True,2026-05-08,,,1846d2311bff9b29b9a9
 BLCN,NASDAQ,Siren NexGen Economy ETF,ETF,True,2026-05-08,,,d8a7c634ed37affd61ee
@@ -1369,6 +1371,7 @@ CENTA,NASDAQ,Central Garden & Pet Company - Class A Common Stock Nonvoting,Stock
 CENX,NASDAQ,Century Aluminum Company - Common Stock,Stock,True,2026-05-08,,,89ed276948fecf340591
 CEPF,NASDAQ,"Cantor Equity Partners IV, Inc. - Class A Ordinary Shares",Stock,True,2026-05-08,,,6470b0f2b7f048cf39d2
 CEPI,NASDAQ,REX Crypto Equity Premium Income ETF,ETF,True,2026-05-08,,,485baf8cc7daf0d86213
+CEPL,NASDAQ,"Capstone Energy Plus, Inc. - Common Stock",Stock,True,2026-07-08,,,5f6826e003831beec7f0
 CEPO,NASDAQ,"Cantor Equity Partners I, Inc. - Class A Ordinary Shares",Stock,True,2026-05-08,,,2764b6992693505c7543
 CEPS,NASDAQ,"Cantor Equity Partners VI, Inc. - Class A Ordinary Shares",Stock,True,2026-05-08,,,b22017f93ba7698dd71f
 CEPT,NASDAQ,"Cantor Equity Partners II, Inc. - Class A ordinary share",Stock,False,2026-05-08,2026-07-02,Missing from current NASDAQ source snapshot; reason unavailable,0be30502b9bf430f4e6d
@@ -2144,6 +2147,7 @@ FDIF,NASDAQ,Fidelity Disruptors ETF,ETF,True,2026-05-08,,,33f352f456aab04bb604
 FDIG,NASDAQ,Fidelity Crypto Industry and Digital Payments ETF,ETF,True,2026-05-08,,,e412be9be49a828890b5
 FDIQ,NASDAQ,Invesco Bloomberg Financial Data Providers ETF,ETF,True,2026-05-08,,,6ad9308b69737c863aa5
 FDIV,NASDAQ,MarketDesk Focused U.S. Dividend ETF,ETF,True,2026-05-08,,,32263783fd2718398640
+FDMMU,NASDAQ,Freedom Metals Acquisition Corp. - Units,Stock,True,2026-07-08,,,2c075172cdff1991dc80
 FDMT,NASDAQ,"4D Molecular Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,ed52691970dcb98a23a8
 FDNI,NASDAQ,First Trust Dow Jones International Internet ETF,ETF,True,2026-05-08,,,7769d038e51faeedc963
 FDRS,NASDAQ,Founder-Led ETF,ETF,True,2026-05-08,,,5dc05d8dc75d12ac1823
@@ -4062,7 +4066,7 @@ OLED,NASDAQ,Universal Display Corporation - Common Stock,Stock,True,2026-05-08,,
 OLLI,NASDAQ,"Ollie's Bargain Outlet Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,857fec0130db68f36948
 OLMA,NASDAQ,"Olema Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,1f48eb61242a51df7844
 OLOX,NASDAQ,Olenox Industries Inc. - Common Stock,Stock,True,2026-05-08,,,54f77ce2ae761ed23016
-OLPX,NASDAQ,"Olaplex Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,9df33cba7db56af555a7
+OLPX,NASDAQ,"Olaplex Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-08,Missing from current NASDAQ source snapshot; reason unavailable,9df33cba7db56af555a7
 OM,NASDAQ,"Outset Medical, Inc. - Common Stock",Stock,True,2026-05-08,,,d53b7758bf0a457a7bfd
 OMAB,NASDAQ,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares,Stock,True,2026-05-08,,,1e57622c369a395c49c1
 OMCL,NASDAQ,"Omnicell, Inc. - Common Stock",Stock,True,2026-05-08,,,845eca3127828626a49e
@@ -4471,6 +4475,7 @@ PUBM,NASDAQ,"PubMatic, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,95ca
 PUI,NASDAQ,Invesco Dorsey Wright Utilities Momentum ETF,ETF,True,2026-05-08,,,4bd91d1d8ae1bdac093d
 PUL,NASDAQ,GraniteShares 2x Long P Daily ETF,ETF,True,2026-07-07,,,0bfdeb40fb1e4d9b14b6
 PULM,NASDAQ,"Pulmatrix, Inc. - Common Stock",Stock,True,2026-05-08,,,180d330e7a6bee774968
+PUR,NASDAQ,Defiance Daily Target 2X Long PURR ETF,ETF,True,2026-07-08,,,81a48c777eb1b6fa8dc7
 PURR,NASDAQ,Hyperliquid Strategies Inc - Common Stock,Stock,True,2026-05-08,,,059bb6b3f7058454a605
 PUSA,NASDAQ,Aureus Greenway Holdings Inc. - Common Stock,Stock,True,2026-05-18,,,52e1a9b10577e7785adc
 PVLA,NASDAQ,"Palvella Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,1865a13c7d3d3953dce5
@@ -5444,9 +5449,13 @@ TRUF,NASDAQ,VanEck Financials TruSector ETF,ETF,True,2026-05-08,,,23600c15bcdd80
 TRUG,NASDAQ,"TruGolf Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,9353b978f4bcc5a0e6cb
 TRUH,NASDAQ,VanEck Healthcare TruSector ETF,ETF,True,2026-05-08,,,e8cda0ba4ffaf20ca139
 TRUI,NASDAQ,VanEck Industrials TruSector ETF,ETF,True,2026-06-03,,,874cb9ec23ad65f00443
+TRUM,NASDAQ,VanEck Materials TruSector ETF,ETF,True,2026-07-08,,,bd75c1eb06d7df4cacb4
+TRUN,NASDAQ,VanEck Energy TruSector ETF,ETF,True,2026-07-08,,,4523263d6494a073e47c
 TRUO,NASDAQ,VanEck Consumer Staples TruSector ETF,ETF,True,2026-06-03,,,44286e1e564df1e6d1e1
 TRUP,NASDAQ,"Trupanion, Inc. - Common Stock",Stock,True,2026-05-08,,,b4cc06895462b4ca705d
+TRUR,NASDAQ,VanEck Real Estate TruSector ETF,ETF,True,2026-07-08,,,19140c0bd58467a7616f
 TRUT,NASDAQ,VanEck Technology TruSector ETF,ETF,True,2026-05-08,,,e00c99ce40123681930b
+TRUU,NASDAQ,VanEck Utilities TruSector ETF,ETF,True,2026-07-08,,,2f0bda0f0e1a0a6115a1
 TRVG,NASDAQ,trivago N.V. - American Depositary Shares,Stock,True,2026-05-08,,,b83329123b7ed7cb6698
 TRVI,NASDAQ,"Trevi Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,68e7ce765e9e31a4297d
 TSAT,NASDAQ,Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares,Stock,True,2026-05-08,,,4aee22e062b32068160a
@@ -8686,7 +8695,8 @@ TFPM,NYSE,Triple Flag Precious Metals Corp. Common Shares,Stock,True,2026-05-08,
 TFX,NYSE,Teleflex Incorporated Common Stock,Stock,True,2026-05-08,,,aa4cdbbe483396da4aaf
 TG,NYSE,Tredegar Corporation Common Stock,Stock,True,2026-05-08,,,6d346dbaf18ce6c0a202
 TGE,NYSE,The Generation Essentials Group Class A Ordinary Shares,Stock,True,2026-05-08,,,78c277a2d5277de3e468
-TGLS,NYSE,Tecnoglass Inc. Ordinary Shares,Stock,True,2026-05-08,,,d47bfdca85705f207196
+TGLS,NYSE,Tecnoglass Inc. Ordinary Shares,Stock,False,2026-05-08,2026-07-08,Listing metadata changed,d47bfdca85705f207196
+TGLS,NYSE,Tecnoglass Inc. Common Stock,Stock,True,2026-07-08,,,a56067d83674600b7c3c
 TGS,NYSE,Transportadora de Gas del Sur SA TGS Common Stock,Stock,True,2026-05-08,,,57b8cd645fc531ff3e36
 TGT,NYSE,Target Corporation Common Stock,Stock,True,2026-05-08,,,f9536048e2e7dd97f787
 THC,NYSE,Tenet Healthcare Corporation Common Stock,Stock,True,2026-05-08,,,10eb1e6df6f13b8e7597

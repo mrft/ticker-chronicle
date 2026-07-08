@@ -149,7 +149,7 @@ NASDAQ,AFYA,Afya Limited - Class A Common Shares,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,AGCC,Agencia Comercial Spirits Ltd - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGEM,abrdn Emerging Markets Dividend Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AGEN,Agenus Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AGGA,EA Astoria Dynamic Core US Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AGGA,EA Astoria Beacon Dynamic Core US Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AGIO,"Agios Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGIX,KraneShares Public-Private AI & Technology ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AGMB,AgomAb Therapeutics NV - ADRs representing one common share.,Stock,,nasdaq_trader_symbol_directory
@@ -682,6 +682,7 @@ NASDAQ,BKMI,BNY Mellon Municipal Intermediate ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,BKMS,BNY Mellon Municipal Short Duration ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BKNG,Booking Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BKR,Baker Hughes Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BKYI,"BIO-key International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BL,"BlackLine, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLBD,Blue Bird Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLCN,Siren NexGen Economy ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1005,6 +1006,7 @@ NASDAQ,CENTA,Central Garden & Pet Company - Class A Common Stock Nonvoting,Stock
 NASDAQ,CENX,Century Aluminum Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CEPF,"Cantor Equity Partners IV, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CEPI,REX Crypto Equity Premium Income ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,CEPL,"Capstone Energy Plus, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CEPO,"Cantor Equity Partners I, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CEPS,"Cantor Equity Partners VI, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CEPV,"Cantor Equity Partners V, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -1760,6 +1762,7 @@ NASDAQ,FDIF,Fidelity Disruptors ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDIG,Fidelity Crypto Industry and Digital Payments ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDIQ,Invesco Bloomberg Financial Data Providers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDIV,MarketDesk Focused U.S. Dividend ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,FDMMU,Freedom Metals Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FDMT,"4D Molecular Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FDNI,First Trust Dow Jones International Internet ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDRS,Founder-Led ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3611,7 +3614,6 @@ NASDAQ,OLED,Universal Display Corporation - Common Stock,Stock,,nasdaq_trader_sy
 NASDAQ,OLLI,"Ollie's Bargain Outlet Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OLMA,"Olema Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OLOX,Olenox Industries Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OLPX,"Olaplex Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OM,"Outset Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OMCL,"Omnicell, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4011,6 +4013,7 @@ NASDAQ,PUBM,"PubMatic, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,PUI,Invesco Dorsey Wright Utilities Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PUL,GraniteShares 2x Long P Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PULM,"Pulmatrix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PUR,Defiance Daily Target 2X Long PURR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PURR,Hyperliquid Strategies Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PUSA,Aureus Greenway Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PVLA,"Palvella Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4953,9 +4956,13 @@ NASDAQ,TRUF,VanEck Financials TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRUG,"TruGolf Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRUH,VanEck Healthcare TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRUI,VanEck Industrials TruSector ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TRUM,VanEck Materials TruSector ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TRUN,VanEck Energy TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRUO,VanEck Consumer Staples TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRUP,"Trupanion, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TRUR,VanEck Real Estate TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRUT,VanEck Technology TruSector ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TRUU,VanEck Utilities TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRVG,trivago N.V. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRVI,"Trevi Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TSAT,Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares,Stock,,nasdaq_trader_symbol_directory
