@@ -26,7 +26,7 @@ AUST,AMEX,Austin Gold Corp. Common Shares,Stock,True,2026-05-08,,,1acf1d47738b8a
 AWX,AMEX,Avalon Holdings Corporation Common Stock,Stock,True,2026-05-08,,,f97f70406201cd949bf5
 AXIL,AMEX,"AXIL Brands, Inc. Common Stock",Stock,True,2026-05-08,,,64a7dd8f0c054cd363e9
 AZTR,AMEX,Azitra Inc Common Stock,Stock,True,2026-05-08,,,4f973285efdd9749130f
-AZUL,AMEX,"Azul S.A. American Depositary Shares, each representing two (2) Common Shares",Stock,True,2026-06-01,,,2f1b9ac58d6c0af22396
+AZUL,AMEX,"Azul S.A. American Depositary Shares, each representing two (2) Common Shares",Stock,False,2026-06-01,2026-07-09,Missing from current AMEX source snapshot; reason unavailable,2f1b9ac58d6c0af22396
 BATL,AMEX,Battalion Oil Corporation Common Stock,Stock,True,2026-05-08,,,5c69af94aee5b60df9ba
 BCHT,AMEX,Birchtech Corp. Common Stock,Stock,True,2026-05-08,,,de4c5b009f31defcdb8f
 BCV,AMEX,"Bancroft Fund, Ltd.",Stock,True,2026-05-08,,,21ae716a1650bee1ba77
@@ -1310,6 +1310,7 @@ CCB,NASDAQ,Coastal Financial Corporation - Common Stock,Stock,True,2026-05-08,,,
 CCBG,NASDAQ,Capital City Bank Group - Common Stock,Stock,True,2026-05-08,,,eb84738d7d5d86e74464
 CCC,NASDAQ,CCC Intelligent Solutions Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,b5c49f2d4fd4ddf9a1b3
 CCCC,NASDAQ,"C4 Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,7f7b4069a3877b697ca3
+CCCTU,NASDAQ,Columbus Circle Capital Corp III - Units,Stock,True,2026-07-09,,,a1c15a2111deb999faaf
 CCD,NASDAQ,Calamos Dynamic Convertible & Income Fund - Closed End Fund,Stock,True,2026-05-08,,,e1c280ef53b086954b8e
 CCEC,NASDAQ,Capital Clean Energy Carriers Corp. - Common Share,Stock,True,2026-05-08,,,caeb430cc83b01bf7af5
 CCEP,NASDAQ,Coca-Cola Europacific Partners plc - Ordinary Shares,Stock,True,2026-05-08,,,cda15c9d30eb9f5720d3
@@ -3022,6 +3023,7 @@ IPX,NASDAQ,IperionX Limited - American Depositary Share,Stock,True,2026-05-08,,,
 IQ,NASDAQ,"iQIYI, Inc. - American Depositary Shares",Stock,True,2026-05-08,,,856a12b4252607ce9c7a
 IQMX,NASDAQ,IQM Quantum Computers Oyj - American Depositary Shares,Stock,True,2026-07-02,,,4de15686b8e0f38a0caf
 IQMXW,NASDAQ,IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares,Stock,True,2026-07-02,,,e447162a51cc1e437108
+IQQ,NASDAQ,iShares Nasdaq 100 ETF,ETF,True,2026-07-09,,,1aaff9ed7e21c2cc40cb
 IQQQ,NASDAQ,ProShares Nasdaq-100 High Income ETF,ETF,True,2026-05-08,,,3546881bba892b0e863f
 IQST,NASDAQ,iQSTEL Inc. - Common Stock,Stock,True,2026-05-08,,,4ffa9c827cdef15056fc
 IRD,NASDAQ,"Opus Genetics, Inc. - Common Stock",Stock,True,2026-05-08,,,f554e0d4b9d449f23654
@@ -3670,6 +3672,7 @@ MRA,NASDAQ,GraniteShares Autocallable MARA ETF,ETF,True,2026-05-27,,,03d3219a27a
 MRAL,NASDAQ,GraniteShares 2x Long MARA Daily ETF,ETF,True,2026-05-08,,,f110c3d2fcf794b8bd24
 MRAM,NASDAQ,"Everspin Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,ed30995ab7a9a052b68c
 MRBK,NASDAQ,Meridian Corporation - Common Stock,Stock,True,2026-05-08,,,b08aeecb7ffeff002be9
+MRCOU,NASDAQ,Mercator Acquisition Corp. - Units,Stock,True,2026-07-09,,,54586766e6fd5c8e36e6
 MRCY,NASDAQ,Mercury Systems Inc - Common Stock,Stock,True,2026-05-08,,,521ccd27b8f30c803d6f
 MRDN,NASDAQ,Meridian Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,8d935ed792f84136abf2
 MREO,NASDAQ,Mereo BioPharma Group plc - American Depositary Shares,Stock,True,2026-05-08,,,e85a0fd8164ac28fa9ba
@@ -3703,7 +3706,7 @@ MST,NASDAQ,Defiance Leveraged Long + Income MSTR ETF,ETF,True,2026-05-08,,,b0013
 MSTP,NASDAQ,GraniteShares 2x Long MSTR Daily ETF,ETF,True,2026-05-08,,,45c04dc2fabbf2eb86c3
 MSTR,NASDAQ,Strategy Inc - Class A Common Stock,Stock,True,2026-05-08,,,37ff738d4fd1d0e4c60d
 MSTX,NASDAQ,Defiance Daily Target 2x Long MSTR ETF,ETF,True,2026-05-08,,,8095fe1912c75eeba9e1
-MSW,NASDAQ,Ming Shing Group Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,71a7dea87a013964383f
+MSW,NASDAQ,Ming Shing Group Holdings Limited - Ordinary Shares,Stock,False,2026-05-08,2026-07-09,Missing from current NASDAQ source snapshot; reason unavailable,71a7dea87a013964383f
 MTC,NASDAQ,"MMTec, Inc. - Common Shares",Stock,True,2026-05-08,,,3ba33aa5a680ad16b051
 MTCH,NASDAQ,"Match Group, Inc. - Common Stock",Stock,True,2026-05-08,,,14e70b5cf07a417c4af7
 MTEK,NASDAQ,Maris-Tech Ltd. - ordinary shares,Stock,True,2026-05-08,,,a9da93a2baeee15d5171
@@ -4349,6 +4352,7 @@ PLUT,NASDAQ,Plutus Financial Group Limited - Ordinary Shares,Stock,True,2026-05-
 PLXS,NASDAQ,Plexus Corp. - Common Stock,Stock,True,2026-05-08,,,514a40571a5001b95207
 PLYX,NASDAQ,"Polaryx Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,00dab765edcc898583ab
 PLYY,NASDAQ,GraniteShares YieldBOOST PLTR ETF,ETF,True,2026-05-08,,,12f3629c5f1ee548fbfd
+PMA,NASDAQ,Ming Shing Group Holdings Limited - Ordinary Shares,Stock,True,2026-07-09,,,71a7dea87a013964383f
 PMAX,NASDAQ,Powell Max Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,09753f67bc5de4ac75a0
 PMBS,NASDAQ,PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund,ETF,True,2026-05-08,,,200cc77235e2486069cb
 PMCB,NASDAQ,"PharmaCyte Biotech, Inc. - Common Stock",Stock,True,2026-05-08,,,89bedcc49a4b29f0fb99
@@ -5881,6 +5885,7 @@ WSFS,NASDAQ,WSFS Financial Corporation - Common Stock,Stock,True,2026-05-08,,,27
 WSGE,NASDAQ,Warren Street Global Equity ETF,ETF,True,2026-05-08,,,dc68c097073394bcbfd1
 WSHP,NASDAQ,WeShop Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,d04981707edc8963a8bb
 WSML,NASDAQ,iShares MSCI World Small-Cap ETF,ETF,True,2026-05-08,,,8ef9b8eeaf51d7c817c8
+WSPC,NASDAQ,WisdomTree Space Economy Fund,ETF,True,2026-07-09,,,a89ee9c71c29d3c563aa
 WSTN,NASDAQ,Westin Acquisition Corp - Class A Ordinary Share,Stock,True,2026-05-08,,,acc1483578c912694a32
 WSTNR,NASDAQ,Westin Acquisition Corp - Right,Stock,True,2026-05-08,,,9118bad4b3a0631a90e6
 WSTNU,NASDAQ,Westin Acquisition Corp - Units,Stock,True,2026-05-08,,,6908134ef342e4842bee
@@ -6325,6 +6330,7 @@ AXTA,NYSE,Axalta Coating Systems Ltd. Common Shares,Stock,True,2026-05-08,,,76b7
 AYI,NYSE,Acuity Inc. Common Stock,Stock,True,2026-05-08,,,d6b5f77097a1e81c6205
 AZN,NYSE,AstraZeneca PLC Ordinary Shares,Stock,True,2026-05-08,,,0008c7754f264204b316
 AZO,NYSE,"AutoZone, Inc. Common Stock",Stock,True,2026-05-08,,,868c8a37e86f3ba42813
+AZUL,NYSE,"Azul S.A. American Depositary Shares, each representing two (2) Common Shares",Stock,True,2026-07-09,,,162d6cbf1a1aa74ba4f5
 AZZ,NYSE,AZZ Inc.,Stock,True,2026-05-08,,,d779f675acb63ff968ac
 B,NYSE,Barrick Mining Corporation Common Shares,Stock,True,2026-05-08,,,14329db1b319e69c0b08
 BA,NYSE,Boeing Company (The) Common Stock,Stock,True,2026-05-08,,,c0cc9443d17394589857
@@ -8674,7 +8680,7 @@ TDS$V,NYSE,"Telephone and Data Systems, Inc. Depositary Shares, Each Representin
 TDW,NYSE,Tidewater Inc. Common Stock,Stock,True,2026-05-08,,,5c916437ddee19b24633
 TDY,NYSE,Teledyne Technologies Incorporated Common Stock,Stock,True,2026-05-08,,,00c0a90f116ba81e5987
 TE,NYSE,T1 Energy Inc. Common Stock,Stock,True,2026-05-08,,,7577cf00ff4c1a119e12
-TE.W,NYSE,"T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,2f03d1fb3ab2d758c282
+TE.W,NYSE,"T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",Stock,False,2026-05-08,2026-07-09,Missing from current NYSE source snapshot; reason unavailable,2f03d1fb3ab2d758c282
 TECK,NYSE,Teck Resources Ltd Ordinary Shares,Stock,True,2026-05-08,,,9622c3b2c547e5405ca8
 TEI,NYSE,"Templeton Emerging Markets Income Fund, Inc. Common Stock",Stock,True,2026-05-08,,,016c8b307b493d137f02
 TEL,NYSE,TE Connectivity plc Ordinary Shares,Stock,True,2026-05-08,,,61c18e5982bebf0fd557

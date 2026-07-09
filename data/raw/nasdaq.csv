@@ -947,6 +947,7 @@ NASDAQ,CCB,Coastal Financial Corporation - Common Stock,Stock,,nasdaq_trader_sym
 NASDAQ,CCBG,Capital City Bank Group - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCC,CCC Intelligent Solutions Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCCC,"C4 Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CCCTU,Columbus Circle Capital Corp III - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCD,Calamos Dynamic Convertible & Income Fund - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCEC,Capital Clean Energy Carriers Corp. - Common Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCEP,Coca-Cola Europacific Partners plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2605,6 +2606,7 @@ NASDAQ,IPX,IperionX Limited - American Depositary Share,Stock,,nasdaq_trader_sym
 NASDAQ,IQ,"iQIYI, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQMX,IQM Quantum Computers Oyj - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQMXW,IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IQQ,iShares Nasdaq 100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IQQQ,ProShares Nasdaq-100 High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IQST,iQSTEL Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IRD,"Opus Genetics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3229,6 +3231,7 @@ NASDAQ,MRA,GraniteShares Autocallable MARA ETF,ETF,,nasdaq_trader_symbol_directo
 NASDAQ,MRAL,GraniteShares 2x Long MARA Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MRAM,"Everspin Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MRBK,Meridian Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MRCOU,Mercator Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MRCY,Mercury Systems Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MRDN,Meridian Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MREO,Mereo BioPharma Group plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3261,7 +3264,6 @@ NASDAQ,MST,Defiance Leveraged Long + Income MSTR ETF,ETF,,nasdaq_trader_symbol_d
 NASDAQ,MSTP,GraniteShares 2x Long MSTR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MSTR,Strategy Inc - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSTX,Defiance Daily Target 2x Long MSTR ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,MSW,Ming Shing Group Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTC,"MMTec, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTCH,"Match Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTEK,Maris-Tech Ltd. - ordinary shares,Stock,,nasdaq_trader_symbol_directory
@@ -3889,6 +3891,7 @@ NASDAQ,PLUT,Plutus Financial Group Limited - Ordinary Shares,Stock,,nasdaq_trade
 NASDAQ,PLXS,Plexus Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLYX,"Polaryx Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLYY,GraniteShares YieldBOOST PLTR ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,PMA,Ming Shing Group Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PMAX,Powell Max Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PMBS,PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PMCB,"PharmaCyte Biotech, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5375,6 +5378,7 @@ NASDAQ,WSFS,WSFS Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbo
 NASDAQ,WSGE,Warren Street Global Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WSHP,WeShop Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WSML,iShares MSCI World Small-Cap ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,WSPC,WisdomTree Space Economy Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WSTN,Westin Acquisition Corp - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WSTNR,Westin Acquisition Corp - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WSTNU,Westin Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory

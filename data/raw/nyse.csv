@@ -261,6 +261,7 @@ NYSE,AXTA,Axalta Coating Systems Ltd. Common Shares,Stock,,nasdaq_trader_symbol_
 NYSE,AYI,Acuity Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AZN,AstraZeneca PLC Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,AZO,"AutoZone, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,AZUL,"Azul S.A. American Depositary Shares, each representing two (2) Common Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,AZZ,AZZ Inc.,Stock,,nasdaq_trader_symbol_directory
 NYSE,B,Barrick Mining Corporation Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,BA,Boeing Company (The) Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2555,7 +2556,6 @@ NYSE,TDS$V,"Telephone and Data Systems, Inc. Depositary Shares, Each Representin
 NYSE,TDW,Tidewater Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TDY,Teledyne Technologies Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TE,T1 Energy Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,TE.W,"T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,TECK,Teck Resources Ltd Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TEL,TE Connectivity plc Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
