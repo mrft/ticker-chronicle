@@ -1681,7 +1681,7 @@ NASDAQ,EVOXW,Evolution Global Acquisition Corp - Warrants,Stock,,nasdaq_trader_s
 NASDAQ,EVPF,Eaton Vance Preferred Securities and Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EVRG,"Evergy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVSD,Eaton Vance Short Duration Income ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,EVTV,"Envirotech Vehicles, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EVTV,"Azio AI Holdings, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVYM,Eaton Vance High Income Municipal ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EWBC,"East West Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EWJV,iShares MSCI Japan Value ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2347,7 +2347,7 @@ NASDAQ,HROW,"Harrow, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HRTS,Tema Heart & Health ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HRTX,"Heron Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HRZN,Horizon Technology Finance Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HSAI,"Hesai Group - American Depositary Share, each ADS represents one Class B ordinary share",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HSAI,Hesai Group - American Depositary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HSCS,HeartSciences Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HSCSW,HeartSciences Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HSDT,Solana Company - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4498,6 +4498,7 @@ NASDAQ,SITM,SiTime Corporation - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,SJ,Scienjoy Holding Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SJCP,SanJac Alpha Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SJLD,SanJac Alpha Low Duration ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,SKHYV,SK hynix Inc. - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKIN,SkinHealth Systems Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKK,SKK Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,,nasdaq_trader_symbol_directory
@@ -4519,7 +4520,7 @@ NASDAQ,SLDE,"Slide Insurance Holdings, Inc. - Common Stock",Stock,,nasdaq_trader
 NASDAQ,SLDP,"Solid Power, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLDPW,"Solid Power, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLE,"Super League Enterprise, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SLGB,Smart Logistics Global Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SLGB,Smart Logistics Global Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLGL,Sol-Gel Technologies Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLM,SLM Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLMBP,"SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B",Stock,,nasdaq_trader_symbol_directory
@@ -4795,7 +4796,6 @@ NASDAQ,TBIL,F/m US Treasury 3 Month Bill Fund,ETF,,nasdaq_trader_symbol_director
 NASDAQ,TBLA,Taboola.com Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBLD,Thornburg Income Builder Opportunities Trust - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBPH,"Theravance Biopharma, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,TBRG,"TruBridge, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TC,Token Cat Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TCAN,21Shares Canton Network ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TCBI,"Texas Capital Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory

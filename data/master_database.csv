@@ -2065,7 +2065,8 @@ EVOXW,NASDAQ,Evolution Global Acquisition Corp - Warrants,Stock,True,2026-05-08,
 EVPF,NASDAQ,Eaton Vance Preferred Securities and Income ETF,ETF,True,2026-05-08,,,78bf85489c459e98c34d
 EVRG,NASDAQ,"Evergy, Inc. - Common Stock",Stock,True,2026-05-08,,,0cb949ba7f027bee2092
 EVSD,NASDAQ,Eaton Vance Short Duration Income ETF,ETF,True,2026-05-08,,,ffa11464cf53d3b9c700
-EVTV,NASDAQ,"Envirotech Vehicles, Inc. - Common stock",Stock,True,2026-05-08,,,5d043eca98a6eb0c8d58
+EVTV,NASDAQ,"Envirotech Vehicles, Inc. - Common stock",Stock,False,2026-05-08,2026-07-10,Listing metadata changed,5d043eca98a6eb0c8d58
+EVTV,NASDAQ,"Azio AI Holdings, Inc. - Common stock",Stock,True,2026-07-10,,,644b80e4495d85739ce7
 EVYM,NASDAQ,Eaton Vance High Income Municipal ETF,ETF,True,2026-05-08,,,3292f71b24a00cd33ea9
 EWBC,NASDAQ,"East West Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,73248e2ea805c74d738d
 EWCZ,NASDAQ,"European Wax Center, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,1f541bc1be88605f408f
@@ -2755,7 +2756,8 @@ HROW,NASDAQ,"Harrow, Inc. - Common Stock",Stock,True,2026-05-08,,,418c1bd4c267a0
 HRTS,NASDAQ,Tema Heart & Health ETF,ETF,True,2026-05-08,,,5036d65ca6fe59503faa
 HRTX,NASDAQ,"Heron Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,c1171d313142376d18a4
 HRZN,NASDAQ,Horizon Technology Finance Corporation - Common Stock,Stock,True,2026-05-08,,,ac19ba786f3b79c732b3
-HSAI,NASDAQ,"Hesai Group - American Depositary Share, each ADS represents one Class B ordinary share",Stock,True,2026-05-08,,,c1c4eb9b90b589f81331
+HSAI,NASDAQ,"Hesai Group - American Depositary Share, each ADS represents one Class B ordinary share",Stock,False,2026-05-08,2026-07-10,Listing metadata changed,c1c4eb9b90b589f81331
+HSAI,NASDAQ,Hesai Group - American Depositary Share,Stock,True,2026-07-10,,,b52cce2aa18dfe0b380a
 HSCS,NASDAQ,HeartSciences Inc. - Common Stock,Stock,True,2026-05-08,,,d81f8850a407c69e46a7
 HSCSW,NASDAQ,HeartSciences Inc. - Warrant,Stock,True,2026-05-08,,,450b180011d8e307f466
 HSDT,NASDAQ,Solana Company - Class A Common Stock,Stock,True,2026-05-08,,,d13c8ad0bd5aca30c30a
@@ -4977,6 +4979,7 @@ SJ,NASDAQ,Scienjoy Holding Corporation - Class A Ordinary Shares,Stock,True,2026
 SJCP,NASDAQ,SanJac Alpha Core Plus Bond ETF,ETF,True,2026-05-08,,,67daaa1b660b96523bed
 SJLD,NASDAQ,SanJac Alpha Low Duration ETF,ETF,True,2026-05-08,,,77521566266bce0138c6
 SKBL,NASDAQ,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-17,Other delisting reason: Details unavailable (source: FMP Delisted API),4877ace68b66bfd40e09
+SKHYV,NASDAQ,SK hynix Inc. - American Depository Shares,Stock,True,2026-07-10,,,5d52cc059efe59775c85
 SKIN,NASDAQ,SkinHealth Systems Inc. - Class A Common Stock,Stock,True,2026-05-08,,,413da9f80912b1a4efaf
 SKK,NASDAQ,SKK Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,e6d732b9136c032b0f13
 SKOR,NASDAQ,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,True,2026-05-08,,,d50356e268e0c605ef4f
@@ -4998,7 +5001,8 @@ SLDE,NASDAQ,"Slide Insurance Holdings, Inc. - Common Stock",Stock,True,2026-05-0
 SLDP,NASDAQ,"Solid Power, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,b5988d8f6e4b4d63eeb1
 SLDPW,NASDAQ,"Solid Power, Inc. - Warrant",Stock,True,2026-05-08,,,7a83a0a89faa65e1f3d8
 SLE,NASDAQ,"Super League Enterprise, Inc. - Common Stock",Stock,True,2026-05-08,,,d0f1a46f52bcd9eedf52
-SLGB,NASDAQ,Smart Logistics Global Limited - Ordinary Shares,Stock,True,2026-05-08,,,774a5a9c182b9775d56f
+SLGB,NASDAQ,Smart Logistics Global Limited - Ordinary Shares,Stock,False,2026-05-08,2026-07-10,Listing metadata changed,774a5a9c182b9775d56f
+SLGB,NASDAQ,Smart Logistics Global Limited - Class A Ordinary Shares,Stock,True,2026-07-10,,,e11798a39ae903ea8159
 SLGL,NASDAQ,Sol-Gel Technologies Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,33af98e68b56355aae4c
 SLM,NASDAQ,SLM Corporation - Common Stock,Stock,True,2026-05-08,,,7ac9b7a3846ad059e614
 SLMBP,NASDAQ,"SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B",Stock,True,2026-05-08,,,0a6ad8eb34448fa884ad
@@ -5288,7 +5292,7 @@ TBLA,NASDAQ,Taboola.com Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,ea9400e74
 TBLAW,NASDAQ,Taboola.com Ltd. - Warrant,Stock,False,2026-05-08,2026-06-30,Missing from current NASDAQ source snapshot; reason unavailable,a76fd2c2c4655faf2526
 TBLD,NASDAQ,Thornburg Income Builder Opportunities Trust - Closed End Fund,Stock,True,2026-05-08,,,67888cc2b2cf8fc88c88
 TBPH,NASDAQ,"Theravance Biopharma, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,f3bb8d4bf3e6eeb4c5f7
-TBRG,NASDAQ,"TruBridge, Inc. - Common Stock",Stock,True,2026-05-08,,,0d9412552b2468f73ecb
+TBRG,NASDAQ,"TruBridge, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-10,Other delisting reason: Details unavailable (source: FMP Delisted API),0d9412552b2468f73ecb
 TC,NASDAQ,Token Cat Limited - American Depositary Shares,Stock,True,2026-05-08,,,04c5e8c14a3df1a4746d
 TCAN,NASDAQ,21Shares Canton Network ETF,ETF,True,2026-05-08,,,b3958830b6a18e49daa6
 TCBI,NASDAQ,"Texas Capital Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,4eef02a69d96d0f3de0e
@@ -8434,6 +8438,7 @@ SAGU.W,NYSE,"Shreya Acquisition Group Redeemable warrants, entitling the holder 
 SAH,NYSE,"Sonic Automotive, Inc. Common Stock",Stock,True,2026-05-08,,,d8ae45872290ae162106
 SAJ,NYSE,Saratoga Investment Corp 8.00% Notes due 2027,Stock,True,2026-05-08,,,306ebce8f6bc12c8a174
 SAM,NYSE,"Boston Beer Company, Inc. (The) Common Stock",Stock,True,2026-05-08,,,18e3993f053cf3e6669e
+SAMO.U,NYSE,"Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one-half of one Warrant",Stock,True,2026-07-10,,,fa96f30dbff1d507c867
 SAN,NYSE,"Banco Santander, S.A. Sponsored ADR (Spain)",Stock,True,2026-05-08,,,95f9b6eaa94f0f7d07b1
 SAP,NYSE,SAP SE ADS,Stock,True,2026-05-08,,,1e4fdf6f0f18644e53a3
 SAR,NYSE,Saratoga Investment Corp New,Stock,True,2026-05-08,,,88f164030c8107e292ec
