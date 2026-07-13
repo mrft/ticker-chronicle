@@ -314,7 +314,7 @@ UTG,AMEX,Reaves Utility Income Fund Common Shares of Beneficial Interest,Stock,T
 UUU,AMEX,"Universal Safety Products, Inc. Common Stock",Stock,True,2026-05-08,,,cecb6e6b76705be9cbc6
 UUUU,AMEX,Energy Fuels Inc Ordinary Shares (Canada),Stock,True,2026-05-08,,,fd6e7163617d07f6e84c
 VENU,AMEX,Venu Holding Corporation Common Stock,Stock,True,2026-05-08,,,740bbe05e1f87666c878
-VFL,AMEX,abrdn National Municipal Income Fund Common Stock,Stock,True,2026-05-08,,,584e498360364cf72002
+VFL,AMEX,abrdn National Municipal Income Fund Common Stock,Stock,False,2026-05-08,2026-07-13,Missing from current AMEX source snapshot; reason unavailable,584e498360364cf72002
 VGZ,AMEX,Vista Gold Corp Common Stock,Stock,True,2026-05-08,,,c0b191741cad8ef4b637
 VIDA,AMEX,VIDA Global Inc. Class A Common Stock,Stock,False,2026-05-12,2026-05-14,Missing from current AMEX source snapshot; reason unavailable,066d7c83eac75c71abcf
 VIDA,AMEX,VIDA Global Inc. Class A Common Stock,Stock,True,2026-05-15,,,066d7c83eac75c71abcf
@@ -876,6 +876,7 @@ AYA,NASDAQ,Aya Gold & Silver Inc. - Common Shares,Stock,True,2026-05-08,,,f338f8
 AYTU,NASDAQ,"Aytu BioPharma, Inc. - Common Stock",Stock,True,2026-05-08,,,e25dd2334d793e9d4c7c
 AZ,NASDAQ,A2Z Cust2Mate Solutions Corp. - Common Shares,Stock,True,2026-05-08,,,0bde762d31b4b0643aed
 AZI,NASDAQ,Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,3e0a9f6f11ae599b29e5
+AZIO,NASDAQ,"Azio AI Holdings, Inc. - Common stock",Stock,True,2026-07-13,,,644b80e4495d85739ce7
 AZTA,NASDAQ,"Azenta, Inc. - Common Stock",Stock,True,2026-05-08,,,82b1509325fd582f694b
 AZYY,NASDAQ,GraniteShares YieldBoost AMZN ETF,ETF,True,2026-05-08,,,c3025731c8a221ef0021
 BABU,NASDAQ,Direxion Daily BABA Bull 2X ETF,ETF,True,2026-05-08,,,1206747785bb91340bf1
@@ -2066,7 +2067,7 @@ EVPF,NASDAQ,Eaton Vance Preferred Securities and Income ETF,ETF,True,2026-05-08,
 EVRG,NASDAQ,"Evergy, Inc. - Common Stock",Stock,True,2026-05-08,,,0cb949ba7f027bee2092
 EVSD,NASDAQ,Eaton Vance Short Duration Income ETF,ETF,True,2026-05-08,,,ffa11464cf53d3b9c700
 EVTV,NASDAQ,"Envirotech Vehicles, Inc. - Common stock",Stock,False,2026-05-08,2026-07-10,Listing metadata changed,5d043eca98a6eb0c8d58
-EVTV,NASDAQ,"Azio AI Holdings, Inc. - Common stock",Stock,True,2026-07-10,,,644b80e4495d85739ce7
+EVTV,NASDAQ,"Azio AI Holdings, Inc. - Common stock",Stock,False,2026-07-10,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,644b80e4495d85739ce7
 EVYM,NASDAQ,Eaton Vance High Income Municipal ETF,ETF,True,2026-05-08,,,3292f71b24a00cd33ea9
 EWBC,NASDAQ,"East West Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,73248e2ea805c74d738d
 EWCZ,NASDAQ,"European Wax Center, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,1f541bc1be88605f408f
@@ -2458,6 +2459,8 @@ GFAIW,NASDAQ,"Guardforce AI Co., Limited - Warrant",Stock,True,2026-05-08,,,3429
 GFGF,NASDAQ,Guru Favorite Stocks ETF,ETF,True,2026-05-08,,,927ba1647265f15b86dc
 GFLW,NASDAQ,VictoryShares Free Cash Flow Growth ETF,ETF,True,2026-05-08,,,047c14b11dc80ab8b8bd
 GFS,NASDAQ,GlobalFoundries Inc. - Ordinary Share,Stock,True,2026-05-08,,,d35de98935b40fa9103b
+GFUZ,NASDAQ,General Fusion Group Ltd. - Common Shares,Stock,True,2026-07-13,,,043994e18f4b0cb221d1
+GFUZW,NASDAQ,General Fusion Group Ltd. - Warrant,Stock,True,2026-07-13,,,a981f9291467688eff52
 GGAL,NASDAQ,"Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying",Stock,True,2026-05-08,,,8999c4a87243cf45e3a1
 GGLL,NASDAQ,Direxion Daily GOOGL Bull 2X ETF,ETF,True,2026-05-08,,,b9bab84439b9c9a5306e
 GGLS,NASDAQ,Direxion Daily GOOGL Bear 1X ETF,ETF,True,2026-05-08,,,20e5ffa114d3b83578c1
@@ -3322,6 +3325,7 @@ LFWD,NASDAQ,Lifeward Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,73cb2e433570
 LGCB,NASDAQ,Linkage Global Inc - Class A Ordinary Shares,Stock,False,2026-05-08,2026-05-18,Missing from current NASDAQ source snapshot; reason unavailable,627b3794d2e8a7eaab50
 LGCF,NASDAQ,Themes US Cash Flow Champions ETF,ETF,True,2026-05-08,,,178f2607f3c522719319
 LGCL,NASDAQ,Lucas GC Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,de33c3aabf673a8d56d7
+LGDS,NASDAQ,JPMorgan Fundamental Data Science Large Growth ETF,ETF,True,2026-07-13,,,09fba342d6b1dc71674c
 LGHL,NASDAQ,Lion Group Holding Ltd. - American Depositary Share,Stock,True,2026-05-08,,,2eb971a9b879e398e0a1
 LGIH,NASDAQ,"LGI Homes, Inc. - Common Stock",Stock,True,2026-05-08,,,a5898ffae2681d4ec2c4
 LGN,NASDAQ,Legence Corp. - Class A Common stock,Stock,True,2026-05-08,,,d404b3fc8d94814ae844
@@ -4526,7 +4530,7 @@ QEW,NASDAQ,Invesco QQQ Equal Weight ETF,ETF,True,2026-05-08,,,bda23d71734a42a3d4
 QFIN,NASDAQ,"Qfin Holdings, Inc. - American Depositary Shares",Stock,True,2026-05-08,,,3dee61d521db16cac9a4
 QGRD,NASDAQ,Horizon Nasdaq-100 Defined Risk ETF,ETF,True,2026-05-08,,,3701f5952a5c1271c413
 QH,NASDAQ,Quhuo Limited - American Depository Shares,Stock,True,2026-05-29,,,0030815cddf6f0dafafd
-QHDG,NASDAQ,Innovator Hedged Nasdaq-100 ETF,ETF,True,2026-05-08,,,6b7699acce99a1c10067
+QHDG,NASDAQ,Innovator Hedged Nasdaq-100 ETF,ETF,False,2026-05-08,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,6b7699acce99a1c10067
 QLDY,NASDAQ,Defiance Nasdaq 100 LightningSpread Income ETF,ETF,True,2026-05-08,,,3bdf228ca957225a9251
 QLYS,NASDAQ,"Qualys, Inc. - Common Stock",Stock,True,2026-05-08,,,717c13b95aa233551d74
 QMCO,NASDAQ,Quantum Corporation - Common Stock,Stock,True,2026-05-08,,,d05996b9d7116fd83a16
@@ -4603,6 +4607,7 @@ RAAQ,NASDAQ,Real Asset Acquisition Corp. - Class A Ordinary Share,Stock,False,20
 RAAQU,NASDAQ,Real Asset Acquisition Corp. - Unit,Stock,False,2026-05-08,2026-07-02,Missing from current NASDAQ source snapshot; reason unavailable,a25b2845e96ebc19ff1a
 RAAQW,NASDAQ,Real Asset Acquisition Corp. - Warrants,Stock,False,2026-05-08,2026-07-02,Missing from current NASDAQ source snapshot; reason unavailable,913d7ddc0f943d6493a4
 RACC,NASDAQ,Research Alliance Corporation III - Class A Ordinary Shares,Stock,True,2026-05-20,,,1bf14e315f8a71ec761b
+RACD,NASDAQ,Research Alliance Corporation IV - Class A Ordinary Shares,Stock,True,2026-07-13,,,ef272bb9dcc24210cdcd
 RADX,NASDAQ,Radiopharm Theranostics Limited - American Depositary Shares,Stock,True,2026-05-08,,,d3422b00f3af21053771
 RAIL,NASDAQ,"Freightcar America, Inc. - Common Stock",Stock,True,2026-05-08,,,d4b7d82736bf54d0fa42
 RAIN,NASDAQ,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,f5f77efcfef7cb9f2af0
@@ -4979,7 +4984,8 @@ SJ,NASDAQ,Scienjoy Holding Corporation - Class A Ordinary Shares,Stock,True,2026
 SJCP,NASDAQ,SanJac Alpha Core Plus Bond ETF,ETF,True,2026-05-08,,,67daaa1b660b96523bed
 SJLD,NASDAQ,SanJac Alpha Low Duration ETF,ETF,True,2026-05-08,,,77521566266bce0138c6
 SKBL,NASDAQ,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-17,Other delisting reason: Details unavailable (source: FMP Delisted API),4877ace68b66bfd40e09
-SKHYV,NASDAQ,SK hynix Inc. - American Depository Shares,Stock,True,2026-07-10,,,5d52cc059efe59775c85
+SKHY,NASDAQ,SK hynix Inc. - American Depositary Shares,Stock,True,2026-07-13,,,d0b805847341c22d0e12
+SKHYV,NASDAQ,SK hynix Inc. - American Depository Shares,Stock,False,2026-07-10,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,5d52cc059efe59775c85
 SKIN,NASDAQ,SkinHealth Systems Inc. - Class A Common Stock,Stock,True,2026-05-08,,,413da9f80912b1a4efaf
 SKK,NASDAQ,SKK Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,e6d732b9136c032b0f13
 SKOR,NASDAQ,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,True,2026-05-08,,,d50356e268e0c605ef4f
@@ -5215,9 +5221,9 @@ SUSC,NASDAQ,iShares ESG Aware USD Corporate Bond ETF,ETF,True,2026-05-08,,,83020
 SUSL,NASDAQ,iShares ESG MSCI USA Leaders ETF,ETF,True,2026-05-08,,,d36ab72e9368ed7c7e8e
 SUUN,NASDAQ,PowerBank Corporation - Common Stock,Stock,False,2026-05-08,2026-06-03,Missing from current NASDAQ source snapshot; reason unavailable,f03a28abf1e12b3e23a3
 SVA,NASDAQ,"Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",Stock,True,2026-05-08,,,89c4e647cda56895dd14
-SVAC,NASDAQ,Spring Valley Acquisition Corp. III - Class A Ordinary Shares,Stock,True,2026-05-08,,,7767d47e0bda4c6f7a0a
-SVACU,NASDAQ,Spring Valley Acquisition Corp. III - Unit,Stock,True,2026-05-08,,,21a26b356978cff5ecbf
-SVACW,NASDAQ,Spring Valley Acquisition Corp. III - Warrant,Stock,True,2026-05-08,,,c5d0e136196d4f76b28f
+SVAC,NASDAQ,Spring Valley Acquisition Corp. III - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,7767d47e0bda4c6f7a0a
+SVACU,NASDAQ,Spring Valley Acquisition Corp. III - Unit,Stock,False,2026-05-08,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,21a26b356978cff5ecbf
+SVACW,NASDAQ,Spring Valley Acquisition Corp. III - Warrant,Stock,False,2026-05-08,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,c5d0e136196d4f76b28f
 SVAQ,NASDAQ,Silicon Valley Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,14b0eef4b1454c58bdac
 SVAQU,NASDAQ,Silicon Valley Acquisition Corp. - Units,Stock,True,2026-05-08,,,18663584ca7fc623d9c7
 SVAQW,NASDAQ,Silicon Valley Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,470d139b04e2cb9c7aa4
@@ -5514,7 +5520,9 @@ TVAIR,NASDAQ,Thayer Ventures Acquisition Corporation II - Rights,Stock,True,2026
 TVAIU,NASDAQ,Thayer Ventures Acquisition Corporation II - Unit,Stock,True,2026-05-08,,,56324312ae601a004442
 TVGN,NASDAQ,Tevogen Bio Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,df03fbf206545290cdb6
 TVGNW,NASDAQ,Tevogen Bio Holdings Inc. - Warrant,Stock,True,2026-05-08,,,97367a90b3f8575b5180
+TVIV,NASDAQ,Texas Ventures Acquisition IV Corp - Class A Ordinary Shares,Stock,True,2026-07-13,,,140ed11139fa9e8f4a52
 TVIVU,NASDAQ,Texas Ventures Acquisition IV Corp - Units,Stock,True,2026-06-18,,,80f7e9509b97c4cc281c
+TVIVW,NASDAQ,Texas Ventures Acquisition IV Corp - Warrant,Stock,True,2026-07-13,,,f7c89fb613469079ac4c
 TVRD,NASDAQ,"Tvardi Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,28493471bda1e2093b84
 TVTX,NASDAQ,"Travere Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,141bc9317c094f73fbb3
 TW,NASDAQ,Tradeweb Markets Inc. - Class A Common Stock,Stock,True,2026-05-08,,,ebfe20fdb7fdc9918464
@@ -6001,7 +6009,9 @@ YHNAR,NASDAQ,YHN Acquisition I Limited - Right,Stock,True,2026-05-08,,,cfab82f8f
 YHNAU,NASDAQ,YHN Acquisition I Limited - Unit,Stock,True,2026-05-08,,,26aff278d54ae88a1403
 YI,NASDAQ,"111, Inc. - American Depositary Shares",Stock,True,2026-05-08,,,c3e058715d0d9c00de05
 YIBO,NASDAQ,Planet Image International Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,97abf485fd8ac0e398fa
+YICC,NASDAQ,Yorkville International Capital Corp. - Class A Ordinary Shares,Stock,True,2026-07-13,,,e04e68be05a2d6b67113
 YICCU,NASDAQ,Yorkville International Capital Corp. - Units,Stock,True,2026-06-16,,,ff39ad59454ed103d468
+YICCW,NASDAQ,Yorkville International Capital Corp. - Warrants,Stock,True,2026-07-13,,,97db453847be424fea93
 YJ,NASDAQ,Yunji Inc. - American Depository Shares,Stock,True,2026-05-08,,,8f27ceeea468e827d4b8
 YLDE,NASDAQ,Franklin ClearBridge Enhanced Income ETF,ETF,True,2026-05-08,,,20f7f37b4af4727ce1bc
 YMAT,NASDAQ,"J-Star Holding Co., Ltd. - Class A Ordinary Shares",Stock,True,2026-05-08,,,db829cd8f898ca4e82a7

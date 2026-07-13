@@ -525,6 +525,7 @@ NASDAQ,AYA,Aya Gold & Silver Inc. - Common Shares,Stock,,nasdaq_trader_symbol_di
 NASDAQ,AYTU,"Aytu BioPharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AZ,A2Z Cust2Mate Solutions Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AZI,Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AZIO,"Azio AI Holdings, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AZTA,"Azenta, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AZYY,GraniteShares YieldBoost AMZN ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BABU,Direxion Daily BABA Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1681,7 +1682,6 @@ NASDAQ,EVOXW,Evolution Global Acquisition Corp - Warrants,Stock,,nasdaq_trader_s
 NASDAQ,EVPF,Eaton Vance Preferred Securities and Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EVRG,"Evergy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVSD,Eaton Vance Short Duration Income ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,EVTV,"Azio AI Holdings, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVYM,Eaton Vance High Income Municipal ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EWBC,"East West Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EWJV,iShares MSCI Japan Value ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2060,6 +2060,8 @@ NASDAQ,GFAIW,"Guardforce AI Co., Limited - Warrant",Stock,,nasdaq_trader_symbol_
 NASDAQ,GFGF,Guru Favorite Stocks ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GFLW,VictoryShares Free Cash Flow Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GFS,GlobalFoundries Inc. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GFUZ,General Fusion Group Ltd. - Common Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GFUZW,General Fusion Group Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GGAL,"Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GGLL,Direxion Daily GOOGL Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GGLS,Direxion Daily GOOGL Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2897,6 +2899,7 @@ NASDAQ,LFVN,Lifevantage Corporation - Common Stock,Stock,,nasdaq_trader_symbol_d
 NASDAQ,LFWD,Lifeward Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LGCF,Themes US Cash Flow Champions ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LGCL,Lucas GC Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LGDS,JPMorgan Fundamental Data Science Large Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LGHL,Lion Group Holding Ltd. - American Depositary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LGIH,"LGI Homes, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LGN,Legence Corp. - Class A Common stock,Stock,,nasdaq_trader_symbol_directory
@@ -4061,7 +4064,6 @@ NASDAQ,QEW,Invesco QQQ Equal Weight ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QFIN,"Qfin Holdings, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QGRD,Horizon Nasdaq-100 Defined Risk ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QH,Quhuo Limited - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,QHDG,Innovator Hedged Nasdaq-100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QLDY,Defiance Nasdaq 100 LightningSpread Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QLYS,"Qualys, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMCO,Quantum Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4134,6 +4136,7 @@ NASDAQ,QYLD,Global X NASDAQ 100 Covered Call ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RAA,SMI 3Fourteen REAL Asset Allocation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RACC,Research Alliance Corporation III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RACD,Research Alliance Corporation IV - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RADX,Radiopharm Theranostics Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RAIL,"Freightcar America, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RAIN,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4498,7 +4501,7 @@ NASDAQ,SITM,SiTime Corporation - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,SJ,Scienjoy Holding Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SJCP,SanJac Alpha Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SJLD,SanJac Alpha Low Duration ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,SKHYV,SK hynix Inc. - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SKHY,SK hynix Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKIN,SkinHealth Systems Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKK,SKK Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,,nasdaq_trader_symbol_directory
@@ -4723,9 +4726,6 @@ NASDAQ,SUSB,iShares ESG Aware 1-5 Year USD Corporate Bond ETF,ETF,,nasdaq_trader
 NASDAQ,SUSC,iShares ESG Aware USD Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SUSL,iShares ESG MSCI USA Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SVA,"Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SVAC,Spring Valley Acquisition Corp. III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SVACU,Spring Valley Acquisition Corp. III - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SVACW,Spring Valley Acquisition Corp. III - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVAQ,Silicon Valley Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVAQU,Silicon Valley Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVAQW,Silicon Valley Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -5016,7 +5016,9 @@ NASDAQ,TVAIR,Thayer Ventures Acquisition Corporation II - Rights,Stock,,nasdaq_t
 NASDAQ,TVAIU,Thayer Ventures Acquisition Corporation II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TVGN,Tevogen Bio Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TVGNW,Tevogen Bio Holdings Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TVIV,Texas Ventures Acquisition IV Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TVIVU,Texas Ventures Acquisition IV Corp - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TVIVW,Texas Ventures Acquisition IV Corp - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TVRD,"Tvardi Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TVTX,"Travere Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TW,Tradeweb Markets Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5488,7 +5490,9 @@ NASDAQ,YHNAR,YHN Acquisition I Limited - Right,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,YHNAU,YHN Acquisition I Limited - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YI,"111, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YIBO,Planet Image International Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,YICC,Yorkville International Capital Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YICCU,Yorkville International Capital Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,YICCW,Yorkville International Capital Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YJ,Yunji Inc. - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YLDE,Franklin ClearBridge Enhanced Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YMAT,"J-Star Holding Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
