@@ -723,7 +723,6 @@ NASDAQ,BMRC,Bank of Marin Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,BMRN,BioMarin Pharmaceutical Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNAI,Brand Engagement Network Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNAIW,Brand Engagement Network Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BNBX,BNB Plus Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNC,CEA Industries Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNCWW,CEA Industries Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNCWZ,CEA Industries Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -775,7 +774,9 @@ NASDAQ,BREZR,Breeze Acquisition Corp. II - Rights,Stock,,nasdaq_trader_symbol_di
 NASDAQ,BRFH,Barfresh Food Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRHY,iShares High Yield Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRID,Bridgford Foods Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BRKH,Burtech Acquisition Corp II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRKHU,Burtech Acquisition Corp II - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BRKHW,Burtech Acquisition Corp II - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRKR,Bruker Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRKRP,"Bruker Corporation - 6.375% Mandatory Convertible Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRKU,Direxion Daily BRKB Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
@@ -844,6 +845,7 @@ NASDAQ,BTBDW,"BT Brands, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTBT,"Bit Digital, Inc. - Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTCS,BTCS Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTCT,BTC Digital Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BTDL,GraniteShares 2x Long BTDR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BTDR,Bitdeer Technologies Group - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTF,CoinShares Bitcoin and Ether ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BTGD,STKd 100% Bitcoin & 100% Gold ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1293,7 +1295,6 @@ NASDAQ,CUPR,Cuprina Holdings (Cayman) Limited - Class A Ordinary shares,Stock,,n
 NASDAQ,CURI,CuriosityStream Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CURR,Currenc Group Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CURX,Curanex Pharmaceuticals Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CUSD,CrossingBridge Ultra-Short Duration ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CV,"CapsoVision, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVBF,CVB Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVCO,"Cavco Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1651,7 +1652,6 @@ NASDAQ,ESMV,iShares ESG Optimized MSCI USA Min Vol Factor ETF,ETF,,nasdaq_trader
 NASDAQ,ESN,Essential 40 Stock ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ESOA,Energy Services of America Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ESPO,VanEck Video Gaming and eSports ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,ESPR,"Esperion Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ESQ,"Esquire Financial Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ESTA,Establishment Labs Holdings Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ETEC,iShares Breakthrough Environmental Solutions ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2696,6 +2696,7 @@ NASDAQ,JL,J-Long Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_sy
 NASDAQ,JLHL,Julong Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JMID,Janus Henderson Mid Cap Growth Alpha ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JMSB,"John Marshall Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,JONEU,Jones Ventures INTL Acquisition1 Corp - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JOUT,Johnson Outdoors Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JOYT,JPMorgan Equity and Options Total Return ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JOYY,JOYY Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3248,7 +3249,7 @@ NASDAQ,MRTN,"Marten Transport, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,MRVI,"Maravai LifeSciences Holdings, Inc. - Class A common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MRVL,"Marvell Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MRVU,Direxion Daily MRVL Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,MRX,Marex Group plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MRX,Marex Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSAI,"MultiSensor AI Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSAIW,"MultiSensor AI Holdings, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSBI,"Midland States Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3485,6 +3486,7 @@ NASDAQ,NSPR,InspireMD Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSSC,"NAPCO Security Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSTS,"NSTS Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSYS,Nortech Systems Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NTAL,GraniteShares 2x Long NTAP Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NTAP,"NetApp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NTCL,NETCLASS TECHNOLOGY INC - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NTCT,"NetScout Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4061,6 +4063,7 @@ NASDAQ,QETA,Quetta Acquisition Corporation - Common Stock,Stock,,nasdaq_trader_s
 NASDAQ,QETAR,Quetta Acquisition Corporation - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QETAU,Quetta Acquisition Corporation - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QEW,Invesco QQQ Equal Weight ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QFF,Qualivian Focus Fund ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QFIN,"Qfin Holdings, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QGRD,Horizon Nasdaq-100 Defined Risk ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QH,Quhuo Limited - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4440,6 +4443,7 @@ NASDAQ,SEPN,"Septerna, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_director
 NASDAQ,SERA,"Sera Prognostics, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SERV,Serve Robotics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SETM,Sprott Critical Materials ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,SEUS,SEI QiM U.S. Equity Factor Allocation Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SEV,Aptera Motors Corp. - Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SEVN,Seven Hills Realty Trust - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SEZL,Sezzle Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4501,11 +4505,13 @@ NASDAQ,SITM,SiTime Corporation - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,SJ,Scienjoy Holding Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SJCP,SanJac Alpha Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SJLD,SanJac Alpha Low Duration ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,SKDD,GraniteShares 2x Short SK Hynix Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SKHY,SK hynix Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKIN,SkinHealth Systems Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKK,SKK Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,SKUU,GraniteShares 2x Long SK Hynix Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SKWD,"Skyward Specialty Insurance Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYA,"SkyAI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYAW,"SkyAI, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
@@ -4812,6 +4818,7 @@ NASDAQ,TCX,Tucows Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TDAC,Translational Development Acquisition Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TDACU,Translational Development Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TDACW,Translational Development Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TDCL,GraniteShares 2x Long TDC Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TDI,Touchstone Dynamic International ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TDIC,Dreamland Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TDIV,First Trust NASDAQ Technology Dividend Index Fund,ETF,,nasdaq_trader_symbol_directory

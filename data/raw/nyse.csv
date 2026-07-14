@@ -868,7 +868,6 @@ NYSE,EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American D
 NYSE,EDU,"New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)",Stock,,nasdaq_trader_symbol_directory
 NYSE,EE,"Excelerate Energy, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,EEA,"The European Equity Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,EEX,"Emerald Holding, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,EFC,Ellington Financial Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,EFC$B,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,EFC$C,Ellington Financial Inc. 8.625% Series C Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2875,7 +2874,6 @@ NYSE,WS,"Worthington Steel, Inc. Common Shares",Stock,,nasdaq_trader_symbol_dire
 NYSE,WSM,"Williams-Sonoma, Inc. Common Stock (DE)",Stock,,nasdaq_trader_symbol_directory
 NYSE,WSO,"Watsco, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WSO.B,"Watsco, Inc. Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,WSR,Whitestone REIT Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,WST,"West Pharmaceutical Services, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WT,"WisdomTree, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WTI,"W&T Offshore, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2897,7 +2895,7 @@ NYSE,XPER,Xperi Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,XPEV,"XPeng Inc. American depositary shares, each representing two Class A ordinary shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,XPO,"XPO, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,XPOF,"Xponential Fitness, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,XPRO,Expro Group Holdings N.V. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,XPRO,Expro Ltd Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,XRN,Chiron Real Estate Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,XRN$A,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,XRN$B,"Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",Stock,,nasdaq_trader_symbol_directory

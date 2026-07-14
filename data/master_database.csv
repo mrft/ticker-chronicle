@@ -1079,7 +1079,7 @@ BMRC,NASDAQ,Bank of Marin Bancorp - Common Stock,Stock,True,2026-05-08,,,f1d2d3a
 BMRN,NASDAQ,BioMarin Pharmaceutical Inc. - Common Stock,Stock,True,2026-05-08,,,e85875f7165c45b25691
 BNAI,NASDAQ,Brand Engagement Network Inc. - Common Stock,Stock,True,2026-05-08,,,d44165c9547bb5d8cefd
 BNAIW,NASDAQ,Brand Engagement Network Inc. - Warrant,Stock,True,2026-05-08,,,3a98503a5ef25503c79b
-BNBX,NASDAQ,BNB Plus Corp. - Common Stock,Stock,True,2026-05-08,,,b941ee3f33c70486bf76
+BNBX,NASDAQ,BNB Plus Corp. - Common Stock,Stock,False,2026-05-08,2026-07-14,Missing from current NASDAQ source snapshot; reason unavailable,b941ee3f33c70486bf76
 BNC,NASDAQ,CEA Industries Inc. - Common Stock,Stock,True,2026-05-08,,,c0cf9c8367c2b73422aa
 BNCWW,NASDAQ,CEA Industries Inc. - Warrant,Stock,True,2026-05-08,,,98b385c1cbab027576cb
 BNCWZ,NASDAQ,CEA Industries Inc. - Warrants,Stock,True,2026-05-08,,,74ea1cec4a475b565b00
@@ -1132,7 +1132,9 @@ BREZU,NASDAQ,Breeze Acquisition Corp. II - Units,Stock,False,2026-05-13,2026-06-
 BRFH,NASDAQ,Barfresh Food Group Inc. - Common Stock,Stock,True,2026-05-08,,,5dcae4590d4352fceaca
 BRHY,NASDAQ,iShares High Yield Active ETF,ETF,True,2026-05-08,,,d3a9db4c8cf7bd74c925
 BRID,NASDAQ,Bridgford Foods Corporation - Common Stock,Stock,True,2026-05-08,,,164dc1dd2dc28867c726
+BRKH,NASDAQ,Burtech Acquisition Corp II - Class A Ordinary Shares,Stock,True,2026-07-14,,,9a4d064200cb79f2a522
 BRKHU,NASDAQ,Burtech Acquisition Corp II - Units,Stock,True,2026-05-22,,,3ccfd79f7a76979d0bc7
+BRKHW,NASDAQ,Burtech Acquisition Corp II - Warrants,Stock,True,2026-07-14,,,245022d89e75cc8f994b
 BRKR,NASDAQ,Bruker Corporation - Common Stock,Stock,True,2026-05-08,,,0ad5f16e654ea90ffa9b
 BRKRP,NASDAQ,"Bruker Corporation - 6.375% Mandatory Convertible Preferred Stock, Series A",Stock,True,2026-05-08,,,a1e2d93d126e3f901a33
 BRKU,NASDAQ,Direxion Daily BRKB Bull 2X ETF,ETF,True,2026-05-08,,,05b2270ceafcb581f3f2
@@ -1201,6 +1203,7 @@ BTBDW,NASDAQ,"BT Brands, Inc. - Warrant",Stock,True,2026-05-08,,,9d45dde882d67f5
 BTBT,NASDAQ,"Bit Digital, Inc. - Ordinary Share",Stock,True,2026-05-08,,,bd6fbbb826035453c525
 BTCS,NASDAQ,BTCS Inc. - Common Stock,Stock,True,2026-05-08,,,33aa532d76e624a2b445
 BTCT,NASDAQ,BTC Digital Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,385f125e4828397821f1
+BTDL,NASDAQ,GraniteShares 2x Long BTDR Daily ETF,ETF,True,2026-07-14,,,b34dfbe0b32f1e918423
 BTDR,NASDAQ,Bitdeer Technologies Group - Ordinary Shares,Stock,True,2026-05-08,,,6f2e7ae268a47b7a719e
 BTF,NASDAQ,CoinShares Bitcoin and Ether ETF,ETF,True,2026-05-08,,,fabbbc8a83a5c56f8414
 BTGD,NASDAQ,STKd 100% Bitcoin & 100% Gold ETF,ETF,True,2026-05-08,,,ca427d040bec8b3295d8
@@ -1668,7 +1671,7 @@ CUPR,NASDAQ,Cuprina Holdings (Cayman) Limited - Class A Ordinary shares,Stock,Tr
 CURI,NASDAQ,CuriosityStream Inc. - Class A Common Stock,Stock,True,2026-05-08,,,f3cb6f1efaeb34fe47d9
 CURR,NASDAQ,Currenc Group Inc. - Ordinary Shares,Stock,True,2026-05-08,,,2bca661180f521dd2553
 CURX,NASDAQ,Curanex Pharmaceuticals Inc - Common Stock,Stock,True,2026-05-08,,,d184553abb1ee787affb
-CUSD,NASDAQ,CrossingBridge Ultra-Short Duration ETF,ETF,True,2026-05-08,,,f8fec58701b7c38c0a0b
+CUSD,NASDAQ,CrossingBridge Ultra-Short Duration ETF,ETF,False,2026-05-08,2026-07-14,Missing from current NASDAQ source snapshot; reason unavailable,f8fec58701b7c38c0a0b
 CV,NASDAQ,"CapsoVision, Inc. - Common Stock",Stock,True,2026-05-08,,,f1dcbc8d604bb8ea8448
 CVBF,NASDAQ,CVB Financial Corporation - Common Stock,Stock,True,2026-05-08,,,4b8410d848adbfdbbd65
 CVCO,NASDAQ,"Cavco Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,63a7052b4f8b3cf4c3b1
@@ -2033,7 +2036,7 @@ ESMV,NASDAQ,iShares ESG Optimized MSCI USA Min Vol Factor ETF,ETF,True,2026-05-0
 ESN,NASDAQ,Essential 40 Stock ETF,ETF,True,2026-05-08,,,c13461b80d306206085f
 ESOA,NASDAQ,Energy Services of America Corporation - Common Stock,Stock,True,2026-05-08,,,26269a91908ef85d1602
 ESPO,NASDAQ,VanEck Video Gaming and eSports ETF,ETF,True,2026-05-08,,,fbd85ffe67f17d49a967
-ESPR,NASDAQ,"Esperion Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,e902cff8a58e804ace2a
+ESPR,NASDAQ,"Esperion Therapeutics, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-14,Missing from current NASDAQ source snapshot; reason unavailable,e902cff8a58e804ace2a
 ESQ,NASDAQ,"Esquire Financial Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,c3bd0f001df913707acc
 ESTA,NASDAQ,Establishment Labs Holdings Inc. - Common Shares,Stock,True,2026-05-08,,,32070a9e3a86403497e9
 ETEC,NASDAQ,iShares Breakthrough Environmental Solutions ETF,ETF,True,2026-05-08,,,444e988b1eed12f9152e
@@ -3116,6 +3119,7 @@ JL,NASDAQ,J-Long Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,
 JLHL,NASDAQ,Julong Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,7c3bfb13514ba1de9b55
 JMID,NASDAQ,Janus Henderson Mid Cap Growth Alpha ETF,ETF,True,2026-05-08,,,66056845c9da4d8f3a55
 JMSB,NASDAQ,"John Marshall Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,fdd2c3876e16d10044dc
+JONEU,NASDAQ,Jones Ventures INTL Acquisition1 Corp - Units,Stock,True,2026-07-14,,,ee03f77a798b9365228a
 JOUT,NASDAQ,Johnson Outdoors Inc. - Class A Common Stock,Stock,True,2026-05-08,,,f6300b8ccea8bb7e6ef7
 JOYT,NASDAQ,JPMorgan Equity and Options Total Return ETF,ETF,True,2026-05-08,,,92ca9ee8cd9e7977687f
 JOYY,NASDAQ,JOYY Inc. - American Depositary Shares,Stock,True,2026-05-08,,,9325a54cc3e573629ac9
@@ -3692,7 +3696,8 @@ MRTN,NASDAQ,"Marten Transport, Ltd. - Common Stock",Stock,True,2026-05-08,,,42e4
 MRVI,NASDAQ,"Maravai LifeSciences Holdings, Inc. - Class A common stock",Stock,True,2026-05-08,,,9ba67ba7ff4605d0ac0e
 MRVL,NASDAQ,"Marvell Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,1d4b007e3e9cd3208918
 MRVU,NASDAQ,Direxion Daily MRVL Bull 2X ETF,ETF,True,2026-05-08,,,8a29b47f34f20389442d
-MRX,NASDAQ,Marex Group plc - Ordinary Shares,Stock,True,2026-05-08,,,9661c8b0da01f07769fa
+MRX,NASDAQ,Marex Group plc - Ordinary Shares,Stock,False,2026-05-08,2026-07-14,Listing metadata changed,9661c8b0da01f07769fa
+MRX,NASDAQ,Marex Group Limited - Ordinary Shares,Stock,True,2026-07-14,,,b75069edeea2313f5bbc
 MSAI,NASDAQ,"MultiSensor AI Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,3b6785504c6b2b8e6c3e
 MSAIW,NASDAQ,"MultiSensor AI Holdings, Inc. - Warrants",Stock,True,2026-05-08,,,a7ff16cdf29fbedf4ccc
 MSBI,NASDAQ,"Midland States Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,61d3bc25ad33deee177e
@@ -3936,6 +3941,7 @@ NSPR,NASDAQ,InspireMD Inc. - Common Stock,Stock,True,2026-05-08,,,75960896065ec7
 NSSC,NASDAQ,"NAPCO Security Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,e33e9c63d6def64b492f
 NSTS,NASDAQ,"NSTS Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,455ca8f433da9e73b4cf
 NSYS,NASDAQ,Nortech Systems Incorporated - Common Stock,Stock,True,2026-05-08,,,24399a59deda6d6994c4
+NTAL,NASDAQ,GraniteShares 2x Long NTAP Daily ETF,ETF,True,2026-07-14,,,17915d54cbae3c707075
 NTAP,NASDAQ,"NetApp, Inc. - Common Stock",Stock,True,2026-05-08,,,bbc20482cef99ffbd68e
 NTCL,NASDAQ,NETCLASS TECHNOLOGY INC - Class A Ordinary Shares,Stock,True,2026-05-08,,,bf9f5a7b9aa55b8ed388
 NTCT,NASDAQ,"NetScout Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,e18c00845f6a61ed4c33
@@ -4527,6 +4533,7 @@ QETA,NASDAQ,Quetta Acquisition Corporation - Common Stock,Stock,True,2026-05-08,
 QETAR,NASDAQ,Quetta Acquisition Corporation - Right,Stock,True,2026-05-08,,,13753206a45e20284cc5
 QETAU,NASDAQ,Quetta Acquisition Corporation - Unit,Stock,True,2026-05-08,,,e37ae34b5d1fe2356a95
 QEW,NASDAQ,Invesco QQQ Equal Weight ETF,ETF,True,2026-05-08,,,bda23d71734a42a3d47a
+QFF,NASDAQ,Qualivian Focus Fund ETF,ETF,True,2026-07-14,,,41999ccaeb9a3569eac8
 QFIN,NASDAQ,"Qfin Holdings, Inc. - American Depositary Shares",Stock,True,2026-05-08,,,3dee61d521db16cac9a4
 QGRD,NASDAQ,Horizon Nasdaq-100 Defined Risk ETF,ETF,True,2026-05-08,,,3701f5952a5c1271c413
 QH,NASDAQ,Quhuo Limited - American Depository Shares,Stock,True,2026-05-29,,,0030815cddf6f0dafafd
@@ -4922,6 +4929,7 @@ SEPN,NASDAQ,"Septerna, Inc. - Common Stock",Stock,True,2026-05-08,,,ca6e8507fe7c
 SERA,NASDAQ,"Sera Prognostics, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,92cfe844028a6109bb9c
 SERV,NASDAQ,Serve Robotics Inc. - Common Stock,Stock,True,2026-05-08,,,f66ed1f78679598b6cd7
 SETM,NASDAQ,Sprott Critical Materials ETF,ETF,True,2026-05-08,,,62dac6a609186a8145ed
+SEUS,NASDAQ,SEI QiM U.S. Equity Factor Allocation Active ETF,ETF,True,2026-07-14,,,45cc437a87d9b698a3e0
 SEV,NASDAQ,Aptera Motors Corp. - Class B Common Stock,Stock,True,2026-05-08,,,f9caba682881712213be
 SEVN,NASDAQ,Seven Hills Realty Trust - Common Stock,Stock,True,2026-05-08,,,09a4cbe285ab95e5e6f6
 SEZL,NASDAQ,Sezzle Inc. - Common Stock,Stock,True,2026-05-08,,,fa62d06afd4899425aa9
@@ -4984,12 +4992,14 @@ SJ,NASDAQ,Scienjoy Holding Corporation - Class A Ordinary Shares,Stock,True,2026
 SJCP,NASDAQ,SanJac Alpha Core Plus Bond ETF,ETF,True,2026-05-08,,,67daaa1b660b96523bed
 SJLD,NASDAQ,SanJac Alpha Low Duration ETF,ETF,True,2026-05-08,,,77521566266bce0138c6
 SKBL,NASDAQ,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-17,Other delisting reason: Details unavailable (source: FMP Delisted API),4877ace68b66bfd40e09
+SKDD,NASDAQ,GraniteShares 2x Short SK Hynix Daily ETF,ETF,True,2026-07-14,,,195bc7a5c386b0b7b2c0
 SKHY,NASDAQ,SK hynix Inc. - American Depositary Shares,Stock,True,2026-07-13,,,d0b805847341c22d0e12
 SKHYV,NASDAQ,SK hynix Inc. - American Depository Shares,Stock,False,2026-07-10,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,5d52cc059efe59775c85
 SKIN,NASDAQ,SkinHealth Systems Inc. - Class A Common Stock,Stock,True,2026-05-08,,,413da9f80912b1a4efaf
 SKK,NASDAQ,SKK Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,e6d732b9136c032b0f13
 SKOR,NASDAQ,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,True,2026-05-08,,,d50356e268e0c605ef4f
 SKRE,NASDAQ,Tuttle Capital Daily 2X Inverse Regional Banks ETF,ETF,True,2026-05-08,,,f12240ea5aa4dc88d80e
+SKUU,NASDAQ,GraniteShares 2x Long SK Hynix Daily ETF,ETF,True,2026-07-14,,,66728af4b2792a00b54c
 SKWD,NASDAQ,"Skyward Specialty Insurance Group, Inc. - Common Stock",Stock,True,2026-05-08,,,eecee428cc8bb0675199
 SKYA,NASDAQ,"SkyAI, Inc. - Common Stock",Stock,True,2026-05-28,,,3cd3c7869a54c7577a85
 SKYAW,NASDAQ,"SkyAI, Inc. - Warrant",Stock,True,2026-05-28,,,3f946a01f20259e4a584
@@ -5315,6 +5325,7 @@ TCX,NASDAQ,Tucows Inc. - Common Stock,Stock,True,2026-05-08,,,879e6c52b5ec8e70af
 TDAC,NASDAQ,Translational Development Acquisition Corp. - Ordinary Shares,Stock,True,2026-05-08,,,c3284a7e6c2e4a7ec91a
 TDACU,NASDAQ,Translational Development Acquisition Corp. - Units,Stock,True,2026-05-08,,,3230ed21e7e785c78898
 TDACW,NASDAQ,Translational Development Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,dea495fb2f2caf378e3f
+TDCL,NASDAQ,GraniteShares 2x Long TDC Daily ETF,ETF,True,2026-07-14,,,83b53c9d387a095d5cbe
 TDI,NASDAQ,Touchstone Dynamic International ETF,ETF,True,2026-05-08,,,238fa1580e6eb1ff1a13
 TDIC,NASDAQ,Dreamland Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,38d72180f1b50bcde11f
 TDIV,NASDAQ,First Trust NASDAQ Technology Dividend Index Fund,ETF,True,2026-05-08,,,0ecd82132a47a7c41459
@@ -6970,7 +6981,7 @@ EDN,NYSE,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American D
 EDU,NYSE,"New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)",Stock,True,2026-05-08,,,054a6c077ac7f05562e0
 EE,NYSE,"Excelerate Energy, Inc. Class A Common Stock",Stock,True,2026-05-08,,,47317797d831821b2981
 EEA,NYSE,"The European Equity Fund, Inc. Common Stock",Stock,True,2026-05-08,,,be840ed41200accc15fe
-EEX,NYSE,"Emerald Holding, Inc. Common Stock",Stock,True,2026-05-08,,,dd78b59b409f97f91e98
+EEX,NYSE,"Emerald Holding, Inc. Common Stock",Stock,False,2026-05-08,2026-07-14,Missing from current NYSE source snapshot; reason unavailable,dd78b59b409f97f91e98
 EFC,NYSE,Ellington Financial Inc. Common Stock,Stock,True,2026-05-08,,,c4379a6626bc151f434e
 EFC$B,NYSE,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,fd4281bcd2ae2bc66c84
 EFC$C,NYSE,Ellington Financial Inc. 8.625% Series C Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,1aa33dbba109d2985bcb
@@ -9023,7 +9034,7 @@ WS,NYSE,"Worthington Steel, Inc. Common Shares",Stock,True,2026-05-08,,,917c7dc9
 WSM,NYSE,"Williams-Sonoma, Inc. Common Stock (DE)",Stock,True,2026-05-08,,,d4c7d7660fe2adb9f1d2
 WSO,NYSE,"Watsco, Inc. Common Stock",Stock,True,2026-05-08,,,413580fd4759db99672e
 WSO.B,NYSE,"Watsco, Inc. Class B Common Stock",Stock,True,2026-05-08,,,3e9b692df7bef6d2afa4
-WSR,NYSE,Whitestone REIT Common Shares,Stock,True,2026-05-08,,,60277fc82ed25261edd2
+WSR,NYSE,Whitestone REIT Common Shares,Stock,False,2026-05-08,2026-07-14,Missing from current NYSE source snapshot; reason unavailable,60277fc82ed25261edd2
 WST,NYSE,"West Pharmaceutical Services, Inc. Common Stock",Stock,True,2026-05-08,,,7bae87fafbc706cdb941
 WT,NYSE,"WisdomTree, Inc. Common Stock",Stock,True,2026-05-08,,,b42381bedc91716a4f17
 WTI,NYSE,"W&T Offshore, Inc. Common Stock",Stock,True,2026-05-08,,,f9153f5b043ef12653f9
@@ -9047,7 +9058,8 @@ XPER,NYSE,Xperi Inc. Common Stock,Stock,True,2026-05-08,,,c084c0bdb734b84ae1e4
 XPEV,NYSE,"XPeng Inc. American depositary shares, each representing two Class A ordinary shares",Stock,True,2026-05-08,,,4c59a755cb5198b50d78
 XPO,NYSE,"XPO, Inc. Common Stock",Stock,True,2026-05-08,,,0f9be3de16526d69b299
 XPOF,NYSE,"Xponential Fitness, Inc. Class A Common Stock",Stock,True,2026-05-08,,,e4c25c1ecf0972703dce
-XPRO,NYSE,Expro Group Holdings N.V. Common Stock,Stock,True,2026-05-08,,,0ccdd7b2f674add526b0
+XPRO,NYSE,Expro Group Holdings N.V. Common Stock,Stock,False,2026-05-08,2026-07-14,Listing metadata changed,0ccdd7b2f674add526b0
+XPRO,NYSE,Expro Ltd Ordinary Shares,Stock,True,2026-07-14,,,e2b40028d09042fed34d
 XRN,NYSE,Chiron Real Estate Inc. Common Stock,Stock,True,2026-05-08,,,8d5f9d0490eb6e8db078
 XRN$A,NYSE,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,c4f8be2e7ced909ee398
 XRN$B,NYSE,"Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",Stock,True,2026-05-08,,,09c0e967fe6df798a5dc
