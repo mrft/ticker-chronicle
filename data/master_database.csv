@@ -1042,7 +1042,7 @@ BKYI,NASDAQ,"BIO-key International, Inc. - Common Stock",Stock,False,2026-05-08,
 BKYI,NASDAQ,"BIO-key International, Inc. - Common Stock",Stock,True,2026-07-08,,,00542a237e9ec54f7308
 BL,NASDAQ,"BlackLine, Inc. - Common Stock",Stock,True,2026-05-08,,,67b2f3e857eeff31814e
 BLBD,NASDAQ,Blue Bird Corporation - Common Stock,Stock,True,2026-05-08,,,1846d2311bff9b29b9a9
-BLCN,NASDAQ,Siren NexGen Economy ETF,ETF,True,2026-05-08,,,d8a7c634ed37affd61ee
+BLCN,NASDAQ,Siren NexGen Economy ETF,ETF,False,2026-05-08,2026-07-15,Missing from current NASDAQ source snapshot; reason unavailable,d8a7c634ed37affd61ee
 BLCR,NASDAQ,iShares Large Cap Core Active ETF,ETF,True,2026-05-08,,,dbfe3b086c27af9f83c5
 BLDP,NASDAQ,"Ballard Power Systems, Inc. - Common Shares",Stock,True,2026-05-08,,,ec4a0306d8d705b41e05
 BLFS,NASDAQ,"BioLife Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,c5b9f28085196ff3438f
@@ -2718,7 +2718,8 @@ HLAL,NASDAQ,Wahed FTSE USA Shariah ETF,ETF,True,2026-05-08,,,df1c16d6ae04a2a00cc
 HLIT,NASDAQ,Harmonic Inc. - Common Stock,Stock,True,2026-05-08,,,0d87ac87fdf3c1591f80
 HLMN,NASDAQ,Hillman Solutions Corp. - Common Stock,Stock,True,2026-05-08,,,9ed2dd968b800212f26d
 HLNE,NASDAQ,Hamilton Lane Incorporated - Class A Common Stock,Stock,True,2026-05-08,,,76bc119e22307814b7cb
-HLP,NASDAQ,Hongli Group Inc. - Ordinary Shares,Stock,True,2026-05-08,,,2036fa59770ba2aeb9a8
+HLP,NASDAQ,Hongli Group Inc. - Ordinary Shares,Stock,False,2026-05-08,2026-07-15,Listing metadata changed,2036fa59770ba2aeb9a8
+HLP,NASDAQ,Hongli Group Inc. - Class A Ordinary Shares,Stock,True,2026-07-15,,,bcda933147403012d915
 HLXC,NASDAQ,Helix Acquisition Corp. III - Class A Ordinary Shares,Stock,True,2026-05-08,,,38172825e7ba4a5b1a41
 HMH,NASDAQ,HMH Holding Inc. - Common Stock,Stock,True,2026-05-08,,,4d719d39a30b772c59e9
 HMR,NASDAQ,Heidmar Maritime Holdings Corp. - Common Stock,Stock,True,2026-05-08,,,ebd4bc84587eb8b8494c
@@ -3491,7 +3492,8 @@ MAT,NASDAQ,"Mattel, Inc. - Common Stock",Stock,True,2026-05-08,,,b59898750f48fbb
 MATE,NASDAQ,Man Active Trend Enhanced ETF,ETF,True,2026-05-08,,,52c157a9c382770b607a
 MATH,NASDAQ,Metalpha Technology Holding Limited - Ordinary Shares,Stock,True,2026-05-08,,,76bc321b59781f188adb
 MATW,NASDAQ,Matthews International Corporation - Class A Common Stock,Stock,True,2026-05-08,,,0aedb4e187254f6f47db
-MAXI,NASDAQ,Simplify Bitcoin Strategy PLUS Income ETF,ETF,True,2026-05-08,,,eed7a722f6205705aeaa
+MAXI,NASDAQ,Simplify Bitcoin Strategy PLUS Income ETF,ETF,False,2026-05-08,2026-07-15,Listing metadata changed,eed7a722f6205705aeaa
+MAXI,NASDAQ,Simplify Bitcoin Strategy ETF,ETF,True,2026-07-15,,,994c07a77a06b2551f18
 MAYS,NASDAQ,"J. W. Mays, Inc. - Common Stock",Stock,True,2026-05-08,,,a3eb05016a065d7d3f6b
 MAZE,NASDAQ,"Maze Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,d776d0663ac82576f96c
 MB,NASDAQ,MasterBeef Group - Ordinary Shares,Stock,True,2026-05-08,,,f2f64e7e523afd0ca70d
@@ -5333,7 +5335,8 @@ TDOG,NASDAQ,21shares Dogecoin ETF,ETF,True,2026-05-08,,,688755123885daf75fee
 TDOT,NASDAQ,21shares Polkadot ETF,ETF,True,2026-05-08,,,519474d6c02d7888a54e
 TDSB,NASDAQ,ETC Cabana Target Beta ETF,ETF,True,2026-05-08,,,f3e7eddb2f13993e96af
 TDSC,NASDAQ,ETC Cabana Target Drawdown 10 ETF,ETF,True,2026-05-08,,,e1156abd2a3c3ed4a040
-TDTH,NASDAQ,Trident Digital Tech Holdings Ltd - American Depository Shares,Stock,True,2026-05-08,,,b8556faa3ee0ba0fe88f
+TDTH,NASDAQ,Trident Digital Tech Holdings Ltd - American Depository Shares,Stock,False,2026-05-08,2026-07-15,Listing metadata changed,b8556faa3ee0ba0fe88f
+TDTH,NASDAQ,Trident Digital Tech Holdings Ltd - Class B Ordinary Shares,Stock,True,2026-07-15,,,179cd6b35f112c5b2cc0
 TDUP,NASDAQ,ThredUp Inc. - Class A Common Stock,Stock,True,2026-05-08,,,a4da8e1bef1326a5b6a1
 TDWD,NASDAQ,Tailwind 2.0 Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,6e35517d3d409aaf80d7
 TDWDR,NASDAQ,Tailwind 2.0 Acquisition Corp. - Rights,Stock,True,2026-05-08,,,86bb5f3bf41468814b57
@@ -5969,9 +5972,9 @@ XMTR,NASDAQ,"Xometry, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,04b18
 XNCR,NASDAQ,"Xencor, Inc. - Common Stock",Stock,True,2026-05-08,,,6aacb977dc666757ce8d
 XNDU,NASDAQ,Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares,Stock,True,2026-05-08,,,d617881e422faae7b3c2
 XNET,NASDAQ,Xunlei Limited - American Depositary Shares,Stock,True,2026-05-08,,,1ddac7da7d273bb67d57
-XOMA,NASDAQ,XOMA Royalty Corporation - Common Stock,Stock,True,2026-05-08,,,0e44b2b9aab77824d492
-XOMAO,NASDAQ,XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock,Stock,True,2026-05-08,,,7d01ddb2429654832f82
-XOMAP,NASDAQ,XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock,Stock,True,2026-05-08,,,f8a846ebf823596f2bfc
+XOMA,NASDAQ,XOMA Royalty Corporation - Common Stock,Stock,False,2026-05-08,2026-07-15,Other delisting reason: Details unavailable (source: FMP Delisted API),0e44b2b9aab77824d492
+XOMAO,NASDAQ,XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock,Stock,False,2026-05-08,2026-07-15,Missing from current NASDAQ source snapshot; reason unavailable,7d01ddb2429654832f82
+XOMAP,NASDAQ,XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock,Stock,False,2026-05-08,2026-07-15,Missing from current NASDAQ source snapshot; reason unavailable,f8a846ebf823596f2bfc
 XOMX,NASDAQ,Direxion Daily XOM Bull 2X ETF,ETF,True,2026-05-08,,,9b882ee33edb4d40ff74
 XOS,NASDAQ,"Xos, Inc. - Common Stock",Stock,True,2026-05-08,,,9eb433e1c7580d12ce7e
 XOSWW,NASDAQ,"Xos, Inc. - Warrants",Stock,True,2026-05-08,,,b30dc5aad1ff9dd5a6cd
@@ -6034,6 +6037,8 @@ YORW,NASDAQ,The York Water Company - Common Stock,Stock,True,2026-05-08,,,83c215
 YOUL,NASDAQ,Youlife Group Inc. - American Depositary Shares,Stock,True,2026-05-08,,,de8ca03d663b6efaea96
 YQ,NASDAQ,17 Education & Technology Group Inc. - American Depositary Shares,Stock,True,2026-05-08,,,08aeb4755dbdfe0702d2
 YQQQ,NASDAQ,YieldMax Short N100 Option Income Strategy ETF,ETF,True,2026-05-08,,,7c9dca9364d5116bbb74
+YSAG,NASDAQ,Y'all Street Physical Silver ETF,ETF,True,2026-07-15,,,77068a801187b09836e3
+YSAU,NASDAQ,Y'all Street Physical Gold ETF,ETF,True,2026-07-15,,,9e6ceb32dfc42b18b105
 YSPY,NASDAQ,GraniteShares YieldBOOST SPY ETF,ETF,True,2026-05-08,,,ebd82f2e0e7cbb2afbb5
 YSWY,NASDAQ,"Yesway, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,f01293529088008ea21f
 YSXT,NASDAQ,"YSX Tech. Co., Ltd - Class A Ordinary Shares",Stock,True,2026-05-08,,,e9587cb5a0151686d3f6
@@ -7408,7 +7413,7 @@ HLF,NYSE,Herbalife Ltd. Common Shares,Stock,True,2026-05-08,,,a18521cbdf4e239522
 HLI,NYSE,"Houlihan Lokey, Inc. Class A Common Stock",Stock,True,2026-05-08,,,c014f40758d63a4acf52
 HLIO,NYSE,"Helios Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,3f13fa2e56d5e40b8553
 HLLY,NYSE,Holley Inc. Common Stock,Stock,True,2026-05-08,,,7715cd6cc62f73c1af96
-HLLY.W,NYSE,Holley Inc. Warrants,Stock,True,2026-05-08,,,5de2b2913ab1c3ef828f
+HLLY.W,NYSE,Holley Inc. Warrants,Stock,False,2026-05-08,2026-07-15,Missing from current NYSE source snapshot; reason unavailable,5de2b2913ab1c3ef828f
 HLN,NYSE,Haleon plc American Depositary Shares (Each representing two Ordinary Shares),Stock,True,2026-05-08,,,b578c0cf655a96ad6bb1
 HLT,NYSE,Hilton Worldwide Holdings Inc. Common Stock,Stock,True,2026-05-08,,,6e7cd5fd3e134598e4aa
 HLX,NYSE,"Helix Energy Solutions Group, Inc. Common Stock",Stock,True,2026-05-08,,,b94d7e537ffaf979a3f8
@@ -8210,7 +8215,8 @@ PHK,NYSE,Pimco High Income Fund,Stock,True,2026-05-08,,,f3623a233ead0720bc35
 PHM,NYSE,"PulteGroup, Inc. Common Stock",Stock,True,2026-05-08,,,3e43a23070588c29e20b
 PHR,NYSE,"Phreesia, Inc. Common Stock",Stock,True,2026-05-08,,,72bd98ecd981a5d334f6
 PII,NYSE,Polaris Inc. Common Stock,Stock,True,2026-05-08,,,ac5a44b17273bb0d2b79
-PIM,NYSE,Putnam Master Intermediate Income Trust Common Stock,Stock,True,2026-05-08,,,46f4e1285b1bac88a742
+PIM,NYSE,Putnam Master Intermediate Income Trust Common Stock,Stock,False,2026-05-08,2026-07-15,Listing metadata changed,46f4e1285b1bac88a742
+PIM,NYSE,Franklin Master Intermediate Income Trust Shares of Beneficial Interest,Stock,True,2026-07-15,,,8b4f246fc5a0c9e34a1c
 PINE,NYSE,"Alpine Income Property Trust, Inc. Common Stock",Stock,True,2026-05-08,,,610373041866b3e6f4f4
 PINE$A,NYSE,"Alpine Income Property Trust, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,fd392935d65b91c54ae9
 PINS,NYSE,"Pinterest, Inc. Class A Common Stock",Stock,True,2026-05-08,,,0afffc8ef4a449d145a7
@@ -8230,9 +8236,11 @@ PLUN.R,NYSE,"Plutonian Acquisition Corp II Rights, each entitling the holder to 
 PLUN.U,NYSE,"Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",Stock,True,2026-05-08,,,4e0e1da88bfa1ca3c8e0
 PM,NYSE,Philip Morris International Inc Common Stock,Stock,True,2026-05-08,,,b63862b146681906f373
 PML,NYSE,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,50d262699b022f94a9a4
-PMM,NYSE,Putnam Managed Municipal Income Trust Common Stock,Stock,True,2026-05-08,,,b9bd4b00e91ce75505b2
+PMM,NYSE,Putnam Managed Municipal Income Trust Common Stock,Stock,False,2026-05-08,2026-07-15,Listing metadata changed,b9bd4b00e91ce75505b2
+PMM,NYSE,Franklin Managed Municipal Income Trust Shares of Beneficial Interest,Stock,True,2026-07-15,,,80d804b7536d59df7b62
 PMMF,NYSE,iShares Prime Money Market ETF,ETF,True,2026-05-08,,,4106e16ada1ae8ffb47a
-PMO,NYSE,Putnam Municipal Opportunities Trust Common Stock,Stock,True,2026-05-08,,,5d55e4c7af5118bb1db6
+PMO,NYSE,Putnam Municipal Opportunities Trust Common Stock,Stock,False,2026-05-08,2026-07-15,Listing metadata changed,5d55e4c7af5118bb1db6
+PMO,NYSE,Franklin Municipal Opportunities Trust Shares of Beneficial Interest,Stock,True,2026-07-15,,,05c2eee5e97f2756576c
 PMT,NYSE,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,63e0a0cbeb71da357360
 PMT$A,NYSE,PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,Stock,True,2026-05-08,,,8f45694d3d29ee7c50b1
 PMT$B,NYSE,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,Stock,True,2026-05-08,,,195703c2846c69854b1f
@@ -8254,7 +8262,8 @@ POST,NYSE,"Post Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,54f1980c493
 PPG,NYSE,"PPG Industries, Inc. Common Stock",Stock,True,2026-05-08,,,547ccf2e0b99a92bd60a
 PPL,NYSE,PPL Corporation Common Stock,Stock,True,2026-05-08,,,cbab12fb228be2a11f77
 PPLC,NYSE,PPL Corporation Corporate Units,Stock,True,2026-05-08,,,11479e727da841373ca4
-PPT,NYSE,Putnam Premier Income Trust Common Stock,Stock,True,2026-05-08,,,f39ac6d3c710c01f6ca0
+PPT,NYSE,Putnam Premier Income Trust Common Stock,Stock,False,2026-05-08,2026-07-15,Listing metadata changed,f39ac6d3c710c01f6ca0
+PPT,NYSE,Franklin Premier Income Trust Shares of Beneficial Interest,Stock,True,2026-07-15,,,b164bf9ea94c4aa66724
 PR,NYSE,Permian Resources Corporation Class A Common Stock,Stock,True,2026-05-08,,,39fd2ced8a7915ac7116
 PRA,NYSE,ProAssurance Corporation Common Stock,Stock,False,2026-05-08,2026-06-26,Missing from current NYSE source snapshot; reason unavailable,2dfc2032984dc2cd5cfd
 PRCS,NYSE,Parnassus Core Select ETF,ETF,True,2026-05-08,,,bd40b572adf60c63f56b
@@ -8414,7 +8423,7 @@ RPM,NYSE,RPM International Inc. Common Stock,Stock,True,2026-05-08,,,e64703945ad
 RPT,NYSE,Rithm Property Trust Inc. Common stock,Stock,True,2026-05-08,,,f08d39857bd7075c464d
 RPT$C,NYSE,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,81c08676f2262d928e3b
 RQI,NYSE,Cohen & Steers Quality Income Realty Fund Inc Common Shares,Stock,True,2026-05-08,,,ae520cae47a87963893c
-RQI.R,NYSE,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",Stock,True,2026-06-22,,,2b2e8a0a2fa0071d811f
+RQI.R,NYSE,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",Stock,False,2026-06-22,2026-07-15,Missing from current NYSE source snapshot; reason unavailable,2b2e8a0a2fa0071d811f
 RQI.V,NYSE,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",Stock,False,2026-06-17,2026-06-22,Missing from current NYSE source snapshot; reason unavailable,8e263f5d431d5d699074
 RRC,NYSE,Range Resources Corporation Common Stock,Stock,True,2026-05-08,,,76082777e5ea3cfd7682
 RRX,NYSE,Regal Rexnord Corporation Common Stock,Stock,True,2026-05-08,,,6b7c1bd5633ca53fbc50

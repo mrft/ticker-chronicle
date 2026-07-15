@@ -686,7 +686,6 @@ NASDAQ,BKR,Baker Hughes Company - Common Stock,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,BKYI,"BIO-key International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BL,"BlackLine, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLBD,Blue Bird Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BLCN,Siren NexGen Economy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BLCR,iShares Large Cap Core Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BLDP,"Ballard Power Systems, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLFS,"BioLife Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2309,7 +2308,7 @@ NASDAQ,HLAL,Wahed FTSE USA Shariah ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HLIT,Harmonic Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HLMN,Hillman Solutions Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HLNE,Hamilton Lane Incorporated - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HLP,Hongli Group Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HLP,Hongli Group Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HLXC,Helix Acquisition Corp. III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HMH,HMH Holding Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HMR,Heidmar Maritime Holdings Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3052,7 +3051,7 @@ NASDAQ,MAT,"Mattel, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MATE,Man Active Trend Enhanced ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MATH,Metalpha Technology Holding Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MATW,Matthews International Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MAXI,Simplify Bitcoin Strategy PLUS Income ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,MAXI,Simplify Bitcoin Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MAYS,"J. W. Mays, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAZE,"Maze Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MB,MasterBeef Group - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4826,7 +4825,7 @@ NASDAQ,TDOG,21shares Dogecoin ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TDOT,21shares Polkadot ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TDSB,ETC Cabana Target Beta ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TDSC,ETC Cabana Target Drawdown 10 ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,TDTH,Trident Digital Tech Holdings Ltd - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TDTH,Trident Digital Tech Holdings Ltd - Class B Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TDUP,ThredUp Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TDWD,Tailwind 2.0 Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TDWDR,Tailwind 2.0 Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
@@ -5447,9 +5446,6 @@ NASDAQ,XMTR,"Xometry, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,XNCR,"Xencor, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XNDU,Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XNET,Xunlei Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,XOMA,XOMA Royalty Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,XOMAO,XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,XOMAP,XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XOMX,Direxion Daily XOM Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XOS,"Xos, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XOSWW,"Xos, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
@@ -5511,6 +5507,8 @@ NASDAQ,YORW,The York Water Company - Common Stock,Stock,,nasdaq_trader_symbol_di
 NASDAQ,YOUL,Youlife Group Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YQ,17 Education & Technology Group Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YQQQ,YieldMax Short N100 Option Income Strategy ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,YSAG,Y'all Street Physical Silver ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,YSAU,Y'all Street Physical Gold ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YSPY,GraniteShares YieldBOOST SPY ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YSWY,"Yesway, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YSXT,"YSX Tech. Co., Ltd - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory

@@ -1286,7 +1286,6 @@ NYSE,HLF,Herbalife Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,HLI,"Houlihan Lokey, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,HLIO,"Helios Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,HLLY,Holley Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,HLLY.W,Holley Inc. Warrants,Stock,,nasdaq_trader_symbol_directory
 NYSE,HLN,Haleon plc American Depositary Shares (Each representing two Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
 NYSE,HLT,Hilton Worldwide Holdings Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,HLX,"Helix Energy Solutions Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2072,7 +2071,7 @@ NYSE,PHK,Pimco High Income Fund,Stock,,nasdaq_trader_symbol_directory
 NYSE,PHM,"PulteGroup, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PHR,"Phreesia, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PII,Polaris Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,PIM,Putnam Master Intermediate Income Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,PIM,Franklin Master Intermediate Income Trust Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,PINE,"Alpine Income Property Trust, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PINE$A,"Alpine Income Property Trust, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PINS,"Pinterest, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2092,9 +2091,9 @@ NYSE,PLUN.R,"Plutonian Acquisition Corp II Rights, each entitling the holder to 
 NYSE,PLUN.U,"Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,PM,Philip Morris International Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,PMM,Putnam Managed Municipal Income Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,PMM,Franklin Managed Municipal Income Trust Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,PMMF,iShares Prime Money Market ETF,ETF,,nasdaq_trader_symbol_directory
-NYSE,PMO,Putnam Municipal Opportunities Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,PMO,Franklin Municipal Opportunities Trust Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,PMT$A,PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,PMT$B,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
@@ -2116,7 +2115,7 @@ NYSE,POST,"Post Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directo
 NYSE,PPG,"PPG Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PPL,PPL Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PPLC,PPL Corporation Corporate Units,Stock,,nasdaq_trader_symbol_directory
-NYSE,PPT,Putnam Premier Income Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,PPT,Franklin Premier Income Trust Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,PR,Permian Resources Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PRCS,Parnassus Core Select ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,PRG,"PROG Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2274,7 +2273,6 @@ NYSE,RPM,RPM International Inc. Common Stock,Stock,,nasdaq_trader_symbol_directo
 NYSE,RPT,Rithm Property Trust Inc. Common stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RQI,Cohen & Steers Quality Income Realty Fund Inc Common Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,RQI.R,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 NYSE,RRC,Range Resources Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RRX,Regal Rexnord Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RS,"Reliance, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
