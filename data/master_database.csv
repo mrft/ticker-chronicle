@@ -1571,7 +1571,7 @@ CPIX,NASDAQ,Cumberland Pharmaceuticals Inc. - Common Stock,Stock,True,2026-05-08
 CPLS,NASDAQ,AB Core Plus Bond ETF,ETF,True,2026-05-08,,,36c1988f35e0f950cb4f
 CPOP,NASDAQ,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",Stock,True,2026-05-08,,,9a3d797de838bc036552
 CPRT,NASDAQ,"Copart, Inc. - Common Stock",Stock,True,2026-05-08,,,d3747635bc272aef9b11
-CPRX,NASDAQ,"Catalyst Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,a7990048cb9bfac62dd6
+CPRX,NASDAQ,"Catalyst Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-16,Missing from current NASDAQ source snapshot; reason unavailable,a7990048cb9bfac62dd6
 CPSH,NASDAQ,CPS Technologies Corp. - Common Stock,Stock,True,2026-05-08,,,88efd7a3ef1e972df23d
 CPSS,NASDAQ,"Consumer Portfolio Services, Inc. - Common Stock",Stock,True,2026-05-08,,,44e3b56195e65c2f88d3
 CPZ,NASDAQ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,Stock,True,2026-05-08,,,ce993648f27c3f5d082d
@@ -1815,6 +1815,7 @@ DORM,NASDAQ,"Dorman Products, Inc. - Common Stock",Stock,True,2026-05-08,,,f7384
 DOX,NASDAQ,Amdocs Limited - Ordinary Shares,Stock,True,2026-05-08,,,fa3469d5126bfb388653
 DOYU,NASDAQ,DouYu International Holdings Limited - American Depositary Shares,Stock,True,2026-05-08,,,03a284cf2acebb7fbc32
 DPRO,NASDAQ,Draganfly Inc. - Common Shares,Stock,True,2026-05-08,,,d995da68ff37b566e850
+DPU,NASDAQ,Top KingWin Ltd - Class A Ordinary Shares,Stock,True,2026-07-16,,,4ddc362701d5f8a60db3
 DPZ,NASDAQ,Domino's Pizza Inc - Common Stock,Stock,True,2026-05-08,,,11dd15a8601234affaee
 DRCT,NASDAQ,"Direct Digital Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,fab8ecd5d145b5e8cb6f
 DRDB,NASDAQ,Roman DBDR Acquisition Corp. II - Ordinary shares,Stock,True,2026-05-08,,,50c3e0aa41d7526cf348
@@ -3292,7 +3293,7 @@ LBTYK,NASDAQ,Liberty Global Ltd. - Class C Common Shares,Stock,True,2026-05-08,,
 LCCC,NASDAQ,Lakeshore Acquisition III Corp. - Ordinary Shares,Stock,True,2026-05-08,,,a8f0bfa497e911e73035
 LCCCR,NASDAQ,Lakeshore Acquisition III Corp. - Rights,Stock,True,2026-05-08,,,7f076a02fd57bce4dfdc
 LCCCU,NASDAQ,Lakeshore Acquisition III Corp. - Unit,Stock,True,2026-05-08,,,bfa5d0c360753c0bdd2e
-LCDL,NASDAQ,GraniteShares 2x Long LCID Daily ETF,ETF,True,2026-05-08,,,351a40d42df52c710eea
+LCDL,NASDAQ,GraniteShares 2x Long LCID Daily ETF,ETF,False,2026-05-08,2026-07-16,Missing from current NASDAQ source snapshot; reason unavailable,351a40d42df52c710eea
 LCDS,NASDAQ,JPMorgan Fundamental Data Science Large Core ETF,ETF,True,2026-05-08,,,0ac09dd68465f2fcf920
 LCFY,NASDAQ,Locafy Limited - Ordinary Share,Stock,True,2026-05-08,,,a5a59c4222abaec0646e
 LCFYW,NASDAQ,Locafy Limited - Warrant,Stock,True,2026-05-08,,,92d87515eb212ee0981d
@@ -3974,7 +3975,7 @@ NUIF,NASDAQ,Nuveen US Infrastructure ETF,ETF,True,2026-06-18,,,f6235b303af7d048b
 NUSB,NASDAQ,Nuveen Ultra Short Income ETF,ETF,True,2026-05-08,,,0e6d00e395bf018f193a
 NUTR,NASDAQ,Nusatrip Incorporated - Common Stock,Stock,True,2026-05-08,,,b7d657eec10068b6ec78
 NUTX,NASDAQ,Nutex Health Inc. - Common Stock,Stock,True,2026-05-08,,,06a0a8a5a6ad808c1831
-NUVL,NASDAQ,"Nuvalent, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,305e07cfc35321edf789
+NUVL,NASDAQ,"Nuvalent, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-07-16,Missing from current NASDAQ source snapshot; reason unavailable,305e07cfc35321edf789
 NUWE,NASDAQ,"Nuwellis, Inc. - Common Stock",Stock,True,2026-05-08,,,90f300d8b68aa4c6fd2c
 NVA,NASDAQ,Nova Minerals Limited - American Depositary Shares,Stock,False,2026-05-08,2026-06-04,Missing from current NASDAQ source snapshot; reason unavailable,1090e3e4cf262dbdd0bb
 NVAWW,NASDAQ,Nova Minerals Limited - Warrant,Stock,False,2026-05-08,2026-06-04,Missing from current NASDAQ source snapshot; reason unavailable,b75651dc41f81dacef56
@@ -4482,7 +4483,7 @@ PTIR,NASDAQ,GraniteShares 2x Long PLTR Daily ETF,ETF,True,2026-05-08,,,b2819f408
 PTLE,NASDAQ,PTL LTD - Class A Ordinary Shares,Stock,True,2026-05-08,,,8b70778342cca3aa6251
 PTLO,NASDAQ,Portillo's Inc. - Class A Common Stock,Stock,True,2026-05-08,,,aa2ceeaff555122f9c59
 PTN,NASDAQ,"Palatin Technologies, Inc. - Common Stock",Stock,True,2026-05-29,,,c40289083c0a407d9d69
-PTNM,NASDAQ,Pitanium Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,f00a812028c31c47685d
+PTNM,NASDAQ,Pitanium Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-16,Missing from current NASDAQ source snapshot; reason unavailable,f00a812028c31c47685d
 PTNQ,NASDAQ,Pacer Trendpilot 100 ETF,ETF,True,2026-05-08,,,25e189dd2f4d38d3521c
 PTON,NASDAQ,"Peloton Interactive, Inc. - Common Stock",Stock,True,2026-05-08,,,2ac75595693c7753e595
 PTOR,NASDAQ,Praetorian Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,a61e5731092e802cd738
@@ -4544,6 +4545,7 @@ QLDY,NASDAQ,Defiance Nasdaq 100 LightningSpread Income ETF,ETF,True,2026-05-08,,
 QLYS,NASDAQ,"Qualys, Inc. - Common Stock",Stock,True,2026-05-08,,,717c13b95aa233551d74
 QMCO,NASDAQ,Quantum Corporation - Common Stock,Stock,True,2026-05-08,,,d05996b9d7116fd83a16
 QMID,NASDAQ,WisdomTree U.S. MidCap Quality Growth Fund,ETF,True,2026-05-08,,,ada131342988380f281d
+QMLS,NASDAQ,"QumulusAI, Inc. - Common Stock",Stock,True,2026-07-16,,,2e573793c1bcf669dc47
 QMMM,NASDAQ,QMMM Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,3de66dd79f4ad24b1e42
 QMOM,NASDAQ,Alpha Architect U.S. Quantitative Momentum ETF,ETF,True,2026-05-08,,,bba14e310381abb69794
 QNCX,NASDAQ,"Quince Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,98930c4fa884732ca20d
@@ -4591,7 +4593,7 @@ QSIX,NASDAQ,Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF,ETF,True,2026-
 QSML,NASDAQ,WisdomTree U.S. SmallCap Quality Growth Fund,ETF,True,2026-05-08,,,c6e8b59dcbf43b158c3e
 QTEC,NASDAQ,First Trust NASDAQ-100-Technology Sector Index Fund,ETF,True,2026-05-08,,,bfb0c831ade1de0efa92
 QTEX,NASDAQ,QTREX Quantum Ltd. - Ordinary Shares,Stock,True,2026-05-20,,,633568eeeb0261914f7e
-QTEXW,NASDAQ,QTREX Quantum Ltd. - Warrant,Stock,True,2026-05-20,,,c787441073ff57369699
+QTEXW,NASDAQ,QTREX Quantum Ltd. - Warrant,Stock,False,2026-05-20,2026-07-16,Missing from current NASDAQ source snapshot; reason unavailable,c787441073ff57369699
 QTI,NASDAQ,"QT Imaging Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,3dc259e1526b92f945b0
 QTOP,NASDAQ,iShares Nasdaq Top 30 Stocks ETF,ETF,True,2026-05-08,,,e0a4dd9417546ea2eccb
 QTR,NASDAQ,Global X NASDAQ 100 Tail Risk ETF,ETF,True,2026-05-08,,,56644a2cfda9031d8a3a
@@ -5821,7 +5823,7 @@ WABF,NASDAQ,Western Asset Bond ETF,ETF,True,2026-05-08,,,6fd01c08431cf21bf972
 WAFD,NASDAQ,"WaFd, Inc. - Common Stock",Stock,True,2026-05-08,,,a7aafef41dce29cd839c
 WAFDP,NASDAQ,"WaFd, Inc. - Depositary Shares",Stock,True,2026-05-08,,,b9a0f41d355e2194d4c1
 WAFU,NASDAQ,Wah Fu Education Group Limited - Ordinary Shares,Stock,True,2026-05-08,,,155f3e2f9c9bfe54e7f9
-WAI,NASDAQ,Top KingWin Ltd - Class A Ordinary Shares,Stock,True,2026-05-08,,,4ddc362701d5f8a60db3
+WAI,NASDAQ,Top KingWin Ltd - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-16,Missing from current NASDAQ source snapshot; reason unavailable,4ddc362701d5f8a60db3
 WALD,NASDAQ,Waldencast plc - Class A Ordinary Share,Stock,True,2026-05-08,,,6b22e54f176528f000b3
 WALDW,NASDAQ,Waldencast plc - Warrant,Stock,True,2026-05-08,,,d323bc244c8391a826ba
 WAMA,NASDAQ,WisdomTree US Adaptive Moving Average Fund,ETF,True,2026-05-08,,,4763c86868db8c428df5
@@ -6794,6 +6796,7 @@ CRS,NYSE,Carpenter Technology Corporation Common Stock,Stock,True,2026-05-08,,,7
 CRT,NYSE,Cross Timbers Royalty Trust Common Stock,Stock,True,2026-05-08,,,2fa8f2959d62cbd64b6b
 CSAN,NYSE,Cosan S.A. ADS,Stock,True,2026-05-08,,,9da13f7183e2985ffe29
 CSL,NYSE,Carlisle Companies Incorporated Common Stock,Stock,True,2026-05-08,,,39343fac491e7e2cfaa9
+CSQR,NYSE,"Csquare, Inc. Common Stock",Stock,True,2026-07-16,,,ba63d098da4c22b65d42
 CSR,NYSE,D/B/A Centerspace Common Stock,Stock,True,2026-05-08,,,35833e19dbe1861d987d
 CSTM,NYSE,Constellium SE Ordinary Shares (France),Stock,True,2026-05-08,,,91b81fd81a0fbc7831af
 CSV,NYSE,"Carriage Services, Inc. Common Stock",Stock,True,2026-05-08,,,044df187a59714796f84
@@ -7350,7 +7353,7 @@ GSK,NYSE,GSK plc American Depositary Shares (Each representing two Ordinary Shar
 GSL,NYSE,Global Ship Lease Inc New Class A Common Shares,Stock,True,2026-05-08,,,669b0ac97682ca06f343
 GSL$B,NYSE,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)",Stock,True,2026-05-08,,,1da4be260f8146ed948c
 GTES,NYSE,Gates Industrial Corporation plc Ordinary Shares,Stock,True,2026-05-08,,,6f81df0a0f07c6ef46c0
-GTLS,NYSE,"Chart Industries, Inc. Common Stock",Stock,True,2026-05-08,,,36338eedfa022d6d15b1
+GTLS,NYSE,"Chart Industries, Inc. Common Stock",Stock,False,2026-05-08,2026-07-16,Missing from current NYSE source snapshot; reason unavailable,36338eedfa022d6d15b1
 GTN,NYSE,"Gray Media, Inc. Common Stock",Stock,True,2026-05-08,,,32a60e1a54af4f614372
 GTN.A,NYSE,"Gray Media, Inc. Class A Common Stock",Stock,True,2026-05-08,,,3b9579bd042a6972abc2
 GTY,NYSE,Getty Realty Corporation Common Stock,Stock,True,2026-05-08,,,8953e1db9c756093eeed
@@ -8641,6 +8644,7 @@ SSTK,NYSE,"Shutterstock, Inc. Common Stock",Stock,True,2026-05-08,,,63b1e421900f
 ST,NYSE,Sensata Technologies Holding plc Ordinary Shares,Stock,True,2026-05-08,,,d059886630cdb80ba431
 STAG,NYSE,"Stag Industrial, Inc. Common Stock",Stock,True,2026-05-08,,,75cb0b5e4d15a7b9e878
 STC,NYSE,Stewart Information Services Corporation Common Stock,Stock,True,2026-05-08,,,57a21b90ed8d402136f8
+STDN,NYSE,"Standard Nuclear, Inc. Class A Common Stock",Stock,True,2026-07-16,,,882c5cbfcb4e8350cdeb
 STE,NYSE,STERIS plc (Ireland) Ordinary Shares,Stock,True,2026-05-08,,,63740d47200665d2ae72
 STEL,NYSE,"Stellar Bancorp, Inc. Common Stock",Stock,False,2026-05-08,2026-07-01,Missing from current NYSE source snapshot; reason unavailable,0f104342073004b97bcc
 STEM,NYSE,"Stem, Inc. Class A Common Stock",Stock,True,2026-05-08,,,8f192ebe731ea4b09136

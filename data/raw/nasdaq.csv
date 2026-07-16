@@ -1198,7 +1198,6 @@ NASDAQ,CPIX,Cumberland Pharmaceuticals Inc. - Common Stock,Stock,,nasdaq_trader_
 NASDAQ,CPLS,AB Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPRT,"Copart, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CPRX,"Catalyst Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPSH,CPS Technologies Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPSS,"Consumer Portfolio Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPZ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
@@ -1432,6 +1431,7 @@ NASDAQ,DORM,"Dorman Products, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,DOX,Amdocs Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DOYU,DouYu International Holdings Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DPRO,Draganfly Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,DPU,Top KingWin Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DPZ,Domino's Pizza Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DRCT,"Direct Digital Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DRDB,Roman DBDR Acquisition Corp. II - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
@@ -2862,7 +2862,6 @@ NASDAQ,LBTYK,Liberty Global Ltd. - Class C Common Shares,Stock,,nasdaq_trader_sy
 NASDAQ,LCCC,Lakeshore Acquisition III Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LCCCR,Lakeshore Acquisition III Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LCCCU,Lakeshore Acquisition III Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LCDL,GraniteShares 2x Long LCID Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LCDS,JPMorgan Fundamental Data Science Large Core ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LCFY,Locafy Limited - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LCFYW,Locafy Limited - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -3516,7 +3515,6 @@ NASDAQ,NUIF,Nuveen US Infrastructure ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUSB,Nuveen Ultra Short Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUTR,Nusatrip Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUTX,Nutex Health Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NUVL,"Nuvalent, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUWE,"Nuwellis, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVAX,"Novavax, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVCR,NovoCure Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4009,7 +4007,6 @@ NASDAQ,PTIR,GraniteShares 2x Long PLTR Daily ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,PTLE,PTL LTD - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTLO,Portillo's Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTN,"Palatin Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PTNM,Pitanium Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTNQ,Pacer Trendpilot 100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PTON,"Peloton Interactive, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTOR,Praetorian Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4070,6 +4067,7 @@ NASDAQ,QLDY,Defiance Nasdaq 100 LightningSpread Income ETF,ETF,,nasdaq_trader_sy
 NASDAQ,QLYS,"Qualys, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMCO,Quantum Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMID,WisdomTree U.S. MidCap Quality Growth Fund,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QMLS,"QumulusAI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMMM,QMMM Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMOM,Alpha Architect U.S. Quantitative Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QNCX,"Quince Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4116,7 +4114,6 @@ NASDAQ,QSIX,Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF,ETF,,nasdaq_tr
 NASDAQ,QSML,WisdomTree U.S. SmallCap Quality Growth Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QTEX,QTREX Quantum Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,QTEXW,QTREX Quantum Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QTI,"QT Imaging Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QTOP,iShares Nasdaq Top 30 Stocks ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QTR,Global X NASDAQ 100 Tail Risk ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5299,7 +5296,6 @@ NASDAQ,WABF,Western Asset Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WAFD,"WaFd, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WAFDP,"WaFd, Inc. - Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WAFU,Wah Fu Education Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WAI,Top KingWin Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WALD,Waldencast plc - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WALDW,Waldencast plc - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WAMA,WisdomTree US Adaptive Moving Average Fund,ETF,,nasdaq_trader_symbol_directory
