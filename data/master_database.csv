@@ -612,6 +612,7 @@ ALVOW,NASDAQ,Alvotech - Warrant,Stock,True,2026-05-08,,,ec3c1e3b8f4f9b638e26
 ALXO,NASDAQ,ALX Oncology Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,c885b0f2abe9b187fff2
 ALZN,NASDAQ,"Alzamend Neuro, Inc. - Common Stock",Stock,True,2026-05-08,,,c0ba4c2b822098648944
 AMA,NASDAQ,Defiance Daily Target 2X Long AMAT ETF,ETF,True,2026-05-08,,,b997d2630d04a7d2008c
+AMACU,NASDAQ,AMR Resources Acquisition Corp - Units,Stock,True,2026-07-17,,,154079b2610446034b12
 AMAL,NASDAQ,Amalgamated Financial Corp. - Common Stock,Stock,True,2026-05-08,,,43086b65201235794e3a
 AMAN,NASDAQ,Amanat Acquisition Corp - Ordinary Shares,Stock,False,2026-05-19,2026-05-20,Listing metadata changed,64ee2faea4e8709594b6
 AMAN,NASDAQ,Amanat Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-20,,,04f7a62dac0dfbaba1a6
@@ -693,7 +694,8 @@ APLD,NASDAQ,Applied Digital Corporation - Common Stock,Stock,True,2026-05-08,,,b
 APLM,NASDAQ,Apollomics Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,b77b9caa8cec14101d19
 APLMW,NASDAQ,Apollomics Inc. - Warrant,Stock,True,2026-05-08,,,1f4416d40c9fb30545f5
 APLS,NASDAQ,"Apellis Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-15,Missing from current NASDAQ source snapshot; reason unavailable,f4a2c9a60e63d2dba774
-APM,NASDAQ,Aptorum Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,ae05f45e0b86e546450b
+APM,NASDAQ,Aptorum Group Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-17,Listing metadata changed,ae05f45e0b86e546450b
+APM,NASDAQ,Aptorum Group Limited - Common Stock,Stock,True,2026-07-17,,,a660445d0efbf1ecfc4e
 APMC,NASDAQ,AmperCap Acquisition Company - Ordinary Shares,Stock,True,2026-06-29,,,a0e7a820fd67ad86dda8
 APMCR,NASDAQ,AmperCap Acquisition Company - Right,Stock,True,2026-06-29,,,df905249ced540549e79
 APMCU,NASDAQ,AmperCap Acquisition Company - Unit,Stock,True,2026-06-03,,,f514a79c00f20454251f
@@ -2061,7 +2063,7 @@ EVGN,NASDAQ,Evogene Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,400a04c1347c9
 EVGO,NASDAQ,EVgo Inc. - Common Stock,Stock,True,2026-05-08,,,7aee77eddd9993d27e8f
 EVGOW,NASDAQ,"EVgo Inc. - Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",Stock,False,2026-05-08,2026-07-02,Missing from current NASDAQ source snapshot; reason unavailable,d65cb314db66f9594a89
 EVLV,NASDAQ,"Evolv Technologies Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,97a8c004c1fd4c1e0a9f
-EVLVW,NASDAQ,"Evolv Technologies Holdings, Inc. - Warrant",Stock,True,2026-05-08,,,e33716ab0e761fcafa25
+EVLVW,NASDAQ,"Evolv Technologies Holdings, Inc. - Warrant",Stock,False,2026-05-08,2026-07-17,Missing from current NASDAQ source snapshot; reason unavailable,e33716ab0e761fcafa25
 EVMT,NASDAQ,Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF,ETF,True,2026-05-08,,,d1582bc47a41353439e2
 EVO,NASDAQ,Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share,Stock,True,2026-05-08,,,37e0be5408b9a68f5e51
 EVOX,NASDAQ,Evolution Global Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-08,,,bb33ce08655226fd8f77
@@ -4539,7 +4541,8 @@ QEW,NASDAQ,Invesco QQQ Equal Weight ETF,ETF,True,2026-05-08,,,bda23d71734a42a3d4
 QFF,NASDAQ,Qualivian Focus Fund ETF,ETF,True,2026-07-14,,,41999ccaeb9a3569eac8
 QFIN,NASDAQ,"Qfin Holdings, Inc. - American Depositary Shares",Stock,True,2026-05-08,,,3dee61d521db16cac9a4
 QGRD,NASDAQ,Horizon Nasdaq-100 Defined Risk ETF,ETF,True,2026-05-08,,,3701f5952a5c1271c413
-QH,NASDAQ,Quhuo Limited - American Depository Shares,Stock,True,2026-05-29,,,0030815cddf6f0dafafd
+QH,NASDAQ,Quhuo Limited - American Depository Shares,Stock,False,2026-05-29,2026-07-17,Listing metadata changed,0030815cddf6f0dafafd
+QH,NASDAQ,Quhuo Limited - Class A Ordinary Shares,Stock,True,2026-07-17,,,07d8e0e4a1d7eaedf102
 QHDG,NASDAQ,Innovator Hedged Nasdaq-100 ETF,ETF,False,2026-05-08,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,6b7699acce99a1c10067
 QLDY,NASDAQ,Defiance Nasdaq 100 LightningSpread Income ETF,ETF,True,2026-05-08,,,3bdf228ca957225a9251
 QLYS,NASDAQ,"Qualys, Inc. - Common Stock",Stock,True,2026-05-08,,,717c13b95aa233551d74
@@ -4970,6 +4973,8 @@ SHMDW,NASDAQ,SCHMID Group N.V. - Warrants,Stock,True,2026-05-08,,,4200c7171aaa47
 SHOE,NASDAQ,"Shoe Station Group, Inc. - Common Stock",Stock,True,2026-06-12,,,394b337bc467a7161aa0
 SHOO,NASDAQ,"Steven Madden, Ltd. - Common Stock",Stock,True,2026-05-08,,,879682098905131d7655
 SHOP,NASDAQ,Shopify Inc. - Class A Subordinate Voting Shares,Stock,True,2026-05-08,,,d5e266395d013a679ba7
+SHOT,NASDAQ,RMG ML Sports Holdings - Class A Ordinary Shares,Stock,True,2026-07-17,,,87e01aadad7b4fa2116e
+SHOTR,NASDAQ,RMG ML Sports Holdings - Rights,Stock,True,2026-07-17,,,20848364911cc3d11d7a
 SHOTU,NASDAQ,RMG ML Sports Holdings - Unit,Stock,True,2026-06-10,,,d57f3345a0a574f7b4cd
 SHPH,NASDAQ,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",Stock,True,2026-05-08,,,8e1241c9a9926c972f6e
 SHPU,NASDAQ,Direxion Daily SHOP Bull 2X ETF,ETF,True,2026-05-08,,,adf5f46fe4d41d1e4903
@@ -6889,6 +6894,8 @@ DFH,NYSE,"Dream Finders Homes, Inc. Class A Common Stock",Stock,True,2026-05-08,
 DFIN,NYSE,"Donnelley Financial Solutions, Inc. Common Stock",Stock,True,2026-05-08,,,2ba1e517fa9571748412
 DFP,NYSE,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,Stock,True,2026-05-08,,,780f55abbaba0e416f5d
 DG,NYSE,Dollar General Corporation Common Stock,Stock,True,2026-05-08,,,0cb24bd0995d44a70f35
+DGAC,NYSE,Disciplined Growth Acquisition Corporation Class A Ordinary Shares,Stock,True,2026-07-17,,,15b8156c9310f745cc7e
+DGAC.R,NYSE,"Disciplined Growth Acquisition Corporation Rights, each right entitling the holder to receive one-fourth (1/4) of one Class A ordinary share",Stock,True,2026-07-17,,,315a5c40caf2a6d92f8e
 DGAC.U,NYSE,"Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right",Stock,True,2026-05-27,,,61a41365e2be1cc92bec
 DGX,NYSE,Quest Diagnostics Incorporated Common Stock,Stock,True,2026-05-08,,,1c18c94bc0115a127e7c
 DHF,NYSE,BNY Mellon High Yield Strategies Fund Common Stock,Stock,True,2026-05-08,,,1c89db16eb8f2a6a2bae
@@ -8560,7 +8567,7 @@ SKY,NYSE,"Champion Homes, Inc. Common Stock",Stock,True,2026-05-08,,,2f5f0fbe01b
 SKYH,NYSE,Sky Harbour Group Corporation Class A Common Stock,Stock,True,2026-05-08,,,0aabe04dc4dc979e043e
 SKYH.W,NYSE,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,2eacef7bb697988b2868
 SLAI,NYSE,SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares),Stock,False,2026-05-08,2026-07-06,Listing metadata changed,27cb70a725ed1527b938
-SLAI,NYSE,SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares),Stock,True,2026-07-06,,,a76387e87b45eeca417b
+SLAI,NYSE,SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares),Stock,False,2026-07-06,2026-07-17,Missing from current NYSE source snapshot; reason unavailable,a76387e87b45eeca417b
 SLB,NYSE,SLB Limited Common Shares,Stock,True,2026-05-08,,,8a4e68975eeeba9c89b2
 SLF,NYSE,Sun Life Financial Inc. Common Stock,Stock,True,2026-05-08,,,1b1736f6f0d8213144c2
 SLG,NYSE,SL Green Realty Corp Common Stock,Stock,True,2026-05-08,,,428981b54c79a34341c1

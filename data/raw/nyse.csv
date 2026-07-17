@@ -774,6 +774,8 @@ NYSE,DFH,"Dream Finders Homes, Inc. Class A Common Stock",Stock,,nasdaq_trader_s
 NYSE,DFIN,"Donnelley Financial Solutions, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DG,Dollar General Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,DGAC,Disciplined Growth Acquisition Corporation Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,DGAC.R,"Disciplined Growth Acquisition Corporation Rights, each right entitling the holder to receive one-fourth (1/4) of one Class A ordinary share",Stock,,nasdaq_trader_symbol_directory
 NYSE,DGAC.U,"Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right",Stock,,nasdaq_trader_symbol_directory
 NYSE,DGX,Quest Diagnostics Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DHF,BNY Mellon High Yield Strategies Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2399,7 +2401,6 @@ NYSE,SKT,Tanger Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKY,"Champion Homes, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SKYH,Sky Harbour Group Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
-NYSE,SLAI,SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
 NYSE,SLB,SLB Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,SLF,Sun Life Financial Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SLG,SL Green Realty Corp Common Stock,Stock,,nasdaq_trader_symbol_directory

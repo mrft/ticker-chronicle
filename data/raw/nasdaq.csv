@@ -269,6 +269,7 @@ NASDAQ,ALVOW,Alvotech - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALXO,ALX Oncology Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALZN,"Alzamend Neuro, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMA,Defiance Daily Target 2X Long AMAT ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AMACU,AMR Resources Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMAL,Amalgamated Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMAN,Amanat Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMAT,"Applied Materials, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -347,7 +348,7 @@ NASDAQ,API,"Agora, Inc. - ADS",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLD,Applied Digital Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLM,Apollomics Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLMW,Apollomics Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,APM,Aptorum Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,APM,Aptorum Group Limited - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APMC,AmperCap Acquisition Company - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APMCR,AmperCap Acquisition Company - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APMCU,AmperCap Acquisition Company - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -1672,7 +1673,6 @@ NASDAQ,EVER,"EverQuote, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol
 NASDAQ,EVGN,Evogene Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVGO,EVgo Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVLV,"Evolv Technologies Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,EVLVW,"Evolv Technologies Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVMT,Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EVO,Evotec SE - American Depositary Shares each representing 1/2 of one ordinary share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVOX,Evolution Global Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4062,7 +4062,7 @@ NASDAQ,QEW,Invesco QQQ Equal Weight ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QFF,Qualivian Focus Fund ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QFIN,"Qfin Holdings, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QGRD,Horizon Nasdaq-100 Defined Risk ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,QH,Quhuo Limited - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,QH,Quhuo Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QLDY,Defiance Nasdaq 100 LightningSpread Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QLYS,"Qualys, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMCO,Quantum Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4476,6 +4476,8 @@ NASDAQ,SHMDW,SCHMID Group N.V. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHOE,"Shoe Station Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHOO,"Steven Madden, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHOP,Shopify Inc. - Class A Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SHOT,RMG ML Sports Holdings - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SHOTR,RMG ML Sports Holdings - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHOTU,RMG ML Sports Holdings - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHPH,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHPU,Direxion Daily SHOP Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
