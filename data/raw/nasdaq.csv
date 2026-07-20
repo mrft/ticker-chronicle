@@ -348,7 +348,6 @@ NASDAQ,API,"Agora, Inc. - ADS",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLD,Applied Digital Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLM,Apollomics Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLMW,Apollomics Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,APM,Aptorum Group Limited - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APMC,AmperCap Acquisition Company - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APMCR,AmperCap Acquisition Company - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APMCU,AmperCap Acquisition Company - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -656,8 +655,10 @@ NASDAQ,BHST,BioHarvest Sciences Inc. - Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,BIAF,"bioAffinity Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIAFW,"bioAffinity Technologies, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIB,ProShares Ultra Nasdaq Biotechnology,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BID,Tribeca Strategic Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIDG,Leverage Shares 2X Long BIDU Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BIDU,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BIDWR,Tribeca Strategic Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIDWU,Tribeca Strategic Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIIB,Biogen Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BILI,Bilibili Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -877,6 +878,7 @@ NASDAQ,BWEN,"Broadwind, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directo
 NASDAQ,BWFG,"Bankwell Financial Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BWIN,"The Baldwin Insurance Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BWMN,Bowman Consulting Group Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BXBL,"BOXABL, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BYAH,"Park Ha Biological Technology Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BYFC,Broadway Financial Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BYND,"Beyond Meat, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
@@ -1294,6 +1296,7 @@ NASDAQ,CUPR,Cuprina Holdings (Cayman) Limited - Class A Ordinary shares,Stock,,n
 NASDAQ,CURI,CuriosityStream Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CURR,Currenc Group Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CURX,Curanex Pharmaceuticals Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CUVL,Clinuvel Pharmaceuticals Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CV,"CapsoVision, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVBF,CVB Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CVCO,"Cavco Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1413,7 +1416,7 @@ NASDAQ,DMII,Drugs Made In America Acquisition II Corp. - Ordinary Shares,Stock,,
 NASDAQ,DMIIR,Drugs Made In America Acquisition II Corp. - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DMIIU,Drugs Made In America Acquisition II Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DMLP,"Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DMRA,"Damora Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,DMRA,"Damora Therapeutics, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DMRC,Digimarc Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DMXF,iShares ESG Advanced MSCI EAFE ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DNLI,Denali Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1805,9 +1808,6 @@ NASDAQ,FGIIW,FG Imperii Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol
 NASDAQ,FGIWW,FGI Industries Ltd. - warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGL,Founder Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGM,First Trust Germany AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,FGMC,FG Merger II Corp. - Common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FGMCR,FG Merger II Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FGMCU,FG Merger II Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGNX,FG Nexus Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGNXP,FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGSI,FT Vest Growth Strength & Target Income ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3133,6 +3133,7 @@ NASDAQ,METU,Direxion Daily META Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MEVO,M Evo Global Acquisition Corp II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MEVOU,M Evo Global Acquisition Corp II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MEVOW,M Evo Global Acquisition Corp II - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MF,MindForge Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MFI,mF International Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MFIC,MidCap Financial Investment Corporation - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MFICL,MidCap Financial Investment Corporation - 8.00% Notes due 2028,Stock,,nasdaq_trader_symbol_directory
@@ -3424,6 +3425,7 @@ NASDAQ,NHPBP,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative 
 NASDAQ,NHTC,Natural Health Trends Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NICE,NICE Ltd - American Depositary Shares each representing one Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NICM,Nicola Mining Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NIKI,"Niki BioSolutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NIKL,Sprott Nickel Miners ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NIOBW,NioCorp Developments Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NIOG,Leverage Shares 2X Long NIO Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3590,7 +3592,6 @@ NASDAQ,ODDS,Pacer BlueStar Digital Entertainment ETF,ETF,,nasdaq_trader_symbol_d
 NASDAQ,ODFL,"Old Dominion Freight Line, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ODTE,VegaShares SPX NDX RTY Premium Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ODTX,"Odyssey Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ODVWZ,Osisko Development Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ODYS,Odysight.ai Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OESX,"Orion Energy Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OFAL,OFA Group - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3599,6 +3600,7 @@ NASDAQ,OFLX,"Omega Flex, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direct
 NASDAQ,OFS,OFS Capital Corporation - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OFSSH,OFS Capital Corporation - 4.95% Notes due 2028,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OFSSO,OFS Capital Corporation - 7.50% Notes due 2028,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OGGWZ,Osisko Gold Group Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OGI,Organigram Global Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OHAC,Oceanhawk Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OHACR,Oceanhawk Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
@@ -5053,7 +5055,6 @@ NASDAQ,UBCP,"United Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_di
 NASDAQ,UBND,VictoryShares Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UBRL,GraniteShares 2x Long UBER Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UBSI,"United Bankshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,UBXG,U-BX Technology Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UCAR,U Power Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UCFI,CN Healthy Food Tech Group Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UCFIW,CN Healthy Food Tech Group Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory

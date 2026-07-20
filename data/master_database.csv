@@ -44,7 +44,7 @@ BRIA,AMEX,BrilliA Inc Class A Ordinary Shares,Stock,True,2026-05-08,,,d39425823a
 BRN,AMEX,"Barnwell Industries, Inc. Common Stock",Stock,True,2026-05-08,,,71ead40507c227b4ae7b
 BTG,AMEX,B2Gold Corp Common shares (Canada),Stock,True,2026-05-08,,,35719ae6f090576b6181
 BUDA,AMEX,"Buda Juice, Inc. Common Stock",Stock,True,2026-05-08,,,dd0e8395088696113861
-BURU,AMEX,"Nuburu, Inc. Common Stock",Stock,True,2026-05-08,,,f112e2e567cae8e817a9
+BURU,AMEX,"Nuburu, Inc. Common Stock",Stock,False,2026-05-08,2026-07-20,Missing from current AMEX source snapshot; reason unavailable,f112e2e567cae8e817a9
 CANF,AMEX,"Can-Fite Biopharma Ltd American Depositary Shares, each representing two (2) Ordinary Shares",Stock,True,2026-05-08,,,41dec4de64ef55650bd0
 CATX,AMEX,"Perspective Therapeutics, Inc. Common Stock",Stock,True,2026-05-08,,,7aa0c87c3ccd59772c24
 CCEL,AMEX,"Cryo-Cell International, Inc. Common Stock",Stock,True,2026-05-08,,,8633846bdf9828d2bdb7
@@ -123,7 +123,8 @@ GLU$B,AMEX,The Gabelli Global Utility and Income Trust Series B Cumulative Putta
 GLV,AMEX,Clough Global Dividend and Income Fund Common Shares of beneficial interest,Stock,True,2026-05-08,,,e3e23a856c6e375d112b
 GMTL,AMEX,Guardian Metal Resources PLC ADS,Stock,True,2026-05-08,,,8b2295121224dc456890
 GNS,AMEX,Genius Group Limited Ordinary Shares,Stock,True,2026-05-08,,,13c6a8897b6863e4e5f0
-GORO,AMEX,Gold Resource Corporation Common Stock,Stock,True,2026-05-08,,,db529be4a621cbd76ff7
+GORO,AMEX,Gold Resource Corporation Common Stock,Stock,False,2026-05-08,2026-07-20,Listing metadata changed,db529be4a621cbd76ff7
+GORO,AMEX,Goldgroup Mining Inc. Common Shares,Stock,True,2026-07-20,,,b029e9baadbd22e5272f
 GPUS,AMEX,"Hyperscale Data, Inc. Common Stock",Stock,True,2026-05-08,,,ada3c5c8492c50af7ba4
 GPUS$D,AMEX,"Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",Stock,True,2026-05-08,,,7c8892ace3905bbd29d4
 GRAF,AMEX,Graf Global Corp. Class A ordinary shares,Stock,True,2026-05-08,,,e3d9ba8ae54875d77e09
@@ -695,7 +696,7 @@ APLM,NASDAQ,Apollomics Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,b7
 APLMW,NASDAQ,Apollomics Inc. - Warrant,Stock,True,2026-05-08,,,1f4416d40c9fb30545f5
 APLS,NASDAQ,"Apellis Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-15,Missing from current NASDAQ source snapshot; reason unavailable,f4a2c9a60e63d2dba774
 APM,NASDAQ,Aptorum Group Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-17,Listing metadata changed,ae05f45e0b86e546450b
-APM,NASDAQ,Aptorum Group Limited - Common Stock,Stock,True,2026-07-17,,,a660445d0efbf1ecfc4e
+APM,NASDAQ,Aptorum Group Limited - Common Stock,Stock,False,2026-07-17,2026-07-20,Missing from current NASDAQ source snapshot; reason unavailable,a660445d0efbf1ecfc4e
 APMC,NASDAQ,AmperCap Acquisition Company - Ordinary Shares,Stock,True,2026-06-29,,,a0e7a820fd67ad86dda8
 APMCR,NASDAQ,AmperCap Acquisition Company - Right,Stock,True,2026-06-29,,,df905249ced540549e79
 APMCU,NASDAQ,AmperCap Acquisition Company - Unit,Stock,True,2026-06-03,,,f514a79c00f20454251f
@@ -1011,8 +1012,10 @@ BHST,NASDAQ,BioHarvest Sciences Inc. - Common Stock,Stock,True,2026-05-08,,,d946
 BIAF,NASDAQ,"bioAffinity Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,1845cb11001cdc598adf
 BIAFW,NASDAQ,"bioAffinity Technologies, Inc. - Warrant",Stock,True,2026-05-08,,,c33971728cdc2c94ce8d
 BIB,NASDAQ,ProShares Ultra Nasdaq Biotechnology,ETF,True,2026-05-08,,,7ebb207a18fbae96670d
+BID,NASDAQ,Tribeca Strategic Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-07-20,,,cbf963246b308dd35977
 BIDG,NASDAQ,Leverage Shares 2X Long BIDU Daily ETF,ETF,True,2026-05-08,,,876a9f88934c6b36093a
 BIDU,NASDAQ,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",Stock,True,2026-05-08,,,9962c4a2bdc266157ee8
+BIDWR,NASDAQ,Tribeca Strategic Acquisition Corp. - Rights,Stock,True,2026-07-20,,,6176fc658b9d1cc52235
 BIDWU,NASDAQ,Tribeca Strategic Acquisition Corp. - Unit,Stock,True,2026-05-29,,,7e8dfa7bb6bd39303031
 BIIB,NASDAQ,Biogen Inc. - Common Stock,Stock,True,2026-05-08,,,c6071d2de6dfbb10775e
 BILI,NASDAQ,Bilibili Inc. - American Depositary Shares,Stock,True,2026-05-08,,,745e7c786d0c70bb6e1b
@@ -1241,6 +1244,7 @@ BWEN,NASDAQ,"Broadwind, Inc. - Common Stock",Stock,True,2026-05-08,,,96bbab56322
 BWFG,NASDAQ,"Bankwell Financial Group, Inc. - Common Stock",Stock,True,2026-05-08,,,7b3c8620302d61f1a1dc
 BWIN,NASDAQ,"The Baldwin Insurance Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,887879d816a90c2e0eef
 BWMN,NASDAQ,Bowman Consulting Group Ltd. - Common Stock,Stock,True,2026-05-08,,,3289901c204a3ad1e523
+BXBL,NASDAQ,"BOXABL, Inc. - Common stock",Stock,True,2026-07-20,,,00d063197e912ccdc2d9
 BYAH,NASDAQ,"Park Ha Biological Technology Co., Ltd. - Class A Ordinary Shares",Stock,True,2026-05-08,,,bfcd0a44e86eab78c56a
 BYFC,NASDAQ,Broadway Financial Corporation - Class A Common Stock,Stock,True,2026-05-08,,,254d946f5f120713be23
 BYND,NASDAQ,"Beyond Meat, Inc. - Common stock",Stock,True,2026-05-08,,,52062ad40e3dafbf1e46
@@ -1674,6 +1678,7 @@ CURI,NASDAQ,CuriosityStream Inc. - Class A Common Stock,Stock,True,2026-05-08,,,
 CURR,NASDAQ,Currenc Group Inc. - Ordinary Shares,Stock,True,2026-05-08,,,2bca661180f521dd2553
 CURX,NASDAQ,Curanex Pharmaceuticals Inc - Common Stock,Stock,True,2026-05-08,,,d184553abb1ee787affb
 CUSD,NASDAQ,CrossingBridge Ultra-Short Duration ETF,ETF,False,2026-05-08,2026-07-14,Missing from current NASDAQ source snapshot; reason unavailable,f8fec58701b7c38c0a0b
+CUVL,NASDAQ,Clinuvel Pharmaceuticals Limited - American Depositary Shares,Stock,True,2026-07-20,,,de6a8d67a75dc6f1beea
 CV,NASDAQ,"CapsoVision, Inc. - Common Stock",Stock,True,2026-05-08,,,f1dcbc8d604bb8ea8448
 CVBF,NASDAQ,CVB Financial Corporation - Common Stock,Stock,True,2026-05-08,,,4b8410d848adbfdbbd65
 CVCO,NASDAQ,"Cavco Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,63a7052b4f8b3cf4c3b1
@@ -1796,7 +1801,8 @@ DMII,NASDAQ,Drugs Made In America Acquisition II Corp. - Ordinary Shares,Stock,T
 DMIIR,NASDAQ,Drugs Made In America Acquisition II Corp. - Right,Stock,True,2026-05-08,,,451d05d757d98f192dc5
 DMIIU,NASDAQ,Drugs Made In America Acquisition II Corp. - Unit,Stock,True,2026-05-08,,,a275e06bba3990f3983b
 DMLP,NASDAQ,"Dorchester Minerals, L.P. - Common Units Representing Limited Partnership Interests",Stock,True,2026-05-08,,,2fea1f07948c67d0e736
-DMRA,NASDAQ,"Damora Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,9f8213488a221b8015b0
+DMRA,NASDAQ,"Damora Therapeutics, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-20,Listing metadata changed,9f8213488a221b8015b0
+DMRA,NASDAQ,"Damora Therapeutics, Inc. - Ordinary Shares",Stock,True,2026-07-20,,,89c155d8068aa773b862
 DMRC,NASDAQ,Digimarc Corporation - Common Stock,Stock,False,2026-05-08,2026-05-19,Listing metadata changed,859b1def7b478e028dcc
 DMRC,NASDAQ,"Digimarc Parent, Inc. - Common Stock",Stock,False,2026-05-19,2026-05-22,Listing metadata changed,2df5ecb7ee1b75099f80
 DMRC,NASDAQ,Digimarc Corporation - Common Stock,Stock,True,2026-05-22,,,859b1def7b478e028dcc
@@ -2201,9 +2207,9 @@ FGIIW,NASDAQ,FG Imperii Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,bdf
 FGIWW,NASDAQ,FGI Industries Ltd. - warrant,Stock,True,2026-05-08,,,1ebecf6a7007f7000ffb
 FGL,NASDAQ,Founder Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,5a78a5ecc8e61811fc4e
 FGM,NASDAQ,First Trust Germany AlphaDEX Fund,ETF,True,2026-05-08,,,670a342e63178ea34b0b
-FGMC,NASDAQ,FG Merger II Corp. - Common stock,Stock,True,2026-05-08,,,e3b4f174a29d7236ec96
-FGMCR,NASDAQ,FG Merger II Corp. - Rights,Stock,True,2026-05-08,,,b826a2ff3fac0ba44491
-FGMCU,NASDAQ,FG Merger II Corp. - Unit,Stock,True,2026-05-08,,,e766879f644c1566a94a
+FGMC,NASDAQ,FG Merger II Corp. - Common stock,Stock,False,2026-05-08,2026-07-20,Missing from current NASDAQ source snapshot; reason unavailable,e3b4f174a29d7236ec96
+FGMCR,NASDAQ,FG Merger II Corp. - Rights,Stock,False,2026-05-08,2026-07-20,Missing from current NASDAQ source snapshot; reason unavailable,b826a2ff3fac0ba44491
+FGMCU,NASDAQ,FG Merger II Corp. - Unit,Stock,False,2026-05-08,2026-07-20,Missing from current NASDAQ source snapshot; reason unavailable,e766879f644c1566a94a
 FGNX,NASDAQ,FG Nexus Inc. - Common Stock,Stock,True,2026-05-08,,,279424fd09d99de58b98
 FGNXP,NASDAQ,FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock,Stock,True,2026-05-08,,,a72c95bdc1f86841e31b
 FGSI,NASDAQ,FT Vest Growth Strength & Target Income ETF,ETF,True,2026-05-08,,,ba81fcf9ce7ee9a25865
@@ -3581,6 +3587,7 @@ METU,NASDAQ,Direxion Daily META Bull 2X ETF,ETF,True,2026-05-08,,,8c2461aa11d02e
 MEVO,NASDAQ,M Evo Global Acquisition Corp II - Class A Ordinary Shares,Stock,True,2026-05-08,,,fee1b8ca5d365e4a1dfa
 MEVOU,NASDAQ,M Evo Global Acquisition Corp II - Units,Stock,True,2026-05-08,,,e77c356d4816a1c807a6
 MEVOW,NASDAQ,M Evo Global Acquisition Corp II - Warrants,Stock,True,2026-05-08,,,7d9b6bf522c242c5424e
+MF,NASDAQ,MindForge Inc. - Class A Ordinary Shares,Stock,True,2026-07-20,,,8c3d115207ae4c0b888c
 MFI,NASDAQ,mF International Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,0f84c072b04c41169950
 MFIC,NASDAQ,MidCap Financial Investment Corporation - Closed End Fund,Stock,True,2026-05-08,,,378bd6fa6e8a30c7802e
 MFICL,NASDAQ,MidCap Financial Investment Corporation - 8.00% Notes due 2028,Stock,True,2026-05-08,,,e8129817d85a1f7b5230
@@ -3882,6 +3889,7 @@ NHPBP,NASDAQ,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative 
 NHTC,NASDAQ,Natural Health Trends Corp. - Common Stock,Stock,True,2026-05-08,,,92501bd87c982bfde906
 NICE,NASDAQ,NICE Ltd - American Depositary Shares each representing one Ordinary Share,Stock,True,2026-05-08,,,dcd647d9895ea1751464
 NICM,NASDAQ,Nicola Mining Inc. - American Depositary Shares,Stock,True,2026-05-08,,,7c57d275497239971de3
+NIKI,NASDAQ,"Niki BioSolutions, Inc. - Common Stock",Stock,True,2026-07-20,,,6df7114a5b3d7d68da2f
 NIKL,NASDAQ,Sprott Nickel Miners ETF,ETF,True,2026-05-08,,,21bca0a651e848eb7ba1
 NIOBW,NASDAQ,NioCorp Developments Ltd. - Warrant,Stock,True,2026-05-08,,,c8bfbc7c2d3760b1f271
 NIOG,NASDAQ,Leverage Shares 2X Long NIO Daily ETF,ETF,True,2026-05-08,,,a0ae9c2e05f740e5c857
@@ -4058,7 +4066,7 @@ ODDS,NASDAQ,Pacer BlueStar Digital Entertainment ETF,ETF,True,2026-05-08,,,fcd8c
 ODFL,NASDAQ,"Old Dominion Freight Line, Inc. - Common Stock",Stock,True,2026-05-08,,,9c19ea67c13bc036a800
 ODTE,NASDAQ,VegaShares SPX NDX RTY Premium Income ETF,ETF,True,2026-05-08,,,fe47fefc6ad9cd3e47ee
 ODTX,NASDAQ,"Odyssey Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,9df010759fb10f65f8f2
-ODVWZ,NASDAQ,Osisko Development Corp. - Warrant,Stock,True,2026-05-08,,,a2937cc8a3fe5dd982ef
+ODVWZ,NASDAQ,Osisko Development Corp. - Warrant,Stock,False,2026-05-08,2026-07-20,Missing from current NASDAQ source snapshot; reason unavailable,a2937cc8a3fe5dd982ef
 ODYS,NASDAQ,Odysight.ai Inc. - Common Stock,Stock,True,2026-05-08,,,f3f9b15cc429d211f4ef
 OESX,NASDAQ,"Orion Energy Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,736907f1bf3c64a97f8a
 OFAL,NASDAQ,OFA Group - Class A Ordinary Shares,Stock,True,2026-05-08,,,958644e6a2a441fb0aca
@@ -4067,6 +4075,7 @@ OFLX,NASDAQ,"Omega Flex, Inc. - Common Stock",Stock,True,2026-05-08,,,4cfc48a342
 OFS,NASDAQ,OFS Capital Corporation - Closed End Fund,Stock,True,2026-05-08,,,3f02ab942f908dcf15f0
 OFSSH,NASDAQ,OFS Capital Corporation - 4.95% Notes due 2028,Stock,True,2026-05-08,,,53487de7d8071e3f5973
 OFSSO,NASDAQ,OFS Capital Corporation - 7.50% Notes due 2028,Stock,True,2026-05-08,,,77adf3a0a917bb2e05f8
+OGGWZ,NASDAQ,Osisko Gold Group Inc. - Warrant,Stock,True,2026-07-20,,,3791a32930663b4970dc
 OGI,NASDAQ,Organigram Global Inc. - Common Shares,Stock,True,2026-05-08,,,293f1eba7b79d93cc96c
 OHAC,NASDAQ,Oceanhawk Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-06-05,,,f4e07045c7eea08a622d
 OHACR,NASDAQ,Oceanhawk Acquisition Corp. - Rights,Stock,True,2026-06-05,,,260b911a3b841cea944b
@@ -5573,7 +5582,7 @@ UBCP,NASDAQ,"United Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,0ac56a
 UBND,NASDAQ,VictoryShares Core Plus Bond ETF,ETF,True,2026-05-08,,,c825da7f05b48a383fd6
 UBRL,NASDAQ,GraniteShares 2x Long UBER Daily ETF,ETF,True,2026-05-08,,,9fa06924941a845b800c
 UBSI,NASDAQ,"United Bankshares, Inc. - Common Stock",Stock,True,2026-05-08,,,e27ebf4a0bf718fc71d8
-UBXG,NASDAQ,U-BX Technology Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,02a9a30279cbdcb648f6
+UBXG,NASDAQ,U-BX Technology Ltd. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-20,Missing from current NASDAQ source snapshot; reason unavailable,02a9a30279cbdcb648f6
 UCAR,NASDAQ,U Power Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,b7461a93887290d8b4ae
 UCFI,NASDAQ,CN Healthy Food Tech Group Corp. - Common Stock,Stock,True,2026-05-08,,,478ea835737a8175c540
 UCFIW,NASDAQ,CN Healthy Food Tech Group Corp. - Warrant,Stock,True,2026-05-08,,,a93b9fecce32ca2e91b6
@@ -7359,7 +7368,8 @@ GSBD,NYSE,"Goldman Sachs BDC, Inc. Common Stock",Stock,True,2026-05-08,,,3c355f6
 GSK,NYSE,GSK plc American Depositary Shares (Each representing two Ordinary Shares),Stock,True,2026-05-08,,,ea29f9690e8b37914ad9
 GSL,NYSE,Global Ship Lease Inc New Class A Common Shares,Stock,True,2026-05-08,,,669b0ac97682ca06f343
 GSL$B,NYSE,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)",Stock,True,2026-05-08,,,1da4be260f8146ed948c
-GTES,NYSE,Gates Industrial Corporation plc Ordinary Shares,Stock,True,2026-05-08,,,6f81df0a0f07c6ef46c0
+GTES,NYSE,Gates Industrial Corporation plc Ordinary Shares,Stock,False,2026-05-08,2026-07-20,Listing metadata changed,6f81df0a0f07c6ef46c0
+GTES,NYSE,Gates Industrial Corporation Ltd. Common Shares,Stock,True,2026-07-20,,,937ae8c4f4dfe572bd95
 GTLS,NYSE,"Chart Industries, Inc. Common Stock",Stock,False,2026-05-08,2026-07-16,Missing from current NYSE source snapshot; reason unavailable,36338eedfa022d6d15b1
 GTN,NYSE,"Gray Media, Inc. Common Stock",Stock,True,2026-05-08,,,32a60e1a54af4f614372
 GTN.A,NYSE,"Gray Media, Inc. Class A Common Stock",Stock,True,2026-05-08,,,3b9579bd042a6972abc2
@@ -8092,12 +8102,13 @@ OBK,NYSE,"Origin Bancorp, Inc. Common Stock",Stock,True,2026-05-08,,,e68786cc760
 OC,NYSE,Owens Corning Inc Common Stock New,Stock,True,2026-05-08,,,edcf63cf04d1be12cbad
 OCAC.U,NYSE,"Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",Stock,True,2026-06-09,,,9e17bcb3ca06f9f7118a
 ODC,NYSE,Oil-Dri Corporation Of America Common Stock,Stock,True,2026-05-08,,,1537deff5c2971d47cb0
-ODV,NYSE,Osisko Development Corp. Common Shares,Stock,True,2026-05-08,,,d73401c8c25eb49ec561
+ODV,NYSE,Osisko Development Corp. Common Shares,Stock,False,2026-05-08,2026-07-20,Missing from current NYSE source snapshot; reason unavailable,d73401c8c25eb49ec561
 OEC,NYSE,Orion S.A. Common Shares,Stock,True,2026-05-08,,,d9e3cb065276749214ce
 OFG,NYSE,OFG Bancorp Common Stock,Stock,True,2026-05-08,,,91202ba4b8865f511d5d
 OFRM,NYSE,"Once Upon a Farm, PBC Common Stock",Stock,True,2026-05-08,,,1a3c99732952894898d1
 OGC,NYSE,OceanaGold Corporation Common Shares,Stock,True,2026-05-08,,,d50a3b496dc059d2867a
 OGE,NYSE,OGE Energy Corp Common Stock,Stock,True,2026-05-08,,,4803c6c3ae1ff24dccf7
+OGG,NYSE,Osisko Gold Group Inc. Common Shares,Stock,True,2026-07-20,,,e2403ccd4aa43bc1f25f
 OGN,NYSE,Organon & Co. Common Stock,Stock,True,2026-05-08,,,e586de16cb7548303a21
 OGS,NYSE,"ONE Gas, Inc. Common Stock",Stock,True,2026-05-08,,,8509d95f5e2a65761107
 OHI,NYSE,"Omega Healthcare Investors, Inc. Common Stock",Stock,True,2026-05-08,,,2f4b27bafa8946c29f98
@@ -8119,7 +8130,7 @@ ONTO,NYSE,Onto Innovation Inc. Common Stock,Stock,True,2026-05-08,,,7c5e107f4803
 OOMA,NYSE,"Ooma, Inc. Common Stock",Stock,True,2026-05-08,,,78137a645f08898a43b6
 OPAD,NYSE,Offerpad Solutions Inc. Class A Common Stock,Stock,True,2026-05-08,,,eceed3268529ee29dba2
 OPFI,NYSE,OppFi Inc. Class A Common Stock,Stock,True,2026-05-08,,,590d520007ca0a55debe
-OPFI.W,NYSE,OppFi Inc. Warrants,Stock,True,2026-05-08,,,ed670fa534fc0008be02
+OPFI.W,NYSE,OppFi Inc. Warrants,Stock,False,2026-05-08,2026-07-20,Missing from current NYSE source snapshot; reason unavailable,ed670fa534fc0008be02
 OPLN,NYSE,"OPENLANE, Inc. Common Stock",Stock,True,2026-05-08,,,49369d6680e7cc6a6627
 OPP,NYSE,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",Stock,True,2026-05-08,,,50463e31238d10d95b6a
 OPP$A,NYSE,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock",Stock,True,2026-05-08,,,154f71c67470ec4ddcb6
@@ -8930,7 +8941,9 @@ VGNT,NYSE,Versigent PLC Ordinary Shares,Stock,True,2026-05-08,,,f432b929390249dd
 VHI,NYSE,"Valhi, Inc. Common Stock",Stock,True,2026-05-08,,,d6da19fe988fc905ea89
 VIA,NYSE,"Via Transportation, Inc. Class A Common Stock",Stock,True,2026-05-08,,,cfc199219cf1366734b6
 VICI,NYSE,VICI Properties Inc. Common Stock,Stock,True,2026-05-08,,,15a2bae850c4123ef5b6
+VII,NYSE,Viking Acquisition Corp. II Class A Ordinary Shares,Stock,True,2026-07-20,,,2653219924c307ba17c0
 VII.U,NYSE,"Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",Stock,True,2026-07-02,,,c3709526f6b87caf5c7e
+VII.W,NYSE,Viking Acquisition Corp. II Warrants to purchase one Class A Ordinary Share,Stock,True,2026-07-20,,,50ce071d8e447c21989b
 VIK,NYSE,Viking Holdings Ltd Ordinary Shares,Stock,True,2026-05-08,,,0c8876b883f414da47cc
 VIPS,NYSE,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares",Stock,True,2026-05-08,,,91481e6d63b4208e61fa
 VIRT,NYSE,"Virtu Financial, Inc. Class A Common Stock",Stock,True,2026-05-08,,,abb8979f75b76adb95af

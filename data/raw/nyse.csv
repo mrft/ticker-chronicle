@@ -1226,7 +1226,7 @@ NYSE,GSBD,"Goldman Sachs BDC, Inc. Common Stock",Stock,,nasdaq_trader_symbol_dir
 NYSE,GSK,GSK plc American Depositary Shares (Each representing two Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
 NYSE,GSL,Global Ship Lease Inc New Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,GSL$B,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)",Stock,,nasdaq_trader_symbol_directory
-NYSE,GTES,Gates Industrial Corporation plc Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,GTES,Gates Industrial Corporation Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,GTN,"Gray Media, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GTN.A,"Gray Media, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GTY,Getty Realty Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1940,12 +1940,12 @@ NYSE,OBK,"Origin Bancorp, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directo
 NYSE,OC,Owens Corning Inc Common Stock New,Stock,,nasdaq_trader_symbol_directory
 NYSE,OCAC.U,"Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",Stock,,nasdaq_trader_symbol_directory
 NYSE,ODC,Oil-Dri Corporation Of America Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,ODV,Osisko Development Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,OEC,Orion S.A. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,OFG,OFG Bancorp Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OFRM,"Once Upon a Farm, PBC Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OGC,OceanaGold Corporation Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,OGE,OGE Energy Corp Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,OGG,Osisko Gold Group Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,OGN,Organon & Co. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OGS,"ONE Gas, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OHI,"Omega Healthcare Investors, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1967,7 +1967,6 @@ NYSE,ONTO,Onto Innovation Inc. Common Stock,Stock,,nasdaq_trader_symbol_director
 NYSE,OOMA,"Ooma, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OPAD,Offerpad Solutions Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OPFI,OppFi Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,OPFI.W,OppFi Inc. Warrants,Stock,,nasdaq_trader_symbol_directory
 NYSE,OPLN,"OPENLANE, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OPP$A,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2753,7 +2752,9 @@ NYSE,VGNT,Versigent PLC Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,VHI,"Valhi, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VIA,"Via Transportation, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VICI,VICI Properties Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,VII,Viking Acquisition Corp. II Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,VII.U,"Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",Stock,,nasdaq_trader_symbol_directory
+NYSE,VII.W,Viking Acquisition Corp. II Warrants to purchase one Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NYSE,VIK,Viking Holdings Ltd Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,VIPS,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,VIRT,"Virtu Financial, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
