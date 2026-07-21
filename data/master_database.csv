@@ -506,7 +506,8 @@ AGNG,NASDAQ,Global X Aging Population ETF,ETF,True,2026-05-08,,,22a7c5d36a363316
 AGNT,NASDAQ,"eXp World Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-12,Listing metadata changed,a3b1adb9ec605d224232
 AGNT,NASDAQ,"AGNT, Inc. - Common Stock",Stock,True,2026-06-12,,,7380caf2a0b33315c2e7
 AGPU,NASDAQ,Axe Compute Inc. - Common Stock,Stock,True,2026-05-08,,,6693947a00db02ec49a3
-AGRZ,NASDAQ,Agroz Inc. - Ordinary Shares,Stock,True,2026-05-08,,,ba23069f1561558ea337
+AGRZ,NASDAQ,Agroz Inc. - Ordinary Shares,Stock,False,2026-05-08,2026-07-21,Listing metadata changed,ba23069f1561558ea337
+AGRZ,NASDAQ,Agroz Inc. - Class A Ordinary Shares,Stock,True,2026-07-21,,,0c0df3d93c801aac3430
 AGYS,NASDAQ,"Agilysys, Inc. - Common Stock",Stock,True,2026-05-08,,,6e0e562a028c17bbca16
 AGZD,NASDAQ,WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,ETF,True,2026-05-08,,,1b369b64ae82ae704b72
 AHCO,NASDAQ,AdaptHealth Corp. - Common Stock,Stock,True,2026-05-08,,,9ba601d42b137f27c154
@@ -637,7 +638,7 @@ AMLX,NASDAQ,"Amylyx Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,
 AMOD,NASDAQ,"Alpha Modus Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,d0b1dc162624b39bb860
 AMODW,NASDAQ,"Alpha Modus Holdings, Inc. - Warrant",Stock,True,2026-05-08,,,3c90379749e59e1ec909
 AMPG,NASDAQ,"Amplitech Group, Inc. - Common Stock",Stock,True,2026-05-08,,,716acab92c2689e1592b
-AMPGR,NASDAQ,"Amplitech Group, Inc. - Series A Right",Stock,True,2026-05-08,,,4521a90bad9e0d63cc9b
+AMPGR,NASDAQ,"Amplitech Group, Inc. - Series A Right",Stock,False,2026-05-08,2026-07-21,Missing from current NASDAQ source snapshot; reason unavailable,4521a90bad9e0d63cc9b
 AMPGZ,NASDAQ,"Amplitech Group, Inc. - Series B Right",Stock,True,2026-05-08,,,2ab9c6a73a8b2ded9096
 AMPH,NASDAQ,"Amphastar Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,591d59ec1d1d73dde1af
 AMPL,NASDAQ,"Amplitude, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,4deb940a781d86cfb6d7
@@ -1151,6 +1152,7 @@ BRNY,NASDAQ,Burney U.S. Factor Rotation ETF,ETF,True,2026-05-08,,,e7d87d4ce5a82a
 BRR,NASDAQ,"ProCap Financial, Inc. - Common Stock",Stock,True,2026-05-08,,,8b9e20db60c83130605d
 BRRR,NASDAQ,Coinshares Bitcoin ETF,ETF,True,2026-05-08,,,da025216be30b9ae553e
 BRRWW,NASDAQ,"ProCap Financial, Inc. - Warrant.",Stock,True,2026-05-08,,,1306a94b792cfdeb1cc2
+BRTMU,NASDAQ,B&R Technology Merger Corp. - Units,Stock,True,2026-07-21,,,74aeeb7809cfeefec1e5
 BRTR,NASDAQ,iShares Total Return Active ETF,ETF,True,2026-05-08,,,532f55c7d0034a204d70
 BRTX,NASDAQ,"BioRestorative Therapies, Inc. - Common Stock",Stock,True,2026-05-08,,,007fc8949872a1220bf7
 BRUN,NASDAQ,Boost Run Inc. - Class A Common Stock,Stock,True,2026-05-11,,,b07fee52577aebf844c2
@@ -1456,6 +1458,7 @@ CIBR,NASDAQ,First Trust NASDAQ Cybersecurity ETF,ETF,True,2026-05-08,,,3da38036d
 CIFG,NASDAQ,Leverage Shares 2X Long CIFR Daily ETF,ETF,True,2026-05-08,,,1db75c8b012bbf5b36f2
 CIFR,NASDAQ,Cipher Digital Inc. - Common Stock,Stock,True,2026-05-08,,,6c7f48545b827e10eff1
 CIGI,NASDAQ,Colliers International Group Inc. - Subordinate Voting Shares,Stock,True,2026-05-08,,,8088099012243fc98389
+CIGL,NASDAQ,Concorde International Group Ltd - Class A Ordinary Shares,Stock,True,2026-07-21,,,0d7f663d210b0ea4c949
 CIIT,NASDAQ,"Tianci International, Inc. - Common Stock",Stock,True,2026-05-08,,,dfe2f965ee7af4863069
 CINF,NASDAQ,Cincinnati Financial Corporation - Common Stock,Stock,True,2026-05-08,,,d94e98d9aefc7fa0f1f1
 CING,NASDAQ,Cingulate Inc. - Common Stock,Stock,True,2026-05-08,,,243f509b41a8403909d4
@@ -1600,7 +1603,7 @@ CRDF,NASDAQ,"Cardiff Oncology, Inc. - Common Stock",Stock,True,2026-05-08,,,d32c
 CRDL,NASDAQ,Cardiol Therapeutics Inc. - Class A Common Shares,Stock,True,2026-05-08,,,3a1a6ebf81bad9404246
 CRDO,NASDAQ,Credo Technology Group Holding Ltd - Ordinary Shares,Stock,True,2026-05-08,,,502c25b8bb7be3ed608e
 CRE,NASDAQ,Cre8 Enterprise Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,ca4f1f7b845376f85e7b
-CREG,NASDAQ,Smart Powerr Corp. - Common Stock,Stock,True,2026-05-08,,,2054f084c3866437df8d
+CREG,NASDAQ,Smart Powerr Corp. - Common Stock,Stock,False,2026-05-08,2026-07-21,Missing from current NASDAQ source snapshot; reason unavailable,2054f084c3866437df8d
 CRESY,NASDAQ,"Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing ten shares of Common Stock",Stock,True,2026-05-08,,,9c8793c3df791f8cd5e5
 CREX,NASDAQ,"Creative Realities, Inc. - Common Stock",Stock,True,2026-05-08,,,09e799bb88c44719d1fa
 CRGO,NASDAQ,Freightos Limited - Ordinary shares,Stock,True,2026-05-08,,,acb1c7d24226b51e8bfa
@@ -2017,7 +2020,7 @@ ENVX,NASDAQ,Enovix Corporation - Common Stock,Stock,True,2026-05-08,,,4314f575d2
 ENZL,NASDAQ,iShares MSCI New Zealand ETF,ETF,True,2026-05-08,,,2328784e3a77bdb6c7b9
 EOLS,NASDAQ,"Evolus, Inc. - Common Stock",Stock,True,2026-05-08,,,4b549cdbd1f8b0445142
 EOSE,NASDAQ,"Eos Energy Enterprises, Inc. - Common Stock",Stock,True,2026-05-08,,,d8ad9d9a33b2da64f9ab
-EOSER,NASDAQ,"Eos Energy Enterprises, Inc. - Right",Stock,True,2026-07-06,,,12cf3a371773bb854fbe
+EOSER,NASDAQ,"Eos Energy Enterprises, Inc. - Right",Stock,False,2026-07-06,2026-07-21,Missing from current NASDAQ source snapshot; reason unavailable,12cf3a371773bb854fbe
 EPOW,NASDAQ,E-Power Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,6b4904dddd29801115a3
 EPRX,NASDAQ,Eupraxia Pharmaceuticals Inc. - Common Stock,Stock,True,2026-05-08,,,0ac6928084e040ac5ce4
 EPSM,NASDAQ,Epsium Enterprise Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,88c9db194c99f2893f6e
@@ -2192,7 +2195,7 @@ FERAU,NASDAQ,Fifth Era Acquisition Corp I - Units,Stock,True,2026-05-08,,,835b03
 FEUZ,NASDAQ,First Trust Eurozone AlphaDEX ETF,ETF,True,2026-05-08,,,61497a5716be88f00cc1
 FEX,NASDAQ,First Trust Large Cap Core AlphaDEX Fund,ETF,True,2026-05-08,,,1e13e084f6610224e4ae
 FFAI,NASDAQ,Faraday Future Intelligent Electric Inc. - Class A Common Stock,Stock,True,2026-05-08,,,7ef6a88b699fac9d0778
-FFAIW,NASDAQ,Faraday Future Intelligent Electric Inc. - Warrant,Stock,True,2026-05-08,,,8ab1c6553a9bb0801b3d
+FFAIW,NASDAQ,Faraday Future Intelligent Electric Inc. - Warrant,Stock,False,2026-05-08,2026-07-21,Missing from current NASDAQ source snapshot; reason unavailable,8ab1c6553a9bb0801b3d
 FFBC,NASDAQ,First Financial Bancorp. - Common Stock,Stock,True,2026-05-08,,,58dd83c6573b6f684257
 FFIC,NASDAQ,Flushing Financial Corporation - Common Stock,Stock,False,2026-05-08,2026-06-02,Missing from current NASDAQ source snapshot; reason unavailable,fd2a62b188a4d1f29ba1
 FFIN,NASDAQ,"First Financial Bankshares, Inc. - Common Stock",Stock,True,2026-05-08,,,75bc84d4c05fcc5f9e81
@@ -2317,6 +2320,7 @@ FRME,NASDAQ,First Merchants Corporation - Common Stock,Stock,True,2026-05-08,,,1
 FRMEP,NASDAQ,"First Merchants Corporation - Depository Shares, each representing a 1/100th interest in a share of 7.50% Non-Cumulative Perpetual Preferred Stock, A",Stock,True,2026-05-08,,,6dfeebd261effe641a93
 FRMI,NASDAQ,Fermi Inc. - Common Stock,Stock,True,2026-05-08,,,94dfb0a7d6e0afc5150c
 FRMM,NASDAQ,"Forum Markets, Incorporated - Common Stock",Stock,True,2026-05-08,,,54808b9b9be0eea24da9
+FRNM,NASDAQ,"Freenome, Inc. - Common stock",Stock,True,2026-07-21,,,c185479f34114d34bf41
 FROG,NASDAQ,JFrog Ltd. - Ordinary shares,Stock,True,2026-05-08,,,d9954ab7b9437b758554
 FRPH,NASDAQ,"FRP Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,e69d3d8557a5b8d352f5
 FRPT,NASDAQ,"Freshpet, Inc. - Common Stock",Stock,True,2026-05-08,,,a60fac6180cb3535b6b4
@@ -2729,6 +2733,7 @@ HLMN,NASDAQ,Hillman Solutions Corp. - Common Stock,Stock,True,2026-05-08,,,9ed2d
 HLNE,NASDAQ,Hamilton Lane Incorporated - Class A Common Stock,Stock,True,2026-05-08,,,76bc119e22307814b7cb
 HLP,NASDAQ,Hongli Group Inc. - Ordinary Shares,Stock,False,2026-05-08,2026-07-15,Listing metadata changed,2036fa59770ba2aeb9a8
 HLP,NASDAQ,Hongli Group Inc. - Class A Ordinary Shares,Stock,True,2026-07-15,,,bcda933147403012d915
+HLTH,NASDAQ,Tema Healthcare AI ETF,ETF,True,2026-07-21,,,2b626d407664c82dcd91
 HLXC,NASDAQ,Helix Acquisition Corp. III - Class A Ordinary Shares,Stock,True,2026-05-08,,,38172825e7ba4a5b1a41
 HMH,NASDAQ,HMH Holding Inc. - Common Stock,Stock,True,2026-05-08,,,4d719d39a30b772c59e9
 HMR,NASDAQ,Heidmar Maritime Holdings Corp. - Common Stock,Stock,True,2026-05-08,,,ebd4bc84587eb8b8494c
@@ -3830,6 +3835,7 @@ NCIQ,NASDAQ,Hashdex Nasdaq CME Crypto Index ETF,ETF,True,2026-05-08,,,4d6a32056a
 NCMI,NASDAQ,"National CineMedia, Inc. - Common Stock",Stock,True,2026-05-08,,,3dabff821dfdf7fa1e01
 NCNA,NASDAQ,NuCana plc - American Depositary Shares,Stock,True,2026-05-08,,,2a5a7170ff3b5577bbc9
 NCNO,NASDAQ,"nCino, Inc. - Common Stock",Stock,True,2026-05-08,,,7d74afb02de53e5415cc
+NCOOU,NASDAQ,Southern Cross Acquisition I Corp. - Units,Stock,True,2026-07-21,,,61118d29951688d62763
 NCPB,NASDAQ,Nuveen Core Plus Bond ETF,ETF,True,2026-05-08,,,a46a4292fe91c2c7062f
 NCPL,NASDAQ,Netcapital Inc. - Common Stock,Stock,True,2026-05-08,,,ed4397318de2fa194492
 NCPLW,NASDAQ,Netcapital Inc. - warrants,Stock,True,2026-05-08,,,b061e30b8320466d7ac9
@@ -3867,7 +3873,7 @@ NEXN,NASDAQ,Nexxen International Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,
 NEXR,NASDAQ,Nexera Technologies Ltd - Ordinary Shares,Stock,True,2026-05-08,,,120a1810d6bd52c6ed80
 NEXRW,NASDAQ,Nexera Technologies Ltd - Warrant,Stock,True,2026-05-08,,,bc9e814ae7c9ac517f17
 NEXT,NASDAQ,NextDecade Corporation - Common Stock,Stock,True,2026-05-08,,,698249f9af2a74737da2
-NFBK,NASDAQ,"Northfield Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,c6d19b8894111d3dcf2f
+NFBK,NASDAQ,"Northfield Bancorp, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-21,Missing from current NASDAQ source snapshot; reason unavailable,c6d19b8894111d3dcf2f
 NFE,NASDAQ,New Fortress Energy Inc. - Class A Common Stock,Stock,True,2026-05-08,,,b50c4ec0d479b3f74ddd
 NFLX,NASDAQ,"Netflix, Inc. - Common Stock",Stock,True,2026-05-08,,,75bb697251ad7534ba0b
 NFRX,NASDAQ,Harrison Street Infrastructure Active ETF,ETF,True,2026-05-08,,,6bc4e313ad00406738c1
@@ -4270,7 +4276,7 @@ PCMM,NASDAQ,BondBloxx Private Credit CLO ETF,ETF,True,2026-05-08,,,ff6e7b7e1553e
 PCPI,NASDAQ,PIMCO Inflation PLUS Active Exchange-Traded Fund,ETF,True,2026-05-08,,,05fc22486d8177fb4056
 PCRX,NASDAQ,"Pacira BioSciences, Inc. - Common Stock",Stock,True,2026-05-08,,,36e3669ef1e84e2620e1
 PCSA,NASDAQ,"Processa Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,3a65af1d0bda04a589c9
-PCSC,NASDAQ,Perceptive Capital Solutions Corp - Class A Ordinary Shares,Stock,True,2026-05-08,,,67b083dd8031a2ccc089
+PCSC,NASDAQ,Perceptive Capital Solutions Corp - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-21,Missing from current NASDAQ source snapshot; reason unavailable,67b083dd8031a2ccc089
 PCT,NASDAQ,"PureCycle Technologies, Inc. - Common stock",Stock,True,2026-05-08,,,dea0c86dd55b711b8000
 PCTTU,NASDAQ,"PureCycle Technologies, Inc. - Unit",Stock,True,2026-05-08,,,4f5c5c02ea745cdb0322
 PCTTW,NASDAQ,"PureCycle Technologies, Inc. - Warrant",Stock,True,2026-05-08,,,7ebdef91c195a93db22d
@@ -6048,7 +6054,7 @@ YMAT,NASDAQ,"J-Star Holding Co., Ltd. - Class A Ordinary Shares",Stock,True,2026
 YMT,NASDAQ,Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares,Stock,True,2026-05-08,,,2afdb240c282acc359fa
 YNOT,NASDAQ,Horizon Digital Frontier ETF,ETF,True,2026-05-08,,,7e89b7102729feec4e05
 YOKE,NASDAQ,YOKE Core ETF,ETF,True,2026-05-08,,,5322598b4354f79df005
-YOOV,NASDAQ,Concorde International Group Ltd - Class A Ordinary Shares,Stock,True,2026-05-08,,,0d7f663d210b0ea4c949
+YOOV,NASDAQ,Concorde International Group Ltd - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-21,Other delisting reason: Details unavailable (source: FMP Delisted API),0d7f663d210b0ea4c949
 YORW,NASDAQ,The York Water Company - Common Stock,Stock,True,2026-05-08,,,83c215b531ec0124b5d3
 YOUL,NASDAQ,Youlife Group Inc. - American Depositary Shares,Stock,True,2026-05-08,,,de8ca03d663b6efaea96
 YQ,NASDAQ,17 Education & Technology Group Inc. - American Depositary Shares,Stock,True,2026-05-08,,,08aeb4755dbdfe0702d2
@@ -7657,7 +7663,7 @@ KO,NYSE,Coca-Cola Company (The) Common Stock,Stock,True,2026-05-08,,,281fee85748
 KODK,NYSE,Eastman Kodak Company Common New,Stock,True,2026-05-08,,,95b04035f2045d97c90d
 KOF,NYSE,"Coca Cola Femsa S.A.B. de C.V. American Depositary Shares, each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)",Stock,True,2026-05-08,,,7b0b8ff53dcb3f65d463
 KOP,NYSE,Koppers Holdings Inc. Common Stock,Stock,True,2026-05-08,,,62402a959a52d1851352
-KORE,NYSE,"KORE Group Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,1b65072c012ae72d9bdf
+KORE,NYSE,"KORE Group Holdings, Inc. Common Stock",Stock,False,2026-05-08,2026-07-21,Missing from current NYSE source snapshot; reason unavailable,1b65072c012ae72d9bdf
 KOS,NYSE,Kosmos Energy Ltd. Common Shares (DE),Stock,True,2026-05-08,,,c77dfb51a4b2cf639267
 KPET,NYSE,KPET Ultra Paceline Corporation Class A Ordinary Shares,Stock,True,2026-05-21,,,7e895beacc47b89814a0
 KPET.U,NYSE,"KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one-sixth of one Warrant",Stock,True,2026-05-08,,,182fcf7b7d3fae767c60

@@ -165,7 +165,7 @@ NASDAQ,AGNCZ,"AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,
 NASDAQ,AGNG,Global X Aging Population ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AGNT,"AGNT, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGPU,Axe Compute Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AGRZ,Agroz Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AGRZ,Agroz Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGYS,"Agilysys, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGZD,WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AHCO,AdaptHealth Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -292,7 +292,6 @@ NASDAQ,AMLX,"Amylyx Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_s
 NASDAQ,AMOD,"Alpha Modus Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMODW,"Alpha Modus Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMPG,"Amplitech Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AMPGR,"Amplitech Group, Inc. - Series A Right",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMPGZ,"Amplitech Group, Inc. - Series B Right",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMPH,"Amphastar Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMPL,"Amplitude, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -789,6 +788,7 @@ NASDAQ,BRNY,Burney U.S. Factor Rotation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRR,"ProCap Financial, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRRR,Coinshares Bitcoin ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRRWW,"ProCap Financial, Inc. - Warrant.",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BRTMU,B&R Technology Merger Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRTR,iShares Total Return Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRTX,"BioRestorative Therapies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRUN,Boost Run Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1081,6 +1081,7 @@ NASDAQ,CIBR,First Trust NASDAQ Cybersecurity ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,CIFG,Leverage Shares 2X Long CIFR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CIFR,Cipher Digital Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CIGI,Colliers International Group Inc. - Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CIGL,Concorde International Group Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CIIT,"Tianci International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CINF,Cincinnati Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CING,Cingulate Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1223,7 +1224,6 @@ NASDAQ,CRDF,"Cardiff Oncology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,CRDL,Cardiol Therapeutics Inc. - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRDO,Credo Technology Group Holding Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRE,Cre8 Enterprise Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CREG,Smart Powerr Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRESY,"Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing ten shares of Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CREX,"Creative Realities, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRGO,Freightos Limited - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
@@ -1627,7 +1627,6 @@ NASDAQ,ENVX,Enovix Corporation - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,ENZL,iShares MSCI New Zealand ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EOLS,"Evolus, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EOSE,"Eos Energy Enterprises, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,EOSER,"Eos Energy Enterprises, Inc. - Right",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EPOW,E-Power Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EPRX,Eupraxia Pharmaceuticals Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EPSM,Epsium Enterprise Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1794,7 +1793,6 @@ NASDAQ,FERAU,Fifth Era Acquisition Corp I - Units,Stock,,nasdaq_trader_symbol_di
 NASDAQ,FEUZ,First Trust Eurozone AlphaDEX ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FEX,First Trust Large Cap Core AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FFAI,Faraday Future Intelligent Electric Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FFAIW,Faraday Future Intelligent Electric Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFBC,First Financial Bancorp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFIN,"First Financial Bankshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFIV,"F5, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1907,6 +1905,7 @@ NASDAQ,FRME,First Merchants Corporation - Common Stock,Stock,,nasdaq_trader_symb
 NASDAQ,FRMEP,"First Merchants Corporation - Depository Shares, each representing a 1/100th interest in a share of 7.50% Non-Cumulative Perpetual Preferred Stock, A",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRMI,Fermi Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRMM,"Forum Markets, Incorporated - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FRNM,"Freenome, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FROG,JFrog Ltd. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRPH,"FRP Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FRPT,"Freshpet, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2309,6 +2308,7 @@ NASDAQ,HLIT,Harmonic Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HLMN,Hillman Solutions Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HLNE,Hamilton Lane Incorporated - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HLP,Hongli Group Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HLTH,Tema Healthcare AI ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HLXC,Helix Acquisition Corp. III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HMH,HMH Holding Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HMR,Heidmar Maritime Holdings Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3366,6 +3366,7 @@ NASDAQ,NCIQ,Hashdex Nasdaq CME Crypto Index ETF,ETF,,nasdaq_trader_symbol_direct
 NASDAQ,NCMI,"National CineMedia, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCNA,NuCana plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCNO,"nCino, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NCOOU,Southern Cross Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCPB,Nuveen Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NCPL,Netcapital Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCPLW,Netcapital Inc. - warrants,Stock,,nasdaq_trader_symbol_directory
@@ -3403,7 +3404,6 @@ NASDAQ,NEXN,Nexxen International Ltd. - Ordinary Shares,Stock,,nasdaq_trader_sym
 NASDAQ,NEXR,Nexera Technologies Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NEXRW,Nexera Technologies Ltd - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NEXT,NextDecade Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NFBK,"Northfield Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NFE,New Fortress Energy Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NFLX,"Netflix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NFRX,Harrison Street Infrastructure Active ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3787,7 +3787,6 @@ NASDAQ,PCMM,BondBloxx Private Credit CLO ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PCPI,PIMCO Inflation PLUS Active Exchange-Traded Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PCRX,"Pacira BioSciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCSA,"Processa Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PCSC,Perceptive Capital Solutions Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCT,"PureCycle Technologies, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCTTU,"PureCycle Technologies, Inc. - Unit",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCTTW,"PureCycle Technologies, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
@@ -5501,7 +5500,6 @@ NASDAQ,YMAT,"J-Star Holding Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_t
 NASDAQ,YMT,Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YNOT,Horizon Digital Frontier ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YOKE,YOKE Core ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,YOOV,Concorde International Group Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YORW,The York Water Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YOUL,Youlife Group Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YQ,17 Education & Technology Group Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
