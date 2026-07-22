@@ -216,7 +216,6 @@ NASDAQ,AKTX,Akari Therapeutics Plc - American Depositary Shares,Stock,,nasdaq_tr
 NASDAQ,ALAB,"Astera Labs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALAR,Alarum Technologies Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALBG,Leverage Shares 2X Long ALB Daily ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,ALBT,Avalon GloboCare Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALCO,"Alico, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALDF,Aldel Financial II Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALDFU,Aldel Financial II Inc. - Units,Stock,,nasdaq_trader_symbol_directory
@@ -971,7 +970,6 @@ NASDAQ,CCNE,CNB Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol
 NASDAQ,CCNEP,"CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCNR,ALPS/CoreCommodity Natural Resources ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CCOI,"Cogent Communications Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CCRN,"Cross Country Healthcare, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCSB,Carbon Collective Short Duration Green Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CCSI,"Consensus Cloud Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCSO,Carbon Collective Climate Solutions U.S. Equity ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1051,6 +1049,7 @@ NASDAQ,CHEC,Chenghe Acquisition III Co. - Class A Ordinary Shares,Stock,,nasdaq_
 NASDAQ,CHECU,Chenghe Acquisition III Co. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHECW,Chenghe Acquisition III Co. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHEF,"The Chefs' Warehouse, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CHGA,Change Agents Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHGX,Stance Sustainable Beta ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CHI,Calamos Convertible Opportunities and Income Fund - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHKP,Check Point Software Technologies Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1204,6 +1203,7 @@ NASDAQ,CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",Stock,,nasdaq
 NASDAQ,CPRT,"Copart, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPSH,CPS Technologies Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPSS,"Consumer Portfolio Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CPTL,Global X Morningstar Capital Allocation Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CPZ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRAC,Crown Reserve Acquisition Corp. I - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRACR,Crown Reserve Acquisition Corp. I - Rights,Stock,,nasdaq_trader_symbol_directory
@@ -2161,8 +2161,8 @@ NASDAQ,GRAL,"GRAIL, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRAN,Grande Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRCE,"Grace Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRDX,GridAI Technologies Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GREE,Greenidge Generation Holdings Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GREEL,Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GREE,Vulcan Infrastructure and Power Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GREEL,Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRFS,"Grifols, S.A. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRI,"GRI Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,ETF,,nasdaq_trader_symbol_directory
@@ -2390,7 +2390,9 @@ NASDAQ,HWBK,"Hawthorn Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,HWC,Hancock Whitney Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HWCPZ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HWH,HWH International Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HWIV,Hotchkis & Wiley International Value Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HWKN,"Hawkins, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HWO,Hotchkis & Wiley Opportunities Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HWSM,Hotchkis & Wiley SMID Cap Diversified Value Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HXHX,Haoxin Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HYBI,NEOS Enhanced Income Credit Select ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2797,7 +2799,6 @@ NASDAQ,KRAQ,KRAKacquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_
 NASDAQ,KRAQU,KRAKacquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KRAQW,KRAKacquisition Corp - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KRKR,36Kr Holdings Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KRMA,Global X Conscious Companies ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KRMD,"KORU Medical Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KRNT,Kornit Digital Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KRNY,Kearny Financial - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2944,7 +2945,6 @@ NASDAQ,LLYVK,"Liberty Live Holdings, Inc. - Series C Liberty Live Group Common S
 NASDAQ,LMAT,"LeMaitre Vascular, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LMB,"Limbach Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LMBS,First Trust Low Duration Opportunities ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,LMFA,"LM Funding America, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LMNR,Limoneira Co - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LMNX,Defiance Daily Target 2x Long LMND ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LMRI,"Lumexa Imaging Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3110,6 +3110,7 @@ NASDAQ,MDWD,MediWound Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,MDXG,"MiMedx Group, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MDXH,MDxHealth SA - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MEDP,"Medpace Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MEDS,"DataMeds AI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MEDX,Horizon Kinetics Medical ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MEGL,Magic Empire Global Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MELI,"MercadoLibre, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4022,6 +4023,7 @@ NASDAQ,PUR,Defiance Daily Target 2X Long PURR ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,PURR,Hyperliquid Strategies Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PUSA,Aureus Greenway Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PVLA,"Palvella Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PWCM,"PowerCompute, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PWP,Perella Weinberg Partners - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PWRD,TCW Transform Systems ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PWRL,Powerlaw Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5332,9 +5334,7 @@ NASDAQ,WFCF,"Where Food Comes From, Inc. - Common Stock",Stock,,nasdaq_trader_sy
 NASDAQ,WFF,WF Holding Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WFRD,Weatherford International plc - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WGMI,CoinShares Bitcoin Mining ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,WGRX,"Wellgistics Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WGS,GeneDx Holdings Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WGSWW,GeneDx Holdings Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WHF,"WhiteHorse Finance, Inc. - Closed End Fund",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WHFCL,"WhiteHorse Finance, Inc. - 7.875% Notes due 2028",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WHLR,"Wheeler Real Estate Investment Trust, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory

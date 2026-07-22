@@ -1888,9 +1888,6 @@ NYSE,NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,Stock,,nasdaq_tr
 NYSE,NRP,Natural Resource Partners LP Limited Partnership,Stock,,nasdaq_trader_symbol_directory
 NYSE,NRT,North European Oil Royality Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes),Stock,,nasdaq_trader_symbol_directory
-NYSE,NSA,National Storage Affiliates Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,NSA$A,National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share),Stock,,nasdaq_trader_symbol_directory
-NYSE,NSA$B,National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,NSC,Norfolk Southern Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NSP,"Insperity, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,NTB,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2151,6 +2148,8 @@ NYSE,PSA$P,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.00
 NYSE,PSA$Q,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.950% Cumulative Preferred Share of Beneficial Interest, Series Q, par value $0.01 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,PSA$R,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.00% Cumulative Preferred Share of Bene cial Interest, Series R",Stock,,nasdaq_trader_symbol_directory
 NYSE,PSA$S,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.100% Cumulative Preferred Share of Beneficial Interest, Series S",Stock,,nasdaq_trader_symbol_directory
+NYSE,PSA$T,"Public Storage 6.000% Cumulative Preferred Shares of beneficial interest, Series T",Stock,,nasdaq_trader_symbol_directory
+NYSE,PSA$U,"Public Storage 6.000% Cumulative Preferred Shares of Beneficial Interest, Series U",Stock,,nasdaq_trader_symbol_directory
 NYSE,PSBD,Palmer Square Capital BDC Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PSEC$A,Prospect Capital Corporation 5.35% Series A Fixed Rate Cumulative Perpetual Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PSF,"Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory

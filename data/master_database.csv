@@ -558,7 +558,7 @@ AKTX,NASDAQ,Akari Therapeutics Plc - American Depositary Shares,Stock,True,2026-
 ALAB,NASDAQ,"Astera Labs, Inc. - Common Stock",Stock,True,2026-05-08,,,ec6e11284d0a8b4d62cb
 ALAR,NASDAQ,Alarum Technologies Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,1487cf02cf29186272cb
 ALBG,NASDAQ,Leverage Shares 2X Long ALB Daily ETF,ETF,True,2026-05-08,,,3d65b80e383531d675dc
-ALBT,NASDAQ,Avalon GloboCare Corp. - Common Stock,Stock,True,2026-05-08,,,a6ec15b1da487734b079
+ALBT,NASDAQ,Avalon GloboCare Corp. - Common Stock,Stock,False,2026-05-08,2026-07-22,Missing from current NASDAQ source snapshot; reason unavailable,a6ec15b1da487734b079
 ALCO,NASDAQ,"Alico, Inc. - Common Stock",Stock,True,2026-05-08,,,50f4d9c7e450c7d987ec
 ALCY,NASDAQ,Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares,Stock,False,2026-05-08,2026-05-14,Missing from current NASDAQ source snapshot; reason unavailable,2ca7350d66cf2cdeba20
 ALCYU,NASDAQ,Alchemy Investments Acquisition Corp 1 - Units,Stock,False,2026-05-08,2026-05-14,Missing from current NASDAQ source snapshot; reason unavailable,539c647bdd65e110b5b6
@@ -1343,7 +1343,7 @@ CCNE,NASDAQ,CNB Financial Corporation - Common Stock,Stock,True,2026-05-08,,,bba
 CCNEP,NASDAQ,"CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,f2cb0e290d5e98b23915
 CCNR,NASDAQ,ALPS/CoreCommodity Natural Resources ETF,ETF,True,2026-05-08,,,92f56200243277a160f0
 CCOI,NASDAQ,"Cogent Communications Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,1d59bd62df4979579407
-CCRN,NASDAQ,"Cross Country Healthcare, Inc. - Common Stock",Stock,True,2026-05-08,,,2e573fe1fc90886ddbac
+CCRN,NASDAQ,"Cross Country Healthcare, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-22,Missing from current NASDAQ source snapshot; reason unavailable,2e573fe1fc90886ddbac
 CCSB,NASDAQ,Carbon Collective Short Duration Green Bond ETF,ETF,True,2026-05-08,,,7e1945f6efc6a72da60f
 CCSI,NASDAQ,"Consensus Cloud Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,900f836867bfff3107f6
 CCSO,NASDAQ,Carbon Collective Climate Solutions U.S. Equity ETF,ETF,True,2026-05-08,,,58d1b397886cb1100710
@@ -1427,6 +1427,7 @@ CHEC,NASDAQ,Chenghe Acquisition III Co. - Class A Ordinary Shares,Stock,True,202
 CHECU,NASDAQ,Chenghe Acquisition III Co. - Units,Stock,True,2026-05-08,,,2a62a454f6d281c27d84
 CHECW,NASDAQ,Chenghe Acquisition III Co. - Warrants,Stock,True,2026-05-08,,,4d1d3edf9267f6995c8e
 CHEF,NASDAQ,"The Chefs' Warehouse, Inc. - Common Stock",Stock,True,2026-05-08,,,17cc52b04b85f8a4f325
+CHGA,NASDAQ,Change Agents Corporation - Common Stock,Stock,True,2026-07-22,,,44ce28330da4e2ea774e
 CHGX,NASDAQ,Stance Sustainable Beta ETF,ETF,True,2026-05-08,,,e96234ea49cbef70b4d7
 CHI,NASDAQ,Calamos Convertible Opportunities and Income Fund - Closed End Fund,Stock,True,2026-05-08,,,de7edbe2c009cf27b6fc
 CHKP,NASDAQ,Check Point Software Technologies Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,1965d5cfa7211794ace8
@@ -1583,6 +1584,7 @@ CPRT,NASDAQ,"Copart, Inc. - Common Stock",Stock,True,2026-05-08,,,d3747635bc272a
 CPRX,NASDAQ,"Catalyst Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-16,Missing from current NASDAQ source snapshot; reason unavailable,a7990048cb9bfac62dd6
 CPSH,NASDAQ,CPS Technologies Corp. - Common Stock,Stock,True,2026-05-08,,,88efd7a3ef1e972df23d
 CPSS,NASDAQ,"Consumer Portfolio Services, Inc. - Common Stock",Stock,True,2026-05-08,,,44e3b56195e65c2f88d3
+CPTL,NASDAQ,Global X Morningstar Capital Allocation Leaders ETF,ETF,True,2026-07-22,,,56ed8c9dae9099563255
 CPZ,NASDAQ,Calamos Long/Short Equity & Dynamic Income Trust - Closed End Fund,Stock,True,2026-05-08,,,ce993648f27c3f5d082d
 CRAC,NASDAQ,Crown Reserve Acquisition Corp. I - Class A Ordinary Shares,Stock,True,2026-05-08,,,d33cb5033722d34fcf0b
 CRACR,NASDAQ,Crown Reserve Acquisition Corp. I - Rights,Stock,True,2026-05-08,,,badd40f81eb5415e4a6b
@@ -2585,8 +2587,10 @@ GRAL,NASDAQ,"GRAIL, Inc. - Common Stock",Stock,True,2026-05-08,,,2ad04a122ddf53d
 GRAN,NASDAQ,Grande Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,ed37bcfe7a543d37e96b
 GRCE,NASDAQ,"Grace Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,15d1a4fcdf17a1c60ef2
 GRDX,NASDAQ,GridAI Technologies Corp. - Common Stock,Stock,True,2026-05-08,,,a83d0973d625f7228759
-GREE,NASDAQ,Greenidge Generation Holdings Inc. - Class A Common Stock,Stock,True,2026-05-08,,,e03e109139a1c96dd2dc
-GREEL,NASDAQ,Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026,Stock,True,2026-05-08,,,a5ec24c4baa2857be328
+GREE,NASDAQ,Greenidge Generation Holdings Inc. - Class A Common Stock,Stock,False,2026-05-08,2026-07-22,Listing metadata changed,e03e109139a1c96dd2dc
+GREE,NASDAQ,Vulcan Infrastructure and Power Inc. - Class A Common Stock,Stock,True,2026-07-22,,,c5ad953504424012e796
+GREEL,NASDAQ,Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026,Stock,False,2026-05-08,2026-07-22,Listing metadata changed,a5ec24c4baa2857be328
+GREEL,NASDAQ,Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026,Stock,True,2026-07-22,,,55b99ad907b22eb07a92
 GRFS,NASDAQ,"Grifols, S.A. - American Depositary Shares",Stock,True,2026-05-08,,,c881a9ac6e229884c23b
 GRI,NASDAQ,"GRI Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,45b3a2264909a21872f5
 GRID,NASDAQ,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,ETF,True,2026-05-08,,,56315b25185c471ccd95
@@ -2823,7 +2827,9 @@ HWBK,NASDAQ,"Hawthorn Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,e
 HWC,NASDAQ,Hancock Whitney Corporation - Common Stock,Stock,True,2026-05-08,,,9da890be79282ba97377
 HWCPZ,NASDAQ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,Stock,True,2026-05-08,,,4b7d91920525f8db32e5
 HWH,NASDAQ,HWH International Inc. - Common Stock,Stock,True,2026-05-08,,,e725118e9f2f019e9539
+HWIV,NASDAQ,Hotchkis & Wiley International Value Fund,ETF,True,2026-07-22,,,4996873c85c6333a77ab
 HWKN,NASDAQ,"Hawkins, Inc. - Common Stock",Stock,True,2026-05-08,,,5a529505b41a136761aa
+HWO,NASDAQ,Hotchkis & Wiley Opportunities Fund,ETF,True,2026-07-22,,,b6a58f0e3b448f600b12
 HWSM,NASDAQ,Hotchkis & Wiley SMID Cap Diversified Value Fund,ETF,True,2026-05-08,,,35f3e901fb7b554b4b80
 HXHX,NASDAQ,Haoxin Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,b89aaab4fad1b694674b
 HYBI,NASDAQ,NEOS Enhanced Income Credit Select ETF,ETF,True,2026-05-08,,,460df01a9d7b78baa6a2
@@ -3240,7 +3246,7 @@ KRAQ,NASDAQ,KRAKacquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-08
 KRAQU,NASDAQ,KRAKacquisition Corp - Unit,Stock,True,2026-05-08,,,8f2d4f1d922642e69337
 KRAQW,NASDAQ,KRAKacquisition Corp - Warrants,Stock,True,2026-05-08,,,4c6cf5292281759cc4c2
 KRKR,NASDAQ,36Kr Holdings Inc. - American Depositary Shares,Stock,True,2026-05-08,,,05693eed7091642145e8
-KRMA,NASDAQ,Global X Conscious Companies ETF,ETF,True,2026-05-08,,,22b25974138c29a29ff4
+KRMA,NASDAQ,Global X Conscious Companies ETF,ETF,False,2026-05-08,2026-07-22,Missing from current NASDAQ source snapshot; reason unavailable,22b25974138c29a29ff4
 KRMD,NASDAQ,"KORU Medical Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,940db057b3b91711c1d5
 KRNT,NASDAQ,Kornit Digital Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,70041b517c7b6a39ed3a
 KRNY,NASDAQ,Kearny Financial - Common Stock,Stock,True,2026-05-08,,,bbc305a9ae71e6f03d62
@@ -3396,7 +3402,7 @@ LLYVK,NASDAQ,"Liberty Live Holdings, Inc. - Series C Liberty Live Group Common S
 LMAT,NASDAQ,"LeMaitre Vascular, Inc. - Common Stock",Stock,True,2026-05-08,,,713595790452c60e6636
 LMB,NASDAQ,"Limbach Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,8eaa585beefa1d26cd01
 LMBS,NASDAQ,First Trust Low Duration Opportunities ETF,ETF,True,2026-05-08,,,02154005a9ccf56e2262
-LMFA,NASDAQ,"LM Funding America, Inc. - Common Stock",Stock,True,2026-05-08,,,976ebf76d9f947c41203
+LMFA,NASDAQ,"LM Funding America, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-22,Missing from current NASDAQ source snapshot; reason unavailable,976ebf76d9f947c41203
 LMNR,NASDAQ,Limoneira Co - Common Stock,Stock,True,2026-05-08,,,1d2ecb312526bffaedc5
 LMNX,NASDAQ,Defiance Daily Target 2x Long LMND ETF,ETF,True,2026-05-08,,,9fd5dbad5cde250c1050
 LMRI,NASDAQ,"Lumexa Imaging Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,19a493877dc620dbe0ab
@@ -3568,6 +3574,7 @@ MDWD,NASDAQ,MediWound Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,b90e9074c5d
 MDXG,NASDAQ,"MiMedx Group, Inc - Common Stock",Stock,True,2026-05-08,,,f047883a4d9b5cde6da1
 MDXH,NASDAQ,MDxHealth SA - Ordinary Shares,Stock,True,2026-05-08,,,15d2f008428c727aa09c
 MEDP,NASDAQ,"Medpace Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,7620a7016b348a1c3209
+MEDS,NASDAQ,"DataMeds AI, Inc. - Common Stock",Stock,True,2026-07-22,,,63a36e420da78cce383d
 MEDX,NASDAQ,Horizon Kinetics Medical ETF,ETF,True,2026-05-08,,,463e9d9c565ae31e9937
 MEGL,NASDAQ,Magic Empire Global Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,281d23e2b583fa0eb33f
 MEHA,NASDAQ,"Functional Brands, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-16,Missing from current NASDAQ source snapshot; reason unavailable,bcc112579fcc6df2063c
@@ -4515,6 +4522,7 @@ PUR,NASDAQ,Defiance Daily Target 2X Long PURR ETF,ETF,True,2026-07-08,,,81a48c77
 PURR,NASDAQ,Hyperliquid Strategies Inc - Common Stock,Stock,True,2026-05-08,,,059bb6b3f7058454a605
 PUSA,NASDAQ,Aureus Greenway Holdings Inc. - Common Stock,Stock,True,2026-05-18,,,52e1a9b10577e7785adc
 PVLA,NASDAQ,"Palvella Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,1865a13c7d3d3953dce5
+PWCM,NASDAQ,"PowerCompute, Inc. - Common Stock",Stock,True,2026-07-22,,,572356a30fb9c10a11bd
 PWP,NASDAQ,Perella Weinberg Partners - Class A Common Stock,Stock,True,2026-05-08,,,9a00eb986c019c598917
 PWRD,NASDAQ,TCW Transform Systems ETF,ETF,True,2026-05-08,,,5c59d2bb5ecd355110ee
 PWRL,NASDAQ,Powerlaw Corp. - Common Stock,Stock,True,2026-05-27,,,90efd7a1a2396714e7c3
@@ -5878,9 +5886,9 @@ WFCF,NASDAQ,"Where Food Comes From, Inc. - Common Stock",Stock,True,2026-05-08,,
 WFF,NASDAQ,WF Holding Limited - Ordinary Shares,Stock,True,2026-05-08,,,98232a6d6f12b7a9a827
 WFRD,NASDAQ,Weatherford International plc - Ordinary shares,Stock,True,2026-05-08,,,59c0691eb0a1ece2ea1d
 WGMI,NASDAQ,CoinShares Bitcoin Mining ETF,ETF,True,2026-05-08,,,0cf8ee4003ec4bd8b7bf
-WGRX,NASDAQ,"Wellgistics Health, Inc. - Common Stock",Stock,True,2026-05-08,,,ba90b741c5077dcdd203
+WGRX,NASDAQ,"Wellgistics Health, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-22,Missing from current NASDAQ source snapshot; reason unavailable,ba90b741c5077dcdd203
 WGS,NASDAQ,GeneDx Holdings Corp. - Class A Common Stock,Stock,True,2026-05-08,,,1cfd5efc9f7e4fe0b33d
-WGSWW,NASDAQ,GeneDx Holdings Corp. - Warrant,Stock,True,2026-05-08,,,0c50ace724e4d9789fbc
+WGSWW,NASDAQ,GeneDx Holdings Corp. - Warrant,Stock,False,2026-05-08,2026-07-22,Missing from current NASDAQ source snapshot; reason unavailable,0c50ace724e4d9789fbc
 WHF,NASDAQ,"WhiteHorse Finance, Inc. - Closed End Fund",Stock,True,2026-05-08,,,4d72cb75cc866e6408b5
 WHFCL,NASDAQ,"WhiteHorse Finance, Inc. - 7.875% Notes due 2028",Stock,True,2026-05-08,,,83ce46d3e01c1f62d494
 WHLR,NASDAQ,"Wheeler Real Estate Investment Trust, Inc. - Common Stock",Stock,True,2026-05-08,,,c2902faffd7b7bcdf121
@@ -8055,9 +8063,9 @@ NRK,NYSE,Nuveen New York AMT-Free Quality Municipal Income Fund,Stock,True,2026-
 NRP,NYSE,Natural Resource Partners LP Limited Partnership,Stock,True,2026-05-08,,,299c7d8c25c79c4cc741
 NRT,NYSE,North European Oil Royality Trust Common Stock,Stock,True,2026-05-08,,,f13f13237f28eb3d6066
 NRUC,NYSE,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes),Stock,True,2026-05-08,,,81a6efaf5fa469f1d637
-NSA,NYSE,National Storage Affiliates Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,8ef7a26ecafbcded973a
-NSA$A,NYSE,National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share),Stock,True,2026-05-08,,,d30ced9bcf74afdd3942
-NSA$B,NYSE,National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest,Stock,True,2026-05-08,,,e772cde40c1265dbcd18
+NSA,NYSE,National Storage Affiliates Trust Common Shares of Beneficial Interest,Stock,False,2026-05-08,2026-07-22,Missing from current NYSE source snapshot; reason unavailable,8ef7a26ecafbcded973a
+NSA$A,NYSE,National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share),Stock,False,2026-05-08,2026-07-22,Missing from current NYSE source snapshot; reason unavailable,d30ced9bcf74afdd3942
+NSA$B,NYSE,National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest,Stock,False,2026-05-08,2026-07-22,Missing from current NYSE source snapshot; reason unavailable,e772cde40c1265dbcd18
 NSC,NYSE,Norfolk Southern Corporation Common Stock,Stock,True,2026-05-08,,,53695ba6752252bbfa09
 NSP,NYSE,"Insperity, Inc. Common Stock",Stock,True,2026-05-08,,,eab60e1bc1ef797c5ee2
 NTB,NYSE,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,Stock,True,2026-05-08,,,30d6159fcc124ea529d8
@@ -8327,6 +8335,8 @@ PSA$P,NYSE,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.00
 PSA$Q,NYSE,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.950% Cumulative Preferred Share of Beneficial Interest, Series Q, par value $0.01 per share",Stock,True,2026-05-08,,,4787be8a9508833b3bd8
 PSA$R,NYSE,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.00% Cumulative Preferred Share of Bene cial Interest, Series R",Stock,True,2026-05-08,,,13c78e2e9ff6337a3105
 PSA$S,NYSE,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.100% Cumulative Preferred Share of Beneficial Interest, Series S",Stock,True,2026-05-08,,,3b981047e81d45cc2110
+PSA$T,NYSE,"Public Storage 6.000% Cumulative Preferred Shares of beneficial interest, Series T",Stock,True,2026-07-22,,,c6fe11140ee7f5060be9
+PSA$U,NYSE,"Public Storage 6.000% Cumulative Preferred Shares of Beneficial Interest, Series U",Stock,True,2026-07-22,,,fd325fefd569f835715b
 PSBD,NYSE,Palmer Square Capital BDC Inc. Common Stock,Stock,True,2026-05-08,,,8674b6d06311e941ad11
 PSEC$A,NYSE,Prospect Capital Corporation 5.35% Series A Fixed Rate Cumulative Perpetual Preferred Stock,Stock,True,2026-05-08,,,e133e6decca7f2f1b4cf
 PSF,NYSE,"Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock",Stock,True,2026-05-08,,,6a002b6d94e13518707b
