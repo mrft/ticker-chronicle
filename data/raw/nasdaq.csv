@@ -27,6 +27,7 @@ NASDAQ,AAPG,Ascentage Pharma Group International - American Depository Shares,St
 NASDAQ,AAPL,Apple Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AAPU,Direxion Daily AAPL Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AARD,"Aardvark Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AAUB,Alpha Architect US Equity 4 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AAUS,Alpha Architect US Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AAVM,Alpha Architect Global Factor Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AAXJ,iShares MSCI All Country Asia ex Japan ETF,ETF,,nasdaq_trader_symbol_directory
@@ -895,6 +896,7 @@ NASDAQ,CABR,"Caring Brands, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_dir
 NASDAQ,CAC,Camden National Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CACC,Credit Acceptance Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CADL,"Candel Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CAE,CAE Inc - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CAES,"Cantor Equity Partners VII, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CAFG,Pacer US Small Cap Cash Cows Growth Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CAI,"Caris Life Sciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1002,7 +1004,6 @@ NASDAQ,CEG,Constellation Energy Corporation - Common Stock When-Issued,Stock,,na
 NASDAQ,CELC,Celcuity Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CELH,"Celsius Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CELU,Celularity Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CELUW,Celularity Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CELZ,"Creative Medical Technology Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CENN,Cenntro Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CENT,Central Garden & Pet Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1634,6 +1635,7 @@ NASDAQ,EPSN,Epsilon Energy Ltd. - Common Shares,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,EQ,"Equillium, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EQIX,"Equinix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EQPT,EquipmentShare.com Inc - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EQQQ,ProShares Ultra QQQ Equal Weight,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EQRR,ProShares Equities for Rising Rates ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ERAS,"Erasca, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ERET,iShares Environmentally Aware Real Estate ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2003,7 +2005,6 @@ NASDAQ,GAING,Gladstone Investment Corporation - 7.125% Notes due 2031,Stock,,nas
 NASDAQ,GAINI,Gladstone Investment Corporation - 7.875% Notes due 2030,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GAINZ,Gladstone Investment Corporation - 4.875% Notes due 2028,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GALT,Galectin Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GAMB,Gambling.com Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GAME,"GameSquare Holdings, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GANX,"Gain Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GARY,Mango Growth ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2174,6 +2175,7 @@ NASDAQ,GROW,"U.S. Global Investors, Inc. - Class A Common Stock",Stock,,nasdaq_t
 NASDAQ,GRPN,"Groupon, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRRR,Gorilla Technology Group Inc. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRRRW,Gorilla Technology Group Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GRSD,Grandstand Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRVY,"GRAVITY Co., Ltd. - American depositary shares, each representing one common share.",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRW,TCW Durable Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GRWG,GrowGeneration Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3055,9 +3057,6 @@ NASDAQ,MAYS,"J. W. Mays, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direct
 NASDAQ,MAZE,"Maze Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MB,MasterBeef Group - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MBAI,Check-Cap Ltd. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MBAV,M3-Brigade Acquisition V Corp. - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MBAVU,M3-Brigade Acquisition V Corp. - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MBAVW,M3-Brigade Acquisition V Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MBB,iShares MBS ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MBBC,"Marathon Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MBIN,Merchants Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3292,7 +3291,6 @@ NASDAQ,MVBF,MVB Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,MVIS,"MicroVision, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MVLL,GraniteShares 2x Long MRVL Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MVST,"Microvast Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MVSTW,"Microvast Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MWC,"Micware Co., Ltd. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MWH,"SOLV Energy, Inc. - Class A common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MWYN,"Marwynn Holdings, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
@@ -4462,7 +4460,6 @@ NASDAQ,SGLY,Singularity Future Technology Ltd. - Common Stock,Stock,,nasdaq_trad
 NASDAQ,SGML,Sigma Lithium Corporation - common shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGMT,Sagimet Biosciences Inc. - Series A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGP,"SpyGlass Pharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SGRP,"SPAR Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGRY,"Surgery Partners, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGVA,F/m Accumulator Ultrashort Treasury Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5219,6 +5216,9 @@ NASDAQ,VIVO,VivoPower PLC - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_
 NASDAQ,VIVS,"VivoSim Labs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VKTX,"Viking Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VLGEA,"Village Super Market, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VLOS,Velos Acquisition I Corp. - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VLOSU,Velos Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VLOSW,Velos Acquisition I Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VLY,Valley National Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VLYPN,"Valley National Bancorp - 8.250% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VLYPO,Valley National Bancorp - 5.5% Fixed to Floating Rate Series B Non-Cumulative Perpetual Preferred Stock,Stock,,nasdaq_trader_symbol_directory

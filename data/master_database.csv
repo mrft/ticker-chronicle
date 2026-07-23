@@ -360,6 +360,7 @@ AAPG,NASDAQ,Ascentage Pharma Group International - American Depository Shares,St
 AAPL,NASDAQ,Apple Inc. - Common Stock,Stock,True,2026-05-08,,,5338b02fcc928f71f4c6
 AAPU,NASDAQ,Direxion Daily AAPL Bull 2X ETF,ETF,True,2026-05-08,,,f1ec66672457171b8df2
 AARD,NASDAQ,"Aardvark Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,302320df0f1d9b8fc286
+AAUB,NASDAQ,Alpha Architect US Equity 4 ETF,ETF,True,2026-07-23,,,904ff29c7533c5e8f67a
 AAUS,NASDAQ,Alpha Architect US Equity ETF,ETF,True,2026-05-08,,,9cd1028f02cb5c81ee38
 AAVM,NASDAQ,Alpha Architect Global Factor Equity ETF,ETF,True,2026-05-08,,,7ef440f10b86a47204f6
 AAXJ,NASDAQ,iShares MSCI All Country Asia ex Japan ETF,ETF,True,2026-05-08,,,b611e0f3741ea50af3ff
@@ -1264,6 +1265,7 @@ CABR,NASDAQ,"Caring Brands, Inc. - Common Stock",Stock,True,2026-05-08,,,7097d89
 CAC,NASDAQ,Camden National Corporation - Common Stock,Stock,True,2026-05-08,,,22c66e9a323b9addbca5
 CACC,NASDAQ,Credit Acceptance Corporation - Common Stock,Stock,True,2026-05-08,,,4cf9127ba717b609f032
 CADL,NASDAQ,"Candel Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,6c3f116b4d299fe2e5eb
+CAE,NASDAQ,CAE Inc - Common Shares,Stock,True,2026-07-23,,,896119da879c4fede07c
 CAEP,NASDAQ,"Cantor Equity Partners III, Inc. - Class A Ordinary Shares",Stock,False,2026-05-08,2026-05-18,Missing from current NASDAQ source snapshot; reason unavailable,ef241e502a20aef46b9c
 CAES,NASDAQ,"Cantor Equity Partners VII, Inc. - Class A Ordinary Shares",Stock,True,2026-06-17,,,04b4dc7da69f245254b5
 CAFG,NASDAQ,Pacer US Small Cap Cash Cows Growth Leaders ETF,ETF,True,2026-05-08,,,e1cdb9db705a6a74f9cc
@@ -1376,7 +1378,7 @@ CEG,NASDAQ,Constellation Energy Corporation - Common Stock When-Issued,Stock,Tru
 CELC,NASDAQ,Celcuity Inc. - Common Stock,Stock,True,2026-05-08,,,dfbf0fbb535741bfda63
 CELH,NASDAQ,"Celsius Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,68504607a81733330f62
 CELU,NASDAQ,Celularity Inc. - Class A Common Stock,Stock,True,2026-05-08,,,2658687232350583a9e7
-CELUW,NASDAQ,Celularity Inc. - Warrant,Stock,True,2026-05-08,,,806da0b53cad5c9ecc66
+CELUW,NASDAQ,Celularity Inc. - Warrant,Stock,False,2026-05-08,2026-07-23,Missing from current NASDAQ source snapshot; reason unavailable,806da0b53cad5c9ecc66
 CELZ,NASDAQ,"Creative Medical Technology Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,43c98e6aee4ca8f56a6c
 CENN,NASDAQ,Cenntro Inc. - Common Stock,Stock,True,2026-05-08,,,0ce97a75f6dee5765d88
 CENT,NASDAQ,Central Garden & Pet Company - Common Stock,Stock,True,2026-05-08,,,e3964fc976f1e8703451
@@ -2030,6 +2032,7 @@ EPSN,NASDAQ,Epsilon Energy Ltd. - Common Shares,Stock,True,2026-05-08,,,08fecc24
 EQ,NASDAQ,"Equillium, Inc. - Common Stock",Stock,True,2026-05-08,,,770a948c72d33d3ff713
 EQIX,NASDAQ,"Equinix, Inc. - Common Stock",Stock,True,2026-05-08,,,9f29ff1cff6fb50233c1
 EQPT,NASDAQ,EquipmentShare.com Inc - Class A Common Stock,Stock,True,2026-05-08,,,18aa25cc13f45e3d9022
+EQQQ,NASDAQ,ProShares Ultra QQQ Equal Weight,ETF,True,2026-07-23,,,efddd35eaa96073b44ce
 EQRR,NASDAQ,ProShares Equities for Rising Rates ETF,ETF,True,2026-05-08,,,1c5101ec6d5378d36074
 ERAS,NASDAQ,"Erasca, Inc. - Common Stock",Stock,True,2026-05-08,,,1b2be5d2efab32abde44
 ERET,NASDAQ,iShares Environmentally Aware Real Estate ETF,ETF,True,2026-05-08,,,0c185c6304e50cbceb35
@@ -2421,7 +2424,7 @@ GAING,NASDAQ,Gladstone Investment Corporation - 7.125% Notes due 2031,Stock,True
 GAINI,NASDAQ,Gladstone Investment Corporation - 7.875% Notes due 2030,Stock,True,2026-05-08,,,6c4cf12f4a85eff743c0
 GAINZ,NASDAQ,Gladstone Investment Corporation - 4.875% Notes due 2028,Stock,True,2026-05-08,,,b639aac4eaf9632b3e4c
 GALT,NASDAQ,Galectin Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,3cabd8f4712966680e32
-GAMB,NASDAQ,Gambling.com Group Limited - Ordinary Shares,Stock,True,2026-05-08,,,78019e134774501403d7
+GAMB,NASDAQ,Gambling.com Group Limited - Ordinary Shares,Stock,False,2026-05-08,2026-07-23,Missing from current NASDAQ source snapshot; reason unavailable,78019e134774501403d7
 GAME,NASDAQ,"GameSquare Holdings, Inc. - Common stock",Stock,True,2026-05-08,,,0f08d015503d000ed0b7
 GANX,NASDAQ,"Gain Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,50ee1aeaf9e4a482335b
 GARY,NASDAQ,Mango Growth ETF,ETF,True,2026-05-08,,,0afbeb12ec704e9c1a22
@@ -2602,6 +2605,7 @@ GROW,NASDAQ,"U.S. Global Investors, Inc. - Class A Common Stock",Stock,True,2026
 GRPN,NASDAQ,"Groupon, Inc. - Common Stock",Stock,True,2026-05-08,,,da695466b9bd44464ef5
 GRRR,NASDAQ,Gorilla Technology Group Inc. - Ordinary shares,Stock,True,2026-05-08,,,7096757a5dc2c46e218b
 GRRRW,NASDAQ,Gorilla Technology Group Inc. - Warrant,Stock,True,2026-05-08,,,0b6d3c6e7f164a15ad49
+GRSD,NASDAQ,Grandstand Limited - Ordinary Shares,Stock,True,2026-07-23,,,1505f36f1a85ebbba1ce
 GRVY,NASDAQ,"GRAVITY Co., Ltd. - American depositary shares, each representing one common share.",Stock,True,2026-05-08,,,ad127d4ee5c85d7f55d3
 GRW,NASDAQ,TCW Durable Growth ETF,ETF,True,2026-05-08,,,e29992b6949990c1f1db
 GRWG,NASDAQ,GrowGeneration Corp. - Common Stock,Stock,True,2026-05-08,,,8258f4f9c7c3f73a9fbe
@@ -3518,9 +3522,9 @@ MAYS,NASDAQ,"J. W. Mays, Inc. - Common Stock",Stock,True,2026-05-08,,,a3eb05016a
 MAZE,NASDAQ,"Maze Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,d776d0663ac82576f96c
 MB,NASDAQ,MasterBeef Group - Ordinary Shares,Stock,True,2026-05-08,,,f2f64e7e523afd0ca70d
 MBAI,NASDAQ,Check-Cap Ltd. - Ordinary Share,Stock,True,2026-05-08,,,38289db8fd13b1bfa276
-MBAV,NASDAQ,M3-Brigade Acquisition V Corp. - Class A Ordinary shares,Stock,True,2026-05-08,,,95158102b4132b9e3446
-MBAVU,NASDAQ,M3-Brigade Acquisition V Corp. - Units,Stock,True,2026-05-08,,,33df673fc476ac35529e
-MBAVW,NASDAQ,M3-Brigade Acquisition V Corp. - Warrant,Stock,True,2026-05-08,,,95e70823a61d0e6bcf69
+MBAV,NASDAQ,M3-Brigade Acquisition V Corp. - Class A Ordinary shares,Stock,False,2026-05-08,2026-07-23,Missing from current NASDAQ source snapshot; reason unavailable,95158102b4132b9e3446
+MBAVU,NASDAQ,M3-Brigade Acquisition V Corp. - Units,Stock,False,2026-05-08,2026-07-23,Missing from current NASDAQ source snapshot; reason unavailable,33df673fc476ac35529e
+MBAVW,NASDAQ,M3-Brigade Acquisition V Corp. - Warrant,Stock,False,2026-05-08,2026-07-23,Missing from current NASDAQ source snapshot; reason unavailable,95e70823a61d0e6bcf69
 MBB,NASDAQ,iShares MBS ETF,ETF,True,2026-05-08,,,cc9aa861259eb95a347c
 MBBC,NASDAQ,"Marathon Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,87c5b1b1faf90b7e1491
 MBIN,NASDAQ,Merchants Bancorp - Common Stock,Stock,True,2026-05-08,,,ae085792a32990e9242a
@@ -3766,7 +3770,7 @@ MVBF,NASDAQ,MVB Financial Corp. - Common Stock,Stock,True,2026-05-08,,,85626dce0
 MVIS,NASDAQ,"MicroVision, Inc. - Common Stock",Stock,True,2026-05-08,,,3e1d2f0454bfbc8bebf8
 MVLL,NASDAQ,GraniteShares 2x Long MRVL Daily ETF,ETF,True,2026-05-08,,,d0fee5327c2e4563047a
 MVST,NASDAQ,"Microvast Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,6a7f623fb294768d575b
-MVSTW,NASDAQ,"Microvast Holdings, Inc. - Warrant",Stock,True,2026-05-08,,,29df9b20af0d492b4db6
+MVSTW,NASDAQ,"Microvast Holdings, Inc. - Warrant",Stock,False,2026-05-08,2026-07-23,Missing from current NASDAQ source snapshot; reason unavailable,29df9b20af0d492b4db6
 MWC,NASDAQ,"Micware Co., Ltd. - American Depositary Shares",Stock,True,2026-05-14,,,3762f44904bcefccd276
 MWH,NASDAQ,"SOLV Energy, Inc. - Class A common stock",Stock,True,2026-05-08,,,b3c454960adb608c0821
 MWYN,NASDAQ,"Marwynn Holdings, Inc. - Common stock",Stock,True,2026-05-08,,,41142e263feecd6b7918
@@ -4979,7 +4983,7 @@ SGLY,NASDAQ,Singularity Future Technology Ltd. - Common Stock,Stock,True,2026-05
 SGML,NASDAQ,Sigma Lithium Corporation - common shares,Stock,True,2026-05-08,,,16e42074222b4c00dccf
 SGMT,NASDAQ,Sagimet Biosciences Inc. - Series A Common Stock,Stock,True,2026-05-08,,,9e274eeca28fa98fc35b
 SGP,NASDAQ,"SpyGlass Pharma, Inc. - Common Stock",Stock,True,2026-05-08,,,da7aeaee338060061ed6
-SGRP,NASDAQ,"SPAR Group, Inc. - Common Stock",Stock,True,2026-05-08,,,71f3dd271743f7f0e21d
+SGRP,NASDAQ,"SPAR Group, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-23,Missing from current NASDAQ source snapshot; reason unavailable,71f3dd271743f7f0e21d
 SGRY,NASDAQ,"Surgery Partners, Inc. - Common Stock",Stock,True,2026-05-08,,,6c93c8c21585e77328df
 SGVA,NASDAQ,F/m Accumulator Ultrashort Treasury Fund,ETF,True,2026-06-11,,,08ec668378049f257343
 SHAZ,NASDAQ,"SharonAI Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,451441c7fc4380d2209d
@@ -5770,6 +5774,9 @@ VIVO,NASDAQ,VivoPower PLC - Class A Ordinary Shares,Stock,True,2026-06-26,,,3907
 VIVS,NASDAQ,"VivoSim Labs, Inc. - Common Stock",Stock,True,2026-05-08,,,6e68d89c5fd5661b10ca
 VKTX,NASDAQ,"Viking Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,5c027af448de77389d38
 VLGEA,NASDAQ,"Village Super Market, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,103c04de355be96a5ae4
+VLOS,NASDAQ,Velos Acquisition I Corp. - Class A Ordinary shares,Stock,True,2026-07-23,,,c1fba490c578e7397c8e
+VLOSU,NASDAQ,Velos Acquisition I Corp. - Units,Stock,True,2026-07-23,,,be502a7c0369ad0bab98
+VLOSW,NASDAQ,Velos Acquisition I Corp. - Warrant,Stock,True,2026-07-23,,,dc1b193c9254e84a04da
 VLY,NASDAQ,Valley National Bancorp - Common Stock,Stock,True,2026-05-08,,,3d43b5e8dc5b745b4b37
 VLYPN,NASDAQ,"Valley National Bancorp - 8.250% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",Stock,True,2026-05-08,,,71a4f73458ad47356ee5
 VLYPO,NASDAQ,Valley National Bancorp - 5.5% Fixed to Floating Rate Series B Non-Cumulative Perpetual Preferred Stock,Stock,True,2026-05-08,,,955dcdaa49dfa741b9f1
@@ -6634,7 +6641,7 @@ C$R,NYSE,"Citigroup Inc. Depositary Shares, Each Representing a 1/1,000th Intere
 CAAP,NYSE,Corporacion America Airports SA Common Shares,Stock,True,2026-05-08,,,31a2de3f0e1043fca62a
 CABO,NYSE,"Cable One, Inc. Common Stock",Stock,True,2026-05-08,,,accce2fa4cb46f5553a1
 CACI,NYSE,"CACI International, Inc. Class A Common Stock",Stock,True,2026-05-08,,,9d6f7fd9c4ee1cba86ac
-CAE,NYSE,CAE Inc. Ordinary Shares,Stock,True,2026-05-08,,,afbd72af8b184ab8c3fc
+CAE,NYSE,CAE Inc. Ordinary Shares,Stock,False,2026-05-08,2026-07-23,Missing from current NYSE source snapshot; reason unavailable,afbd72af8b184ab8c3fc
 CAF,NYSE,Morgan Stanley China A Share Fund Inc. Common Stock,Stock,True,2026-05-08,,,59f64b61c6ed1a7c0510
 CAG,NYSE,"ConAgra Brands, Inc. Common Stock",Stock,True,2026-05-08,,,2d388f7d469b7e77f525
 CAH,NYSE,"Cardinal Health, Inc. Common Stock",Stock,True,2026-05-08,,,26286ad61c43939ac308
