@@ -1022,6 +1022,8 @@ BIDWU,NASDAQ,Tribeca Strategic Acquisition Corp. - Unit,Stock,True,2026-05-29,,,
 BIIB,NASDAQ,Biogen Inc. - Common Stock,Stock,True,2026-05-08,,,c6071d2de6dfbb10775e
 BILI,NASDAQ,Bilibili Inc. - American Depositary Shares,Stock,True,2026-05-08,,,745e7c786d0c70bb6e1b
 BIOA,NASDAQ,"BioAge Labs, Inc. - Common Stock",Stock,True,2026-05-08,,,30cab34ba4ec13377922
+BIOT,NASDAQ,Instinct Bio Technical Company Holdings Inc. - Common stock,Stock,True,2026-07-24,,,1153188690b3d38aec70
+BIOTW,NASDAQ,Instinct Bio Technical Company Holdings Inc. - Warrants,Stock,True,2026-07-24,,,f409a682793acda6f1a6
 BIOX,NASDAQ,Bioceres Crop Solutions Corp. - Ordinary Shares,Stock,True,2026-05-08,,,3bd20aa1df2505f91842
 BIOY,NASDAQ,GraniteShares YieldBOOST Biotech ETF,ETF,True,2026-05-08,,,662d5d71d7e456312ec0
 BIRD,NASDAQ,"Allbirds, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-06-22,Listing metadata changed,99a6d4f636c493fd15ba
@@ -2591,7 +2593,7 @@ GRAN,NASDAQ,Grande Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08
 GRCE,NASDAQ,"Grace Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,15d1a4fcdf17a1c60ef2
 GRDX,NASDAQ,GridAI Technologies Corp. - Common Stock,Stock,True,2026-05-08,,,a83d0973d625f7228759
 GREE,NASDAQ,Greenidge Generation Holdings Inc. - Class A Common Stock,Stock,False,2026-05-08,2026-07-22,Listing metadata changed,e03e109139a1c96dd2dc
-GREE,NASDAQ,Vulcan Infrastructure and Power Inc. - Class A Common Stock,Stock,True,2026-07-22,,,c5ad953504424012e796
+GREE,NASDAQ,Vulcan Infrastructure and Power Inc. - Class A Common Stock,Stock,False,2026-07-22,2026-07-24,Missing from current NASDAQ source snapshot; reason unavailable,c5ad953504424012e796
 GREEL,NASDAQ,Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026,Stock,False,2026-05-08,2026-07-22,Listing metadata changed,a5ec24c4baa2857be328
 GREEL,NASDAQ,Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026,Stock,True,2026-07-22,,,55b99ad907b22eb07a92
 GRFS,NASDAQ,"Grifols, S.A. - American Depositary Shares",Stock,True,2026-05-08,,,c881a9ac6e229884c23b
@@ -3746,6 +3748,7 @@ MSTP,NASDAQ,GraniteShares 2x Long MSTR Daily ETF,ETF,True,2026-05-08,,,45c04dc2f
 MSTR,NASDAQ,Strategy Inc - Class A Common Stock,Stock,True,2026-05-08,,,37ff738d4fd1d0e4c60d
 MSTX,NASDAQ,Defiance Daily Target 2x Long MSTR ETF,ETF,True,2026-05-08,,,8095fe1912c75eeba9e1
 MSW,NASDAQ,Ming Shing Group Holdings Limited - Ordinary Shares,Stock,False,2026-05-08,2026-07-09,Missing from current NASDAQ source snapshot; reason unavailable,71a7dea87a013964383f
+MTAKU,NASDAQ,Market Technology Acquisition Corp - Unit,Stock,True,2026-07-24,,,80fe4954dd2422f08c96
 MTC,NASDAQ,"MMTec, Inc. - Common Shares",Stock,True,2026-05-08,,,3ba33aa5a680ad16b051
 MTCH,NASDAQ,"Match Group, Inc. - Common Stock",Stock,True,2026-05-08,,,14e70b5cf07a417c4af7
 MTEK,NASDAQ,Maris-Tech Ltd. - ordinary shares,Stock,True,2026-05-08,,,a9da93a2baeee15d5171
@@ -4023,7 +4026,7 @@ NVNIW,NASDAQ,Nvni Group Limited - Warrants,Stock,True,2026-05-08,,,73a232dad06d4
 NVNO,NASDAQ,enVVeno Medical Corporation - Common Stock,Stock,True,2026-05-08,,,d841ad091d602ad0823e
 NVPS,NASDAQ,PurePlay Nvidia Ecosystem Picks & Shovels Index ETF,ETF,True,2026-06-18,,,19136944e37f495be9ee
 NVTS,NASDAQ,Navitas Semiconductor Corporation - Common Stock,Stock,True,2026-05-08,,,90d42527383c38f5bb59
-NVVE,NASDAQ,Nuvve Holding Corp. - Common Stock,Stock,True,2026-05-08,,,6839d0b007192a10f04f
+NVVE,NASDAQ,Nuvve Holding Corp. - Common Stock,Stock,False,2026-05-08,2026-07-24,Missing from current NASDAQ source snapshot; reason unavailable,6839d0b007192a10f04f
 NVX,NASDAQ,NOVONIX Limited - American Depository Shares,Stock,True,2026-05-08,,,6d1e9dc2378deada8734
 NVYY,NASDAQ,GraniteShares YieldBOOST NVDA ETF,ETF,True,2026-05-08,,,255502704600ff3dfb57
 NWBI,NASDAQ,"Northwest Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,29dcd32c108e1bad4813
@@ -4371,6 +4374,7 @@ PLBC,NASDAQ,Plumas Bancorp - Common Stock,Stock,True,2026-05-08,,,cc194dc8dad9e1
 PLBL,NASDAQ,Polibeli Group Ltd - Class A Ordinary Shares,Stock,True,2026-05-08,,,a3129e6748feedb6317e
 PLBY,NASDAQ,"Playboy, Inc. - Common Stock",Stock,True,2026-05-08,,,8104d943bd4f4d70f2ff
 PLCE,NASDAQ,"Children's Place, Inc. (The) - Common Stock",Stock,True,2026-05-08,,,7fa9404d42535b56eb3b
+PLCIU,NASDAQ,Pelican Acquisition II Corporation - Unit,Stock,True,2026-07-24,,,a5225c9776ed07978ef3
 PLMK,NASDAQ,Plum Acquisition Corp. IV - Class A Ordinary Shares,Stock,True,2026-05-08,,,bd2b9f3e784118abc320
 PLMKU,NASDAQ,Plum Acquisition Corp. IV - Unit,Stock,True,2026-05-08,,,6e53e3a1040bb2260cd5
 PLMKW,NASDAQ,Plum Acquisition Corp. IV - Warrants,Stock,True,2026-05-08,,,6312e6fdf964d60a1e3e
@@ -4924,6 +4928,7 @@ SCPQ,NASDAQ,Social Commerce Partners Corporation - Class A Ordinary Shares,Stock
 SCPQU,NASDAQ,Social Commerce Partners Corporation - Unit,Stock,True,2026-05-08,,,afecf1b914de9986f286
 SCPQW,NASDAQ,Social Commerce Partners Corporation - Warrant,Stock,True,2026-05-08,,,13ac438e6123c0abfd48
 SCSC,NASDAQ,"ScanSource, Inc. - Common Stock",Stock,True,2026-05-08,,,b0c269a9f9d8f876ff4b
+SCTX,NASDAQ,Scribe Therapeutics Inc. - Common Stock,Stock,True,2026-07-24,,,878306eb8f843a91539c
 SCVL,NASDAQ,"Shoe Carnival, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,23931a76221403d66467
 SCWO,NASDAQ,374Water Inc. - common stock,Stock,True,2026-05-08,,,83c64b582f90409f68cf
 SCYX,NASDAQ,"SCYNEXIS, Inc. - Common Stock",Stock,True,2026-05-08,,,f5e7e6fb06bccca80358
@@ -5764,6 +5769,7 @@ VICR,NASDAQ,Vicor Corporation - Common Stock,Stock,True,2026-05-08,,,e22dc0c2239
 VIGI,NASDAQ,Vanguard International Dividend Appreciation ETF,ETF,True,2026-05-08,,,8ca29feb3cedb1221958
 VINP,NASDAQ,Vinci Compass Investments Ltd. - Class A Common Shares,Stock,True,2026-05-08,,,66ca0473662e2aa06359
 VIOT,NASDAQ,"Viomi Technology Co., Ltd - American Depositary Shares",Stock,True,2026-05-08,,,f1036e4fdbb979c51edd
+VIP,NASDAQ,Vulcan Infrastructure and Power Inc. - Class A Common Stock,Stock,True,2026-07-24,,,c5ad953504424012e796
 VIR,NASDAQ,"Vir Biotechnology, Inc. - Common Stock",Stock,True,2026-05-08,,,bf6f2058b5e4aeae0854
 VIRC,NASDAQ,Virco Manufacturing Corporation - Common Stock,Stock,True,2026-05-08,,,3c539b1d16bdbd388564
 VISN,NASDAQ,"Vistance Networks, Inc. - Common Stock",Stock,True,2026-05-08,,,7f72f62fa20fb781021b
@@ -8806,7 +8812,7 @@ TLK,NYSE,"PT Telekomunikasi Indonesia, Tbk",Stock,True,2026-05-08,,,15924a8d15dc
 TLYS,NYSE,"Tilly's, Inc. Common Stock",Stock,True,2026-05-08,,,8cce82eb452fd75e2346
 TM,NYSE,Toyota Motor Corporation Common Stock,Stock,True,2026-05-08,,,f26743244334f0d60ad4
 TME,NYSE,"Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares",Stock,True,2026-05-08,,,c72b11afb422855aec9c
-TMHC,NYSE,Taylor Morrison Home Corporation Common Stock,Stock,True,2026-05-08,,,bb03d752e521b85cc0ab
+TMHC,NYSE,Taylor Morrison Home Corporation Common Stock,Stock,False,2026-05-08,2026-07-24,Missing from current NYSE source snapshot; reason unavailable,bb03d752e521b85cc0ab
 TMO,NYSE,Thermo Fisher Scientific Inc Common Stock,Stock,True,2026-05-08,,,4a7988b5e1f7e180e3d5
 TNC,NYSE,Tennant Company Common Stock,Stock,True,2026-05-08,,,951a79135f108a8d9755
 TNET,NYSE,"TriNet Group, Inc. Common Stock",Stock,True,2026-05-08,,,daaf4b24f04585a7ecf3

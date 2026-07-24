@@ -662,6 +662,8 @@ NASDAQ,BIDWU,Tribeca Strategic Acquisition Corp. - Unit,Stock,,nasdaq_trader_sym
 NASDAQ,BIIB,Biogen Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BILI,Bilibili Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIOA,"BioAge Labs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BIOT,Instinct Bio Technical Company Holdings Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BIOTW,Instinct Bio Technical Company Holdings Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIOX,Bioceres Crop Solutions Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BIOY,GraniteShares YieldBOOST Biotech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BIRD,"Smartbird, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2162,7 +2164,6 @@ NASDAQ,GRAL,"GRAIL, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRAN,Grande Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRCE,"Grace Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRDX,GridAI Technologies Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GREE,Vulcan Infrastructure and Power Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GREEL,Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRFS,"Grifols, S.A. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRI,"GRI Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3267,6 +3268,7 @@ NASDAQ,MST,Defiance Leveraged Long + Income MSTR ETF,ETF,,nasdaq_trader_symbol_d
 NASDAQ,MSTP,GraniteShares 2x Long MSTR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MSTR,Strategy Inc - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSTX,Defiance Daily Target 2x Long MSTR ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,MTAKU,Market Technology Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTC,"MMTec, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTCH,"Match Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTEK,Maris-Tech Ltd. - ordinary shares,Stock,,nasdaq_trader_symbol_directory
@@ -3534,7 +3536,6 @@ NASDAQ,NVNIW,Nvni Group Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVNO,enVVeno Medical Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVPS,PurePlay Nvidia Ecosystem Picks & Shovels Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NVTS,Navitas Semiconductor Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NVVE,Nuvve Holding Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVX,NOVONIX Limited - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVYY,GraniteShares YieldBOOST NVDA ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NWBI,"Northwest Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3869,6 +3870,7 @@ NASDAQ,PLBC,Plumas Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLBL,Polibeli Group Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLBY,"Playboy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLCE,"Children's Place, Inc. (The) - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PLCIU,Pelican Acquisition II Corporation - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLMK,Plum Acquisition Corp. IV - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLMKU,Plum Acquisition Corp. IV - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLMKW,Plum Acquisition Corp. IV - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -4404,6 +4406,7 @@ NASDAQ,SCPQ,Social Commerce Partners Corporation - Class A Ordinary Shares,Stock
 NASDAQ,SCPQU,Social Commerce Partners Corporation - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCPQW,Social Commerce Partners Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCSC,"ScanSource, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SCTX,Scribe Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCWO,374Water Inc. - common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCYX,"SCYNEXIS, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCZ,iShares MSCI EAFE Small-Cap ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5207,6 +5210,7 @@ NASDAQ,VICR,Vicor Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,VIGI,Vanguard International Dividend Appreciation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VINP,Vinci Compass Investments Ltd. - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VIOT,"Viomi Technology Co., Ltd - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VIP,Vulcan Infrastructure and Power Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VIR,"Vir Biotechnology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VIRC,Virco Manufacturing Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VISN,"Vistance Networks, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
