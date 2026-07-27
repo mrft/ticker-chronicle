@@ -1605,7 +1605,6 @@ NASDAQ,EMIS,Emmis Acquisition Corp. - Class A Ordinary Share,Stock,,nasdaq_trade
 NASDAQ,EMISR,Emmis Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EML,Eastern Company (The) - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EMPD,Empery Digital Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,EMPG,Empro Group Inc. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EMSC,Sophus Capital Emerging Market Small Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMXC,iShares MSCI Emerging Markets ex China ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMXF,iShares ESG Advanced MSCI EM ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2605,7 +2604,9 @@ NASDAQ,IPKW,Invesco International BuyBack Achievers ETF,ETF,,nasdaq_trader_symbo
 NASDAQ,IPM,Intelligent Protection Management Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPSC,"Century Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPST,"IP Strategy Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IPVV,"InterPrivate Investment Partners V, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPVVU,"InterPrivate Investment Partners V, Inc. - Units",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IPVVW,"InterPrivate Investment Partners V, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPW,iPower Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPWR,Ideal Power Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPX,IperionX Limited - American Depositary Share,Stock,,nasdaq_trader_symbol_directory
@@ -3004,6 +3005,7 @@ NASDAQ,LSTR,"Landstar System, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,LTBR,Lightbridge Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTCC,Canary Litecoin ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LTGRU,Long Table Growth Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LTGRW,Long Table Growth Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTRN,Lantern Pharma Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTRX,"Lantronix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTRYW,Sports Entertainment Gaming Global Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -4045,6 +4047,7 @@ NASDAQ,QALT,SEI DBi Multi-Strategy Alternative ETF,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,QAT,iShares MSCI Qatar ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QB,ProShares Nasdaq-100 Dynamic Buffer ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QBIG,Invesco Top QQQ ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QBTS,D-Wave Quantum Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QBTZ,Defiance Daily Target 2x Short QBTS ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QBUF,Innovator Nasdaq-100 10 Buffer ETF Quarterly,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QBY,GraniteShares YieldBoost QBTS ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4946,9 +4949,6 @@ NASDAQ,TRGSR,TRG Latin America Acquisitions Corp. - Rights,Stock,,nasdaq_trader_
 NASDAQ,TRGSU,TRG Latin America Acquisitions Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRI,Thomson Reuters Corp - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRIB,Trinity Biotech plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,TRIN,Trinity Capital Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,TRINI,Trinity Capital Inc. - 7.875% Notes Due 2029,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,TRINZ,Trinity Capital Inc. - 7.875% Notes due 2029,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRIP,"TripAdvisor, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRMB,Trimble Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRMD,TORM plc - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5276,7 +5276,6 @@ NASDAQ,VSME,VS Media Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_tr
 NASDAQ,VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VSNT,"Versant Media Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VSOL,VanEck Solana ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,VSTD,Vestand Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VSTL,Defiance Daily Target 2X Long VST ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VSTM,"Verastem, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VTC,Vanguard Total Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory

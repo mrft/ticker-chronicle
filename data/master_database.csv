@@ -127,9 +127,9 @@ GORO,AMEX,Gold Resource Corporation Common Stock,Stock,False,2026-05-08,2026-07-
 GORO,AMEX,Goldgroup Mining Inc. Common Shares,Stock,True,2026-07-20,,,b029e9baadbd22e5272f
 GPUS,AMEX,"Hyperscale Data, Inc. Common Stock",Stock,True,2026-05-08,,,ada3c5c8492c50af7ba4
 GPUS$D,AMEX,"Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",Stock,True,2026-05-08,,,7c8892ace3905bbd29d4
-GRAF,AMEX,Graf Global Corp. Class A ordinary shares,Stock,True,2026-05-08,,,e3d9ba8ae54875d77e09
-GRAF.U,AMEX,"Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,True,2026-05-08,,,4c5af5bcdb97865f175f
-GRAF.W,AMEX,"Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,0f61e3f906ee4da35c63
+GRAF,AMEX,Graf Global Corp. Class A ordinary shares,Stock,False,2026-05-08,2026-07-27,Missing from current AMEX source snapshot; reason unavailable,e3d9ba8ae54875d77e09
+GRAF.U,AMEX,"Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,False,2026-05-08,2026-07-27,Missing from current AMEX source snapshot; reason unavailable,4c5af5bcdb97865f175f
+GRAF.W,AMEX,"Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,False,2026-05-08,2026-07-27,Missing from current AMEX source snapshot; reason unavailable,0f61e3f906ee4da35c63
 GRF,AMEX,"Eagle Capital Growth Fund, Inc. Common Stock",Stock,True,2026-05-08,,,96c79650f3f1b752c9b1
 GRO,AMEX,Brazil Potash Corp. Common Shares,Stock,True,2026-05-08,,,e44f23b2c2c6f6ab86a3
 GROY,AMEX,Gold Royalty Corp. Common Shares,Stock,True,2026-05-08,,,9cec16762960a8793e0e
@@ -295,6 +295,9 @@ TII,AMEX,Titan Mining Corporation Common Shares,Stock,True,2026-05-08,,,3cf62852
 TMDE,AMEX,TMD Energy Limited Ordinary Shares,Stock,True,2026-05-08,,,2d739460372e29de8eb4
 TMP,AMEX,Tompkins Financial Corporation Common Stock,Stock,True,2026-05-08,,,f931e005f8fbe27c9074
 TMQ,AMEX,Trilogy Metals Inc. Common Stock,Stock,True,2026-05-08,,,d01f4bb0f3f89ca7d49b
+TONT,AMEX,Graf Global Corp. Class A ordinary shares,Stock,True,2026-07-27,,,e3d9ba8ae54875d77e09
+TONT.U,AMEX,"Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,True,2026-07-27,,,4c5af5bcdb97865f175f
+TONT.W,AMEX,"Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,True,2026-07-27,,,0f61e3f906ee4da35c63
 TOON,AMEX,"Kartoon Studios, Inc. Common Stock",Stock,True,2026-05-08,,,c658ca2fc1806614bc6e
 TOPP,AMEX,Toppoint Holdings Inc. Common Stock,Stock,True,2026-05-08,,,8e12931c06bb4d9390a4
 TOPS,AMEX,"TOP Ships, Inc. Common Stock",Stock,True,2026-05-08,,,9d8b0583b154ebc61f4b
@@ -2001,7 +2004,7 @@ EMIS,NASDAQ,Emmis Acquisition Corp. - Class A Ordinary Share,Stock,True,2026-05-
 EMISR,NASDAQ,Emmis Acquisition Corp. - Rights,Stock,True,2026-05-08,,,27bdbdf4f5cf28b0f9ff
 EML,NASDAQ,Eastern Company (The) - Common Stock,Stock,True,2026-05-08,,,9c6248a4ccfb3d512af5
 EMPD,NASDAQ,Empery Digital Inc. - Common stock,Stock,True,2026-05-08,,,cba590d0fbaa67c2930e
-EMPG,NASDAQ,Empro Group Inc. - Ordinary shares,Stock,True,2026-05-08,,,38166f95e1b98475fb57
+EMPG,NASDAQ,Empro Group Inc. - Ordinary shares,Stock,False,2026-05-08,2026-07-27,Missing from current NASDAQ source snapshot; reason unavailable,38166f95e1b98475fb57
 EMSC,NASDAQ,Sophus Capital Emerging Market Small Cap ETF,ETF,True,2026-05-21,,,ed39604cd00b0fb99a78
 EMXC,NASDAQ,iShares MSCI Emerging Markets ex China ETF,ETF,True,2026-05-08,,,7ffb0eb01c7cb36e003d
 EMXF,NASDAQ,iShares ESG Advanced MSCI EM ETF,ETF,True,2026-05-08,,,7027bdba1c9f745a040c
@@ -3051,7 +3054,9 @@ IPODU,NASDAQ,Dune Acquisition Corporation II - Units,Stock,False,2026-05-08,2026
 IPODW,NASDAQ,Dune Acquisition Corporation II - Warrants,Stock,False,2026-05-08,2026-05-27,Missing from current NASDAQ source snapshot; reason unavailable,d832c2082ea0547476bb
 IPSC,NASDAQ,"Century Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,9c2abf30fffb038aafd9
 IPST,NASDAQ,"IP Strategy Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,76497c7f2ec9eaa93a4d
+IPVV,NASDAQ,"InterPrivate Investment Partners V, Inc. - Class A Ordinary Shares",Stock,True,2026-07-27,,,a5cec8ef3d29e5254b28
 IPVVU,NASDAQ,"InterPrivate Investment Partners V, Inc. - Units",Stock,True,2026-06-04,,,e2769da8e07d2028db2f
+IPVVW,NASDAQ,"InterPrivate Investment Partners V, Inc. - Warrants",Stock,True,2026-07-27,,,dc495af4263edea1970a
 IPW,NASDAQ,iPower Inc. - Common Stock,Stock,True,2026-05-08,,,fba4095bfab51fb64412
 IPWR,NASDAQ,Ideal Power Inc. - Common Stock,Stock,True,2026-05-08,,,2d522dedc58ff3cc32b5
 IPX,NASDAQ,IperionX Limited - American Depositary Share,Stock,True,2026-05-08,,,9437529552f5c847c3e5
@@ -3468,6 +3473,7 @@ LSTR,NASDAQ,"Landstar System, Inc. - Common Stock",Stock,True,2026-05-08,,,fb6ec
 LTBR,NASDAQ,Lightbridge Corporation - Common Stock,Stock,True,2026-05-08,,,9524e8e95c21187aea7a
 LTCC,NASDAQ,Canary Litecoin ETF,ETF,True,2026-05-08,,,fc4503573f5049e83154
 LTGRU,NASDAQ,Long Table Growth Corp. - Units,Stock,True,2026-06-04,,,4666bdf15610187d8cae
+LTGRW,NASDAQ,Long Table Growth Corp. - Warrants,Stock,True,2026-07-27,,,5adaa234c1e866d43440
 LTRN,NASDAQ,Lantern Pharma Inc. - Common Stock,Stock,True,2026-05-08,,,94a15dd587feb5f16703
 LTRX,NASDAQ,"Lantronix, Inc. - Common Stock",Stock,True,2026-05-08,,,73434b1592b380047bfe
 LTRYW,NASDAQ,Sports Entertainment Gaming Global Corporation - Warrant,Stock,True,2026-05-08,,,cb2171d80620ecc57d1e
@@ -4552,6 +4558,7 @@ QALT,NASDAQ,SEI DBi Multi-Strategy Alternative ETF,ETF,True,2026-05-08,,,bb4a981
 QAT,NASDAQ,iShares MSCI Qatar ETF,ETF,True,2026-05-08,,,a3d147607ac9f3bc39a2
 QB,NASDAQ,ProShares Nasdaq-100 Dynamic Buffer ETF,ETF,True,2026-05-08,,,e06a88be602f6024a53f
 QBIG,NASDAQ,Invesco Top QQQ ETF,ETF,True,2026-05-08,,,01114b25b097bdead037
+QBTS,NASDAQ,D-Wave Quantum Inc. - Common Stock,Stock,True,2026-07-27,,,241f35e178b87eee6515
 QBTZ,NASDAQ,Defiance Daily Target 2x Short QBTS ETF,ETF,True,2026-05-08,,,5baa883067aae0a47301
 QBUF,NASDAQ,Innovator Nasdaq-100 10 Buffer ETF Quarterly,ETF,True,2026-05-08,,,562feda893dafa49cb09
 QBY,NASDAQ,GraniteShares YieldBoost QBTS ETF,ETF,True,2026-05-08,,,75afb867d06f84f756d9
@@ -5495,9 +5502,9 @@ TRGSR,NASDAQ,TRG Latin America Acquisitions Corp. - Rights,Stock,True,2026-05-08
 TRGSU,NASDAQ,TRG Latin America Acquisitions Corp. - Units,Stock,True,2026-05-08,,,854d42676df436982b4e
 TRI,NASDAQ,Thomson Reuters Corp - Common Shares,Stock,True,2026-05-08,,,567bf27843b42494ed0e
 TRIB,NASDAQ,Trinity Biotech plc - American Depositary Shares,Stock,True,2026-05-08,,,679a15d38f4f8ede60ac
-TRIN,NASDAQ,Trinity Capital Inc. - Common Stock,Stock,True,2026-05-08,,,a52cc6ebfac100cfe37c
-TRINI,NASDAQ,Trinity Capital Inc. - 7.875% Notes Due 2029,Stock,True,2026-05-08,,,d797c86345e09a6c98f0
-TRINZ,NASDAQ,Trinity Capital Inc. - 7.875% Notes due 2029,Stock,True,2026-05-08,,,d797c86345e09a6c98f0
+TRIN,NASDAQ,Trinity Capital Inc. - Common Stock,Stock,False,2026-05-08,2026-07-27,Missing from current NASDAQ source snapshot; reason unavailable,a52cc6ebfac100cfe37c
+TRINI,NASDAQ,Trinity Capital Inc. - 7.875% Notes Due 2029,Stock,False,2026-05-08,2026-07-27,Missing from current NASDAQ source snapshot; reason unavailable,d797c86345e09a6c98f0
+TRINZ,NASDAQ,Trinity Capital Inc. - 7.875% Notes due 2029,Stock,False,2026-05-08,2026-07-27,Missing from current NASDAQ source snapshot; reason unavailable,d797c86345e09a6c98f0
 TRIP,NASDAQ,"TripAdvisor, Inc. - Common Stock",Stock,True,2026-05-08,,,0a1555de889fa176e825
 TRMB,NASDAQ,Trimble Inc. - Common Stock,Stock,True,2026-05-08,,,6d0d9eca26631111a9b4
 TRMD,NASDAQ,TORM plc - Class A Common Stock,Stock,True,2026-05-08,,,52a1d61eda70ce6f8784
@@ -5836,7 +5843,7 @@ VSME,NASDAQ,VS Media Holdings Limited - Class A Ordinary Shares,Stock,True,2026-
 VSMV,NASDAQ,VictoryShares US Multi-Factor Minimum Volatility ETF,ETF,True,2026-05-08,,,992c005dbc4153796eda
 VSNT,NASDAQ,"Versant Media Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1859c228f445e316da14
 VSOL,NASDAQ,VanEck Solana ETF,ETF,True,2026-05-08,,,e4ecc288a30d5dd8d55f
-VSTD,NASDAQ,Vestand Inc. - Class A Common Stock,Stock,True,2026-05-08,,,ac1495da2fcbce5f0a6f
+VSTD,NASDAQ,Vestand Inc. - Class A Common Stock,Stock,False,2026-05-08,2026-07-27,Missing from current NASDAQ source snapshot; reason unavailable,ac1495da2fcbce5f0a6f
 VSTL,NASDAQ,Defiance Daily Target 2X Long VST ETF,ETF,True,2026-05-08,,,f6a4e711115b8b55c70b
 VSTM,NASDAQ,"Verastem, Inc. - Common Stock",Stock,True,2026-05-08,,,0783723df833ede80603
 VTC,NASDAQ,Vanguard Total Corporate Bond ETF,ETF,True,2026-05-08,,,1d421b22ce0a431348b7
@@ -6382,7 +6389,7 @@ AVBC,NYSE,"Avidia Bancorp, Inc. Common Stock",Stock,True,2026-05-08,,,0e960224ce
 AVD,NYSE,American Vanguard Corporation Common Stock ($0.10 Par Value),Stock,True,2026-05-08,,,833661d92010223c7c72
 AVEX,NYSE,AEVEX Corp. Class A Common Stock,Stock,True,2026-05-08,,,19d903adcd345ebdc209
 AVK,NYSE,Advent Convertible and Income Fund,Stock,True,2026-05-08,,,d32894636571fa0a94b7
-AVNS,NYSE,"Avanos Medical, Inc. Common Stock",Stock,True,2026-05-08,,,87e7558337ca021f0091
+AVNS,NYSE,"Avanos Medical, Inc. Common Stock",Stock,False,2026-05-08,2026-07-27,Missing from current NYSE source snapshot; reason unavailable,87e7558337ca021f0091
 AVNT,NYSE,Avient Corporation Common Stock,Stock,True,2026-05-08,,,367603edc7956735c6e5
 AVTR,NYSE,"Avantor, Inc. Common Stock",Stock,True,2026-05-08,,,2e9e8ef16a2516699997
 AVY,NYSE,Avery Dennison Corporation Common Stock,Stock,True,2026-05-08,,,d4a9830fe72364a49f94
@@ -7260,7 +7267,9 @@ FT,NYSE,Franklin Universal Trust Common Stock,Stock,True,2026-05-08,,,c4953454bf
 FTHY,NYSE,First Trust High Yield Opportunities 2027 Term Fund Common Stock,Stock,True,2026-05-08,,,1589ecb3647be6ca6b51
 FTI,NYSE,TechnipFMC plc Ordinary Share,Stock,True,2026-05-08,,,c7b841407554df549dd2
 FTK,NYSE,"Flotek Industries, Inc. Common Stock",Stock,True,2026-05-08,,,bb63c62d7960f8d97565
+FTRA,NYSE,FutureCorp Space Acquisition 1 Class A Ordinary Shares,Stock,True,2026-07-27,,,fb924c47b9d557e66eb4
 FTRA.U,NYSE,"FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,True,2026-06-05,,,47f61c6671f83c7b3bb2
+FTRA.W,NYSE,"FutureCorp Space Acquisition 1 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,True,2026-07-27,,,d4ad576b5fbe333b3aad
 FTS,NYSE,Fortis Inc. Common Shares,Stock,True,2026-05-08,,,a07b9a2a02ee984e23c0
 FTV,NYSE,Fortive Corporation Common Stock,Stock,True,2026-05-08,,,746cd24aba27ae6ad201
 FTW,NYSE,Presidio Production Company Class A Common Stock,Stock,True,2026-05-08,,,baa7f4b05e75b4ca0113
@@ -7956,6 +7965,7 @@ MTW,NYSE,"Manitowoc Company, Inc. (The) Common Stock",Stock,True,2026-05-08,,,0d
 MTX,NYSE,Minerals Technologies Inc. Common Stock,Stock,True,2026-05-08,,,5b36754b539f74a952d4
 MTZ,NYSE,"MasTec, Inc. Common Stock",Stock,True,2026-05-08,,,66477eb2810fc6bf05b5
 MUA,NYSE,"Blackrock MuniAssets Fund, Inc Common Stock",Stock,True,2026-05-08,,,4c924db2f43bba4a81f6
+MUA.V,NYSE,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",Stock,True,2026-07-27,,,af96bdea189598cbdda6
 MUC,NYSE,"Blackrock MuniHoldings California Quality Fund, Inc. Common Stock",Stock,True,2026-05-08,,,fd2e91355566c0f3965e
 MUFG,NYSE,"Mitsubishi UFJ Financial Group, Inc. Common Stock",Stock,True,2026-05-08,,,d3fc2edb0e91df040efa
 MUJ,NYSE,"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock",Stock,True,2026-05-08,,,2b0f452c172fe5bac09a
@@ -7963,7 +7973,7 @@ MUR,NYSE,Murphy Oil Corporation Common Stock,Stock,True,2026-05-08,,,8b4517cbb41
 MUSA,NYSE,Murphy USA Inc. Common Stock,Stock,True,2026-05-08,,,2e3a14463caab6a014be
 MUSE,NYSE,TCW Multisector Credit Income ETF,ETF,True,2026-05-08,,,b8c9eea24c6969e4ec31
 MUX,NYSE,McEwen Inc. Common Stock,Stock,True,2026-05-08,,,e04284c4fae66a38855e
-MVO,NYSE,MV Oil Trust Units of Beneficial Interests,Stock,True,2026-05-08,,,f3c75cdee90088453727
+MVO,NYSE,MV Oil Trust Units of Beneficial Interests,Stock,False,2026-05-08,2026-07-27,Missing from current NYSE source snapshot; reason unavailable,f3c75cdee90088453727
 MWA,NYSE,MUELLER WATER PRODUCTS Common Stock,Stock,True,2026-05-08,,,6a5069092523098bb512
 MX,NYSE,Magnachip Semiconductor Corporation Common Stock,Stock,True,2026-05-08,,,350001e5011e427ca591
 MXE,NYSE,"Mexico Equity and Income Fund, Inc. (The) Common Stock",Stock,True,2026-05-08,,,67bb50bbd528ad76c5bc
@@ -8371,7 +8381,7 @@ PWR,NYSE,"Quanta Services, Inc. Common Stock",Stock,True,2026-05-08,,,efa2dae4e7
 PXED,NYSE,"Phoenix Education Partners, Inc. Common Stock",Stock,True,2026-05-08,,,e6842c49e2f9a1deca21
 PYT,NYSE,PPlus Tr GSC-2 Tr Ctf Fltg Rate,Stock,True,2026-05-08,,,fdbac71886427b4d7e1c
 Q,NYSE,"Qnity Electronics, Inc. Common Stock",Stock,True,2026-05-08,,,1ca880438d749f04b02c
-QBTS,NYSE,D-Wave Quantum Inc. Common Shares,Stock,True,2026-05-08,,,14bdfedcd0af3da7288b
+QBTS,NYSE,D-Wave Quantum Inc. Common Shares,Stock,False,2026-05-08,2026-07-27,Missing from current NYSE source snapshot; reason unavailable,14bdfedcd0af3da7288b
 QGEN,NYSE,Qiagen N.V. Common Shares,Stock,True,2026-05-08,,,2f78b9944c968f6c787e
 QLEP,NYSE,Quantum Leap Acquisition Corp Class A Ordinary Shares,Stock,True,2026-06-23,,,12206d6db168b920e5e3
 QLEP.U,NYSE,"Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant",Stock,False,2026-05-08,2026-06-23,Missing from current NYSE source snapshot; reason unavailable,4f2e5694ae835eb640aa
@@ -8839,9 +8849,12 @@ TRAK,NYSE,"ReposiTrak, Inc. Common Stock",Stock,True,2026-05-08,,,e15f7aadbca9ad
 TRC,NYSE,Tejon Ranch Co Common Stock,Stock,True,2026-05-08,,,c00a728f492ca9f09d13
 TREX,NYSE,"Trex Company, Inc. Common Stock",Stock,True,2026-05-08,,,2358904c8c8a34470420
 TRGP,NYSE,"Targa Resources, Inc. Common Stock",Stock,True,2026-05-08,,,bd6914608b8abd1ad3f6
+TRIN,NYSE,Trinity Capital Inc. Common Stock,Stock,True,2026-07-27,,,1e5dffafb3a8a9b1385e
 TRLV,NYSE,Trulieve Cannabis Corp. Subordinate Voting Shares,Stock,True,2026-06-10,,,b59846d47353beced9d8
 TRN,NYSE,"Trinity Industries, Inc. Common Stock",Stock,True,2026-05-08,,,8ab2a5e001947740ef75
+TRNI,NYSE,Trinity Capital Inc. 7.875% Notes Due 2029,Stock,True,2026-07-27,,,7a3c5ea608c610dafe11
 TRNO,NYSE,Terreno Realty Corporation Common Stock,Stock,True,2026-05-08,,,65134fc2b64b7315a829
+TRNZ,NYSE,Trinity Capital Inc. 7.875% Notes due 2029,Stock,True,2026-07-27,,,7a3c5ea608c610dafe11
 TROX,NYSE,Tronox Holdings plc Ordinary Shares (UK),Stock,True,2026-05-08,,,f02e1bd0c6a2c5443ac1
 TRP,NYSE,TC Energy Corporation Common Stock,Stock,True,2026-05-08,,,b5a5f4dd969374651b82
 TRTN$A,NYSE,Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual Preference Shares,Stock,True,2026-05-08,,,679582659e8696cddf73
@@ -8980,7 +8993,7 @@ VIST,NYSE,"Vista Energy S.A.B. de C.V. American Depositary Shares, each represen
 VIV,NYSE,Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share),Stock,True,2026-05-08,,,f05c4e70ea5ef2fde420
 VKQ,NYSE,Invesco Municipal Trust Common Stock,Stock,True,2026-05-08,,,eeb69fa24cfe980fcdc9
 VLN,NYSE,Valens Semiconductor Ltd. Ordinary Shares,Stock,True,2026-05-08,,,10d7c3790b3fae618952
-VLN.W,NYSE,"Valens Semiconductor Ltd. Warrants, each warrant to purchase one-half of one Ordinary Share",Stock,True,2026-05-08,,,6b2f0e3663ff3ad907dc
+VLN.W,NYSE,"Valens Semiconductor Ltd. Warrants, each warrant to purchase one-half of one Ordinary Share",Stock,False,2026-05-08,2026-07-27,Missing from current NYSE source snapshot; reason unavailable,6b2f0e3663ff3ad907dc
 VLO,NYSE,Valero Energy Corporation Common Stock,Stock,True,2026-05-08,,,1a6edec38ad13811827d
 VLRS,NYSE,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates",Stock,True,2026-05-08,,,25922576a43b7a6e492f
 VLT,NYSE,Invesco High Income Trust II,Stock,True,2026-05-08,,,6f5f0c47d286a9d694e0

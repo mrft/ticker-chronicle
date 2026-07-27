@@ -241,7 +241,6 @@ NYSE,AVBC,"Avidia Bancorp, Inc. Common Stock",Stock,,nasdaq_trader_symbol_direct
 NYSE,AVD,American Vanguard Corporation Common Stock ($0.10 Par Value),Stock,,nasdaq_trader_symbol_directory
 NYSE,AVEX,AEVEX Corp. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AVK,Advent Convertible and Income Fund,Stock,,nasdaq_trader_symbol_directory
-NYSE,AVNS,"Avanos Medical, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,AVNT,Avient Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AVTR,"Avantor, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,AVY,Avery Dennison Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1090,7 +1089,9 @@ NYSE,FT,Franklin Universal Trust Common Stock,Stock,,nasdaq_trader_symbol_direct
 NYSE,FTHY,First Trust High Yield Opportunities 2027 Term Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FTI,TechnipFMC plc Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NYSE,FTK,"Flotek Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,FTRA,FutureCorp Space Acquisition 1 Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,FTRA.U,"FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
+NYSE,FTRA.W,"FutureCorp Space Acquisition 1 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NYSE,FTS,Fortis Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,FTV,Fortive Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FTW,Presidio Production Company Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1768,6 +1769,7 @@ NYSE,MTW,"Manitowoc Company, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbo
 NYSE,MTX,Minerals Technologies Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MTZ,"MasTec, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MUA,"Blackrock MuniAssets Fund, Inc Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,MUA.V,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,MUC,"Blackrock MuniHoldings California Quality Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MUFG,"Mitsubishi UFJ Financial Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MUJ,"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1775,7 +1777,6 @@ NYSE,MUR,Murphy Oil Corporation Common Stock,Stock,,nasdaq_trader_symbol_directo
 NYSE,MUSA,Murphy USA Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MUSE,TCW Multisector Credit Income ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,MUX,McEwen Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,MVO,MV Oil Trust Units of Beneficial Interests,Stock,,nasdaq_trader_symbol_directory
 NYSE,MWA,MUELLER WATER PRODUCTS Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MX,Magnachip Semiconductor Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2170,7 +2171,6 @@ NYSE,PWR,"Quanta Services, Inc. Common Stock",Stock,,nasdaq_trader_symbol_direct
 NYSE,PXED,"Phoenix Education Partners, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,Stock,,nasdaq_trader_symbol_directory
 NYSE,Q,"Qnity Electronics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,QBTS,D-Wave Quantum Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,QGEN,Qiagen N.V. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,QLEP,Quantum Leap Acquisition Corp Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,QLEP.W,"Quantum Leap Acquisition Corp Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
@@ -2619,9 +2619,12 @@ NYSE,TRAK,"ReposiTrak, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TRC,Tejon Ranch Co Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TREX,"Trex Company, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TRGP,"Targa Resources, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,TRIN,Trinity Capital Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TRLV,Trulieve Cannabis Corp. Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,TRN,"Trinity Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,TRNI,Trinity Capital Inc. 7.875% Notes Due 2029,Stock,,nasdaq_trader_symbol_directory
 NYSE,TRNO,Terreno Realty Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,TRNZ,Trinity Capital Inc. 7.875% Notes due 2029,Stock,,nasdaq_trader_symbol_directory
 NYSE,TROX,Tronox Holdings plc Ordinary Shares (UK),Stock,,nasdaq_trader_symbol_directory
 NYSE,TRP,TC Energy Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TRTN$A,Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual Preference Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2758,7 +2761,6 @@ NYSE,VIST,"Vista Energy S.A.B. de C.V. American Depositary Shares, each represen
 NYSE,VIV,Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share),Stock,,nasdaq_trader_symbol_directory
 NYSE,VKQ,Invesco Municipal Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VLN,Valens Semiconductor Ltd. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,VLN.W,"Valens Semiconductor Ltd. Warrants, each warrant to purchase one-half of one Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,VLO,Valero Energy Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VLRS,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates",Stock,,nasdaq_trader_symbol_directory
 NYSE,VLT,Invesco High Income Trust II,Stock,,nasdaq_trader_symbol_directory

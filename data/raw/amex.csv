@@ -121,9 +121,6 @@ AMEX,GNS,Genius Group Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_direct
 AMEX,GORO,Goldgroup Mining Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,GPUS,"Hyperscale Data, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 AMEX,GPUS$D,"Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
-AMEX,GRAF,Graf Global Corp. Class A ordinary shares,Stock,,nasdaq_trader_symbol_directory
-AMEX,GRAF.U,"Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
-AMEX,GRAF.W,"Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 AMEX,GRF,"Eagle Capital Growth Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 AMEX,GRO,Brazil Potash Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,GROY,Gold Royalty Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -277,6 +274,9 @@ AMEX,TII,Titan Mining Corporation Common Shares,Stock,,nasdaq_trader_symbol_dire
 AMEX,TMDE,TMD Energy Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,TMP,Tompkins Financial Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,TMQ,Trilogy Metals Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,TONT,Graf Global Corp. Class A ordinary shares,Stock,,nasdaq_trader_symbol_directory
+AMEX,TONT.U,"Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
+AMEX,TONT.W,"Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 AMEX,TOON,"Kartoon Studios, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 AMEX,TOPP,Toppoint Holdings Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,TOPS,"TOP Ships, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
