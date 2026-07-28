@@ -1002,6 +1002,7 @@ BGM,NASDAQ,BGM Group Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,0a31
 BGMS,NASDAQ,"Bio Green Med Solution, Inc. - Common Stock",Stock,True,2026-05-08,,,581854403e07ff470e69
 BGRN,NASDAQ,iShares USD Green Bond ETF,ETF,True,2026-05-08,,,f4ffd92552fa55af767b
 BGRO,NASDAQ,iShares Large Cap Growth Active ETF,ETF,True,2026-05-08,,,a631d3853597337e8b79
+BGUS,NASDAQ,Baillie Gifford U.S. Equity Growth ETF,ETF,True,2026-07-28,,,a306c73a2c48851d6543
 BHAV,NASDAQ,BHAV Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-08,,,acf6f8ce4bfca7b72610
 BHAVR,NASDAQ,BHAV Acquisition Corp - Rights,Stock,True,2026-05-08,,,0c07bd6eeae390645f1f
 BHAVU,NASDAQ,BHAV Acquisition Corp - Units,Stock,True,2026-05-08,,,54338f4d615cf4c40320
@@ -1308,6 +1309,7 @@ CASS,NASDAQ,"Cass Information Systems, Inc - Common Stock",Stock,True,2026-05-08
 CAST,NASDAQ,"FreeCast, Inc. - Class A common stock",Stock,True,2026-05-08,,,319fbde7f7119d4bc53f
 CASY,NASDAQ,"Caseys General Stores, Inc. - Common Stock",Stock,True,2026-05-08,,,302127c6db83a856e2d5
 CATH,NASDAQ,Global X S&P 500 Catholic Values ETF,ETF,True,2026-05-08,,,099d9da39bc8fd9385ad
+CATLU,NASDAQ,Catalyst Acquisition Corp. - Units,Stock,True,2026-07-28,,,15faebe3840842536e62
 CATY,NASDAQ,Cathay General Bancorp - Common Stock,Stock,True,2026-05-08,,,1ffa0b970282a8900f9b
 CBAT,NASDAQ,"CBAK Energy Technology, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-25,Listing metadata changed,2fc850b4f9e9b5e88d64
 CBAT,NASDAQ,CBAK Energy Technology Limited - Ordinary Shares,Stock,True,2026-06-25,,,b18e406274f8473ffe0f
@@ -1341,9 +1343,9 @@ CCHH,NASDAQ,CCH Holdings Ltd - Class A Ordinary Shares,Stock,True,2026-05-11,,,1
 CCII,NASDAQ,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,Stock,True,2026-05-08,,,0e3bd85718b45a3fc4d8
 CCIIU,NASDAQ,Cohen Circle Acquisition Corp. II - Unit,Stock,True,2026-05-08,,,027d51b686f6c060e30c
 CCIIW,NASDAQ,Cohen Circle Acquisition Corp. II - Warrant,Stock,True,2026-05-08,,,cd624a52256b809598da
-CCIX,NASDAQ,Churchill Capital Corp IX - Ordinary Shares,Stock,True,2026-05-08,,,794e2b3c24dac2b6fe5e
-CCIXU,NASDAQ,Churchill Capital Corp IX - Unit,Stock,True,2026-05-08,,,2f765aef5e1f547d742a
-CCIXW,NASDAQ,Churchill Capital Corp IX - Warrant,Stock,True,2026-05-08,,,1c371950187bd1893170
+CCIX,NASDAQ,Churchill Capital Corp IX - Ordinary Shares,Stock,False,2026-05-08,2026-07-28,Missing from current NASDAQ source snapshot; reason unavailable,794e2b3c24dac2b6fe5e
+CCIXU,NASDAQ,Churchill Capital Corp IX - Unit,Stock,False,2026-05-08,2026-07-28,Missing from current NASDAQ source snapshot; reason unavailable,2f765aef5e1f547d742a
+CCIXW,NASDAQ,Churchill Capital Corp IX - Warrant,Stock,False,2026-05-08,2026-07-28,Missing from current NASDAQ source snapshot; reason unavailable,1c371950187bd1893170
 CCLD,NASDAQ,"CareCloud, Inc. - Common Stock",Stock,True,2026-05-08,,,4fdb20e6389990e0daf6
 CCLDO,NASDAQ,"CareCloud, Inc. - 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock",Stock,False,2026-05-08,2026-05-15,Missing from current NASDAQ source snapshot; reason unavailable,1c053812dca8d167ca95
 CCNE,NASDAQ,CNB Financial Corporation - Common Stock,Stock,True,2026-05-08,,,bbad6ea1de428086682e
@@ -3025,6 +3027,7 @@ INV,NASDAQ,"Innventure, Inc. - Common Stock",Stock,True,2026-05-08,,,9b37e5ea52f
 INVA,NASDAQ,"Innoviva, Inc. - Common Stock",Stock,True,2026-05-08,,,5333fc31d1e19437ddc4
 INVE,NASDAQ,"Identiv, Inc. - Common Stock",Stock,True,2026-05-08,,,283adc9a38d533b67641
 INVZ,NASDAQ,Innoviz Technologies Ltd. - Ordinary shares,Stock,True,2026-05-08,,,53bdbe9292178be6595c
+IOND,NASDAQ,Ionic Digital Inc. - Class A Common Stock,Stock,True,2026-07-28,,,5497a17b5d37c6fd763b
 IONL,NASDAQ,GraniteShares 2x Long IONQ Daily ETF,ETF,True,2026-05-08,,,7acff02000b5570256db
 IONR,NASDAQ,ioneer Ltd - American Depositary Shares,Stock,True,2026-05-08,,,7918b28410474df8576b
 IONS,NASDAQ,"Ionis Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,e6fee1829a60e8c18abc
@@ -3472,6 +3475,7 @@ LSTA,NASDAQ,"Lisata Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,d
 LSTR,NASDAQ,"Landstar System, Inc. - Common Stock",Stock,True,2026-05-08,,,fb6ec514aecf2cdcdc13
 LTBR,NASDAQ,Lightbridge Corporation - Common Stock,Stock,True,2026-05-08,,,9524e8e95c21187aea7a
 LTCC,NASDAQ,Canary Litecoin ETF,ETF,True,2026-05-08,,,fc4503573f5049e83154
+LTGR,NASDAQ,Long Table Growth Corp. - Class A Ordinary Shares,Stock,True,2026-07-28,,,73a8e687633dc76cc82c
 LTGRU,NASDAQ,Long Table Growth Corp. - Units,Stock,True,2026-06-04,,,4666bdf15610187d8cae
 LTGRW,NASDAQ,Long Table Growth Corp. - Warrants,Stock,True,2026-07-27,,,5adaa234c1e866d43440
 LTRN,NASDAQ,Lantern Pharma Inc. - Common Stock,Stock,True,2026-05-08,,,94a15dd587feb5f16703
@@ -4838,7 +4842,7 @@ RRGB,NASDAQ,"Red Robin Gourmet Burgers, Inc. - Common Stock",Stock,True,2026-05-
 RRR,NASDAQ,"Red Rock Resorts, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,7238ac4baadd5a1d60e6
 RSSS,NASDAQ,"Research Solutions, Inc - Common Stock",Stock,True,2026-05-08,,,dcfe83cf39c97a191be0
 RSVR,NASDAQ,"Reservoir Media, Inc.. - Common Stock",Stock,True,2026-05-08,,,4a9c05f5daf27b4fa3c6
-RSVRW,NASDAQ,"Reservoir Media, Inc.. - Warrant",Stock,True,2026-05-08,,,5dfe52ef5f8a5a82a5d3
+RSVRW,NASDAQ,"Reservoir Media, Inc.. - Warrant",Stock,False,2026-05-08,2026-07-28,Missing from current NASDAQ source snapshot; reason unavailable,5dfe52ef5f8a5a82a5d3
 RTAC,NASDAQ,Renatus Tactical Acquisition Corp I - Class A Ordinary Shares,Stock,True,2026-05-08,,,ca1f2d2f51880ebec8d3
 RTACU,NASDAQ,Renatus Tactical Acquisition Corp I - Unit,Stock,True,2026-05-08,,,ffa6e6c3ef882d3d2bd9
 RTACW,NASDAQ,Renatus Tactical Acquisition Corp I - Warrant,Stock,True,2026-05-08,,,c1c8c36ec65730d530ce
@@ -5865,7 +5869,7 @@ VWOB,NASDAQ,Vanguard Emerging Markets Government Bond ETF,ETF,True,2026-05-08,,,
 VXUS,NASDAQ,Vanguard Total International Stock ETF,ETF,True,2026-05-08,,,6f671a258079f19a360b
 VYGR,NASDAQ,"Voyager Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,e0209b6922e38d6d0ed4
 VYMI,NASDAQ,Vanguard International High Dividend Yield ETF,ETF,True,2026-05-08,,,d6069408f095c52fc4df
-VYNE,NASDAQ,VYNE Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,d601983f7ed0c7cbbc83
+VYNE,NASDAQ,VYNE Therapeutics Inc. - Common Stock,Stock,False,2026-05-08,2026-07-28,Missing from current NASDAQ source snapshot; reason unavailable,d601983f7ed0c7cbbc83
 WABC,NASDAQ,Westamerica Bancorporation - Common Stock,Stock,True,2026-05-08,,,3fbaf855300abc3f7db1
 WABF,NASDAQ,Western Asset Bond ETF,ETF,True,2026-05-08,,,6fd01c08431cf21bf972
 WAFD,NASDAQ,"WaFd, Inc. - Common Stock",Stock,True,2026-05-08,,,a7aafef41dce29cd839c
@@ -6058,6 +6062,7 @@ XXII,NASDAQ,"22nd Century Group, Inc - Common Stock",Stock,True,2026-05-08,,,f45
 XXX,NASDAQ,CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF,ETF,True,2026-05-08,,,6b9e608e637cc0b49d85
 XYZG,NASDAQ,Leverage Shares 2X Long XYZ Daily ETF,ETF,True,2026-05-08,,,1547c5e3e6f5f1330664
 YAAS,NASDAQ,Youxin Technology Ltd - Class A Ordinary shares,Stock,True,2026-05-08,,,099fb2e04771de49994c
+YARW,NASDAQ,"Yarrow Bioscience, Inc. - Common Stock",Stock,True,2026-07-28,,,acec16b31796b0ebeedc
 YB,NASDAQ,Yuanbao Inc. - American Depositary Shares,Stock,True,2026-05-08,,,46bda2693ddffea89834
 YBMN,NASDAQ,Defiance BMNR Option Income ETF,ETF,True,2026-05-08,,,cf06f3cc46ad144aec95
 YBST,NASDAQ,GraniteShares YieldBoost Single Stock Universe ETF,ETF,True,2026-05-08,,,0390b12bfcfbbd15f6cf
@@ -7950,6 +7955,7 @@ MTB,NYSE,M&T Bank Corporation Common Stock,Stock,True,2026-05-08,,,a21703fe7fec5
 MTB$H,NYSE,"M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series H",Stock,True,2026-05-08,,,eaf8be789beceae346f3
 MTB$J,NYSE,"M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock, Series J",Stock,True,2026-05-08,,,e4e4a04d1526712b4c42
 MTB$K,NYSE,"M&T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non-Cumulative Preferred Stock, Series K",Stock,True,2026-05-08,,,536caec8e1a39f4acfdc
+MTB$L,NYSE,"M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 6.625% Non-Cumulative Preferred Stock, Series L",Stock,True,2026-07-28,,,3b0396dad05e0fce0b4e
 MTD,NYSE,"Mettler-Toledo International, Inc. Common Stock",Stock,True,2026-05-08,,,c4bd11f02aea1507b9c5
 MTDR,NYSE,Matador Resources Company Common Stock,Stock,True,2026-05-08,,,1101ac0f55c76fd4d317
 MTG,NYSE,MGIC Investment Corporation Common Stock,Stock,True,2026-05-08,,,cf5cf89e89abd9bbf446

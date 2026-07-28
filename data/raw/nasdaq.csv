@@ -639,6 +639,7 @@ NASDAQ,BGM,BGM Group Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_
 NASDAQ,BGMS,"Bio Green Med Solution, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BGRN,iShares USD Green Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BGRO,iShares Large Cap Growth Active ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BGUS,Baillie Gifford U.S. Equity Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BHAV,BHAV Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BHAVR,BHAV Acquisition Corp - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BHAVU,BHAV Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory
@@ -935,6 +936,7 @@ NASDAQ,CASS,"Cass Information Systems, Inc - Common Stock",Stock,,nasdaq_trader_
 NASDAQ,CAST,"FreeCast, Inc. - Class A common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CASY,"Caseys General Stores, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CATH,Global X S&P 500 Catholic Values ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,CATLU,Catalyst Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CATY,Cathay General Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CBAT,CBAK Energy Technology Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CBC,"Central Bancompany, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -966,9 +968,6 @@ NASDAQ,CCHH,CCH Holdings Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symb
 NASDAQ,CCII,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCIIU,Cohen Circle Acquisition Corp. II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCIIW,Cohen Circle Acquisition Corp. II - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CCIX,Churchill Capital Corp IX - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CCIXU,Churchill Capital Corp IX - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CCIXW,Churchill Capital Corp IX - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCLD,"CareCloud, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCNE,CNB Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCNEP,"CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2578,6 +2577,7 @@ NASDAQ,INV,"Innventure, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directo
 NASDAQ,INVA,"Innoviva, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INVE,"Identiv, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INVZ,Innoviz Technologies Ltd. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IOND,Ionic Digital Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IONL,GraniteShares 2x Long IONQ Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IONR,ioneer Ltd - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IONS,"Ionis Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3004,6 +3004,7 @@ NASDAQ,LSTA,"Lisata Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,LSTR,"Landstar System, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTBR,Lightbridge Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTCC,Canary Litecoin ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,LTGR,Long Table Growth Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTGRU,Long Table Growth Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTGRW,Long Table Growth Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTRN,Lantern Pharma Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4319,7 +4320,6 @@ NASDAQ,RRGB,"Red Robin Gourmet Burgers, Inc. - Common Stock",Stock,,nasdaq_trade
 NASDAQ,RRR,"Red Rock Resorts, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RSSS,"Research Solutions, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RSVR,"Reservoir Media, Inc.. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RSVRW,"Reservoir Media, Inc.. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTAC,Renatus Tactical Acquisition Corp I - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTACU,Renatus Tactical Acquisition Corp I - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTACW,Renatus Tactical Acquisition Corp I - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -5297,7 +5297,6 @@ NASDAQ,VWOB,Vanguard Emerging Markets Government Bond ETF,ETF,,nasdaq_trader_sym
 NASDAQ,VXUS,Vanguard Total International Stock ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VYGR,"Voyager Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VYMI,Vanguard International High Dividend Yield ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,VYNE,VYNE Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WABC,Westamerica Bancorporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WABF,Western Asset Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WAFD,"WaFd, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5479,6 +5478,7 @@ NASDAQ,XXII,"22nd Century Group, Inc - Common Stock",Stock,,nasdaq_trader_symbol
 NASDAQ,XXX,CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XYZG,Leverage Shares 2X Long XYZ Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YAAS,Youxin Technology Ltd - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,YARW,"Yarrow Bioscience, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YB,Yuanbao Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YBMN,Defiance BMNR Option Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YBST,GraniteShares YieldBoost Single Stock Universe ETF,ETF,,nasdaq_trader_symbol_directory
