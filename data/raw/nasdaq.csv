@@ -40,7 +40,6 @@ NASDAQ,ABIG,Argent Large Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ABLV,Able View Global Inc. - Class B Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ABLVW,Able View Global Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ABNB,"Airbnb, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ABNG,Leverage Shares 2x Long ABNB Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ABOS,"Acumen Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ABSI,Absci Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ABTC,American Bitcoin Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -517,7 +516,6 @@ NASDAQ,AXIN,Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares,Stoc
 NASDAQ,AXINR,Axiom Intelligence Acquisition Corp 1 - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AXINU,Axiom Intelligence Acquisition Corp 1 - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AXON,"Axon Enterprise, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AXPG,Leverage Shares 2x Long AXP Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AXSM,"Axsome Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AXTI,AXT Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AYA,Aya Gold & Silver Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1124,7 +1122,6 @@ NASDAQ,CMCO,Columbus McKinnon Corporation - Common Stock,Stock,,nasdaq_trader_sy
 NASDAQ,CMCSA,Comcast Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CMCT,Creative Media - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CME,CME Group Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CMGG,Leverage Shares 2X Long CMG Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CMII,Columbus Circle Capital Corp II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CMIIU,Columbus Circle Capital Corp II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CMIIW,Columbus Circle Capital Corp II - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -1136,7 +1133,6 @@ NASDAQ,CMPX,"Compass Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,CMRC,"Commerce.com, Inc. - Series 1 Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CMTL,Comtech Telecommunications Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CMTV,Community Bancorp. - Common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CNCG,Leverage Shares 2X Long CNC Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CNCK,Coincheck Group N.V. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNCKW,Coincheck Group N.V. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNDT,Conduent Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1244,7 +1240,7 @@ NASDAQ,CRON,Cronos Group Inc. - Common Share,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,CROX,"Crocs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRSP,CRISPR Therapeutics AG - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRSR,"Corsair Gaming, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CRTO,Criteo S.A. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CRTO,Criteo S.A. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRUS,"Cirrus Logic, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRVL,CorVel Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRVO,CervoMed Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1327,7 +1323,6 @@ NASDAQ,CYN,Cyngn Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CYPH,Cypherpunk Technologies Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CYRX,"CryoPort, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CYTK,"Cytokinetics, Incorporated - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CZAR,Themes Natural Monopoly ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CZFS,"Citizens Financial Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CZNC,Citizens & Northern Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CZR,"Caesars Entertainment, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1425,7 +1420,6 @@ NASDAQ,DNLI,Denali Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,DNMX,Dynamix Corporation III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DNMXU,Dynamix Corporation III - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DNMXW,Dynamix Corporation III - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DNNG,Leverage Shares 2x Long DNN Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DNTH,"Dianthus Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DNUT,"Krispy Kreme, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DOCU,"DocuSign, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2386,7 +2380,6 @@ NASDAQ,HVIIU,Hennessy Capital Investment Corp. VII - Unit,Stock,,nasdaq_trader_s
 NASDAQ,HVMC,Highview Merger Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HVMCU,Highview Merger Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HVMCW,Highview Merger Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HWAY,Themes US Infrastructure ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HWBK,"Hawthorn Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HWC,Hancock Whitney Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HWCPZ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,Stock,,nasdaq_trader_symbol_directory
@@ -2838,7 +2831,6 @@ NASDAQ,KYTX,"Kyverna Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,KZIA,Kazia Therapeutics Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LAB,Standard BioTools Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LABT,Lakewood-Amedex Biotherapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LACG,Leverage Shares 2X Long LAC Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LAES,SEALSQ Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LAFA,LaFayette Acquisition Corp. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LAFAR,LaFayette Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
@@ -3682,13 +3674,11 @@ NASDAQ,ORIQU,Origin Investment Corp I - Units,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,ORIQW,Origin Investment Corp I - Redeemable Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORKA,"Oruka Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORKT,Orangekloud Technology Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ORLG,Leverage Shares 2X Long ORLY Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ORLY,"O'Reilly Automotive, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORMP,Oramed Pharmaceuticals Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ORR,Militia Long/Short Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ORRF,"Orrstown Financial Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSBC,"Old Second Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OSCG,Leverage Shares 2X Long OSCR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OSCX,Defiance Daily Target 2x Long OSCR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OSIS,"OSI Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSPN,OneSpan Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4389,7 +4379,6 @@ NASDAQ,SBFMW,Sunshine Biopharma Inc. - Warrant,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,SBGI,"Sinclair, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SBLK,Star Bulk Carriers Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SBRA,"Sabra Health Care REIT, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SBU,Leverage Shares 2X Long SBUX Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SBUX,Starbucks Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCA,GraniteShares Autocallable SMCI ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SCAG,Scage Future - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -5099,7 +5088,6 @@ NASDAQ,UPBD,"Upbound Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_dir
 NASDAQ,UPC,Universe Pharmaceuticals Inc - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UPGR,Xtrackers US Green Infrastructure Select Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UPLD,"Upland Software, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,UPSG,Leverage Shares 2X Long UPS Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UPST,"Upstart Holdings, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UPWK,Upwork Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UPXI,"Upexi, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5126,7 +5114,6 @@ NASDAQ,USLM,"United States Lime & Minerals, Inc. - Common Stock",Stock,,nasdaq_t
 NASDAQ,USMC,Principal U.S. Mega-Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USOI,"ETRACS Crude Oil Shares Covered Call ETNs due April 24, 2037",ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USOY,Defiance Oil Enhanced Options Income ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,USRD,Themes US R&D Champions ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USSH,WisdomTree 1-3 Year Laddered Treasury Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USTB,VictoryShares Short-Term Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USVM,VictoryShares US Small Mid Cap Value Momentum ETF,ETF,,nasdaq_trader_symbol_directory

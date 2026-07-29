@@ -42,6 +42,7 @@ NYSE,AD,"Array Digital Infrastructure, Inc. Common Shares",Stock,,nasdaq_trader_
 NYSE,ADC,Agree Realty Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ADCT,ADC Therapeutics SA Common Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,ADIG.V,ADI Global Distribution Inc. Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NYSE,ADM,Archer-Daniels-Midland Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ADNT,Adient plc Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,ADT,ADT Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2215,6 +2216,7 @@ NYSE,REXR,"Rexford Industrial Realty, Inc. Common Stock",Stock,,nasdaq_trader_sy
 NYSE,REXR$B,"Rexford Industrial Realty, Inc. 5.875% Series B Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,REXR$C,"Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.01 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,REZI,"Resideo Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,REZI.V,"Resideo Technologies, Inc. Common Stock When-Issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,RF,Regions Financial Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RF$C,"Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a Share of 5.700% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C",Stock,,nasdaq_trader_symbol_directory
 NYSE,RF$E,"Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E",Stock,,nasdaq_trader_symbol_directory
