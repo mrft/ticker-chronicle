@@ -1176,7 +1176,6 @@ NYSE,GLOP$A,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual F
 NYSE,GLOP$B,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,Stock,,nasdaq_trader_symbol_directory
 NYSE,GLOP$C,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,Stock,,nasdaq_trader_symbol_directory
 NYSE,GLP,Global Partners LP Common Units representing Limited Partner Interests,Stock,,nasdaq_trader_symbol_directory
-NYSE,GLP$B,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests,Stock,,nasdaq_trader_symbol_directory
 NYSE,GLW,Corning Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GM,General Motors Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GME,GameStop Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1441,6 +1440,7 @@ NYSE,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each rep
 NYSE,JLL,Jones Lang LaSalle Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,JLS,Nuveen Mortgage and Income Fund,Stock,,nasdaq_trader_symbol_directory
 NYSE,JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
+NYSE,JMKE,Jersey Mike's Subs Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,JMM,Nuveen Multi-Market Income Fund (MA),Stock,,nasdaq_trader_symbol_directory
 NYSE,JNJ,Johnson & Johnson Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,JOBY,"Joby Aviation, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2208,6 +2208,7 @@ NYSE,RDDT,"Reddit, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_direct
 NYSE,RDN,Radian Group Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RDW,Redwire Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RDY,Dr. Reddy's Laboratories Ltd Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,REF,Reformation Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),Stock,,nasdaq_trader_symbol_directory
 NYSE,RERE,ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares),Stock,,nasdaq_trader_symbol_directory
 NYSE,RES,"RPC, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory

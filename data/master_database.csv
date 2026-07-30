@@ -1987,6 +1987,7 @@ ELFY,NASDAQ,ALPS Electrification Infrastructure ETF,ETF,True,2026-05-08,,,ff8945
 ELIL,NASDAQ,Direxion Daily LLY Bull 2X ETF,ETF,True,2026-05-08,,,b0c7536d283caea88845
 ELMT,NASDAQ,The Elmet Group Co. - Common Stock,Stock,True,2026-05-08,,,1960260c3b9f4183fe00
 ELOG,NASDAQ,Eastern International Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,67aa3972ad8ee8c8ff40
+ELOL,NASDAQ,Leverage Shares 100% TSLA AND 100% SPCX Daily ETF,ETF,True,2026-07-30,,,02ca9cfe17a9026ccf36
 ELOX,NASDAQ,"Eloxx Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-06-09,,,d67fb643ab77fe59e228
 ELPW,NASDAQ,Elong Power Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,885da937f043f95d0408
 ELSE,NASDAQ,"Electro-Sensors, Inc. - Common Stock",Stock,True,2026-05-08,,,ba4a28450d774b9085e6
@@ -2667,6 +2668,7 @@ GWAV,NASDAQ,"Greenwave Technology Solutions, Inc. - Common Stock",Stock,True,202
 GWRS,NASDAQ,"Global Water Resources, Inc. - common stock",Stock,True,2026-05-08,,,8895854b5bbb63032235
 GXAI,NASDAQ,Gaxos.ai Inc. - Common Stock,Stock,True,2026-05-08,,,414e7eed2d4568f82ca8
 GXDW,NASDAQ,Global X Dorsey Wright Thematic ETF,ETF,True,2026-05-08,,,37ef4ee6ce6683463b79
+GYGY,NASDAQ,"Game Your Game, Inc. - Common Stock",Stock,True,2026-07-30,,,5e805e2f01a4e16275b6
 GYRE,NASDAQ,"Gyre Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,1976739f1fbe168bbb6f
 GYRO,NASDAQ,"Gyrodyne , LLC - Common Stock",Stock,True,2026-05-08,,,419d4c599639651eebea
 HACQ,NASDAQ,HCM IV Acquisition Corp. - Class A Ordinary Share,Stock,True,2026-05-08,,,2fae6040f86bce40bd54
@@ -3086,7 +3088,9 @@ IRWD,NASDAQ,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",Stock,True,2
 ISBA,NASDAQ,Isabella Bank Corporation - Common stock,Stock,True,2026-05-08,,,2b92cf5bfb711423a4e9
 ISHG,NASDAQ,iShares 1-3 Year International Treasury Bond ETF,ETF,True,2026-05-08,,,7bb383027e6bae040e9f
 ISHP,NASDAQ,First Trust S-Network E-Commerce ETF,ETF,True,2026-05-08,,,d9353b23755421d144e4
+ISNR,NASDAQ,Snow Rothschild Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-07-30,,,0ae13457300349feae7d
 ISNRU,NASDAQ,Snow Rothschild Acquisition Corp. - Units,Stock,True,2026-06-09,,,cb5f521a3b5ae31b96d7
+ISNRW,NASDAQ,Snow Rothschild Acquisition Corp. - Warrants,Stock,True,2026-07-30,,,b63cf593ba0c1a9638bb
 ISPC,NASDAQ,iSpecimen Inc. - Common Stock,Stock,True,2026-05-08,,,db9c636fa921bbbd4c90
 ISPR,NASDAQ,Ispire Technology Inc. - Common Stock,Stock,True,2026-05-08,,,a61d27075e039935df3a
 ISRG,NASDAQ,"Intuitive Surgical, Inc. - Common Stock",Stock,True,2026-05-08,,,66eed9615bc8d49be35d
@@ -4278,6 +4282,7 @@ PAYO,NASDAQ,Payoneer Global Inc. - Common Stock,Stock,True,2026-05-08,,,e2a8af5d
 PAYP,NASDAQ,PayPay Corporation - American Depository Shares,Stock,True,2026-05-08,,,1159487fb724694e844e
 PAYS,NASDAQ,"Paysign, Inc. - Common Stock",Stock,True,2026-05-08,,,c46582d0b7460b0248e1
 PAYX,NASDAQ,"Paychex, Inc. - Common Stock",Stock,True,2026-05-08,,,7c7e2added74afdd567e
+PBAM,NASDAQ,"Private Bancorp of America, Inc. - Common Stock",Stock,True,2026-07-30,,,4b4e0099912587c4f169
 PBEU,NASDAQ,Portfolio Building Block European Banks Index ETF,ETF,True,2026-05-08,,,416cdc4b364b7e0ee082
 PBFS,NASDAQ,"Pioneer Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,ba94f2b286a39a60fcd3
 PBHC,NASDAQ,"Pathfinder Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,ff28498c60b01c03e4c8
@@ -5584,8 +5589,10 @@ TVACW,NASDAQ,Texas Ventures Acquisition III Corp - Warrants,Stock,True,2026-05-0
 TVAI,NASDAQ,Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares,Stock,True,2026-05-08,,,ffdd280faaf0440cdbac
 TVAIR,NASDAQ,Thayer Ventures Acquisition Corporation II - Rights,Stock,True,2026-05-08,,,b6e7574ddf3455bdf270
 TVAIU,NASDAQ,Thayer Ventures Acquisition Corporation II - Unit,Stock,True,2026-05-08,,,56324312ae601a004442
-TVGN,NASDAQ,Tevogen Bio Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,df03fbf206545290cdb6
-TVGNW,NASDAQ,Tevogen Bio Holdings Inc. - Warrant,Stock,True,2026-05-08,,,97367a90b3f8575b5180
+TVGN,NASDAQ,Tevogen Bio Holdings Inc. - Common Stock,Stock,False,2026-05-08,2026-07-30,Listing metadata changed,df03fbf206545290cdb6
+TVGN,NASDAQ,Tevogen Inc. - Common Stock,Stock,True,2026-07-30,,,36595573606693810dcc
+TVGNW,NASDAQ,Tevogen Bio Holdings Inc. - Warrant,Stock,False,2026-05-08,2026-07-30,Listing metadata changed,97367a90b3f8575b5180
+TVGNW,NASDAQ,Tevogen Inc. - Warrant,Stock,True,2026-07-30,,,ac1540506196d918029d
 TVIV,NASDAQ,Texas Ventures Acquisition IV Corp - Class A Ordinary Shares,Stock,True,2026-07-13,,,140ed11139fa9e8f4a52
 TVIVU,NASDAQ,Texas Ventures Acquisition IV Corp - Units,Stock,True,2026-06-18,,,80f7e9509b97c4cc281c
 TVIVW,NASDAQ,Texas Ventures Acquisition IV Corp - Warrant,Stock,True,2026-07-13,,,f7c89fb613469079ac4c
@@ -7361,7 +7368,7 @@ GLOP$A,NYSE,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual F
 GLOP$B,NYSE,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,Stock,True,2026-05-08,,,a541ec42bd950ca1c19a
 GLOP$C,NYSE,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,Stock,True,2026-05-08,,,32634cd85b1df0314620
 GLP,NYSE,Global Partners LP Common Units representing Limited Partner Interests,Stock,True,2026-05-08,,,ce1a8ef2fa19ade35cdf
-GLP$B,NYSE,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests,Stock,True,2026-05-08,,,70f1ee3a3b6c1fc49c5b
+GLP$B,NYSE,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests,Stock,False,2026-05-08,2026-07-30,Missing from current NYSE source snapshot; reason unavailable,70f1ee3a3b6c1fc49c5b
 GLW,NYSE,Corning Incorporated Common Stock,Stock,True,2026-05-08,,,d8461da9398ffe8dd325
 GM,NYSE,General Motors Company Common Stock,Stock,True,2026-05-08,,,eb8771a3470593b356c3
 GME,NYSE,GameStop Corporation Common Stock,Stock,True,2026-05-08,,,b44ecb996375b44eede4
@@ -7632,6 +7639,7 @@ JKS,NYSE,JinkoSolar Holding Company Limited American Depositary Shares (each rep
 JLL,NYSE,Jones Lang LaSalle Incorporated Common Stock,Stock,True,2026-05-08,,,b5b49785891f4d6ec3ae
 JLS,NYSE,Nuveen Mortgage and Income Fund,Stock,True,2026-05-08,,,fbb0c7b14603f8b4cd67
 JMIA,NYSE,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",Stock,True,2026-05-08,,,91da0248a720ebc8a725
+JMKE,NYSE,Jersey Mike's Subs Inc. Class A Common Stock,Stock,True,2026-07-30,,,29a10ab3b6007ce28942
 JMM,NYSE,Nuveen Multi-Market Income Fund (MA),Stock,True,2026-05-08,,,a1c3d7b73619135ee131
 JNJ,NYSE,Johnson & Johnson Common Stock,Stock,True,2026-05-08,,,2dde0731c05e0e0aa1a3
 JOBY,NYSE,"Joby Aviation, Inc. Common Stock",Stock,True,2026-05-08,,,53d7b0ca7323bed9a2a1
@@ -8427,6 +8435,7 @@ RDDT,NYSE,"Reddit, Inc. Class A Common Stock",Stock,True,2026-05-08,,,eb62dae0e5
 RDN,NYSE,Radian Group Inc. Common Stock,Stock,True,2026-05-08,,,740643b2d4c0a59f4db3
 RDW,NYSE,Redwire Corporation Common Stock,Stock,True,2026-05-08,,,b6db72b18f84ed88af75
 RDY,NYSE,Dr. Reddy's Laboratories Ltd Common Stock,Stock,True,2026-05-08,,,05fb1f23d97cde25aae7
+REF,NYSE,Reformation Inc. Common Stock,Stock,True,2026-07-30,,,1559a86a479ba88496f2
 RELX,NYSE,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),Stock,True,2026-05-08,,,0a2eb841d56d5c6177a3
 RERE,NYSE,ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares),Stock,True,2026-05-08,,,b616250e4f4460ea0b19
 RES,NYSE,"RPC, Inc. Common Stock",Stock,True,2026-05-08,,,ebce9ed3cebcd958fdff
