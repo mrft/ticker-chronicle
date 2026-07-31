@@ -222,7 +222,7 @@ OGEN,AMEX,Oragenics Inc. Common Stock,Stock,True,2026-05-08,,,8d765d4b5a921e0323
 OPHC,AMEX,"OptimumBank Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,e77eacd296304ec2fbb9
 OPP$C,AMEX,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share)",Stock,True,2026-05-08,,,0b5f5cedde7e4d535fd2
 OPTT,AMEX,"Ocean Power Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,4c7e89bd8797bb993bb1
-ORLA,AMEX,Orla Mining Ltd. Common Shares,Stock,True,2026-05-08,,,e4038748b94877ac035e
+ORLA,AMEX,Orla Mining Ltd. Common Shares,Stock,False,2026-05-08,2026-07-31,Missing from current AMEX source snapshot; reason unavailable,e4038748b94877ac035e
 OSTX,AMEX,OS Therapies Incorporated Common Stock,Stock,True,2026-05-08,,,5774c1e8220489b76371
 OTH,AMEX,Off The Hook YS Inc. Common Stock,Stock,False,2026-05-08,2026-05-29,Missing from current AMEX source snapshot; reason unavailable,926ec586a930536cdb9a
 OZ,AMEX,"Belpointe PREP, LLC Class A Units",Stock,True,2026-05-08,,,8ff952f8b3ed73974e3d
@@ -706,6 +706,7 @@ APM,NASDAQ,Aptorum Group Limited - Common Stock,Stock,False,2026-07-17,2026-07-2
 APMC,NASDAQ,AmperCap Acquisition Company - Ordinary Shares,Stock,True,2026-06-29,,,a0e7a820fd67ad86dda8
 APMCR,NASDAQ,AmperCap Acquisition Company - Right,Stock,True,2026-06-29,,,df905249ced540549e79
 APMCU,NASDAQ,AmperCap Acquisition Company - Unit,Stock,True,2026-06-03,,,f514a79c00f20454251f
+APMD,NASDAQ,"Apnimed, Inc. - Common Stock",Stock,True,2026-07-31,,,89aafbc450bc85779942
 APOG,NASDAQ,"Apogee Enterprises, Inc. - Common Stock",Stock,True,2026-05-08,,,fb53576ed337d7abe6c5
 APP,NASDAQ,Applovin Corporation - Class A Common Stock,Stock,True,2026-05-08,,,fbdb0e35bffed5c0562f
 APPF,NASDAQ,"AppFolio, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,244ebfd50f3ca6aa2e1a
@@ -1332,7 +1333,9 @@ CCB,NASDAQ,Coastal Financial Corporation - Common Stock,Stock,True,2026-05-08,,,
 CCBG,NASDAQ,Capital City Bank Group - Common Stock,Stock,True,2026-05-08,,,eb84738d7d5d86e74464
 CCC,NASDAQ,CCC Intelligent Solutions Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,b5c49f2d4fd4ddf9a1b3
 CCCC,NASDAQ,"C4 Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,7f7b4069a3877b697ca3
+CCCT,NASDAQ,Columbus Circle Capital Corp III - Class A Ordinary Shares,Stock,True,2026-07-31,,,e4831ec2807922f4523c
 CCCTU,NASDAQ,Columbus Circle Capital Corp III - Units,Stock,True,2026-07-09,,,a1c15a2111deb999faaf
+CCCTW,NASDAQ,Columbus Circle Capital Corp III - Warrants,Stock,True,2026-07-31,,,bbd53c19c1d854740728
 CCD,NASDAQ,Calamos Dynamic Convertible & Income Fund - Closed End Fund,Stock,True,2026-05-08,,,e1c280ef53b086954b8e
 CCEC,NASDAQ,Capital Clean Energy Carriers Corp. - Common Share,Stock,True,2026-05-08,,,caeb430cc83b01bf7af5
 CCEP,NASDAQ,Coca-Cola Europacific Partners plc - Ordinary Shares,Stock,True,2026-05-08,,,cda15c9d30eb9f5720d3
@@ -2099,6 +2102,7 @@ EVSD,NASDAQ,Eaton Vance Short Duration Income ETF,ETF,True,2026-05-08,,,ffa11464
 EVTV,NASDAQ,"Envirotech Vehicles, Inc. - Common stock",Stock,False,2026-05-08,2026-07-10,Listing metadata changed,5d043eca98a6eb0c8d58
 EVTV,NASDAQ,"Azio AI Holdings, Inc. - Common stock",Stock,False,2026-07-10,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,644b80e4495d85739ce7
 EVYM,NASDAQ,Eaton Vance High Income Municipal ETF,ETF,True,2026-05-08,,,3292f71b24a00cd33ea9
+EWAVU,NASDAQ,East West Ave Acquisition Corp. - Units,Stock,True,2026-07-31,,,08a61e754d5d5bd67eaf
 EWBC,NASDAQ,"East West Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,73248e2ea805c74d738d
 EWCZ,NASDAQ,"European Wax Center, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,1f541bc1be88605f408f
 EWJV,NASDAQ,iShares MSCI Japan Value ETF,ETF,True,2026-05-08,,,d5db5bf0dd70e188c64d
@@ -2413,7 +2417,10 @@ FVCB,NASDAQ,"FVCBankcorp, Inc. - Common Stock",Stock,True,2026-05-08,,,ee53d9a10
 FVN,NASDAQ,Future Vision II Acquisition Corporation - Ordinary Shares,Stock,True,2026-05-08,,,6673d5849a7840f7e614
 FVNNR,NASDAQ,Future Vision II Acquisition Corporation - Right,Stock,True,2026-05-08,,,ba455607d0c0a3975260
 FVNNU,NASDAQ,Future Vision II Acquisition Corporation - Units,Stock,True,2026-05-08,,,a51de225eee396051586
+FWAC,NASDAQ,Futurewave Acquisition Corporation - Ordinary Shares,Stock,True,2026-07-31,,,c7729d1b61f54527b078
+FWACR,NASDAQ,Futurewave Acquisition Corporation - Rights,Stock,True,2026-07-31,,,3439da46fbc02fd694e1
 FWACU,NASDAQ,Futurewave Acquisition Corporation - Units,Stock,True,2026-06-25,,,bdb188e6f760a5a8122e
+FWACW,NASDAQ,Futurewave Acquisition Corporation - Warrants,Stock,True,2026-07-31,,,8e994353af8cd123cc23
 FWDI,NASDAQ,"Forward Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,b02244be4e14099b0018
 FWONA,NASDAQ,Liberty Media Corporation - Series A Liberty Formula One Common Stock,Stock,True,2026-05-08,,,d57127a9f7ba36cee15c
 FWONK,NASDAQ,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Stock,True,2026-05-08,,,2af5e5652f41b29d4c7c
@@ -2661,7 +2668,7 @@ GUACW,NASDAQ,Berto Acquisition Corp. II - Warrants,Stock,True,2026-07-06,,,5e7b4
 GURE,NASDAQ,"Gulf Resources, Inc. - Common Stock",Stock,True,2026-05-08,,,95864e6d9bb690a6a6f0
 GUSE,NASDAQ,Goldman Sachs Enhanced U.S. Equity ETF,ETF,True,2026-05-08,,,8290b0d4c365472ed47e
 GUTS,NASDAQ,"Fractyl Health, Inc. - Common Stock",Stock,True,2026-05-08,,,6be5e1456d6b016c68d5
-GV,NASDAQ,Visionary Holdings Inc. - Common Shares,Stock,True,2026-05-08,,,0105ab6252ef3277928a
+GV,NASDAQ,Visionary Holdings Inc. - Common Shares,Stock,False,2026-05-08,2026-07-31,Missing from current NASDAQ source snapshot; reason unavailable,0105ab6252ef3277928a
 GVH,NASDAQ,Globavend Holdings Limited - Ord Shares,Stock,True,2026-05-08,,,b0a4fcf7fa3c2a1436b4
 GVLE,NASDAQ,Goldman Sachs Value Opportunities ETF,ETF,True,2026-05-08,,,42ea57f949789259677c
 GWAV,NASDAQ,"Greenwave Technology Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,553ec4246cdf5ab92e4d
@@ -3158,6 +3165,7 @@ JJSF,NASDAQ,J & J Snack Foods Corp. - Common Stock,Stock,True,2026-05-08,,,81445
 JKHY,NASDAQ,"Jack Henry & Associates, Inc. - Common Stock",Stock,True,2026-05-08,,,1fedf87be114442f5d8b
 JL,NASDAQ,J-Long Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,8ad24def27fba035005b
 JLHL,NASDAQ,Julong Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,7c3bfb13514ba1de9b55
+JLVP,NASDAQ,JPMorgan U.S. Large Cap Value Plus ETF,ETF,True,2026-07-31,,,64bbfb440d15b3223607
 JMID,NASDAQ,Janus Henderson Mid Cap Growth Alpha ETF,ETF,True,2026-05-08,,,66056845c9da4d8f3a55
 JMSB,NASDAQ,"John Marshall Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,fdd2c3876e16d10044dc
 JONEU,NASDAQ,Jones Ventures INTL Acquisition1 Corp - Units,Stock,True,2026-07-14,,,ee03f77a798b9365228a
@@ -3460,7 +3468,7 @@ LPCV,NASDAQ,Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share,Stock,
 LPCVU,NASDAQ,Launchpad Cadenza Acquisition Corp I - Unit,Stock,True,2026-05-08,,,615e677461a8cfe37a00
 LPCVW,NASDAQ,Launchpad Cadenza Acquisition Corp I - Warrant,Stock,True,2026-05-08,,,2b0753328c2554a22e7b
 LPLA,NASDAQ,LPL Financial Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,5b3b9e44359bcbbc9ed5
-LPRO,NASDAQ,Open Lending Corporation - Common Stock,Stock,True,2026-05-08,,,7e7b1f705f767a2215f6
+LPRO,NASDAQ,Open Lending Corporation - Common Stock,Stock,False,2026-05-08,2026-07-31,Missing from current NASDAQ source snapshot; reason unavailable,7e7b1f705f767a2215f6
 LPSN,NASDAQ,"LivePerson, Inc. - Common Stock",Stock,True,2026-05-08,,,0026455f7fdd805a82fb
 LPTH,NASDAQ,"LightPath Technologies, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,a7b881b78d6b8d40f872
 LQ,NASDAQ,Simplify Tax Aware Alternatives ETF,ETF,True,2026-05-08,,,cda25d49c841d3af9e77
@@ -3865,7 +3873,10 @@ NCIQ,NASDAQ,Hashdex Nasdaq CME Crypto Index ETF,ETF,True,2026-05-08,,,4d6a32056a
 NCMI,NASDAQ,"National CineMedia, Inc. - Common Stock",Stock,True,2026-05-08,,,3dabff821dfdf7fa1e01
 NCNA,NASDAQ,NuCana plc - American Depositary Shares,Stock,True,2026-05-08,,,2a5a7170ff3b5577bbc9
 NCNO,NASDAQ,"nCino, Inc. - Common Stock",Stock,True,2026-05-08,,,7d74afb02de53e5415cc
+NCO,NASDAQ,Southern Cross Acquisition I Corp. - Ordinary Shares,Stock,True,2026-07-31,,,e46c0719077b0c2aa00f
+NCOOR,NASDAQ,Southern Cross Acquisition I Corp. - Rights,Stock,True,2026-07-31,,,a2fac94c508ee50be6a2
 NCOOU,NASDAQ,Southern Cross Acquisition I Corp. - Units,Stock,True,2026-07-21,,,61118d29951688d62763
+NCOOW,NASDAQ,Southern Cross Acquisition I Corp. - Warrants,Stock,True,2026-07-31,,,96d7d038e0f18d07c315
 NCPB,NASDAQ,Nuveen Core Plus Bond ETF,ETF,True,2026-05-08,,,a46a4292fe91c2c7062f
 NCPL,NASDAQ,Netcapital Inc. - Common Stock,Stock,True,2026-05-08,,,ed4397318de2fa194492
 NCPLW,NASDAQ,Netcapital Inc. - warrants,Stock,True,2026-05-08,,,b061e30b8320466d7ac9
@@ -6028,6 +6039,7 @@ XFOR,NASDAQ,"X4 Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,54
 XGN,NASDAQ,Exagen Inc. - Common Stock,Stock,True,2026-05-08,,,bb928abf294be5854cdc
 XHG,NASDAQ,XChange TEC.INC - American Depositary Shares,Stock,True,2026-05-08,,,b7c03bc9dd1c9d46c31c
 XHLD,NASDAQ,"TEN Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,1ad185287ace2163b18c
+XIIIU,NASDAQ,Churchill Capital Corp XIII - Units,Stock,True,2026-07-31,,,663ae5653e28116476db
 XLO,NASDAQ,"Xilio Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,1d0ed649ca26f7c71d48
 XMAG,NASDAQ,Defiance Large Cap ex-Mag 7 ETF,ETF,True,2026-05-08,,,2441237bc0f499a0579a
 XMAX,NASDAQ,"XMAX, Inc. - Common Stock",Stock,True,2026-05-18,,,bd000c9990e597856a26
@@ -6342,7 +6354,7 @@ APG,NYSE,APi Group Corporation Common Stock,Stock,True,2026-05-08,,,c575e9235b5a
 APH,NYSE,Amphenol Corporation Common Stock,Stock,True,2026-05-08,,,dffdbda24b1b24c0bf15
 APLE,NYSE,"Apple Hospitality REIT, Inc. Common Shares",Stock,True,2026-05-08,,,58300d208ac0ad7cc9a4
 APO,NYSE,"Apollo Global Management, Inc. (New) Common Stock",Stock,True,2026-05-08,,,80702407d80e039ddf80
-APO$A,NYSE,"Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",Stock,True,2026-05-08,,,f3d14df5193fb380f68d
+APO$A,NYSE,"Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",Stock,False,2026-05-08,2026-07-31,Missing from current NYSE source snapshot; reason unavailable,f3d14df5193fb380f68d
 APOS,NYSE,"Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053",Stock,True,2026-05-08,,,c809f6e4f7a2924f3484
 APTV,NYSE,Aptiv PLC Ordinary Shares,Stock,True,2026-05-08,,,ef05702fa94a693e05cb
 AQN,NYSE,Algonquin Power & Utilities Corp. Common Shares,Stock,True,2026-05-08,,,989c77cb4f8840de12a4
@@ -8817,7 +8829,8 @@ TFX,NYSE,Teleflex Incorporated Common Stock,Stock,True,2026-05-08,,,aa4cdbbe4833
 TG,NYSE,Tredegar Corporation Common Stock,Stock,True,2026-05-08,,,6d346dbaf18ce6c0a202
 TGE,NYSE,The Generation Essentials Group Class A Ordinary Shares,Stock,True,2026-05-08,,,78c277a2d5277de3e468
 TGLS,NYSE,Tecnoglass Inc. Ordinary Shares,Stock,False,2026-05-08,2026-07-08,Listing metadata changed,d47bfdca85705f207196
-TGLS,NYSE,Tecnoglass Inc. Common Stock,Stock,True,2026-07-08,,,a56067d83674600b7c3c
+TGLS,NYSE,Tecnoglass Inc. Common Stock,Stock,False,2026-07-08,2026-07-31,Listing metadata changed,a56067d83674600b7c3c
+TGLS,NYSE,Tecnoglass Holdings Inc. Common Stock,Stock,True,2026-07-31,,,202b426083589eecca00
 TGS,NYSE,Transportadora de Gas del Sur SA TGS Common Stock,Stock,True,2026-05-08,,,57b8cd645fc531ff3e36
 TGT,NYSE,Target Corporation Common Stock,Stock,True,2026-05-08,,,f9536048e2e7dd97f787
 THC,NYSE,Tenet Healthcare Corporation Common Stock,Stock,True,2026-05-08,,,10eb1e6df6f13b8e7597

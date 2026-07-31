@@ -349,6 +349,7 @@ NASDAQ,APLMW,Apollomics Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APMC,AmperCap Acquisition Company - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APMCR,AmperCap Acquisition Company - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APMCU,AmperCap Acquisition Company - Unit,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,APMD,"Apnimed, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APOG,"Apogee Enterprises, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APP,Applovin Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APPF,"AppFolio, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -955,7 +956,9 @@ NASDAQ,CCB,Coastal Financial Corporation - Common Stock,Stock,,nasdaq_trader_sym
 NASDAQ,CCBG,Capital City Bank Group - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCC,CCC Intelligent Solutions Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCCC,"C4 Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CCCT,Columbus Circle Capital Corp III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCCTU,Columbus Circle Capital Corp III - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CCCTW,Columbus Circle Capital Corp III - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCD,Calamos Dynamic Convertible & Income Fund - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCEC,Capital Clean Energy Carriers Corp. - Common Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCEP,Coca-Cola Europacific Partners plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1681,6 +1684,7 @@ NASDAQ,EVPF,Eaton Vance Preferred Securities and Income ETF,ETF,,nasdaq_trader_s
 NASDAQ,EVRG,"Evergy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVSD,Eaton Vance Short Duration Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EVYM,Eaton Vance High Income Municipal ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,EWAVU,East West Ave Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EWBC,"East West Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EWJV,iShares MSCI Japan Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EWTX,"Edgewise Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1979,7 +1983,10 @@ NASDAQ,FVCB,"FVCBankcorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direc
 NASDAQ,FVN,Future Vision II Acquisition Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FVNNR,Future Vision II Acquisition Corporation - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FVNNU,Future Vision II Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FWAC,Futurewave Acquisition Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FWACR,Futurewave Acquisition Corporation - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWACU,Futurewave Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FWACW,Futurewave Acquisition Corporation - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWDI,"Forward Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWONA,Liberty Media Corporation - Series A Liberty Formula One Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWONK,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2215,7 +2222,6 @@ NASDAQ,GUACW,Berto Acquisition Corp. II - Warrants,Stock,,nasdaq_trader_symbol_d
 NASDAQ,GURE,"Gulf Resources, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GUSE,Goldman Sachs Enhanced U.S. Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GUTS,"Fractyl Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GV,Visionary Holdings Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GVH,Globavend Holdings Limited - Ord Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GVLE,Goldman Sachs Value Opportunities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GWAV,"Greenwave Technology Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2696,6 +2702,7 @@ NASDAQ,JJSF,J & J Snack Foods Corp. - Common Stock,Stock,,nasdaq_trader_symbol_d
 NASDAQ,JKHY,"Jack Henry & Associates, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JL,J-Long Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JLHL,Julong Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,JLVP,JPMorgan U.S. Large Cap Value Plus ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JMID,Janus Henderson Mid Cap Growth Alpha ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JMSB,"John Marshall Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JONEU,Jones Ventures INTL Acquisition1 Corp - Units,Stock,,nasdaq_trader_symbol_directory
@@ -2979,7 +2986,6 @@ NASDAQ,LPCV,Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share,Stock,
 NASDAQ,LPCVU,Launchpad Cadenza Acquisition Corp I - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPCVW,Launchpad Cadenza Acquisition Corp I - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPLA,LPL Financial Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LPRO,Open Lending Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPSN,"LivePerson, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPTH,"LightPath Technologies, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LQ,Simplify Tax Aware Alternatives ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3366,7 +3372,10 @@ NASDAQ,NCIQ,Hashdex Nasdaq CME Crypto Index ETF,ETF,,nasdaq_trader_symbol_direct
 NASDAQ,NCMI,"National CineMedia, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCNA,NuCana plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCNO,"nCino, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NCO,Southern Cross Acquisition I Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NCOOR,Southern Cross Acquisition I Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCOOU,Southern Cross Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NCOOW,Southern Cross Acquisition I Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCPB,Nuveen Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NCPL,Netcapital Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCPLW,Netcapital Inc. - warrants,Stock,,nasdaq_trader_symbol_directory
@@ -5431,6 +5440,7 @@ NASDAQ,XFOR,"X4 Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,XGN,Exagen Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XHG,XChange TEC.INC - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XHLD,"TEN Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XIIIU,Churchill Capital Corp XIII - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XLO,"Xilio Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XMAG,Defiance Large Cap ex-Mag 7 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XMAX,"XMAX, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory

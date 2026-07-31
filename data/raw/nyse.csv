@@ -180,7 +180,6 @@ NYSE,APG,APi Group Corporation Common Stock,Stock,,nasdaq_trader_symbol_director
 NYSE,APH,Amphenol Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,APLE,"Apple Hospitality REIT, Inc. Common Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,APO,"Apollo Global Management, Inc. (New) Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,APO$A,"Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,APOS,"Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053",Stock,,nasdaq_trader_symbol_directory
 NYSE,APTV,Aptiv PLC Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,AQN,Algonquin Power & Utilities Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2576,7 +2575,7 @@ NYSE,TFPM,Triple Flag Precious Metals Corp. Common Shares,Stock,,nasdaq_trader_s
 NYSE,TFX,Teleflex Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TG,Tredegar Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TGE,The Generation Essentials Group Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,TGLS,Tecnoglass Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,TGLS,Tecnoglass Holdings Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TGS,Transportadora de Gas del Sur SA TGS Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TGT,Target Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,THC,Tenet Healthcare Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
