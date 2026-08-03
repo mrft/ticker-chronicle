@@ -476,7 +476,7 @@ AESPU,NASDAQ,Aeon Acquisition I Corp. - Units,Stock,True,2026-06-03,,,ddf1dd6c68
 AESPW,NASDAQ,Aeon Acquisition I Corp. - Warrants,Stock,True,2026-07-01,,,10ababafb24f82f5cd96
 AEVA,NASDAQ,"Aeva Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,0f2f504cb14bb2969169
 AEYE,NASDAQ,"AudioEye, Inc. - Common Stock",Stock,True,2026-05-08,,,619b7872bfc83aeb53f9
-AFBI,NASDAQ,"Affinity Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,e39cceb99cecd19aedfc
+AFBI,NASDAQ,"Affinity Bancshares, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-03,Missing from current NASDAQ source snapshot; reason unavailable,e39cceb99cecd19aedfc
 AFCG,NASDAQ,Advanced Flower Capital Inc. - Common Stock,Stock,True,2026-05-08,,,cd0a3b5aa03c1d3482cd
 AFJK,NASDAQ,"Aimei Health Technology Co., Ltd - Ordinary Share",Stock,True,2026-05-08,,,16dedcbf165486de09cc
 AFJKR,NASDAQ,"Aimei Health Technology Co., Ltd - Right",Stock,True,2026-05-08,,,5ad9cd12a5b4ef196d4e
@@ -937,7 +937,9 @@ BCARU,NASDAQ,D. Boral ARC Acquisition I Corp. - Units,Stock,True,2026-05-08,,,93
 BCARW,NASDAQ,D. Boral ARC Acquisition I Corp. - Warrant,Stock,True,2026-05-08,,,34f216272880d860cb92
 BCAX,NASDAQ,Bicara Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,7e7ea6cd8200e521619a
 BCBP,NASDAQ,"BCB Bancorp, Inc. (NJ) - Common Stock",Stock,True,2026-05-08,,,9b0f9364a1a2cc789609
+BCCQ,NASDAQ,Bleichroeder Acquisition Corp. III - Class A Ordinary Shares,Stock,True,2026-08-03,,,41d3930aaea6779bbc64
 BCCQU,NASDAQ,Bleichroeder Acquisition Corp. III - Units,Stock,True,2026-07-07,,,ef7b9d55e37ab9da9286
+BCCQW,NASDAQ,Bleichroeder Acquisition Corp. III - Warrant,Stock,True,2026-08-03,,,bfd315947fd5cb78e798
 BCDA,NASDAQ,"BioCardia, Inc. - Common Stock",Stock,True,2026-05-08,,,a892c8a8ed7ade6298d2
 BCFN,NASDAQ,Baron Financials ETF,ETF,True,2026-05-08,,,80d5c924bcc90fc27505
 BCG,NASDAQ,"Binah Capital Group, Inc. - Common Stock",Stock,True,2026-05-08,,,99a1d343b2b6e03f8d3e
@@ -1536,6 +1538,7 @@ CNOB,NASDAQ,"ConnectOne Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,b0
 CNOBP,NASDAQ,"ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)",Stock,True,2026-05-08,,,294793be9884e6c06de4
 CNQQ,NASDAQ,Rayliant-ChinaAMC Transformative China Tech ETF,ETF,True,2026-05-08,,,7fa529b4a63749c86c8a
 CNSP,NASDAQ,"CNS Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,d19309fbbe536296ff7f
+CNSY,NASDAQ,"Cerenome, Inc. - Common Stock",Stock,True,2026-08-03,,,35493662a4732f83a7d5
 CNTA,NASDAQ,Centessa Pharmaceuticals plc - American Depositary Shares,Stock,False,2026-05-08,2026-06-25,Missing from current NASDAQ source snapshot; reason unavailable,d15c30f895f55598068f
 CNTB,NASDAQ,Connect Biopharma Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,10562a7825085c113f11
 CNTN,NASDAQ,"Canton Strategic Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,e277aefa4233040beb95
@@ -1993,7 +1996,7 @@ ELOG,NASDAQ,Eastern International Ltd. - Ordinary Shares,Stock,True,2026-05-08,,
 ELOL,NASDAQ,Leverage Shares 100% TSLA AND 100% SPCX Daily ETF,ETF,True,2026-07-30,,,02ca9cfe17a9026ccf36
 ELOX,NASDAQ,"Eloxx Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-06-09,,,d67fb643ab77fe59e228
 ELPW,NASDAQ,Elong Power Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,885da937f043f95d0408
-ELSE,NASDAQ,"Electro-Sensors, Inc. - Common Stock",Stock,True,2026-05-08,,,ba4a28450d774b9085e6
+ELSE,NASDAQ,"Electro-Sensors, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-03,Missing from current NASDAQ source snapshot; reason unavailable,ba4a28450d774b9085e6
 ELTK,NASDAQ,Eltek Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,5cdcb9d082976832a222
 ELTX,NASDAQ,"Elicio Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,ee895be9d94677b965b8
 ELUT,NASDAQ,"Elutia, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,e0f0cfa93bd106520603
@@ -3295,9 +3298,9 @@ KTWOR,NASDAQ,K2 Capital Acquisition Corporation - Rights,Stock,True,2026-05-08,,
 KTWOU,NASDAQ,K2 Capital Acquisition Corporation - Units,Stock,True,2026-05-08,,,4fb37045199ddf7cba12
 KURA,NASDAQ,"Kura Oncology, Inc. - Common Stock",Stock,True,2026-05-08,,,f3c3d42c82d46535fa72
 KUST,NASDAQ,"Kustom Entertainment, Inc. - Common Stock",Stock,True,2026-05-08,,,f0aba35e1ce37ba18cca
-KVAC,NASDAQ,Keen Vision Acquisition Corporation - Ordinary Shares,Stock,True,2026-05-08,,,74144bf9e3dbf1bc770d
-KVACU,NASDAQ,Keen Vision Acquisition Corporation - Units,Stock,True,2026-05-08,,,69abebb9ee9a53bbf50e
-KVACW,NASDAQ,Keen Vision Acquisition Corporation - Warrant,Stock,True,2026-05-08,,,a24a887fa21bde8a446a
+KVAC,NASDAQ,Keen Vision Acquisition Corporation - Ordinary Shares,Stock,False,2026-05-08,2026-08-03,Missing from current NASDAQ source snapshot; reason unavailable,74144bf9e3dbf1bc770d
+KVACU,NASDAQ,Keen Vision Acquisition Corporation - Units,Stock,False,2026-05-08,2026-08-03,Missing from current NASDAQ source snapshot; reason unavailable,69abebb9ee9a53bbf50e
+KVACW,NASDAQ,Keen Vision Acquisition Corporation - Warrant,Stock,False,2026-05-08,2026-08-03,Missing from current NASDAQ source snapshot; reason unavailable,a24a887fa21bde8a446a
 KVHI,NASDAQ,"KVH Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,71322cdc18cce4b3a2b0
 KWM,NASDAQ,"K Wave Media, Ltd. - Ordinary Shares",Stock,True,2026-05-08,,,4bfc777e421459841219
 KWMWW,NASDAQ,"K Wave Media, Ltd. - Warrant",Stock,True,2026-05-08,,,e54e9b901a1d60a96919
@@ -4528,7 +4531,7 @@ PSNL,NASDAQ,"Personalis, Inc. - Common Stock",Stock,True,2026-05-08,,,b502f1ea08
 PSNY,NASDAQ,Polestar Automotive Holding UK Limited - Class A ADS,Stock,True,2026-05-08,,,329501972ece135ea971
 PSNYW,NASDAQ,Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW),Stock,True,2026-05-08,,,a595bf5873d3e7a36733
 PSTR,NASDAQ,PeakShares Sector Rotation ETF,ETF,True,2026-05-08,,,f46b1eec484cfc763700
-PSTV,NASDAQ,"PLUS THERAPEUTICS, Inc. - Common Stock",Stock,True,2026-05-08,,,a1df20756265d59b7ecd
+PSTV,NASDAQ,"PLUS THERAPEUTICS, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-03,Missing from current NASDAQ source snapshot; reason unavailable,a1df20756265d59b7ecd
 PSWD,NASDAQ,Xtrackers Cybersecurity Select Equity ETF,ETF,True,2026-05-08,,,370be3979646385aab23
 PTAC,NASDAQ,Patriot Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-07-06,,,ed43ffe05b587a31d0c2
 PTACU,NASDAQ,Patriot Acquisition Corp. - Units,Stock,True,2026-05-15,,,73dd4780b5e030345061
@@ -5075,7 +5078,7 @@ SKYA,NASDAQ,"SkyAI, Inc. - Common Stock",Stock,True,2026-05-28,,,3cd3c7869a54c75
 SKYAW,NASDAQ,"SkyAI, Inc. - Warrant",Stock,True,2026-05-28,,,3f946a01f20259e4a584
 SKYE,NASDAQ,"Skye Bioscience, Inc. - Common Stock",Stock,True,2026-05-08,,,00ad2b1959a3a4f5f968
 SKYQ,NASDAQ,Sky Quarry Inc. - Common Stock,Stock,True,2026-05-08,,,7198b76d15cf9ace9c9f
-SKYT,NASDAQ,"SkyWater Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,13e87f9e3bf7ba1af350
+SKYT,NASDAQ,"SkyWater Technology, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-03,Missing from current NASDAQ source snapshot; reason unavailable,13e87f9e3bf7ba1af350
 SKYU,NASDAQ,ProShares Ultra Cloud Computing,ETF,True,2026-05-08,,,735ca68fc7fa0c1abce1
 SKYW,NASDAQ,"SkyWest, Inc. - Common Stock",Stock,True,2026-05-08,,,587a4c869c2c557ba1b9
 SKYX,NASDAQ,SKYX Platforms Corp. - Common Stock,Stock,True,2026-05-08,,,4bd560ed0c64864ebf4a
@@ -8166,7 +8169,10 @@ OAK$B,NYSE,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units",St
 OBDC,NYSE,Blue Owl Capital Corporation Common Stock,Stock,True,2026-05-08,,,3502d5bd3b09df19356d
 OBK,NYSE,"Origin Bancorp, Inc. Common Stock",Stock,True,2026-05-08,,,e68786cc7604cd7f0235
 OC,NYSE,Owens Corning Inc Common Stock New,Stock,True,2026-05-08,,,edcf63cf04d1be12cbad
+OCAC,NYSE,Ocean Capital Acquisition Corporation Ordinary Shares,Stock,True,2026-08-03,,,50cbb6ebc2fe416a6324
+OCAC.R,NYSE,"Ocean Capital Acquisition Corporation Rights, each entitling the holder to receive one ordinary share",Stock,True,2026-08-03,,,95c32259d29a7a7d08c4
 OCAC.U,NYSE,"Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",Stock,True,2026-06-09,,,9e17bcb3ca06f9f7118a
+OCAC.W,NYSE,"Ocean Capital Acquisition Corporation Warrants, each exercisable for one ordinary share",Stock,True,2026-08-03,,,0e9ce7352a6c9000be53
 ODC,NYSE,Oil-Dri Corporation Of America Common Stock,Stock,True,2026-05-08,,,1537deff5c2971d47cb0
 ODV,NYSE,Osisko Development Corp. Common Shares,Stock,False,2026-05-08,2026-07-20,Missing from current NYSE source snapshot; reason unavailable,d73401c8c25eb49ec561
 OEC,NYSE,Orion S.A. Common Shares,Stock,True,2026-05-08,,,d9e3cb065276749214ce
@@ -8919,7 +8925,7 @@ TVE,NYSE,Tennessee Valley Authority,Stock,True,2026-05-08,,,0c2dc1090ad9faec4c6a
 TWI,NYSE,"Titan International, Inc. (DE) Common Stock",Stock,True,2026-05-08,,,cd75f7b30b400b176ca9
 TWLO,NYSE,Twilio Inc. Class A Common Stock,Stock,True,2026-05-08,,,b231d0097b6f4b740a77
 TWN,NYSE,"Taiwan Fund, Inc. (The) Common Stock",Stock,True,2026-05-08,,,c96c95f78e556cd302b0
-TWO,NYSE,Two Harbors Investment Corp,Stock,True,2026-05-08,,,c81f00411baa31444237
+TWO,NYSE,Two Harbors Investment Corp,Stock,False,2026-05-08,2026-08-03,Missing from current NYSE source snapshot; reason unavailable,c81f00411baa31444237
 TWO$A,NYSE,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),Stock,True,2026-05-08,,,5865b22ce825a68a62c3
 TWO$B,NYSE,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,238c79d6949224b7bb5c
 TWO$C,NYSE,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,088bd9bfa7bb611d600a

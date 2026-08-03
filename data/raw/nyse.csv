@@ -1935,7 +1935,10 @@ NYSE,OAK$B,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units",St
 NYSE,OBDC,Blue Owl Capital Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OBK,"Origin Bancorp, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OC,Owens Corning Inc Common Stock New,Stock,,nasdaq_trader_symbol_directory
+NYSE,OCAC,Ocean Capital Acquisition Corporation Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,OCAC.R,"Ocean Capital Acquisition Corporation Rights, each entitling the holder to receive one ordinary share",Stock,,nasdaq_trader_symbol_directory
 NYSE,OCAC.U,"Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",Stock,,nasdaq_trader_symbol_directory
+NYSE,OCAC.W,"Ocean Capital Acquisition Corporation Warrants, each exercisable for one ordinary share",Stock,,nasdaq_trader_symbol_directory
 NYSE,ODC,Oil-Dri Corporation Of America Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OEC,Orion S.A. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,OFG,OFG Bancorp Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2660,7 +2663,6 @@ NYSE,TVE,Tennessee Valley Authority,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWI,"Titan International, Inc. (DE) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TWLO,Twilio Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWN,"Taiwan Fund, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,TWO,Two Harbors Investment Corp,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),Stock,,nasdaq_trader_symbol_directory
 NYSE,TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory

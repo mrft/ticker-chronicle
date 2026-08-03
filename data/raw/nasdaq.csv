@@ -135,7 +135,6 @@ NASDAQ,AESPU,Aeon Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,AESPW,Aeon Acquisition I Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AEVA,"Aeva Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AEYE,"AudioEye, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AFBI,"Affinity Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AFCG,Advanced Flower Capital Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AFJK,"Aimei Health Technology Co., Ltd - Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AFJKR,"Aimei Health Technology Co., Ltd - Right",Stock,,nasdaq_trader_symbol_directory
@@ -571,7 +570,9 @@ NASDAQ,BCARU,D. Boral ARC Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbo
 NASDAQ,BCARW,D. Boral ARC Acquisition I Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCAX,Bicara Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCBP,"BCB Bancorp, Inc. (NJ) - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BCCQ,Bleichroeder Acquisition Corp. III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCCQU,Bleichroeder Acquisition Corp. III - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BCCQW,Bleichroeder Acquisition Corp. III - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCDA,"BioCardia, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCFN,Baron Financials ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BCG,"Binah Capital Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1145,6 +1146,7 @@ NASDAQ,CNOB,"ConnectOne Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,CNOBP,"ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNQQ,Rayliant-ChinaAMC Transformative China Tech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CNSP,"CNS Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CNSY,"Cerenome, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNTB,Connect Biopharma Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNTN,"Canton Strategic Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CNTX,Context Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1583,7 +1585,6 @@ NASDAQ,ELOG,Eastern International Ltd. - Ordinary Shares,Stock,,nasdaq_trader_sy
 NASDAQ,ELOL,Leverage Shares 100% TSLA AND 100% SPCX Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ELOX,"Eloxx Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ELPW,Elong Power Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ELSE,"Electro-Sensors, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ELTK,Eltek Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ELTX,"Elicio Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ELUT,"Elutia, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2827,9 +2828,6 @@ NASDAQ,KTWOR,K2 Capital Acquisition Corporation - Rights,Stock,,nasdaq_trader_sy
 NASDAQ,KTWOU,K2 Capital Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KURA,"Kura Oncology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KUST,"Kustom Entertainment, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KVAC,Keen Vision Acquisition Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KVACU,Keen Vision Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KVACW,Keen Vision Acquisition Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KVHI,"KVH Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KWM,"K Wave Media, Ltd. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KWMWW,"K Wave Media, Ltd. - Warrant",Stock,,nasdaq_trader_symbol_directory
@@ -4001,7 +3999,6 @@ NASDAQ,PSNL,"Personalis, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direct
 NASDAQ,PSNY,Polestar Automotive Holding UK Limited - Class A ADS,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSNYW,Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW),Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSTR,PeakShares Sector Rotation ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,PSTV,"PLUS THERAPEUTICS, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSWD,Xtrackers Cybersecurity Select Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PTAC,Patriot Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTACU,Patriot Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
@@ -4524,7 +4521,6 @@ NASDAQ,SKYA,"SkyAI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYAW,"SkyAI, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYE,"Skye Bioscience, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYQ,Sky Quarry Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SKYT,"SkyWater Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYU,ProShares Ultra Cloud Computing,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SKYW,"SkyWest, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKYX,SKYX Platforms Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
