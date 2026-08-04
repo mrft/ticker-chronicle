@@ -1627,6 +1627,7 @@ NASDAQ,ENVX,Enovix Corporation - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,ENZL,iShares MSCI New Zealand ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EOLS,"Evolus, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EOSE,"Eos Energy Enterprises, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EOSEW,"Eos Energy Enterprises, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EPOW,E-Power Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EPRX,Eupraxia Pharmaceuticals Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EPSM,Epsium Enterprise Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1766,7 +1767,9 @@ NASDAQ,FDIF,Fidelity Disruptors ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDIG,Fidelity Crypto Industry and Digital Payments ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDIQ,Invesco Bloomberg Financial Data Providers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDIV,MarketDesk Focused U.S. Dividend ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,FDMM,Freedom Metals Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FDMMU,Freedom Metals Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FDMMW,Freedom Metals Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FDMT,"4D Molecular Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FDNI,First Trust Dow Jones International Internet ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDRS,Founder-Led ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1835,6 +1838,7 @@ NASDAQ,FIVN,"Five9, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIXD,First Trust Smith Opportunistic Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FIYY,GraniteShares YieldBOOST 20Y Treasuries ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FIZZ,National Beverage Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FJDIU,ARC Group Securities Acquisition I - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FJP,First Trust Japan AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FKU,First Trust United Kingdom AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FKWL,Franklin Wireless Corp. - common stock,Stock,,nasdaq_trader_symbol_directory
@@ -2999,7 +3003,6 @@ NASDAQ,LSAK,"Lesaka Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,LSBK,"Lake Shore Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LSCC,Lattice Semiconductor Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LSE,"Leishen Energy Holding Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LSH,Lakeside Holding Limited - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LSTA,"Lisata Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LSTR,"Landstar System, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTBR,Lightbridge Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3581,6 +3584,7 @@ NASDAQ,OBIL,US Treasury 12 Month Bill ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OBIO,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OBT,"Orange County Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OBTC,Osprey Bitcoin Trust,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,OBX,"Obsidian Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCC,Optical Cable Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCCI,"OFS Credit Company, Inc. - Closed End Fund",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCCIM,"OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4080,6 +4084,7 @@ NASDAQ,QMMM,QMMM Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader
 NASDAQ,QMOM,Alpha Architect U.S. Quantitative Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QNCX,"Quince Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNDX,State Street SPDR Portfolio Nasdaq 100 ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QNME,"Quanome Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNRX,"Quoin Pharmaceuticals, Ltd. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNST,"QuinStreet, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNT,Quantinuum Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4701,6 +4706,8 @@ NASDAQ,STKE,Sol Strategies Inc. - Common Shares,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,STKH,Steakholder Foods Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STKS,"The ONE Group Hospitality, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STLD,"Steel Dynamics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,STLN,"Starling Oncology Institute, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,STLNW,"Starling Oncology Institute, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STNC,Hennessy Sustainable ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,STNE,StoneCo Ltd. - Class A Common Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STOK,"Stoke Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4858,6 +4865,7 @@ NASDAQ,TGL,Treasure Global Inc. - Common Stock,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,TGTX,"TG Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TH,Target Hospitality Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THCH,TH International Limited - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,THEOU,BOA Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THFF,First Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THH,TryHard Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THMZ,Lazard Equity Megatrends ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4922,8 +4930,6 @@ NASDAQ,TNONW,"Tenon Medical, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directo
 NASDAQ,TNXP,Tonix Pharmaceuticals Holding Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TNXT,T. Rowe Price Innovation Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TNYA,"Tenaya Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,TOI,"The Oncology Institute, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,TOIIW,"The Oncology Institute, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TONX,TON Strategy Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TOP,TOP Financial Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory

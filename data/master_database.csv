@@ -2041,6 +2041,7 @@ ENZL,NASDAQ,iShares MSCI New Zealand ETF,ETF,True,2026-05-08,,,2328784e3a77bdb6c
 EOLS,NASDAQ,"Evolus, Inc. - Common Stock",Stock,True,2026-05-08,,,4b549cdbd1f8b0445142
 EOSE,NASDAQ,"Eos Energy Enterprises, Inc. - Common Stock",Stock,True,2026-05-08,,,d8ad9d9a33b2da64f9ab
 EOSER,NASDAQ,"Eos Energy Enterprises, Inc. - Right",Stock,False,2026-07-06,2026-07-21,Missing from current NASDAQ source snapshot; reason unavailable,12cf3a371773bb854fbe
+EOSEW,NASDAQ,"Eos Energy Enterprises, Inc. - Warrant",Stock,True,2026-08-04,,,c2192fe7411ba735443f
 EPOW,NASDAQ,E-Power Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,6b4904dddd29801115a3
 EPRX,NASDAQ,Eupraxia Pharmaceuticals Inc. - Common Stock,Stock,True,2026-05-08,,,0ac6928084e040ac5ce4
 EPSM,NASDAQ,Epsium Enterprise Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,88c9db194c99f2893f6e
@@ -2187,7 +2188,9 @@ FDIF,NASDAQ,Fidelity Disruptors ETF,ETF,True,2026-05-08,,,33f352f456aab04bb604
 FDIG,NASDAQ,Fidelity Crypto Industry and Digital Payments ETF,ETF,True,2026-05-08,,,e412be9be49a828890b5
 FDIQ,NASDAQ,Invesco Bloomberg Financial Data Providers ETF,ETF,True,2026-05-08,,,6ad9308b69737c863aa5
 FDIV,NASDAQ,MarketDesk Focused U.S. Dividend ETF,ETF,True,2026-05-08,,,32263783fd2718398640
+FDMM,NASDAQ,Freedom Metals Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-08-04,,,79c11d3a736d9d9cd63a
 FDMMU,NASDAQ,Freedom Metals Acquisition Corp. - Units,Stock,True,2026-07-08,,,2c075172cdff1991dc80
+FDMMW,NASDAQ,Freedom Metals Acquisition Corp. - Warrants,Stock,True,2026-08-04,,,42d31c6503f5f1a4cf80
 FDMT,NASDAQ,"4D Molecular Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,ed52691970dcb98a23a8
 FDNI,NASDAQ,First Trust Dow Jones International Internet ETF,ETF,True,2026-05-08,,,7769d038e51faeedc963
 FDRS,NASDAQ,Founder-Led ETF,ETF,True,2026-05-08,,,5dc05d8dc75d12ac1823
@@ -2268,6 +2271,7 @@ FIVY,NASDAQ,YieldMax Dorsey Wright Hybrid 5 Income ETF,ETF,False,2026-05-08,2026
 FIXD,NASDAQ,First Trust Smith Opportunistic Fixed Income ETF,ETF,True,2026-05-08,,,d357c98af57a16247990
 FIYY,NASDAQ,GraniteShares YieldBOOST 20Y Treasuries ETF,ETF,True,2026-05-08,,,d01115d7524f22d91227
 FIZZ,NASDAQ,National Beverage Corp. - Common Stock,Stock,True,2026-05-08,,,419fbe988656b4078be9
+FJDIU,NASDAQ,ARC Group Securities Acquisition I - Units,Stock,True,2026-08-04,,,ded91971b5cc866a3cf4
 FJP,NASDAQ,First Trust Japan AlphaDEX Fund,ETF,True,2026-05-08,,,9d01af9e2ba4dbd6cb44
 FKU,NASDAQ,First Trust United Kingdom AlphaDEX Fund,ETF,True,2026-05-08,,,9dabd1b61c209cf5be06
 FKWL,NASDAQ,Franklin Wireless Corp. - common stock,Stock,True,2026-05-08,,,d07ca221be440018b51d
@@ -3487,7 +3491,7 @@ LSAK,NASDAQ,"Lesaka Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,5
 LSBK,NASDAQ,"Lake Shore Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,97aa1437ea9abda14a8c
 LSCC,NASDAQ,Lattice Semiconductor Corporation - Common Stock,Stock,True,2026-05-08,,,d480423f55c7bc8a5d70
 LSE,NASDAQ,"Leishen Energy Holding Co., Ltd. - Class A Ordinary Shares",Stock,True,2026-05-08,,,dc7c6b920b444074aeea
-LSH,NASDAQ,Lakeside Holding Limited - Common Stock,Stock,True,2026-05-08,,,6dbf0a6be50230a0460e
+LSH,NASDAQ,Lakeside Holding Limited - Common Stock,Stock,False,2026-05-08,2026-08-04,Missing from current NASDAQ source snapshot; reason unavailable,6dbf0a6be50230a0460e
 LSTA,NASDAQ,"Lisata Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,d8d5fbd069b1efdb4e72
 LSTR,NASDAQ,"Landstar System, Inc. - Common Stock",Stock,True,2026-05-08,,,fb6ec514aecf2cdcdc13
 LTBR,NASDAQ,Lightbridge Corporation - Common Stock,Stock,True,2026-05-08,,,9524e8e95c21187aea7a
@@ -4098,6 +4102,7 @@ OBIL,NASDAQ,US Treasury 12 Month Bill ETF,ETF,True,2026-05-08,,,121e1c102e1dd314
 OBIO,NASDAQ,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,200365ae507f8972cee0
 OBT,NASDAQ,"Orange County Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,072ef33cfe26722630e6
 OBTC,NASDAQ,Osprey Bitcoin Trust,ETF,True,2026-05-08,,,f573617a08550f8d57a4
+OBX,NASDAQ,"Obsidian Therapeutics, Inc. - Common Stock",Stock,True,2026-08-04,,,99778b6812a2c7cb5739
 OCC,NASDAQ,Optical Cable Corporation - Common Stock,Stock,True,2026-05-08,,,7007f35dd99ec81ac044
 OCCI,NASDAQ,"OFS Credit Company, Inc. - Closed End Fund",Stock,True,2026-05-08,,,a905391455ac7cd4b9ae
 OCCIM,NASDAQ,"OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock",Stock,True,2026-05-08,,,427b310ed6557c30bbad
@@ -4616,6 +4621,7 @@ QMMM,NASDAQ,QMMM Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-0
 QMOM,NASDAQ,Alpha Architect U.S. Quantitative Momentum ETF,ETF,True,2026-05-08,,,bba14e310381abb69794
 QNCX,NASDAQ,"Quince Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,98930c4fa884732ca20d
 QNDX,NASDAQ,State Street SPDR Portfolio Nasdaq 100 ETF,ETF,True,2026-06-24,,,c29313f776cad68052e0
+QNME,NASDAQ,"Quanome Technologies, Inc. - Common Stock",Stock,True,2026-08-04,,,dc6363ae47326df85939
 QNRX,NASDAQ,"Quoin Pharmaceuticals, Ltd. - American Depositary Shares",Stock,True,2026-05-08,,,fc30cc7c7f116ac8ffaa
 QNST,NASDAQ,"QuinStreet, Inc. - Common Stock",Stock,True,2026-05-08,,,43ade2961cbf4e511cc6
 QNT,NASDAQ,Quantinuum Inc. - Class A Common Stock,Stock,True,2026-06-04,,,8a4cd5b33d3c7a4c8334
@@ -5267,6 +5273,8 @@ STKE,NASDAQ,Sol Strategies Inc. - Common Shares,Stock,True,2026-05-08,,,e1674276
 STKH,NASDAQ,Steakholder Foods Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,8dcf185a1b10b028b104
 STKS,NASDAQ,"The ONE Group Hospitality, Inc. - Common Stock",Stock,True,2026-05-08,,,c2df322ff62716236185
 STLD,NASDAQ,"Steel Dynamics, Inc. - Common Stock",Stock,True,2026-05-08,,,cf362cc74d6e161faa19
+STLN,NASDAQ,"Starling Oncology Institute, Inc. - Common Stock",Stock,True,2026-08-04,,,03dc5b64608856340e46
+STLNW,NASDAQ,"Starling Oncology Institute, Inc. - Warrant",Stock,True,2026-08-04,,,0ace9f392f7283f0d24d
 STNC,NASDAQ,Hennessy Sustainable ETF,ETF,True,2026-05-08,,,0a11457c49124df2895a
 STNE,NASDAQ,StoneCo Ltd. - Class A Common Share,Stock,True,2026-05-08,,,986f4585ad3b0c4babe6
 STOK,NASDAQ,"Stoke Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,4f4b499f1e9ea4b4f699
@@ -5436,6 +5444,7 @@ TGL,NASDAQ,Treasure Global Inc. - Common Stock,Stock,True,2026-05-08,,,64d3dc022
 TGTX,NASDAQ,"TG Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,1a7b4c5d98ce7fb85257
 TH,NASDAQ,Target Hospitality Corp. - Common Stock,Stock,True,2026-05-08,,,8f4c7234283263427bca
 THCH,NASDAQ,TH International Limited - Ordinary shares,Stock,True,2026-05-08,,,115ae54ba29e45cf7b42
+THEOU,NASDAQ,BOA Acquisition Corp. II - Units,Stock,True,2026-08-04,,,9d8164d6c5d448a59d67
 THFF,NASDAQ,First Financial Corporation - Common Stock,Stock,True,2026-05-08,,,de361219c172573e2a52
 THH,NASDAQ,TryHard Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,110e3afad9b16b66def2
 THMZ,NASDAQ,Lazard Equity Megatrends ETF,ETF,True,2026-05-08,,,09d87a1a2bfffb33d485
@@ -5501,8 +5510,8 @@ TNONW,NASDAQ,"Tenon Medical, Inc. - Warrant",Stock,True,2026-05-08,,,393adb1ffbf
 TNXP,NASDAQ,Tonix Pharmaceuticals Holding Corp. - Common Stock,Stock,True,2026-05-08,,,fa26fb0eed20540d5cd2
 TNXT,NASDAQ,T. Rowe Price Innovation Leaders ETF,ETF,True,2026-05-08,,,44edb1b9487211668f95
 TNYA,NASDAQ,"Tenaya Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,9ad3885cda677b4c5510
-TOI,NASDAQ,"The Oncology Institute, Inc. - Common Stock",Stock,True,2026-05-08,,,cff052e9ff52bb44d0ad
-TOIIW,NASDAQ,"The Oncology Institute, Inc. - Warrant",Stock,True,2026-05-08,,,e0a3047fc1d5144efa64
+TOI,NASDAQ,"The Oncology Institute, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-04,Other delisting reason: Details unavailable (source: FMP Delisted API),cff052e9ff52bb44d0ad
+TOIIW,NASDAQ,"The Oncology Institute, Inc. - Warrant",Stock,False,2026-05-08,2026-08-04,Missing from current NASDAQ source snapshot; reason unavailable,e0a3047fc1d5144efa64
 TOMZ,NASDAQ,"TOMI Environmental Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,5c11432e7ed90072c70f
 TONX,NASDAQ,TON Strategy Company - Common Stock,Stock,True,2026-05-08,,,59465dd2d5512c38c8cd
 TOP,NASDAQ,TOP Financial Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,56b1ecc0b3f3a346f612
@@ -6219,7 +6228,8 @@ AD,NYSE,"Array Digital Infrastructure, Inc. Common Shares",Stock,True,2026-05-08
 ADC,NYSE,Agree Realty Corporation Common Stock,Stock,True,2026-05-08,,,70213b56dbd404ec1ca7
 ADC$A,NYSE,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,2d80316813f73688e859
 ADCT,NYSE,ADC Therapeutics SA Common Shares,Stock,True,2026-05-08,,,3c039670bc11ec0eaa28
-ADIG.V,NYSE,ADI Global Distribution Inc. Common Stock When-Issued,Stock,True,2026-07-29,,,e906e00f0c5221badc9b
+ADIG,NYSE,ADI Global Distribution Inc. Common Stock,Stock,True,2026-08-04,,,2b9544bd60d8d52dd4b1
+ADIG.V,NYSE,ADI Global Distribution Inc. Common Stock When-Issued,Stock,False,2026-07-29,2026-08-04,Missing from current NYSE source snapshot; reason unavailable,e906e00f0c5221badc9b
 ADM,NYSE,Archer-Daniels-Midland Company Common Stock,Stock,True,2026-05-08,,,b38599545acec8b2aa7d
 ADNT,NYSE,Adient plc Ordinary Shares,Stock,True,2026-05-08,,,d5c5d9ad5314f79e9c1f
 ADT,NYSE,ADT Inc. Common Stock,Stock,True,2026-05-08,,,0bbbf1fee73c2d2525fa
@@ -7997,7 +8007,8 @@ MTW,NYSE,"Manitowoc Company, Inc. (The) Common Stock",Stock,True,2026-05-08,,,0d
 MTX,NYSE,Minerals Technologies Inc. Common Stock,Stock,True,2026-05-08,,,5b36754b539f74a952d4
 MTZ,NYSE,"MasTec, Inc. Common Stock",Stock,True,2026-05-08,,,66477eb2810fc6bf05b5
 MUA,NYSE,"Blackrock MuniAssets Fund, Inc Common Stock",Stock,True,2026-05-08,,,4c924db2f43bba4a81f6
-MUA.V,NYSE,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",Stock,True,2026-07-27,,,af96bdea189598cbdda6
+MUA.R,NYSE,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights",Stock,True,2026-08-04,,,84b8cba1916b237ea6fa
+MUA.V,NYSE,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",Stock,False,2026-07-27,2026-08-04,Missing from current NYSE source snapshot; reason unavailable,af96bdea189598cbdda6
 MUC,NYSE,"Blackrock MuniHoldings California Quality Fund, Inc. Common Stock",Stock,True,2026-05-08,,,fd2e91355566c0f3965e
 MUFG,NYSE,"Mitsubishi UFJ Financial Group, Inc. Common Stock",Stock,True,2026-05-08,,,d3fc2edb0e91df040efa
 MUJ,NYSE,"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock",Stock,True,2026-05-08,,,2b0f452c172fe5bac09a
@@ -8462,7 +8473,7 @@ REXR,NYSE,"Rexford Industrial Realty, Inc. Common Stock",Stock,True,2026-05-08,,
 REXR$B,NYSE,"Rexford Industrial Realty, Inc. 5.875% Series B Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,de682793ae574a3e5d55
 REXR$C,NYSE,"Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.01 per share",Stock,True,2026-05-08,,,839fead3fd0ef1614c6d
 REZI,NYSE,"Resideo Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,33ee8319db29da2f8ca0
-REZI.V,NYSE,"Resideo Technologies, Inc. Common Stock When-Issued",Stock,True,2026-07-29,,,ef9deb93a9b5cf0877ad
+REZI.V,NYSE,"Resideo Technologies, Inc. Common Stock When-Issued",Stock,False,2026-07-29,2026-08-04,Missing from current NYSE source snapshot; reason unavailable,ef9deb93a9b5cf0877ad
 RF,NYSE,Regions Financial Corporation Common Stock,Stock,True,2026-05-08,,,90f9d282f789132d8d32
 RF$C,NYSE,"Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a Share of 5.700% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C",Stock,True,2026-05-08,,,300c494d813fabcc6702
 RF$E,NYSE,"Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E",Stock,True,2026-05-08,,,38e3226fe327d9804ed4
@@ -8926,6 +8937,7 @@ TWI,NYSE,"Titan International, Inc. (DE) Common Stock",Stock,True,2026-05-08,,,c
 TWLO,NYSE,Twilio Inc. Class A Common Stock,Stock,True,2026-05-08,,,b231d0097b6f4b740a77
 TWN,NYSE,"Taiwan Fund, Inc. (The) Common Stock",Stock,True,2026-05-08,,,c96c95f78e556cd302b0
 TWO,NYSE,Two Harbors Investment Corp,Stock,False,2026-05-08,2026-08-03,Missing from current NYSE source snapshot; reason unavailable,c81f00411baa31444237
+TWO,NYSE,Two Harbors Investment Corp,Stock,True,2026-08-04,,,c81f00411baa31444237
 TWO$A,NYSE,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),Stock,True,2026-05-08,,,5865b22ce825a68a62c3
 TWO$B,NYSE,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,238c79d6949224b7bb5c
 TWO$C,NYSE,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,088bd9bfa7bb611d600a
@@ -9190,7 +9202,8 @@ YETI,NYSE,"YETI Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,5b3b6f84ced
 YEXT,NYSE,"Yext, Inc. Common Stock",Stock,True,2026-05-08,,,f06a1c3af4df2923b5b9
 YMM,NYSE,Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares),Stock,True,2026-05-08,,,bda38dc66cdf8a974142
 YOU,NYSE,"Clear Secure, Inc. Class A Common Stock",Stock,True,2026-05-08,,,7190446f9e9ae5836dc3
-YPF,NYSE,YPF Sociedad Anonima Common Stock,Stock,True,2026-05-08,,,bff4de853f2afe51f8a0
+YPF,NYSE,YPF Sociedad Anonima Common Stock,Stock,False,2026-05-08,2026-08-04,Listing metadata changed,bff4de853f2afe51f8a0
+YPF,NYSE,YPF Sociedad Anonima American Depositary Shares,Stock,True,2026-08-04,,,50be85be78a392b63c0a
 YRD,NYSE,"Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares",Stock,True,2026-05-08,,,aecafe27d4701a6daf24
 YSG,NYSE,"Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares",Stock,True,2026-05-08,,,c465e8c315a0d5ce0c0b
 YSS,NYSE,York Space Systems Inc. Common Stock,Stock,True,2026-05-08,,,b8e6bf133e8c81c2e7f3
