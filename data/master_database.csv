@@ -831,6 +831,7 @@ ATPC,NASDAQ,Agape ATP Corporation - Common Stock,Stock,True,2026-05-08,,,5629b9c
 ATRA,NASDAQ,"Atara Biotherapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,e4030316305438619fde
 ATRC,NASDAQ,"AtriCure, Inc. - Common Stock",Stock,True,2026-05-08,,,f5b1018a7567aef12c72
 ATRO,NASDAQ,Astronics Corporation - Common Stock,Stock,True,2026-05-08,,,1430136f6c67830e4a0c
+ATTO,NASDAQ,"Attovia Therapeutics, Inc. - Common Stock",Stock,True,2026-08-05,,,b7decab7d3c888260490
 ATXG,NASDAQ,Addentax Group Corp. - Common Stock,Stock,True,2026-05-08,,,86fcab616c767285813b
 ATYR,NASDAQ,"aTyr Pharma, Inc. - Common Stock",Stock,True,2026-05-08,,,a84802fdcc7a020b180d
 AUBN,NASDAQ,"Auburn National Bancorporation, Inc. - Common Stock",Stock,True,2026-05-08,,,156c3e2735c4f5bc7cdf
@@ -1808,6 +1809,7 @@ DJTWW,NASDAQ,Trump Media & Technology Group Corp. - Warrants,Stock,True,2026-05-
 DKI,NASDAQ,DarkIris Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,5a3725ec0a0d59e4ad87
 DKNG,NASDAQ,DraftKings Inc. - Class A Common Stock,Stock,True,2026-05-08,,,5a625ffa07b81d31719c
 DKNX,NASDAQ,Defiance Daily Target 2X Long DKNG ETF,ETF,True,2026-05-08,,,93e2c16f6c41dc2d27e9
+DLCU,NASDAQ,U.S. Large Company Portfolio: ETF Class Shares,ETF,True,2026-08-05,,,9bfc0fa230a03ebbbd8d
 DLHC,NASDAQ,DLH Holdings Corp. - Common Stock,Stock,True,2026-05-08,,,8121d84d23e8a9ccf804
 DLLL,NASDAQ,GraniteShares 2x Long DELL Daily ETF,ETF,True,2026-05-08,,,a5f05a4c3ab95de9011d
 DLO,NASDAQ,DLocal Limited - Class A Common Shares,Stock,True,2026-05-08,,,3e805599a574549347db
@@ -1933,7 +1935,7 @@ DYOR,NASDAQ,Insight Digital Partners II - Class A Ordinary Shares,Stock,True,202
 DYORU,NASDAQ,Insight Digital Partners II - Units,Stock,True,2026-05-08,,,52674a8cb6319a771cd9
 DYORW,NASDAQ,Insight Digital Partners II - Warrants,Stock,True,2026-05-08,,,f9d314b332e6fa6fe4c4
 DYTA,NASDAQ,SGI Dynamic Tactical ETF,ETF,True,2026-05-08,,,8611184b89bd61df7613
-EA,NASDAQ,Electronic Arts Inc. - Common Stock,Stock,True,2026-05-08,,,8573b37b09dee9fd18b8
+EA,NASDAQ,Electronic Arts Inc. - Common Stock,Stock,False,2026-05-08,2026-08-05,Missing from current NASDAQ source snapshot; reason unavailable,8573b37b09dee9fd18b8
 EART,NASDAQ,Global X Rare Earth & Critical Materials ETF,ETF,True,2026-05-08,,,e86490c0fefe90711c12
 EASY,NASDAQ,Liberty One Defensive Dividend Growth ETF,ETF,True,2026-05-08,,,898cb09f8a46259da4c4
 EBAY,NASDAQ,eBay Inc. - Common Stock,Stock,True,2026-05-08,,,c3f9b72006984f2691e8
@@ -3138,7 +3140,10 @@ IXHL,NASDAQ,Incannex Healthcare Inc. - Common Stock,Stock,True,2026-05-08,,,7f4a
 IXUS,NASDAQ,iShares Core MSCI Total International Stock ETF,ETF,True,2026-05-08,,,724f29f4f23305bceb97
 IZEA,NASDAQ,"IZEA Worldwide, Inc. - Common Stock",Stock,True,2026-05-08,,,d62f05ee08c6fc7af5e7
 IZM,NASDAQ,ICZOOM Group Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,55041cd9f55fbf0601d2
+JAB,NASDAQ,JAB Acquisition Corp I - Class A Ordinary Shares,Stock,True,2026-08-05,,,960dad17d1a3b5bcb06b
+JABRR,NASDAQ,JAB Acquisition Corp I - Rights,Stock,True,2026-08-05,,,ec499c04188717001826
 JABRU,NASDAQ,JAB Acquisition Corp I - Units,Stock,True,2026-06-10,,,00529174f9a91accdc20
+JABRW,NASDAQ,JAB Acquisition Corp I - Warrants,Stock,True,2026-08-05,,,35df8af7a32765ff8e78
 JACK,NASDAQ,Jack In The Box Inc. - Common Stock,Stock,True,2026-05-08,,,63771ebb1b48b9fcd1e4
 JAGX,NASDAQ,"Jaguar Health, Inc. - Common Stock",Stock,True,2026-05-08,,,67a13348bc2f1584a016
 JAKK,NASDAQ,"JAKKS Pacific, Inc. - Common Stock",Stock,True,2026-05-08,,,6a373935b850f3f4229f
@@ -5273,8 +5278,10 @@ STKE,NASDAQ,Sol Strategies Inc. - Common Shares,Stock,True,2026-05-08,,,e1674276
 STKH,NASDAQ,Steakholder Foods Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,8dcf185a1b10b028b104
 STKS,NASDAQ,"The ONE Group Hospitality, Inc. - Common Stock",Stock,True,2026-05-08,,,c2df322ff62716236185
 STLD,NASDAQ,"Steel Dynamics, Inc. - Common Stock",Stock,True,2026-05-08,,,cf362cc74d6e161faa19
-STLN,NASDAQ,"Starling Oncology Institute, Inc. - Common Stock",Stock,True,2026-08-04,,,03dc5b64608856340e46
-STLNW,NASDAQ,"Starling Oncology Institute, Inc. - Warrant",Stock,True,2026-08-04,,,0ace9f392f7283f0d24d
+STLN,NASDAQ,"Starling Oncology Institute, Inc. - Common Stock",Stock,False,2026-08-04,2026-08-05,Listing metadata changed,03dc5b64608856340e46
+STLN,NASDAQ,"Starling Oncology, Inc. - Common Stock",Stock,True,2026-08-05,,,c55e38e31f9fa726b269
+STLNW,NASDAQ,"Starling Oncology Institute, Inc. - Warrant",Stock,False,2026-08-04,2026-08-05,Listing metadata changed,0ace9f392f7283f0d24d
+STLNW,NASDAQ,"Starling Oncology, Inc. - Warrant",Stock,True,2026-08-05,,,7e8ebb1df1cd12dac647
 STNC,NASDAQ,Hennessy Sustainable ETF,ETF,True,2026-05-08,,,0a11457c49124df2895a
 STNE,NASDAQ,StoneCo Ltd. - Class A Common Share,Stock,True,2026-05-08,,,986f4585ad3b0c4babe6
 STOK,NASDAQ,"Stoke Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,4f4b499f1e9ea4b4f699
@@ -5396,6 +5403,7 @@ TCBI,NASDAQ,"Texas Capital Bancshares, Inc. - Common Stock",Stock,True,2026-05-0
 TCBIO,NASDAQ,"Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",Stock,True,2026-05-08,,,11ef8816d1a674d73ef0
 TCBK,NASDAQ,TriCo Bancshares - Common Stock,Stock,True,2026-05-08,,,cc132239ac54233fc160
 TCBS,NASDAQ,"Texas Community Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,bf2d54df55dbbc027504
+TCGX,NASDAQ,TCGX Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-08-05,,,0d8f5985c2e098761274
 TCHI,NASDAQ,iShares MSCI China Multisector Tech ETF,ETF,True,2026-05-08,,,953f070851dd32542a49
 TCMD,NASDAQ,"Tactile Systems Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,169bb83b28d112235cb6
 TCOM,NASDAQ,Trip.com Group Limited - American Depositary Shares,Stock,True,2026-05-08,,,28d539aa9d665daec458

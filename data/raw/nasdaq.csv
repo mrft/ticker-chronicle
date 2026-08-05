@@ -468,6 +468,7 @@ NASDAQ,ATPC,Agape ATP Corporation - Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,ATRA,"Atara Biotherapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATRC,"AtriCure, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATRO,Astronics Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ATTO,"Attovia Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATXG,Addentax Group Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATYR,"aTyr Pharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AUBN,"Auburn National Bancorporation, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1403,6 +1404,7 @@ NASDAQ,DJTWW,Trump Media & Technology Group Corp. - Warrants,Stock,,nasdaq_trade
 NASDAQ,DKI,DarkIris Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DKNG,DraftKings Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DKNX,Defiance Daily Target 2X Long DKNG ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,DLCU,U.S. Large Company Portfolio: ETF Class Shares,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DLHC,DLH Holdings Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DLLL,GraniteShares 2x Long DELL Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DLO,DLocal Limited - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1523,7 +1525,6 @@ NASDAQ,DYOR,Insight Digital Partners II - Class A Ordinary Shares,Stock,,nasdaq_
 NASDAQ,DYORU,Insight Digital Partners II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DYORW,Insight Digital Partners II - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DYTA,SGI Dynamic Tactical ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,EA,Electronic Arts Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EART,Global X Rare Earth & Critical Materials ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EASY,Liberty One Defensive Dividend Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EBAY,eBay Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2673,7 +2674,10 @@ NASDAQ,IXHL,Incannex Healthcare Inc. - Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,IXUS,iShares Core MSCI Total International Stock ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IZEA,"IZEA Worldwide, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IZM,ICZOOM Group Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,JAB,JAB Acquisition Corp I - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,JABRR,JAB Acquisition Corp I - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JABRU,JAB Acquisition Corp I - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,JABRW,JAB Acquisition Corp I - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JACK,Jack In The Box Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JAGX,"Jaguar Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JAKK,"JAKKS Pacific, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4706,8 +4710,8 @@ NASDAQ,STKE,Sol Strategies Inc. - Common Shares,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,STKH,Steakholder Foods Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STKS,"The ONE Group Hospitality, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STLD,"Steel Dynamics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,STLN,"Starling Oncology Institute, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,STLNW,"Starling Oncology Institute, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,STLN,"Starling Oncology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,STLNW,"Starling Oncology, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STNC,Hennessy Sustainable ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,STNE,StoneCo Ltd. - Class A Common Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STOK,"Stoke Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4818,6 +4822,7 @@ NASDAQ,TCBI,"Texas Capital Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader
 NASDAQ,TCBIO,"Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TCBK,TriCo Bancshares - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TCBS,"Texas Community Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TCGX,TCGX Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TCHI,iShares MSCI China Multisector Tech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TCMD,"Tactile Systems Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TCOM,Trip.com Group Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
