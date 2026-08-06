@@ -670,6 +670,7 @@ ANGHW,NASDAQ,Anghami Inc. - Warrants,Stock,True,2026-05-08,,,d4f948db32994f7e75a
 ANGI,NASDAQ,Angi Inc. - Class A Common Stock,Stock,True,2026-05-08,,,516dede9e1171b8cebbf
 ANGL,NASDAQ,VanEck Fallen Angel High Yield Bond ETF,ETF,True,2026-05-08,,,28502660ff529265819c
 ANGO,NASDAQ,"AngioDynamics, Inc. - Common Stock",Stock,True,2026-05-08,,,02c754327d549551b534
+ANGU,NASDAQ,SEI Ang Research Enhanced U.S. Large Cap ETF,ETF,True,2026-08-06,,,a80e5bf3235df8d1430d
 ANIK,NASDAQ,Anika Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,8b0d59b647afef5ef03f
 ANIP,NASDAQ,"ANI Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,f94cb5f53cdadb10ad6d
 ANIX,NASDAQ,"Anixa Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,12a16d321d7eba1ea38e
@@ -1169,6 +1170,7 @@ BRTR,NASDAQ,iShares Total Return Active ETF,ETF,True,2026-05-08,,,532f55c7d0034a
 BRTX,NASDAQ,"BioRestorative Therapies, Inc. - Common Stock",Stock,True,2026-05-08,,,007fc8949872a1220bf7
 BRUN,NASDAQ,Boost Run Inc. - Class A Common Stock,Stock,True,2026-05-11,,,b07fee52577aebf844c2
 BRUNW,NASDAQ,Boost Run Inc. - Warrant,Stock,True,2026-05-11,,,d0567fc4a44d15677777
+BRVE,NASDAQ,"Braveheart Bio, Inc. - Common Stock",Stock,True,2026-08-06,,,dc8d4f8b2bb1cf39eec2
 BRZE,NASDAQ,"Braze, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1cb454e31a9adcf2698a
 BSAA,NASDAQ,BEST SPAC I Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,9f5d971dfbc3c23c8b51
 BSAAR,NASDAQ,BEST SPAC I Acquisition Corp. - Rights,Stock,True,2026-05-08,,,63f268e99be375022407
@@ -3882,6 +3884,7 @@ NCEL,NASDAQ,NewcelX Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,cb5d2b8e61a63
 NCEW,NASDAQ,New Century Logistics (BVI) Limited - Ordinary Shares,Stock,True,2026-05-08,,,edbf143a48f2bb36594f
 NCI,NASDAQ,Neo-Concept International Group Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,c47964d65ae77d84710a
 NCIQ,NASDAQ,Hashdex Nasdaq CME Crypto Index ETF,ETF,True,2026-05-08,,,4d6a32056a2ffd946328
+NCLD,NASDAQ,Roundhill Neocloud ETF,ETF,True,2026-08-06,,,4016d9e14498e0ac4737
 NCMI,NASDAQ,"National CineMedia, Inc. - Common Stock",Stock,True,2026-05-08,,,3dabff821dfdf7fa1e01
 NCNA,NASDAQ,NuCana plc - American Depositary Shares,Stock,True,2026-05-08,,,2a5a7170ff3b5577bbc9
 NCNO,NASDAQ,"nCino, Inc. - Common Stock",Stock,True,2026-05-08,,,7d74afb02de53e5415cc
@@ -4719,6 +4722,7 @@ RBKB,NASDAQ,"Rhinebeck Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,07b
 RBNE,NASDAQ,Robin Energy Ltd. - Common Stock,Stock,True,2026-05-08,,,dcfa7cc1e31343802bd5
 RCAT,NASDAQ,"Red Cat Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,c58075cc80c6ef33ca9c
 RCAX,NASDAQ,Defiance Daily Target 2x Long RCAT ETF,ETF,True,2026-05-08,,,4c4277ff140d642acbf5
+RCBC,NASDAQ,River City Bank - Common stock,Stock,True,2026-08-06,,,5912dda93010e9d27a0e
 RCEL,NASDAQ,"Avita Medical, Inc. - Common Stock",Stock,True,2026-05-08,,,5ea5918e471d99ad9b01
 RCGE,NASDAQ,RockCreek Global Equality ETF,ETF,True,2026-05-08,,,e99c62e9838e5db6764f
 RCKT,NASDAQ,"Rocket Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,a30a5e7d64417609d5ee
@@ -5463,6 +5467,7 @@ THYM,NASDAQ,T. Rowe Price High Income Municipal ETF,ETF,True,2026-05-08,,,4bf79c
 THYP,NASDAQ,21shares Hyperliquid ETF,ETF,True,2026-05-12,,,e8fb25bc367e4db21bbd
 TIGO,NASDAQ,Millicom International Cellular S.A. - Common Stock,Stock,True,2026-05-08,,,cf67174f5633ccd9c69a
 TIGR,NASDAQ,UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares,Stock,True,2026-05-08,,,bbb9c81262c97023ee21
+TIH,NASDAQ,The Investment House ETF,ETF,True,2026-08-06,,,4cd3f7e3842b03d5c0fa
 TIL,NASDAQ,"Instil Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,ede2796470852b731716
 TILC,NASDAQ,Thrivent International Large Cap ETF,ETF,True,2026-06-15,,,1cd3de99dd9e5676bcfb
 TILE,NASDAQ,"Interface, Inc. - Common Stock",Stock,True,2026-05-08,,,e1f8d80b5036ce5bcd70
@@ -5881,8 +5886,8 @@ VSAT,NASDAQ,"ViaSat, Inc. - Common Stock",Stock,True,2026-05-08,,,3d773646c7009e
 VSDA,NASDAQ,VictoryShares Dividend Accelerator ETF,ETF,True,2026-05-08,,,a41c011aa8abbb79c3a0
 VSEC,NASDAQ,VSE Corporation - Common Stock,Stock,True,2026-05-08,,,9b6ca434a0a617b06447
 VSECU,NASDAQ,VSE Corporation - Tangible Equity Units,Stock,True,2026-05-08,,,252816aae584ed943217
-VSEE,NASDAQ,"VSee Health, Inc. - Common Stock",Stock,True,2026-05-08,,,3f77d76b299c06fd784c
-VSEEW,NASDAQ,"VSee Health, Inc. - Warrant",Stock,True,2026-05-08,,,04428f265381f77edac7
+VSEE,NASDAQ,"VSee Health, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-06,Missing from current NASDAQ source snapshot; reason unavailable,3f77d76b299c06fd784c
+VSEEW,NASDAQ,"VSee Health, Inc. - Warrant",Stock,False,2026-05-08,2026-08-06,Missing from current NASDAQ source snapshot; reason unavailable,04428f265381f77edac7
 VSME,NASDAQ,VS Media Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,442150b11b1c5c73ac1c
 VSMV,NASDAQ,VictoryShares US Multi-Factor Minimum Volatility ETF,ETF,True,2026-05-08,,,992c005dbc4153796eda
 VSNT,NASDAQ,"Versant Media Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1859c228f445e316da14
