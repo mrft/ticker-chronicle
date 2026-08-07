@@ -303,6 +303,7 @@ TOON,AMEX,"Kartoon Studios, Inc. Common Stock",Stock,True,2026-05-08,,,c658ca2fc
 TOPP,AMEX,Toppoint Holdings Inc. Common Stock,Stock,True,2026-05-08,,,8e12931c06bb4d9390a4
 TOPS,AMEX,"TOP Ships, Inc. Common Stock",Stock,True,2026-05-08,,,9d8b0583b154ebc61f4b
 TOVX,AMEX,"Theriva Biologics, Inc. Common Stock",Stock,True,2026-05-08,,,97c4fa5b8c6d7c87ed70
+TP,AMEX,Ticketplus Ltd. Ordinary Shares,Stock,True,2026-08-07,,,bdca25e2fd379d6723e9
 TPET,AMEX,Trio Petroleum Corp. Common Stock,Stock,True,2026-05-08,,,4bb3bf8053bdf3dc2f71
 TRT,AMEX,Trio-Tech International Common Stock,Stock,True,2026-05-08,,,a2502c2d0b0e5da4540a
 TRX,AMEX,TRX Gold Corporation Common Stock,Stock,True,2026-05-08,,,f8d884da0f7f7722b3c7
@@ -1077,6 +1078,7 @@ BLRKU,NASDAQ,Bluerock Acquisition Corp. - Units,Stock,True,2026-05-08,,,b0adb243
 BLRKW,NASDAQ,Bluerock Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,4d3e4750b237541283dd
 BLRX,NASDAQ,BioLineRx Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,973a4343a8e90ee753db
 BLSG,NASDAQ,Leverage Shares 2X Long BLSH Daily ETF,ETF,True,2026-05-08,,,cf4117c82c7ae01ede10
+BLSM,NASDAQ,"BlossomHill Therapeutics, Inc. - Common Stock",Stock,True,2026-08-07,,,29c0d4781e2d61618376
 BLTE,NASDAQ,"Belite Bio, Inc - American Depositary Shares",Stock,True,2026-05-08,,,9f3c56c2869a2f0a26b8
 BLUW,NASDAQ,Blue Water Acquisition Corp. III - Class A Ordinary Shares,Stock,True,2026-05-08,,,4ece4ffd3c2b8111b0a6
 BLUWU,NASDAQ,Blue Water Acquisition Corp. III - Unit.,Stock,True,2026-05-08,,,3d3559b51ad871e532be
@@ -1112,8 +1114,8 @@ BNR,NASDAQ,Burning Rock Biotech Limited - American Depositary Shares,Stock,True,
 BNRG,NASDAQ,Brenmiller Energy Ltd - Ordinary Shares,Stock,True,2026-05-08,,,dc5e1fa2ec509a01f271
 BNTC,NASDAQ,Benitec Biopharma Inc. - Common Stock,Stock,True,2026-05-08,,,d74ec3c33b982fcc34b6
 BNTX,NASDAQ,BioNTech SE - American Depositary Shares,Stock,True,2026-05-08,,,63b0539580fb4e52a8c2
-BNZI,NASDAQ,"Banzai International, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,4eb1d03db4a525f83a68
-BNZIW,NASDAQ,"Banzai International, Inc. - Warrant",Stock,True,2026-05-08,,,87c791a2e54cecf91a5a
+BNZI,NASDAQ,"Banzai International, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-08-07,Missing from current NASDAQ source snapshot; reason unavailable,4eb1d03db4a525f83a68
+BNZIW,NASDAQ,"Banzai International, Inc. - Warrant",Stock,False,2026-05-08,2026-08-07,Missing from current NASDAQ source snapshot; reason unavailable,87c791a2e54cecf91a5a
 BODI,NASDAQ,"The Beachbody Company, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,c8eb04e59882458f22a0
 BOEG,NASDAQ,Leverage Shares 2X Long BA Daily ETF,ETF,True,2026-05-08,,,3a68520c7137efdb73e8
 BOEU,NASDAQ,Direxion Daily BA Bull 2X ETF,ETF,True,2026-05-08,,,8a091db20f4c9012ef23
@@ -1187,6 +1189,7 @@ BSCW,NASDAQ,Invesco BulletShares 2032 Corporate Bond ETF,ETF,True,2026-05-08,,,1
 BSCX,NASDAQ,Invesco BulletShares 2033 Corporate Bond ETF,ETF,True,2026-05-08,,,e0a883cbca5f9cd72ca6
 BSCY,NASDAQ,Invesco BulletShares 2034 Corporate Bond ETF,ETF,True,2026-05-08,,,22f7da2c2dd36e27af14
 BSCZ,NASDAQ,Invesco BulletShares 2035 Corporate Bond ETF,ETF,True,2026-05-08,,,a38fd471365ae5431eab
+BSEM,NASDAQ,"BioStem Technologies, Inc. - Common Stock",Stock,True,2026-08-07,,,67b58b99ef9993a4c2b2
 BSET,NASDAQ,"Bassett Furniture Industries, Incorporated - Common Stock",Stock,True,2026-05-08,,,fba6f6be0f848082da9f
 BSGR,NASDAQ,Invesco BulletShares 2027 Treasury Bond ETF,ETF,True,2026-06-10,,,4a6def71c3b0c2e36e5b
 BSGT,NASDAQ,Invesco BulletShares 2029 Treasury Bond ETF,ETF,True,2026-06-10,,,a13ad91b8bc034ef0075
@@ -3503,6 +3506,7 @@ LSTA,NASDAQ,"Lisata Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,d
 LSTR,NASDAQ,"Landstar System, Inc. - Common Stock",Stock,True,2026-05-08,,,fb6ec514aecf2cdcdc13
 LTBR,NASDAQ,Lightbridge Corporation - Common Stock,Stock,True,2026-05-08,,,9524e8e95c21187aea7a
 LTCC,NASDAQ,Canary Litecoin ETF,ETF,True,2026-05-08,,,fc4503573f5049e83154
+LTGO,NASDAQ,"Latigo Biotherapeutics, Inc. - Common Stock",Stock,True,2026-08-07,,,d975e9e7f6255be269a8
 LTGR,NASDAQ,Long Table Growth Corp. - Class A Ordinary Shares,Stock,True,2026-07-28,,,73a8e687633dc76cc82c
 LTGRU,NASDAQ,Long Table Growth Corp. - Units,Stock,True,2026-06-04,,,4666bdf15610187d8cae
 LTGRW,NASDAQ,Long Table Growth Corp. - Warrants,Stock,True,2026-07-27,,,5adaa234c1e866d43440
@@ -4118,6 +4122,7 @@ OCCIN,NASDAQ,"OFS Credit Company, Inc. - 5.25% Series E Term Preferred Stock Due
 OCFC,NASDAQ,OceanFirst Financial Corp. - Common Stock,Stock,True,2026-05-08,,,52d8994363d1d5044ca8
 OCG,NASDAQ,Oriental Culture Holding LTD - Ordinary Shares,Stock,True,2026-05-08,,,e9dff292415f3384ce87
 OCGN,NASDAQ,"Ocugen, Inc. - Common Stock",Stock,True,2026-05-08,,,88d80fd6549401ecc141
+OCLTU,NASDAQ,OceanLight Acquisition Corporation - Units,Stock,True,2026-08-07,,,397ea873475c9dac44fa
 OCS,NASDAQ,Oculis Holding AG - Ordinary shares,Stock,True,2026-05-08,,,7e58c421064f6e89fb6a
 OCSAW,NASDAQ,Oculis Holding AG - Warrants,Stock,True,2026-05-08,,,6405cc9c61d6fe6f30d2
 OCSL,NASDAQ,Oaktree Specialty Lending Corporation - Closed End Fund,Stock,True,2026-05-08,,,d8aba94821d05bbdefca
@@ -4296,6 +4301,8 @@ PAMT,NASDAQ,PAMT CORP - Common Stock,Stock,True,2026-05-08,,,4ccaee67dd7ff903b7d
 PANG,NASDAQ,Leverage Shares 2X Long PANW Daily ETF,ETF,True,2026-05-08,,,4bd685df826a5b09b0a7
 PANL,NASDAQ,Pangaea Logistics Solutions Ltd. - Common Stock,Stock,True,2026-05-08,,,a99689c0e790f949be0e
 PANW,NASDAQ,"Palo Alto Networks, Inc. - Common Stock",Stock,True,2026-05-08,,,0777629d6b0f4aa319ab
+PARA,NASDAQ,"Banzai International, Inc. - Class A Common Stock",Stock,True,2026-08-07,,,4eb1d03db4a525f83a68
+PARAW,NASDAQ,"Banzai International, Inc. - Warrant",Stock,True,2026-08-07,,,87c791a2e54cecf91a5a
 PARK,NASDAQ,"Park Dental Partners, Inc. - Common Stock",Stock,True,2026-05-08,,,2df6a6d0970b07e1ffc9
 PASG,NASDAQ,"Passage Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,cb9f211f294dfd1774f2
 PASW,NASDAQ,"Ping An Biomedical Co., Ltd. - Ordinary Shares",Stock,False,2026-05-08,2026-06-09,Listing metadata changed,7f27c18439bfbfb5c8c3
@@ -4688,6 +4695,7 @@ QUMSR,NASDAQ,Quantumsphere Acquisition Corp. - Rights,Stock,True,2026-05-08,,,03
 QUMSU,NASDAQ,Quantumsphere Acquisition Corp. - Units,Stock,True,2026-05-08,,,2fc1029d063e4845b38f
 QURE,NASDAQ,uniQure N.V. - Ordinary Shares,Stock,True,2026-05-08,,,e91072e5717639926042
 QVAL,NASDAQ,Alpha Architect U.S. Quantitative Value ETF,ETF,True,2026-05-08,,,abc2a70de655618ecd4f
+QVC,NASDAQ,"QVC Group, Inc. - Common Stock",Stock,True,2026-08-07,,,19378d58d77a975c0bb1
 QVOL,NASDAQ,Infrastructure Capital Nasdaq Option Income ETF,ETF,True,2026-05-12,,,cf212bf2b0165ad42304
 QXL,NASDAQ,Quantum X Labs Inc. - Common Stock,Stock,True,2026-05-08,,,1d3058103c933e55a98b
 QXQ,NASDAQ,SGI Enhanced Nasdaq-100 ETF,ETF,True,2026-05-08,,,7395a4b55e48ab2d7125
@@ -6452,9 +6460,9 @@ AWK,NYSE,"American Water Works Company, Inc. Common Stock",Stock,True,2026-05-08
 AWP,NYSE,abrdn Global Premier Properties Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,17cddf9df483e12a5842
 AWR,NYSE,American States Water Company Common Stock,Stock,True,2026-05-08,,,b49f08b0e0ffc048959f
 AX,NYSE,"Axos Financial, Inc. Common Stock",Stock,True,2026-05-08,,,0dba814449ac92e63b99
-AXIA,NYSE,AXIA Energia American Depositary Shares (Each representing one Common Share),Stock,True,2026-05-08,,,102fdde792159b37dc4d
+AXIA,NYSE,AXIA Energia American Depositary Shares (Each representing one Common Share),Stock,False,2026-05-08,2026-08-07,Missing from current NYSE source snapshot; reason unavailable,102fdde792159b37dc4d
 AXIA$,NYSE,AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share),Stock,False,2026-05-08,2026-06-08,Missing from current NYSE source snapshot; reason unavailable,383a0cd63e2dd058ff86
-AXIA$C,NYSE,"AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",Stock,True,2026-05-08,,,db13aedc2cb0d9bd678b
+AXIA$C,NYSE,"AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",Stock,False,2026-05-08,2026-08-07,Missing from current NYSE source snapshot; reason unavailable,db13aedc2cb0d9bd678b
 AXP,NYSE,American Express Company Common Stock,Stock,True,2026-05-08,,,9a1a31ad8a937dba5b9c
 AXR,NYSE,AMREP Corporation Common Stock,Stock,True,2026-05-08,,,de7fe6221f046f141dff
 AXS,NYSE,Axis Capital Holdings Limited Common Stock,Stock,True,2026-05-08,,,72fc80a1f4ec988b6340
@@ -8365,6 +8373,7 @@ PMT$C,NYSE,PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemab
 PMTU,NYSE,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,Stock,True,2026-05-08,,,0873829a2b529fed67a3
 PMTV,NYSE,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,Stock,True,2026-05-08,,,6199ba839bb9804efbf4
 PMTW,NYSE,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,Stock,True,2026-05-08,,,6199ba839bb9804efbf4
+PNAQ.U,NYSE,"Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",Stock,True,2026-08-07,,,3de1c2d3e73c0637fe79
 PNC,NYSE,"PNC Financial Services Group, Inc. (The) Common Stock",Stock,True,2026-05-08,,,32384ad4e5e6984b59ff
 PNFP,NYSE,"Pinnacle Financial Partners, Inc. Common stock",Stock,True,2026-05-08,,,128bbfbf9e7d49a6edc4
 PNFP$A,NYSE,"Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",Stock,True,2026-05-08,,,07463e1540c1f5c20cb4

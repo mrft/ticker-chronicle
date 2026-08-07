@@ -250,8 +250,6 @@ NYSE,AWK,"American Water Works Company, Inc. Common Stock",Stock,,nasdaq_trader_
 NYSE,AWP,abrdn Global Premier Properties Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,AWR,American States Water Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AX,"Axos Financial, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,AXIA,AXIA Energia American Depositary Shares (Each representing one Common Share),Stock,,nasdaq_trader_symbol_directory
-NYSE,AXIA$C,"AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,AXP,American Express Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AXR,AMREP Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AXS,Axis Capital Holdings Limited Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2102,6 +2100,7 @@ NYSE,PMT$C,PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemab
 NYSE,PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,Stock,,nasdaq_trader_symbol_directory
 NYSE,PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,Stock,,nasdaq_trader_symbol_directory
 NYSE,PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,Stock,,nasdaq_trader_symbol_directory
+NYSE,PNAQ.U,"Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",Stock,,nasdaq_trader_symbol_directory
 NYSE,PNC,"PNC Financial Services Group, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PNFP,"Pinnacle Financial Partners, Inc. Common stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PNFP$A,"Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory

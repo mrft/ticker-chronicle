@@ -707,6 +707,7 @@ NASDAQ,BLRKU,Bluerock Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,BLRKW,Bluerock Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLRX,BioLineRx Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLSG,Leverage Shares 2X Long BLSH Daily ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BLSM,"BlossomHill Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLTE,"Belite Bio, Inc - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLUW,Blue Water Acquisition Corp. III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLUWU,Blue Water Acquisition Corp. III - Unit.,Stock,,nasdaq_trader_symbol_directory
@@ -741,8 +742,6 @@ NASDAQ,BNR,Burning Rock Biotech Limited - American Depositary Shares,Stock,,nasd
 NASDAQ,BNRG,Brenmiller Energy Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNTC,Benitec Biopharma Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNTX,BioNTech SE - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BNZI,"Banzai International, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BNZIW,"Banzai International, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BODI,"The Beachbody Company, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BOEG,Leverage Shares 2X Long BA Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BOEU,Direxion Daily BA Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
@@ -815,6 +814,7 @@ NASDAQ,BSCW,Invesco BulletShares 2032 Corporate Bond ETF,ETF,,nasdaq_trader_symb
 NASDAQ,BSCX,Invesco BulletShares 2033 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSCY,Invesco BulletShares 2034 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSCZ,Invesco BulletShares 2035 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BSEM,"BioStem Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSET,"Bassett Furniture Industries, Incorporated - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSGR,Invesco BulletShares 2027 Treasury Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSGT,Invesco BulletShares 2029 Treasury Bond ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3013,6 +3013,7 @@ NASDAQ,LSTA,"Lisata Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,LSTR,"Landstar System, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTBR,Lightbridge Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTCC,Canary Litecoin ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,LTGO,"Latigo Biotherapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTGR,Long Table Growth Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTGRU,Long Table Growth Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTGRW,Long Table Growth Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -3599,6 +3600,7 @@ NASDAQ,OCCIN,"OFS Credit Company, Inc. - 5.25% Series E Term Preferred Stock Due
 NASDAQ,OCFC,OceanFirst Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCG,Oriental Culture Holding LTD - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCGN,"Ocugen, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OCLTU,OceanLight Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCS,Oculis Holding AG - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCSAW,Oculis Holding AG - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCSL,Oaktree Specialty Lending Corporation - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
@@ -3766,6 +3768,8 @@ NASDAQ,PAMT,PAMT CORP - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PANG,Leverage Shares 2X Long PANW Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PANL,Pangaea Logistics Solutions Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PANW,"Palo Alto Networks, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PARA,"Banzai International, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PARAW,"Banzai International, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PARK,"Park Dental Partners, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PASG,"Passage Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PASW,"Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -4148,6 +4152,7 @@ NASDAQ,QUMSR,Quantumsphere Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbo
 NASDAQ,QUMSU,Quantumsphere Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QURE,uniQure N.V. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QVAL,Alpha Architect U.S. Quantitative Value ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QVC,"QVC Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QVOL,Infrastructure Capital Nasdaq Option Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QXL,Quantum X Labs Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QXQ,SGI Enhanced Nasdaq-100 ETF,ETF,,nasdaq_trader_symbol_directory
