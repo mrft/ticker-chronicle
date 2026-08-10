@@ -3273,7 +3273,7 @@ NASDAQ,MSFL,GraniteShares 2x Long MSFT Daily ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,MSFT,Microsoft Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSFU,Direxion Daily MSFT Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MSGM,Motorsport Games Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MSGY,Masonglory Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MSGY,Masonglory Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSLE,Satellos Bioscience Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSR,GraniteShares Autocallable MSTR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MSS,Maison Solutions Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3870,6 +3870,7 @@ NASDAQ,PHAT,"Phathom Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_
 NASDAQ,PHIO,Phio Pharmaceuticals Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PHO,Invesco Water Resources ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PHOE,Phoenix Asia Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PHOS,First Phosphate Corp. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PHUN,"Phunware, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PHVS,Pharvaris N.V. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PI,"Impinj, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4152,7 +4153,7 @@ NASDAQ,QUMSR,Quantumsphere Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbo
 NASDAQ,QUMSU,Quantumsphere Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QURE,uniQure N.V. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QVAL,Alpha Architect U.S. Quantitative Value ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,QVC,"QVC Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,QVCG,"QVC Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QVOL,Infrastructure Capital Nasdaq Option Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QXL,Quantum X Labs Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QXQ,SGI Enhanced Nasdaq-100 ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4688,7 +4689,6 @@ NASDAQ,SRRK,Scholar Rock Holding Corporation - Common Stock,Stock,,nasdaq_trader
 NASDAQ,SRTA,"Strata Critical Medical, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SRTS,"Sensus Healthcare, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SRZN,"Surrozen, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SRZNW,"Surrozen, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SSAC,SPACSphere Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SSACR,SPACSphere Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SSACU,SPACSphere Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -4733,7 +4733,6 @@ NASDAQ,STRL,"Sterling Infrastructure, Inc. - Common Stock",Stock,,nasdaq_trader_
 NASDAQ,STRO,"Sutro Biopharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STRR,"Star Equity Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STRRP,"Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,STRS,Stratus Properties Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STRT,STRATTEC SECURITY CORPORATION - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STRZ,Starz Entertainment Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STTK,"Shattuck Labs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5370,7 +5369,9 @@ NASDAQ,WIX,Wix.com Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WKEY,WISeKey International Holding Ltd - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WKHS,"Workhorse Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WKSP,"Worksport, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,WLCO,Wilco 63 Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WLCOU,Wilco 63 Corporation - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,WLCOW,Wilco 63 Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WLDN,"Willdan Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WLDS,Wearable Devices Ltd. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WLDSW,Wearable Devices Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -5419,7 +5420,7 @@ NASDAQ,WTMU,WisdomTree Core Laddered Municipal Fund,ETF,,nasdaq_trader_symbol_di
 NASDAQ,WTMY,WisdomTree High Income Laddered Municipal Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WTW,Willis Towers Watson Public Limited Company - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WULF,TeraWulf Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WVE,Wave Life Sciences Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,WVE,"Wave Life Sciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WVVI,"Willamette Valley Vineyards, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WVVIP,"Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WW,"WW International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory

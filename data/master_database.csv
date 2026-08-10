@@ -3781,7 +3781,8 @@ MSFL,NASDAQ,GraniteShares 2x Long MSFT Daily ETF,ETF,True,2026-05-08,,,e67153b91
 MSFT,NASDAQ,Microsoft Corporation - Common Stock,Stock,True,2026-05-08,,,6535a05d361395394a17
 MSFU,NASDAQ,Direxion Daily MSFT Bull 2X ETF,ETF,True,2026-05-08,,,b483c72b821405a8ab95
 MSGM,NASDAQ,Motorsport Games Inc. - Class A Common Stock,Stock,True,2026-05-08,,,d55b207b65549f8dd6b9
-MSGY,NASDAQ,Masonglory Limited - Ordinary Shares,Stock,True,2026-05-08,,,8e7a1d5791e1e0276e35
+MSGY,NASDAQ,Masonglory Limited - Ordinary Shares,Stock,False,2026-05-08,2026-08-10,Listing metadata changed,8e7a1d5791e1e0276e35
+MSGY,NASDAQ,Masonglory Limited - Class A Ordinary Shares,Stock,True,2026-08-10,,,32e9b0221a308e9352d6
 MSLE,NASDAQ,Satellos Bioscience Inc. - Common Stock,Stock,True,2026-05-08,,,baa65de07622a9f6174b
 MSR,NASDAQ,GraniteShares Autocallable MSTR ETF,ETF,True,2026-05-13,,,f0f8ec7c3de78b9ef508
 MSS,NASDAQ,Maison Solutions Inc. - Class A Common Stock,Stock,True,2026-05-08,,,eca3b2dc47f4671f4ef2
@@ -4405,6 +4406,7 @@ PHAT,NASDAQ,"Phathom Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08
 PHIO,NASDAQ,Phio Pharmaceuticals Corp. - Common Stock,Stock,True,2026-05-08,,,986b9ac28276bf098529
 PHO,NASDAQ,Invesco Water Resources ETF,ETF,True,2026-05-08,,,812caacaff3c91ff763b
 PHOE,NASDAQ,Phoenix Asia Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,00bcb873ea0e01c4687c
+PHOS,NASDAQ,First Phosphate Corp. - American Depositary Shares,Stock,True,2026-08-10,,,398c382b1cf622409303
 PHUN,NASDAQ,"Phunware, Inc. - Common Stock",Stock,True,2026-05-08,,,8cece775bc469fa2a1b9
 PHVS,NASDAQ,Pharvaris N.V. - Ordinary Shares,Stock,True,2026-05-08,,,89f6761949dd8ac8814d
 PI,NASDAQ,"Impinj, Inc. - Common Stock",Stock,True,2026-05-08,,,0f01860987eb6b06aab3
@@ -4695,7 +4697,8 @@ QUMSR,NASDAQ,Quantumsphere Acquisition Corp. - Rights,Stock,True,2026-05-08,,,03
 QUMSU,NASDAQ,Quantumsphere Acquisition Corp. - Units,Stock,True,2026-05-08,,,2fc1029d063e4845b38f
 QURE,NASDAQ,uniQure N.V. - Ordinary Shares,Stock,True,2026-05-08,,,e91072e5717639926042
 QVAL,NASDAQ,Alpha Architect U.S. Quantitative Value ETF,ETF,True,2026-05-08,,,abc2a70de655618ecd4f
-QVC,NASDAQ,"QVC Group, Inc. - Common Stock",Stock,True,2026-08-07,,,19378d58d77a975c0bb1
+QVC,NASDAQ,"QVC Group, Inc. - Common Stock",Stock,False,2026-08-07,2026-08-10,Missing from current NASDAQ source snapshot; reason unavailable,19378d58d77a975c0bb1
+QVCG,NASDAQ,"QVC Group, Inc. - Common Stock",Stock,True,2026-08-10,,,19378d58d77a975c0bb1
 QVOL,NASDAQ,Infrastructure Capital Nasdaq Option Income ETF,ETF,True,2026-05-12,,,cf212bf2b0165ad42304
 QXL,NASDAQ,Quantum X Labs Inc. - Common Stock,Stock,True,2026-05-08,,,1d3058103c933e55a98b
 QXQ,NASDAQ,SGI Enhanced Nasdaq-100 ETF,ETF,True,2026-05-08,,,7395a4b55e48ab2d7125
@@ -5257,7 +5260,7 @@ SRRK,NASDAQ,Scholar Rock Holding Corporation - Common Stock,Stock,True,2026-05-0
 SRTA,NASDAQ,"Strata Critical Medical, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,5187115792d01903e9a0
 SRTS,NASDAQ,"Sensus Healthcare, Inc. - Common Stock",Stock,True,2026-05-08,,,faeff40f75633351230b
 SRZN,NASDAQ,"Surrozen, Inc. - Common Stock",Stock,True,2026-05-08,,,11b1dc1fe6ee2199672d
-SRZNW,NASDAQ,"Surrozen, Inc. - Warrant",Stock,True,2026-05-08,,,1d49557f9f92dfa01488
+SRZNW,NASDAQ,"Surrozen, Inc. - Warrant",Stock,False,2026-05-08,2026-08-10,Missing from current NASDAQ source snapshot; reason unavailable,1d49557f9f92dfa01488
 SSAC,NASDAQ,SPACSphere Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,25255e5808c241a7b344
 SSACR,NASDAQ,SPACSphere Acquisition Corp. - Rights,Stock,True,2026-05-08,,,5ab06b1d6b3b79885f72
 SSACU,NASDAQ,SPACSphere Acquisition Corp. - Unit,Stock,True,2026-05-08,,,c36b6126027d693cbaa8
@@ -5306,7 +5309,7 @@ STRL,NASDAQ,"Sterling Infrastructure, Inc. - Common Stock",Stock,True,2026-05-08
 STRO,NASDAQ,"Sutro Biopharma, Inc. - Common Stock",Stock,True,2026-05-08,,,ce9a28d88cdd5928d773
 STRR,NASDAQ,"Star Equity Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,f63bd5d5bf7d20eb0670
 STRRP,NASDAQ,"Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,2928208060a445bfa18b
-STRS,NASDAQ,Stratus Properties Inc. - Common Stock,Stock,True,2026-05-08,,,0f6fb443dcfe84266ac8
+STRS,NASDAQ,Stratus Properties Inc. - Common Stock,Stock,False,2026-05-08,2026-08-10,Missing from current NASDAQ source snapshot; reason unavailable,0f6fb443dcfe84266ac8
 STRT,NASDAQ,STRATTEC SECURITY CORPORATION - Common Stock,Stock,True,2026-05-08,,,3e9804f6c689ad9daa23
 STRZ,NASDAQ,Starz Entertainment Corp. - Common Shares,Stock,True,2026-05-08,,,e952147d3c8c22a8623a
 STSS,NASDAQ,Sharps Technology Inc. - Common Stock,Stock,False,2026-05-08,2026-05-28,Missing from current NASDAQ source snapshot; reason unavailable,c934c518c8ba3f7a521a
@@ -5986,7 +5989,9 @@ WKSP,NASDAQ,"Worksport, Ltd. - Common Stock",Stock,True,2026-05-08,,,1416c024d5c
 WLAC,NASDAQ,Willow Lane Acquisition Corp. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,cf1b17885e08e5162941
 WLACU,NASDAQ,Willow Lane Acquisition Corp. - Unit,Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,e1e320a7e1b025d31c00
 WLACW,NASDAQ,Willow Lane Acquisition Corp. - Warrants,Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,9233a5038916587ea404
+WLCO,NASDAQ,Wilco 63 Corporation - Class A Ordinary Shares,Stock,True,2026-08-10,,,a2852c8277173c3cce07
 WLCOU,NASDAQ,Wilco 63 Corporation - Units,Stock,True,2026-06-18,,,a66640d2745fbd9a8063
+WLCOW,NASDAQ,Wilco 63 Corporation - Warrant,Stock,True,2026-08-10,,,687c68afc71edfa09d48
 WLDN,NASDAQ,"Willdan Group, Inc. - Common Stock",Stock,True,2026-05-08,,,0dd2f15510cda0ad6df9
 WLDS,NASDAQ,Wearable Devices Ltd. - Ordinary Share,Stock,True,2026-05-08,,,b3cd94eeb70735d63ccb
 WLDSW,NASDAQ,Wearable Devices Ltd. - Warrant,Stock,True,2026-05-08,,,2c9f25e85a15904d629b
@@ -6036,7 +6041,8 @@ WTMY,NASDAQ,WisdomTree High Income Laddered Municipal Fund,ETF,True,2026-05-08,,
 WTO,NASDAQ,UTime Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-02,Missing from current NASDAQ source snapshot; reason unavailable,e5fa4f940b08c7776937
 WTW,NASDAQ,Willis Towers Watson Public Limited Company - Ordinary Shares,Stock,True,2026-05-08,,,ddfecea03f764cc6fb7b
 WULF,NASDAQ,TeraWulf Inc. - Common Stock,Stock,True,2026-05-08,,,a7cb26d3ff159724319a
-WVE,NASDAQ,Wave Life Sciences Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,54ee4faf318b5d22852d
+WVE,NASDAQ,Wave Life Sciences Ltd. - Ordinary Shares,Stock,False,2026-05-08,2026-08-10,Listing metadata changed,54ee4faf318b5d22852d
+WVE,NASDAQ,"Wave Life Sciences, Inc. - Common Stock",Stock,True,2026-08-10,,,7a5ad594aa3d5a6d1a49
 WVVI,NASDAQ,"Willamette Valley Vineyards, Inc. - Common Stock",Stock,True,2026-05-08,,,1d74314894a62024cbb8
 WVVIP,NASDAQ,"Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock",Stock,True,2026-05-08,,,e6b3cde462e566e0406b
 WW,NASDAQ,"WW International, Inc. - Common Stock",Stock,True,2026-05-08,,,79d85fbc8966004a7412
@@ -7242,7 +7248,7 @@ FCRS,NYSE,FutureCrest Acquisition Corp. Class A Ordinary Shares,Stock,True,2026-
 FCRS.U,NYSE,"FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",Stock,True,2026-05-08,,,99c8024149b76069f5bf
 FCRS.W,NYSE,"FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,True,2026-05-08,,,ffc695abdb8a044634e3
 FCRX,NYSE,"Crescent Capital BDC, Inc. 5.00% Notes due 2026",Stock,False,2026-05-08,2026-05-26,Missing from current NYSE source snapshot; reason unavailable,4bf99cc6cd26b70560b4
-FCT,NYSE,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,8ccf42a9cc7bd7c9bae0
+FCT,NYSE,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,Stock,False,2026-05-08,2026-08-10,Missing from current NYSE source snapshot; reason unavailable,8ccf42a9cc7bd7c9bae0
 FCX,NYSE,"Freeport-McMoRan, Inc. Common Stock",Stock,True,2026-05-08,,,d6189ae9e5949d1000fe
 FDP,NYSE,"Fresh Del Monte Produce, Inc. Common Stock",Stock,False,2026-05-08,2026-06-09,Listing metadata changed,1fe6b843d48be486e9ce
 FDP,NYSE,Del Monte Corporation Ordinary Shares,Stock,False,2026-06-09,2026-06-29,Missing from current NYSE source snapshot; reason unavailable,40fa7521211a1037b90f
@@ -7356,6 +7362,7 @@ GBCI,NYSE,"Glacier Bancorp, Inc. Common Stock",Stock,True,2026-05-08,,,fd81f398b
 GBTG,NYSE,"Global Business Travel Group, Inc. Class A Common Stock",Stock,True,2026-05-08,,,cc71eed865c42cb4d9a9
 GBX,NYSE,"Greenbrier Companies, Inc. (The) Common Stock",Stock,True,2026-05-08,,,ad557d216f88b7fcc6f2
 GCO,NYSE,Genesco Inc. Common Stock,Stock,True,2026-05-08,,,ea04955b7bef44152b52
+GCPB,NYSE,Goldman Sachs Core Plus Bond ETF,ETF,True,2026-08-10,,,d6d19f6b768190b7ba71
 GCTS,NYSE,"GCT Semiconductor Holding, Inc. Common Stock",Stock,True,2026-05-08,,,7551b94c668ecd55e06d
 GCTS.W,NYSE,"GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",Stock,True,2026-05-08,,,1bbf3a17e1cf961c8f3d
 GCV,NYSE,"Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock",Stock,True,2026-05-08,,,565468357a445fdfb975
@@ -7689,7 +7696,7 @@ JMKE,NYSE,Jersey Mike's Subs Inc. Class A Common Stock,Stock,True,2026-07-30,,,2
 JMM,NYSE,Nuveen Multi-Market Income Fund (MA),Stock,True,2026-05-08,,,a1c3d7b73619135ee131
 JNJ,NYSE,Johnson & Johnson Common Stock,Stock,True,2026-05-08,,,2dde0731c05e0e0aa1a3
 JOBY,NYSE,"Joby Aviation, Inc. Common Stock",Stock,True,2026-05-08,,,53d7b0ca7323bed9a2a1
-JOBY.W,NYSE,"Joby Aviation, Inc. Warrants",Stock,True,2026-05-08,,,3677f03474b33d4fcb21
+JOBY.W,NYSE,"Joby Aviation, Inc. Warrants",Stock,False,2026-05-08,2026-08-10,Missing from current NYSE source snapshot; reason unavailable,3677f03474b33d4fcb21
 JOE,NYSE,St. Joe Company (The) Common Stock,Stock,True,2026-05-08,,,1abeefa70f01079c92aa
 JOF,NYSE,Japan Smaller Capitalization Fund Inc Common Stock,Stock,True,2026-05-08,,,e7e64f5f116998d307e4
 JPC,NYSE,Nuveen Preferred & Income Opportunities Fund,Stock,True,2026-05-08,,,9e567e6006792a6238e1

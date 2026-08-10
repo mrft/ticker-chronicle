@@ -1006,7 +1006,6 @@ NYSE,FCPT,"Four Corners Property Trust, Inc. Common Stock",Stock,,nasdaq_trader_
 NYSE,FCRS,FutureCrest Acquisition Corp. Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,FCRS.U,"FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
 NYSE,FCRS.W,"FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
-NYSE,FCT,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,FCX,"Freeport-McMoRan, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FDS,FactSet Research Systems Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FDX,FedEx Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1115,6 +1114,7 @@ NYSE,GBCI,"Glacier Bancorp, Inc. Common Stock",Stock,,nasdaq_trader_symbol_direc
 NYSE,GBTG,"Global Business Travel Group, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GBX,"Greenbrier Companies, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GCO,Genesco Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,GCPB,Goldman Sachs Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,GCTS,"GCT Semiconductor Holding, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GCTS.W,"GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NYSE,GCV,"Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1441,7 +1441,6 @@ NYSE,JMKE,Jersey Mike's Subs Inc. Class A Common Stock,Stock,,nasdaq_trader_symb
 NYSE,JMM,Nuveen Multi-Market Income Fund (MA),Stock,,nasdaq_trader_symbol_directory
 NYSE,JNJ,Johnson & Johnson Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,JOBY,"Joby Aviation, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,JOBY.W,"Joby Aviation, Inc. Warrants",Stock,,nasdaq_trader_symbol_directory
 NYSE,JOE,St. Joe Company (The) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,JOF,Japan Smaller Capitalization Fund Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,JPC,Nuveen Preferred & Income Opportunities Fund,Stock,,nasdaq_trader_symbol_directory
