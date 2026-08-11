@@ -59,7 +59,7 @@ CLDI,AMEX,"Calidi Biotherapeutics, Inc. Common Stock",Stock,True,2026-05-08,,,4d
 CLM,AMEX,"Cornerstone Strategic Investment Fund, Inc. Common Shares",Stock,True,2026-05-08,,,d5d131764df595e692c3
 CMCL,AMEX,Caledonia Mining Corporation Plc Common Shares,Stock,True,2026-05-08,,,2574930b9c85d430e865
 CMT,AMEX,Core Molding Technologies Inc Common Stock,Stock,True,2026-05-08,,,f3b220383040756d55f1
-CNL,AMEX,Collective Mining Ltd. Common Shares,Stock,True,2026-05-08,,,67b420956106b871d7ba
+CNL,AMEX,Collective Mining Ltd. Common Shares,Stock,False,2026-05-08,2026-08-11,Missing from current AMEX source snapshot; reason unavailable,67b420956106b871d7ba
 COE,AMEX,"51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares",Stock,True,2026-05-08,,,d51c5f51353a4d1ade73
 COHN,AMEX,Cohen & Company Inc.,Stock,True,2026-05-08,,,799bd2fdf56f907708d3
 COPR,AMEX,Idaho Copper Corporation Common Stock,Stock,True,2026-07-02,,,044e099b01d890ccc137
@@ -1540,6 +1540,7 @@ CNCKW,NASDAQ,Coincheck Group N.V. - Warrants,Stock,True,2026-05-08,,,7a3ac5cab7b
 CNDT,NASDAQ,Conduent Incorporated - Common Stock,Stock,True,2026-05-08,,,bb89c68ddd96ee552c35
 CNET,NASDAQ,ZW Data Action Technologies Inc. - Common Stock,Stock,True,2026-05-08,,,2e19d1c7d4ce4a992022
 CNEY,NASDAQ,CN Energy Group Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,b66b74bbbfbda61fd31c
+CNL,NASDAQ,Collective Mining Ltd. - Common Stock,Stock,True,2026-08-11,,,111c3cbbee60e59863f0
 CNOB,NASDAQ,"ConnectOne Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,b018923518802cbe2de9
 CNOBP,NASDAQ,"ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)",Stock,True,2026-05-08,,,294793be9884e6c06de4
 CNQQ,NASDAQ,Rayliant-ChinaAMC Transformative China Tech ETF,ETF,True,2026-05-08,,,7fa529b4a63749c86c8a
@@ -6608,7 +6609,7 @@ BKH,NYSE,Black Hills Corporation Common Stock,Stock,True,2026-05-08,,,cc278015f1
 BKKT,NYSE,"Bakkt, Inc. Class A Common Stock",Stock,True,2026-05-08,,,7d3f1eae9cdda56565e3
 BKKT.W,NYSE,"Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share",Stock,True,2026-05-08,,,d6eb45a90ce3809132d1
 BKSY,NYSE,BlackSky Technology Inc. Class A Common Stock,Stock,True,2026-05-08,,,88b3fc170db156f6f641
-BKSY.W,NYSE,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",Stock,True,2026-05-08,,,2fb7a0a42fe1017a30b7
+BKSY.W,NYSE,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",Stock,False,2026-05-08,2026-08-11,Missing from current NYSE source snapshot; reason unavailable,2fb7a0a42fe1017a30b7
 BKT,NYSE,BlackRock Income Trust Inc. (The),Stock,True,2026-05-08,,,8899c6c1c4262d8cab32
 BKU,NYSE,"BankUnited, Inc. Common Stock",Stock,True,2026-05-08,,,80e044a9ff9c1276e4ad
 BKV,NYSE,BKV Corporation Common Stock,Stock,True,2026-05-08,,,540428236c5b2f7b9c80
