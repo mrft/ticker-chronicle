@@ -3221,7 +3221,6 @@ NASDAQ,MNSBP,"MainStreet Bancshares, Inc. - Depositary Shares",Stock,,nasdaq_tra
 NASDAQ,MNST,Monster Beverage Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MNTK,"Montauk Renewables, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MNTS,Momentus Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MNTSW,Momentus Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MNVT,Moonvest ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MNY,MoneyHero Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MNYWW,MoneyHero Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -3241,6 +3240,7 @@ NASDAQ,MOVE,"Corvex, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MPAA,"Motorcar Parts of America, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MPB,Mid Penn Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MPG,Leverage Shares 2X Long MP Daily ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,MPIA,m+ Nasdaq-100 Accelerator Autocall ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MPLT,"MapLight Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MPWR,"Monolithic Power Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MQ,"Marqeta, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3534,7 +3534,6 @@ NASDAQ,NUG,Leverage Shares 2X Long NU Daily ETF,ETF,,nasdaq_trader_symbol_direct
 NASDAQ,NUGY,GraniteShares YieldBOOST Gold Miners ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUIF,Nuveen US Infrastructure ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUSB,Nuveen Ultra Short Income ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,NUTR,Nusatrip Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUTX,Nutex Health Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUWE,"Nuwellis, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVAX,"Novavax, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3892,6 +3891,8 @@ NASDAQ,PLBC,Plumas Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLBL,Polibeli Group Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLBY,"Playboy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLCE,"Children's Place, Inc. (The) - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PLCI,Pelican Acquisition II Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PLCIR,Pelican Acquisition II Corporation - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLCIU,Pelican Acquisition II Corporation - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLMK,Plum Acquisition Corp. IV - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLMKU,Plum Acquisition Corp. IV - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -4897,7 +4898,7 @@ NASDAQ,TILE,"Interface, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directo
 NASDAQ,TIPT,Tiptree Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TISC,Thrivent International Small Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TITN,Titan Machinery Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,TJGC,TJGC Group Limited - ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TJGC,TJGC Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TKLF,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TKNO,"Alpha Teknova, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TKNS,21Shares Active Crypto ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5258,6 +5259,7 @@ NASDAQ,VNMEW,Vendome Acquisition Corporation I - Warrant,Stock,,nasdaq_trader_sy
 NASDAQ,VNOM,"Viper Energy, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VNQI,Vanguard Global ex-U.S. Real Estate ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VOD,Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VOGX,Vogenx Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VOLT,Tema Electrification ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VONE,Vanguard Russell 1000 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VONG,Vanguard Russell 1000 Growth ETF,ETF,,nasdaq_trader_symbol_directory

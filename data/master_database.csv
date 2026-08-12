@@ -279,6 +279,7 @@ SLND,AMEX,"Southland Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,70add7
 SLND.W,AMEX,"Southland Holdings, Inc. Warrants",Stock,True,2026-05-08,,,8e3d399e1d955a163914
 SLSR,AMEX,Solaris Resources Inc. Common Shares,Stock,True,2026-05-08,,,bffe8e83ad5a8ebce334
 SMJF,AMEX,SMJ International Holdings Inc. Class A Ordinary Shares,Stock,True,2026-05-08,,,433cb35e27e3f8604ecd
+SNSC,AMEX,SunScout Holding Limited Class A Ordinary Shares,Stock,True,2026-08-12,,,166a8f322782296cf11c
 SOAR,AMEX,"Volato Group, Inc. Class A Common Stock",Stock,True,2026-05-08,,,95bba1602dc77e156914
 SRXH,AMEX,"SRX Health Solutions, Inc. Common Stock",Stock,False,2026-05-08,2026-06-29,Listing metadata changed,40d0e565a81f453bcfe7
 SRXH,AMEX,SRX Global Inc. Common Stock,Stock,True,2026-06-29,,,0a69ab7cb4c053e8028e
@@ -3727,7 +3728,7 @@ MNSBP,NASDAQ,"MainStreet Bancshares, Inc. - Depositary Shares",Stock,True,2026-0
 MNST,NASDAQ,Monster Beverage Corporation - Common Stock,Stock,True,2026-05-08,,,76f9248baa86acd72cd5
 MNTK,NASDAQ,"Montauk Renewables, Inc. - Common Stock",Stock,True,2026-05-08,,,2990a16f6c57f3322f28
 MNTS,NASDAQ,Momentus Inc. - Class A Common Stock,Stock,True,2026-05-08,,,91bcb2e0a59613f71d08
-MNTSW,NASDAQ,Momentus Inc. - Warrant,Stock,True,2026-05-08,,,b0bc4fd91165275b1512
+MNTSW,NASDAQ,Momentus Inc. - Warrant,Stock,False,2026-05-08,2026-08-12,Missing from current NASDAQ source snapshot; reason unavailable,b0bc4fd91165275b1512
 MNVT,NASDAQ,Moonvest ETF,ETF,True,2026-05-08,,,5a15b377599c773afab2
 MNY,NASDAQ,MoneyHero Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,bb871e531a7b3497a9e7
 MNYWW,NASDAQ,MoneyHero Limited - Warrants,Stock,True,2026-05-08,,,5474bd081f6ba0aa88a5
@@ -3747,6 +3748,7 @@ MOVE,NASDAQ,"Corvex, Inc. - Common Stock",Stock,True,2026-05-08,,,1a3de0abf7e601
 MPAA,NASDAQ,"Motorcar Parts of America, Inc. - Common Stock",Stock,True,2026-05-08,,,954371330efe22603485
 MPB,NASDAQ,Mid Penn Bancorp - Common Stock,Stock,True,2026-05-08,,,d10f832d8f72056854fa
 MPG,NASDAQ,Leverage Shares 2X Long MP Daily ETF,ETF,True,2026-05-08,,,55f95378eed1e9177268
+MPIA,NASDAQ,m+ Nasdaq-100 Accelerator Autocall ETF,ETF,True,2026-08-12,,,2c942abd0cbec2ab1ac7
 MPLT,NASDAQ,"MapLight Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,3454ece51cd41843e853
 MPWR,NASDAQ,"Monolithic Power Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,eecfebaa59f23fa289a3
 MQ,NASDAQ,"Marqeta, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,55b900ccbe0a70585280
@@ -4051,7 +4053,7 @@ NUG,NASDAQ,Leverage Shares 2X Long NU Daily ETF,ETF,True,2026-05-08,,,8a2ceee990
 NUGY,NASDAQ,GraniteShares YieldBOOST Gold Miners ETF,ETF,True,2026-05-08,,,76a3c391fc79e7a8c6e9
 NUIF,NASDAQ,Nuveen US Infrastructure ETF,ETF,True,2026-06-18,,,f6235b303af7d048ba5b
 NUSB,NASDAQ,Nuveen Ultra Short Income ETF,ETF,True,2026-05-08,,,0e6d00e395bf018f193a
-NUTR,NASDAQ,Nusatrip Incorporated - Common Stock,Stock,True,2026-05-08,,,b7d657eec10068b6ec78
+NUTR,NASDAQ,Nusatrip Incorporated - Common Stock,Stock,False,2026-05-08,2026-08-12,Missing from current NASDAQ source snapshot; reason unavailable,b7d657eec10068b6ec78
 NUTX,NASDAQ,Nutex Health Inc. - Common Stock,Stock,True,2026-05-08,,,06a0a8a5a6ad808c1831
 NUVL,NASDAQ,"Nuvalent, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-07-16,Missing from current NASDAQ source snapshot; reason unavailable,305e07cfc35321edf789
 NUWE,NASDAQ,"Nuwellis, Inc. - Common Stock",Stock,True,2026-05-08,,,90f300d8b68aa4c6fd2c
@@ -4428,6 +4430,8 @@ PLBC,NASDAQ,Plumas Bancorp - Common Stock,Stock,True,2026-05-08,,,cc194dc8dad9e1
 PLBL,NASDAQ,Polibeli Group Ltd - Class A Ordinary Shares,Stock,True,2026-05-08,,,a3129e6748feedb6317e
 PLBY,NASDAQ,"Playboy, Inc. - Common Stock",Stock,True,2026-05-08,,,8104d943bd4f4d70f2ff
 PLCE,NASDAQ,"Children's Place, Inc. (The) - Common Stock",Stock,True,2026-05-08,,,7fa9404d42535b56eb3b
+PLCI,NASDAQ,Pelican Acquisition II Corporation - Ordinary Shares,Stock,True,2026-08-12,,,2dce67ca20267b83e6fc
+PLCIR,NASDAQ,Pelican Acquisition II Corporation - Right,Stock,True,2026-08-12,,,9e0fd0d64ceaca344c93
 PLCIU,NASDAQ,Pelican Acquisition II Corporation - Unit,Stock,True,2026-07-24,,,a5225c9776ed07978ef3
 PLMK,NASDAQ,Plum Acquisition Corp. IV - Class A Ordinary Shares,Stock,True,2026-05-08,,,bd2b9f3e784118abc320
 PLMKU,NASDAQ,Plum Acquisition Corp. IV - Unit,Stock,True,2026-05-08,,,6e53e3a1040bb2260cd5
@@ -5486,7 +5490,8 @@ TILE,NASDAQ,"Interface, Inc. - Common Stock",Stock,True,2026-05-08,,,e1f8d80b503
 TIPT,NASDAQ,Tiptree Inc. - Common Stock,Stock,True,2026-05-08,,,5bbf2c721bae70a8cfc3
 TISC,NASDAQ,Thrivent International Small Cap ETF,ETF,True,2026-06-15,,,4703a5c9f6112e1f6bed
 TITN,NASDAQ,Titan Machinery Inc. - Common Stock,Stock,True,2026-05-08,,,99581d13698404912cf3
-TJGC,NASDAQ,TJGC Group Limited - ordinary shares,Stock,True,2026-05-08,,,150f3e92dab7efacd5f2
+TJGC,NASDAQ,TJGC Group Limited - ordinary shares,Stock,False,2026-05-08,2026-08-12,Listing metadata changed,150f3e92dab7efacd5f2
+TJGC,NASDAQ,TJGC Group Limited - Class A Ordinary Shares,Stock,True,2026-08-12,,,d9ae8a435e95e0ec7282
 TKLF,NASDAQ,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",Stock,True,2026-05-08,,,c883c69efb086e896f81
 TKNO,NASDAQ,"Alpha Teknova, Inc. - Common Stock",Stock,True,2026-05-08,,,3f2d3f38fe62ecb13f77
 TKNS,NASDAQ,21Shares Active Crypto ETF,ETF,True,2026-05-14,,,2057e99454c177ccfddd
@@ -5868,6 +5873,7 @@ VNMEW,NASDAQ,Vendome Acquisition Corporation I - Warrant,Stock,True,2026-05-08,,
 VNOM,NASDAQ,"Viper Energy, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1eb3a9ac71a4ea645260
 VNQI,NASDAQ,Vanguard Global ex-U.S. Real Estate ETF,ETF,True,2026-05-08,,,83405169b6d256ef8601
 VOD,NASDAQ,Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares,Stock,True,2026-05-08,,,18591878326700860e0c
+VOGX,NASDAQ,Vogenx Inc - Common Stock,Stock,True,2026-08-12,,,f238c44b3e3f0b7a8254
 VOLT,NASDAQ,Tema Electrification ETF,ETF,True,2026-05-08,,,25ef2da340f725fb939a
 VONE,NASDAQ,Vanguard Russell 1000 ETF,ETF,True,2026-05-08,,,849ee71018ec5c2aa892
 VONG,NASDAQ,Vanguard Russell 1000 Growth ETF,ETF,True,2026-05-08,,,ab3df4e5010adb884b7f
@@ -7314,6 +7320,7 @@ FNF,NYSE,"Fidelity National Financial, Inc. Common Stock",Stock,True,2026-05-08,
 FNV,NYSE,Franco-Nevada Corporation,Stock,True,2026-05-08,,,343da5c0f2360847786f
 FOA,NYSE,Finance of America Companies Inc. Class A Common Stock,Stock,True,2026-05-08,,,52e1a54c95738090f3d9
 FOF,NYSE,"Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock",Stock,True,2026-05-08,,,c651b449878a625e2b9f
+FOIL,NYSE,"Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five Ordinary Shares",Stock,True,2026-08-12,,,6b70a7027cf6e9aa865d
 FOR,NYSE,Forestar Group Inc Common Stock,Stock,True,2026-05-08,,,9246999f9076e51e2824
 FOUR,NYSE,"Shift4 Payments, Inc. Class A Common Stock",Stock,True,2026-05-08,,,759c5ddfc18f5a3e0459
 FOUR$A,NYSE,"Shift4 Payments, Inc. 6.00% Series A Mandatory Convertible Preferred Stock",Stock,True,2026-05-08,,,bb952f34cf7beb8d6ada
@@ -7898,8 +7905,8 @@ MDA,NYSE,MDA Space Ltd. Common Shares,Stock,True,2026-05-08,,,1b5832dcf8e38377cb
 MDST,NYSE,Westwood Salient Enhanced Midstream Income ETF,ETF,True,2026-05-08,,,66607f14f8535f943679
 MDT,NYSE,Medtronic plc. Ordinary Shares,Stock,True,2026-05-08,,,f3fdda8e69e1c7b4ab1b
 MDU,NYSE,"MDU Resources Group, Inc. Common Stock (Holding Company)",Stock,True,2026-05-08,,,c06ad3f8129686f10d9d
-MDV,NYSE,"Modiv Industrial, Inc. Class C Common Stock",Stock,True,2026-05-08,,,974d5da7b15d6dcb47c7
-MDV$A,NYSE,"Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,True,2026-05-08,,,30c2920b17f710b240f8
+MDV,NYSE,"Modiv Industrial, Inc. Class C Common Stock",Stock,False,2026-05-08,2026-08-12,Missing from current NYSE source snapshot; reason unavailable,974d5da7b15d6dcb47c7
+MDV$A,NYSE,"Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,False,2026-05-08,2026-08-12,Missing from current NYSE source snapshot; reason unavailable,30c2920b17f710b240f8
 MEC,NYSE,"Mayville Engineering Company, Inc. Common Stock",Stock,True,2026-05-08,,,20dfdaa6af8b0e0ceb98
 MED,NYSE,MEDIFAST INC Common Stock,Stock,True,2026-05-08,,,b24ac4a7be9626cdc8de
 MEGI,NYSE,NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares,Stock,True,2026-05-08,,,04f97eb450dcae9bfb59

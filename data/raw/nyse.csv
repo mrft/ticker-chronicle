@@ -1064,6 +1064,7 @@ NYSE,FNF,"Fidelity National Financial, Inc. Common Stock",Stock,,nasdaq_trader_s
 NYSE,FNV,Franco-Nevada Corporation,Stock,,nasdaq_trader_symbol_directory
 NYSE,FOA,Finance of America Companies Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FOF,"Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,FOIL,"Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,FOR,Forestar Group Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,FOUR,"Shift4 Payments, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,FOUR$A,"Shift4 Payments, Inc. 6.00% Series A Mandatory Convertible Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1633,8 +1634,6 @@ NYSE,MDA,MDA Space Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,MDST,Westwood Salient Enhanced Midstream Income ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,MDT,Medtronic plc. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,MDU,"MDU Resources Group, Inc. Common Stock (Holding Company)",Stock,,nasdaq_trader_symbol_directory
-NYSE,MDV,"Modiv Industrial, Inc. Class C Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,MDV$A,"Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MEC,"Mayville Engineering Company, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MED,MEDIFAST INC Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MEGI,NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares,Stock,,nasdaq_trader_symbol_directory
