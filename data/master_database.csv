@@ -110,7 +110,8 @@ FTF,AMEX,Franklin Limited Duration Income Trust Common Shares of Beneficial Inte
 FURY,AMEX,Fury Gold Mines Limited Common Shares,Stock,True,2026-05-08,,,6ccceb6aee3a58ce87d8
 GAU,AMEX,Galiano Gold Inc.,Stock,True,2026-05-08,,,90e4e802858ff1d79773
 GBR,AMEX,"New Concept Energy, Inc Common Stock",Stock,True,2026-05-08,,,92b2c27d513ca723145c
-GCDT,AMEX,Green Circle Decarbonize Technology Limited Ordinary Shares,Stock,True,2026-05-08,,,4895c91c8d655b0756a6
+GCDT,AMEX,Green Circle Decarbonize Technology Limited Ordinary Shares,Stock,False,2026-05-08,2026-08-13,Listing metadata changed,4895c91c8d655b0756a6
+GCDT,AMEX,Green Circle Decarbonize Technology Limited Class A Ordinary Shares,Stock,True,2026-08-13,,,43c9ea59395fce79cbc7
 GENC,AMEX,"Gencor Industries, Inc. Common Stock",Stock,True,2026-05-08,,,b16b4166345623547840
 GGN,AMEX,"GAMCO Global Gold, Natural Resources & Income Trust",Stock,True,2026-05-08,,,30842f2ebcb8672ca526
 GGN$B,AMEX,"GAMCO Global Gold, Natural Reources & Income Trust 5.00% Series B Cumulative 25.00 Liquidation Preference",Stock,True,2026-05-08,,,a36c1ff9e9578d44df04
@@ -681,9 +682,9 @@ ANNA,NASDAQ,"AleAnna, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,d8d6d
 ANNAW,NASDAQ,"AleAnna, Inc. - Warrant",Stock,True,2026-05-08,,,b4167f70c211590598c8
 ANNX,NASDAQ,"Annexon, Inc. - common stock",Stock,True,2026-05-08,,,4e8636fccc1b206dacce
 ANPA,NASDAQ,Rich Sparkle Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,7ffd46ca0ff8e1e5a222
-ANSC,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares,Stock,True,2026-05-08,,,a1461160c358eedaad6d
-ANSCU,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Unit,Stock,True,2026-05-08,,,a425e8c3071fc17acc1d
-ANSCW,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Warrant,Stock,True,2026-05-08,,,78f6bae9559ff660307f
+ANSC,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares,Stock,False,2026-05-08,2026-08-13,Missing from current NASDAQ source snapshot; reason unavailable,a1461160c358eedaad6d
+ANSCU,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Unit,Stock,False,2026-05-08,2026-08-13,Missing from current NASDAQ source snapshot; reason unavailable,a425e8c3071fc17acc1d
+ANSCW,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Warrant,Stock,False,2026-05-08,2026-08-13,Missing from current NASDAQ source snapshot; reason unavailable,78f6bae9559ff660307f
 ANTA,NASDAQ,Antalpha Platform Holding Company - Class A Ordinary Shares,Stock,True,2026-05-08,,,552e2029796e5e7ddb35
 ANTX,NASDAQ,"AN2 Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,02eb331e80c987e6729a
 ANV,NASDAQ,GraniteShares Autocallable NVDA ETF,ETF,True,2026-05-08,,,20ddb1ed049edda99782
@@ -983,7 +984,7 @@ BEEZ,NASDAQ,Honeytree U.S. Equity ETF,ETF,True,2026-05-08,,,a784bc7da5b60f7ad63e
 BEG,NASDAQ,Leverage Shares 2x Long BE Daily ETF,ETF,True,2026-05-08,,,d97379ad6f1cd3d284d7
 BELFA,NASDAQ,Bel Fuse Inc. - Class A Common Stock,Stock,True,2026-05-08,,,5276bb6c31dd5533af85
 BELFB,NASDAQ,Bel Fuse Inc. - Class B Common Stock,Stock,True,2026-05-08,,,7b5434ef49e24d2bfbd4
-BELT,NASDAQ,iShares U.S. Select Equity Active ETF,ETF,True,2026-05-08,,,0b8b86b298a95cfdb4f6
+BELT,NASDAQ,iShares U.S. Select Equity Active ETF,ETF,False,2026-05-08,2026-08-13,Missing from current NASDAQ source snapshot; reason unavailable,0b8b86b298a95cfdb4f6
 BENF,NASDAQ,Beneficient - Class A Common Stock,Stock,True,2026-05-08,,,188bb50a4b5ad64ffa5d
 BENFW,NASDAQ,Beneficient - Warrant,Stock,True,2026-05-08,,,d468214cb5e087dd8a40
 BESO,NASDAQ,GSR Crypto Core3 ETF,ETF,True,2026-05-08,,,b47f9509daf413e1f047
@@ -1435,6 +1436,7 @@ CGNT,NASDAQ,Cognyte Software Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,cd4b
 CGNX,NASDAQ,Cognex Corporation - Common Stock,Stock,True,2026-05-08,,,0a0abd1f3312c7a42345
 CGO,NASDAQ,Calamos Global Total Return Fund - Closed End Fund,Stock,True,2026-05-08,,,1b8f5ed2a0684837f03f
 CGON,NASDAQ,"CG Oncology, Inc. - Common stock",Stock,True,2026-05-08,,,0f9759f6165f5707ab1b
+CGPT,NASDAQ,VegaShares AI Inference ETF,ETF,True,2026-08-13,,,f53a17b8715ef0d70504
 CGTL,NASDAQ,Creative Global Technology Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,923e9087607500dcda7f
 CGTX,NASDAQ,"Cognition Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,d4e8cd83921859b5aefa
 CHA,NASDAQ,"Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share",Stock,True,2026-05-08,,,a7672325abb958a8fbad
@@ -1580,6 +1582,7 @@ CONI,NASDAQ,GraniteShares 2x Short COIN Daily ETF,ETF,True,2026-05-08,,,0bb95629
 CONL,NASDAQ,GraniteShares 2x Long COIN Daily ETF,ETF,True,2026-05-08,,,8389054a2472c38665d4
 CONX,NASDAQ,Direxion Daily COIN Bull 2X ETF,ETF,True,2026-05-08,,,db819ff8f0761c96e728
 COO,NASDAQ,"The Cooper Companies, Inc. - Common Stock",Stock,True,2026-05-08,,,29cce1aaeba82955cfd2
+COOL,NASDAQ,"VegaShares AI Thermal, Cooling & Power Management ETF",ETF,True,2026-08-13,,,68d679adcd0477edf34c
 COOT,NASDAQ,Australian Oilseeds Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,ba3e24d6bea55d8ab350
 COOTW,NASDAQ,Australian Oilseeds Holdings Limited - Warrant,Stock,True,2026-05-08,,,14ed645309f6c1a7b6ef
 COPJ,NASDAQ,Sprott Junior Copper Miners ETF,ETF,True,2026-05-08,,,5cf4fcf4f30eed7effa1
@@ -2523,7 +2526,9 @@ GGROW,NASDAQ,Gogoro Inc. - Warrant,Stock,True,2026-05-08,,,dec4d3f5d628eadb2198
 GGRP,NASDAQ,"The Glimpse Group, Inc. - Common Stock",Stock,True,2026-05-08,,,d83317869036590b2b9c
 GH,NASDAQ,"Guardant Health, Inc. - Common Stock",Stock,True,2026-05-08,,,4df093eb08d55b5086e4
 GHRS,NASDAQ,GH Research PLC - Ordinary Shares,Stock,True,2026-05-08,,,f9b5f4c887cde7f71857
+GHXI,NASDAQ,"Gores Holdings XI, Inc. - Class A Ordinary Shares",Stock,True,2026-08-13,,,28ccf38e881ac37e8615
 GHXIU,NASDAQ,"Gores Holdings XI, Inc. - Units",Stock,True,2026-06-23,,,24c84ba015b44344908a
+GHXIW,NASDAQ,"Gores Holdings XI, Inc. - Warrant",Stock,True,2026-08-13,,,ddc4d56f97ba3ac23013
 GIBO,NASDAQ,GIBO Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,addc71aa8694c7eb91df
 GIBOW,NASDAQ,GIBO Holdings Limited - Warrants,Stock,True,2026-05-08,,,7e1c23beb711175408b2
 GIEQ,NASDAQ,Goldman Sachs Data Enhanced International Equity ETF,ETF,True,2026-05-21,,,3ed56fd14aac061a31d3
@@ -5410,6 +5415,7 @@ TAXT,NASDAQ,Northern Trust Tax-Exempt Bond ETF,ETF,True,2026-05-08,,,20ca5d5afab
 TAYD,NASDAQ,"Taylor Devices, Inc. - Common Stock",Stock,True,2026-05-08,,,46cb97729f6f57820760
 TBBK,NASDAQ,"The Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,03de663580fdde82be48
 TBCH,NASDAQ,Turtle Beach Corporation - Common Stock,Stock,True,2026-05-08,,,9508538bfb7352aef28e
+TBCVU,NASDAQ,"Thunder Bridge Capital Partners V, Ltd. - Units",Stock,True,2026-08-13,,,3a95e432bc242bd6d7bc
 TBH,NASDAQ,"Brag House Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-01,Missing from current NASDAQ source snapshot; reason unavailable,b268a782cd25ff1ed7f9
 TBIL,NASDAQ,F/m US Treasury 3 Month Bill Fund,ETF,True,2026-05-08,,,1932aca36eca88650e76
 TBLA,NASDAQ,Taboola.com Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,ea9400e7476fbdf6eb44
@@ -6711,7 +6717,7 @@ BWIV.U,NYSE,"Blue Water Acquisition Corp. IV Units, each consisting of one Class
 BWIV.W,NYSE,Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share,Stock,True,2026-05-11,,,cf210d908353485dfe15
 BWLP,NYSE,BW LPG Limited Common Shares,Stock,True,2026-05-08,,,f6ba0e0a0c39a98c5e05
 BWMX,NYSE,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",Stock,True,2026-05-08,,,57fe674d013229a1b433
-BWNB,NYSE,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",Stock,True,2026-05-08,,,400a626816265dbcf1e5
+BWNB,NYSE,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",Stock,False,2026-05-08,2026-08-13,Missing from current NYSE source snapshot; reason unavailable,400a626816265dbcf1e5
 BWXT,NYSE,"BWX Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,13e637630979bc0956b8
 BX,NYSE,Blackstone Inc. Common Stock,Stock,True,2026-05-08,,,d594747c1399d9a7d110
 BXC,NYSE,Bluelinx Holdings Inc. Common Stock,Stock,True,2026-05-08,,,3cb6b195d52cc42e75a8
@@ -8580,6 +8586,7 @@ RSKD,NYSE,Riskified Ltd. Class A Ordinary Shares,Stock,True,2026-05-08,,,e0d1ee3
 RTO,NYSE,Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares),Stock,True,2026-05-08,,,7b7ec1257a4ac3e82c81
 RTX,NYSE,RTX Corporation Common Stock,Stock,True,2026-05-08,,,79c24d7593b86b5d16ba
 RVI,NYSE,Robinhood Ventures Fund I Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,0a64e83cdcbbe140b5a0
+RVII,NYSE,Robinhood Ventures Fund II Common Shares of Beneficial Interest,Stock,True,2026-08-13,,,5a5d80dcfce9b6845dc7
 RVLV,NYSE,"Revolve Group, Inc. Class A Common Stock",Stock,True,2026-05-08,,,c5be4c465a3b74b84a0e
 RVT,NYSE,"Royce Small-Cap Trust, Inc. Common Stock",Stock,True,2026-05-08,,,3a3254b885741fc3272b
 RVTY,NYSE,"Revvity, Inc. Common Stock",Stock,True,2026-05-08,,,2cfbac6b769518bd0a1f

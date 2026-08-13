@@ -324,9 +324,6 @@ NASDAQ,ANNA,"AleAnna, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,ANNAW,"AleAnna, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANNX,"Annexon, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANPA,Rich Sparkle Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ANSC,Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ANSCU,Agriculture & Natural Solutions Acquisition Corporation - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ANSCW,Agriculture & Natural Solutions Acquisition Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANTA,Antalpha Platform Holding Company - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANTX,"AN2 Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANV,GraniteShares Autocallable NVDA ETF,ETF,,nasdaq_trader_symbol_directory
@@ -614,7 +611,6 @@ NASDAQ,BEEZ,Honeytree U.S. Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BEG,Leverage Shares 2x Long BE Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BELFA,Bel Fuse Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BELFB,Bel Fuse Inc. - Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BELT,iShares U.S. Select Equity Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BENF,Beneficient - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BENFW,Beneficient - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BESO,GSR Crypto Core3 ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1042,6 +1038,7 @@ NASDAQ,CGNT,Cognyte Software Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_
 NASDAQ,CGNX,Cognex Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGO,Calamos Global Total Return Fund - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGON,"CG Oncology, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CGPT,VegaShares AI Inference ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CGTL,Creative Global Technology Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGTX,"Cognition Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHA,"Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share",Stock,,nasdaq_trader_symbol_directory
@@ -1183,6 +1180,7 @@ NASDAQ,CONI,GraniteShares 2x Short COIN Daily ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,CONL,GraniteShares 2x Long COIN Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CONX,Direxion Daily COIN Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,COO,"The Cooper Companies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,COOL,"VegaShares AI Thermal, Cooling & Power Management ETF",ETF,,nasdaq_trader_symbol_directory
 NASDAQ,COOT,Australian Oilseeds Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,COOTW,Australian Oilseeds Holdings Limited - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,COPJ,Sprott Junior Copper Miners ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2080,7 +2078,9 @@ NASDAQ,GGROW,Gogoro Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GGRP,"The Glimpse Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GH,"Guardant Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GHRS,GH Research PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GHXI,"Gores Holdings XI, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GHXIU,"Gores Holdings XI, Inc. - Units",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GHXIW,"Gores Holdings XI, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIBO,GIBO Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIBOW,GIBO Holdings Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIEQ,Goldman Sachs Data Enhanced International Equity ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4822,6 +4822,7 @@ NASDAQ,TAXT,Northern Trust Tax-Exempt Bond ETF,ETF,,nasdaq_trader_symbol_directo
 NASDAQ,TAYD,"Taylor Devices, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBBK,"The Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBCH,Turtle Beach Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TBCVU,"Thunder Bridge Capital Partners V, Ltd. - Units",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBIL,F/m US Treasury 3 Month Bill Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TBLA,Taboola.com Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBLD,Thornburg Income Builder Opportunities Trust - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
