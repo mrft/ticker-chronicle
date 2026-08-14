@@ -418,8 +418,11 @@ ACNT,NASDAQ,Ascent Industries Co. - Common Stock,Stock,True,2026-05-08,,,02f2910
 ACOG,NASDAQ,Alpha Cognition Inc. - Common Stock,Stock,True,2026-05-08,,,5532dabcbd8e414921b0
 ACON,NASDAQ,"Aclarion, Inc. - Common Stock",Stock,True,2026-05-08,,,46d10b1cae5da2d9b560
 ACONW,NASDAQ,"Aclarion, Inc. - Warrant",Stock,True,2026-05-08,,,4f9f4204e907bc286a09
+ACQQ,NASDAQ,ProShares Nasdaq-100 Autocallable Income ETF,ETF,True,2026-08-14,,,2bce064c57f1075b8307
 ACRS,NASDAQ,"Aclaris Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,d8e52ce7de1f11c91a7e
+ACRT,NASDAQ,ProShares Russell 2000 Autocallable Income ETF,ETF,True,2026-08-14,,,9598c305b8759935f662
 ACRV,NASDAQ,"Acrivon Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,3420d5d63eba98fdb4d5
+ACSP,NASDAQ,ProShares S&P 500 Autocallable Income ETF,ETF,True,2026-08-14,,,cfb10c7c062ea8943a6f
 ACT,NASDAQ,"Enact Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,eb6c2d9d7f7ba032233f
 ACTG,NASDAQ,Acacia Research Corporation - Common Stock,Stock,True,2026-05-08,,,ebe4f221b8650f49998a
 ACTU,NASDAQ,"Actuate Therapeutics, Inc. - Common stock",Stock,True,2026-05-08,,,8deca80412276b57f42b
@@ -1113,7 +1116,7 @@ BNDX,NASDAQ,Vanguard Total International Bond ETF,ETF,True,2026-05-08,,,ce7984e1
 BNGO,NASDAQ,"Bionano Genomics, Inc. - Common Stock",Stock,True,2026-05-08,,,1fcda8722a61dfb1a77c
 BNKK,NASDAQ,"Bonk, Inc. - Common Stock",Stock,True,2026-05-08,,,db1c6421912a890aa90f
 BNR,NASDAQ,Burning Rock Biotech Limited - American Depositary Shares,Stock,True,2026-05-08,,,fd89c84e9729eca9a20a
-BNRG,NASDAQ,Brenmiller Energy Ltd - Ordinary Shares,Stock,True,2026-05-08,,,dc5e1fa2ec509a01f271
+BNRG,NASDAQ,Brenmiller Energy Ltd - Ordinary Shares,Stock,False,2026-05-08,2026-08-14,Other delisting reason: Details unavailable (source: FMP Delisted API),dc5e1fa2ec509a01f271
 BNTC,NASDAQ,Benitec Biopharma Inc. - Common Stock,Stock,True,2026-05-08,,,d74ec3c33b982fcc34b6
 BNTX,NASDAQ,BioNTech SE - American Depositary Shares,Stock,True,2026-05-08,,,63b0539580fb4e52a8c2
 BNZI,NASDAQ,"Banzai International, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-08-07,Missing from current NASDAQ source snapshot; reason unavailable,4eb1d03db4a525f83a68
@@ -1165,6 +1168,7 @@ BRLS,NASDAQ,Borealis Foods Inc. - Class A Common Shares,Stock,True,2026-05-08,,,
 BRLSW,NASDAQ,Borealis Foods Inc. - Warrant,Stock,True,2026-05-08,,,7176a40f5bd8a787f738
 BRLT,NASDAQ,"Brilliant Earth Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,95e34909304a06773e3c
 BRNS,NASDAQ,Barinthus Biotherapeutics plc - American Depositary Shares,Stock,True,2026-05-08,,,8287e236463bd0c8648e
+BRNX,NASDAQ,BrenX Ltd. - Ordinary Shares,Stock,True,2026-08-14,,,9b380c397f5107219fa5
 BRNY,NASDAQ,Burney U.S. Factor Rotation ETF,ETF,True,2026-05-08,,,e7d87d4ce5a82a8bb8c9
 BRR,NASDAQ,"ProCap Financial, Inc. - Common Stock",Stock,True,2026-05-08,,,8b9e20db60c83130605d
 BRRR,NASDAQ,Coinshares Bitcoin ETF,ETF,True,2026-05-08,,,da025216be30b9ae553e
@@ -2118,6 +2122,8 @@ EVSD,NASDAQ,Eaton Vance Short Duration Income ETF,ETF,True,2026-05-08,,,ffa11464
 EVTV,NASDAQ,"Envirotech Vehicles, Inc. - Common stock",Stock,False,2026-05-08,2026-07-10,Listing metadata changed,5d043eca98a6eb0c8d58
 EVTV,NASDAQ,"Azio AI Holdings, Inc. - Common stock",Stock,False,2026-07-10,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,644b80e4495d85739ce7
 EVYM,NASDAQ,Eaton Vance High Income Municipal ETF,ETF,True,2026-05-08,,,3292f71b24a00cd33ea9
+EWAV,NASDAQ,East West Ave Acquisition Corp. - Common Stock,Stock,True,2026-08-14,,,a25107dd28f5f6747d96
+EWAVR,NASDAQ,East West Ave Acquisition Corp. - Rights,Stock,True,2026-08-14,,,5fbaa7540ba44c2ecdd3
 EWAVU,NASDAQ,East West Ave Acquisition Corp. - Units,Stock,True,2026-07-31,,,08a61e754d5d5bd67eaf
 EWBC,NASDAQ,"East West Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,73248e2ea805c74d738d
 EWCZ,NASDAQ,"European Wax Center, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,1f541bc1be88605f408f
@@ -3415,7 +3421,7 @@ LHSW,NASDAQ,Lianhe Sowell International Group Ltd - Class A Ordinary Shares,Stoc
 LI,NASDAQ,Li Auto Inc. - American Depositary Shares,Stock,True,2026-05-08,,,ba54b60d87c83ab29b28
 LICN,NASDAQ,Lichen International Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,6fbdc82bf707b1a9de29
 LIDR,NASDAQ,"AEye, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,807f225cb7315e15186c
-LIDRW,NASDAQ,"AEye, Inc. - Warrant",Stock,True,2026-05-08,,,89fab886cdb9fa54da68
+LIDRW,NASDAQ,"AEye, Inc. - Warrant",Stock,False,2026-05-08,2026-08-14,Missing from current NASDAQ source snapshot; reason unavailable,89fab886cdb9fa54da68
 LIEN,NASDAQ,"Chicago Atlantic BDC, Inc. - Common Stock",Stock,True,2026-05-08,,,a1ad8615b43dc56ae975
 LIF,NASDAQ,"Life360, Inc. - Common Stock",Stock,True,2026-05-08,,,16e5fe40725f6dfd433b
 LIFE,NASDAQ,Ethos Technologies Inc. - Class A Common Stock,Stock,True,2026-05-08,,,924323cfeca807a5df8c
@@ -4644,7 +4650,7 @@ QLYS,NASDAQ,"Qualys, Inc. - Common Stock",Stock,True,2026-05-08,,,717c13b95aa233
 QMCO,NASDAQ,Quantum Corporation - Common Stock,Stock,True,2026-05-08,,,d05996b9d7116fd83a16
 QMID,NASDAQ,WisdomTree U.S. MidCap Quality Growth Fund,ETF,True,2026-05-08,,,ada131342988380f281d
 QMLS,NASDAQ,"QumulusAI, Inc. - Common Stock",Stock,True,2026-07-16,,,2e573793c1bcf669dc47
-QMMM,NASDAQ,QMMM Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,3de66dd79f4ad24b1e42
+QMMM,NASDAQ,QMMM Holdings Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-08-14,Missing from current NASDAQ source snapshot; reason unavailable,3de66dd79f4ad24b1e42
 QMOM,NASDAQ,Alpha Architect U.S. Quantitative Momentum ETF,ETF,True,2026-05-08,,,bba14e310381abb69794
 QNCX,NASDAQ,"Quince Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,98930c4fa884732ca20d
 QNDX,NASDAQ,State Street SPDR Portfolio Nasdaq 100 ETF,ETF,True,2026-06-24,,,c29313f776cad68052e0
@@ -5478,6 +5484,8 @@ TGL,NASDAQ,Treasure Global Inc. - Common Stock,Stock,True,2026-05-08,,,64d3dc022
 TGTX,NASDAQ,"TG Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,1a7b4c5d98ce7fb85257
 TH,NASDAQ,Target Hospitality Corp. - Common Stock,Stock,True,2026-05-08,,,8f4c7234283263427bca
 THCH,NASDAQ,TH International Limited - Ordinary shares,Stock,True,2026-05-08,,,115ae54ba29e45cf7b42
+THEO,NASDAQ,BOA Acquisition Corp. II - Class A Ordinary Shares,Stock,True,2026-08-14,,,5455924929c03e329bb5
+THEOR,NASDAQ,BOA Acquisition Corp. II - Rights,Stock,True,2026-08-14,,,64ad135ebdb372285ef3
 THEOU,NASDAQ,BOA Acquisition Corp. II - Units,Stock,True,2026-08-04,,,9d8164d6c5d448a59d67
 THFF,NASDAQ,First Financial Corporation - Common Stock,Stock,True,2026-05-08,,,de361219c172573e2a52
 THH,NASDAQ,TryHard Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,110e3afad9b16b66def2
@@ -7402,6 +7410,7 @@ GFF,NYSE,Griffon Corporation Common Stock,Stock,True,2026-05-08,,,8e6ae91bbf3547
 GFI,NYSE,Gold Fields Limited American Depositary Shares,Stock,True,2026-05-08,,,b3b81c8ebfc4902d6acc
 GFL,NYSE,"GFL Environmental Inc. Subordinate voting shares, no par value",Stock,True,2026-05-08,,,afcce4a5ee701fef33af
 GFR,NYSE,Greenfire Resources Ltd. Common Shares,Stock,True,2026-05-08,,,128a642d764db8a83e57
+GFR.V,NYSE,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",Stock,True,2026-08-14,,,c5c2aef98666c3793f33
 GGB,NYSE,Gerdau S.A. Common Stock,Stock,True,2026-05-08,,,8722cf6e2ff3460073fd
 GGG,NYSE,Graco Inc. Common Stock,Stock,True,2026-05-08,,,1a2e6857292152a7bc3d
 GGT,NYSE,"Gabelli Multi-Media Trust, Inc. (The) Common Stock",Stock,True,2026-05-08,,,ded37aacc91bbd0c9846
@@ -8668,7 +8677,7 @@ SEG,NYSE,Seaport Entertainment Group Inc. Common Stock,Stock,True,2026-05-08,,,f
 SEI,NYSE,"Solaris Energy Infrastructure, Inc. Class A Common Stock",Stock,True,2026-05-08,,,986f7cf07b66a51bba33
 SEM,NYSE,Select Medical Holdings Corporation Common Stock,Stock,False,2026-05-08,2026-07-01,Missing from current NYSE source snapshot; reason unavailable,f82ef887dee532d08ade
 SES,NYSE,SES AI Corporation Class A Common Stock,Stock,True,2026-05-08,,,7f114013200bd6608e5a
-SES.W,NYSE,"SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,5e6514507e1891867647
+SES.W,NYSE,"SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",Stock,False,2026-05-08,2026-08-14,Missing from current NYSE source snapshot; reason unavailable,5e6514507e1891867647
 SF,NYSE,Stifel Financial Corporation Common Stock,Stock,True,2026-05-08,,,d6a109efb2d2dbebb38f
 SF$B,NYSE,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.25% Non-Cumulative Preferred Stock, Series B",Stock,True,2026-05-08,,,93894f947a4386842034
 SF$C,NYSE,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.125% Non Cumulative Preferred Stock, Series C",Stock,True,2026-05-08,,,8edd6957c69c48cd1fce

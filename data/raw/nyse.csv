@@ -1139,6 +1139,7 @@ NYSE,GFF,Griffon Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GFI,Gold Fields Limited American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,GFL,"GFL Environmental Inc. Subordinate voting shares, no par value",Stock,,nasdaq_trader_symbol_directory
 NYSE,GFR,Greenfire Resources Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,GFR.V,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,GGB,Gerdau S.A. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GGG,Graco Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GGT,"Gabelli Multi-Media Trust, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2360,7 +2361,6 @@ NYSE,SECZ,Securitize Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SEG,Seaport Entertainment Group Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SEI,"Solaris Energy Infrastructure, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SES,SES AI Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,SES.W,"SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,SF,Stifel Financial Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SF$B,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.25% Non-Cumulative Preferred Stock, Series B",Stock,,nasdaq_trader_symbol_directory
 NYSE,SF$C,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.125% Non Cumulative Preferred Stock, Series C",Stock,,nasdaq_trader_symbol_directory

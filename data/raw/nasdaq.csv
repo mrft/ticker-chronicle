@@ -75,8 +75,11 @@ NASDAQ,ACNT,Ascent Industries Co. - Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,ACOG,Alpha Cognition Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACON,"Aclarion, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACONW,"Aclarion, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ACQQ,ProShares Nasdaq-100 Autocallable Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ACRS,"Aclaris Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ACRT,ProShares Russell 2000 Autocallable Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ACRV,"Acrivon Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ACSP,ProShares S&P 500 Autocallable Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ACT,"Enact Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACTG,Acacia Research Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACTU,"Actuate Therapeutics, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
@@ -735,7 +738,6 @@ NASDAQ,BNDX,Vanguard Total International Bond ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,BNGO,"Bionano Genomics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNKK,"Bonk, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNR,Burning Rock Biotech Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BNRG,Brenmiller Energy Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNTC,Benitec Biopharma Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNTX,BioNTech SE - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BODI,"The Beachbody Company, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -784,6 +786,7 @@ NASDAQ,BRLS,Borealis Foods Inc. - Class A Common Shares,Stock,,nasdaq_trader_sym
 NASDAQ,BRLSW,Borealis Foods Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRLT,"Brilliant Earth Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRNS,Barinthus Biotherapeutics plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BRNX,BrenX Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRNY,Burney U.S. Factor Rotation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRR,"ProCap Financial, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRRR,Coinshares Bitcoin ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1688,6 +1691,8 @@ NASDAQ,EVPF,Eaton Vance Preferred Securities and Income ETF,ETF,,nasdaq_trader_s
 NASDAQ,EVRG,"Evergy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVSD,Eaton Vance Short Duration Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EVYM,Eaton Vance High Income Municipal ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,EWAV,East West Ave Acquisition Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EWAVR,East West Ave Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EWAVU,East West Ave Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EWBC,"East West Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EWJV,iShares MSCI Japan Value ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2928,7 +2933,6 @@ NASDAQ,LHSW,Lianhe Sowell International Group Ltd - Class A Ordinary Shares,Stoc
 NASDAQ,LI,Li Auto Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LICN,Lichen International Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIDR,"AEye, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LIDRW,"AEye, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIEN,"Chicago Atlantic BDC, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIF,"Life360, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LIFE,Ethos Technologies Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4094,7 +4098,6 @@ NASDAQ,QLYS,"Qualys, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMCO,Quantum Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMID,WisdomTree U.S. MidCap Quality Growth Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QMLS,"QumulusAI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,QMMM,QMMM Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMOM,Alpha Architect U.S. Quantitative Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QNCX,"Quince Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNDX,State Street SPDR Portfolio Nasdaq 100 ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4881,6 +4884,8 @@ NASDAQ,TGL,Treasure Global Inc. - Common Stock,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,TGTX,"TG Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TH,Target Hospitality Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THCH,TH International Limited - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,THEO,BOA Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,THEOR,BOA Acquisition Corp. II - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THEOU,BOA Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THFF,First Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THH,TryHard Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
