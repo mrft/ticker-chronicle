@@ -437,6 +437,7 @@ ADAM,NASDAQ,"Adamas Trust, Inc. - Common Stock",Stock,True,2026-05-08,,,62545dd6
 ADAMG,NASDAQ,"Adamas Trust, Inc. - 9.125% Senior Notes Due 2030",Stock,True,2026-05-08,,,2fdfab6b7841b165b8fa
 ADAMH,NASDAQ,"Adamas Trust, Inc. - 9.875% Senior Notes Due 2030",Stock,True,2026-05-08,,,006e1d179273f2177799
 ADAMI,NASDAQ,"Adamas Trust, Inc. - 9.125% Senior Notes Due 2029",Stock,True,2026-05-08,,,2f1ce8693613c748e8b0
+ADAMK,NASDAQ,"Adamas Trust, Inc. - 9.600% Senior Notes Due 2031",Stock,True,2026-08-17,,,da75abdc62892aa2846d
 ADAML,NASDAQ,"Adamas Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",Stock,True,2026-05-08,,,5cd94105e8fcb08bd001
 ADAMM,NASDAQ,"Adamas Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,b5e520a3fb0e5d45acb4
 ADAMN,NASDAQ,"Adamas Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,6d9cde11a16064a508ac
@@ -924,6 +925,7 @@ BAYA,NASDAQ,Bayview Acquisition Corp - Ordinary Share,Stock,False,2026-05-08,202
 BAYAR,NASDAQ,Bayview Acquisition Corp - Right,Stock,False,2026-05-08,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,7cc126526fae54cb5b83
 BAYAU,NASDAQ,Bayview Acquisition Corp - Unit,Stock,False,2026-05-08,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,f9b935ab35e4e3ff1a50
 BBB,NASDAQ,CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF,ETF,True,2026-05-08,,,004806d58bc0c5b3ec04
+BBBYW,NASDAQ,Bed Bath - Warrant,Stock,True,2026-08-17,,,c34f9a36822b2b1ad7f6
 BBCP,NASDAQ,"Concrete Pumping Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,b7cf4ac725f087f69d91
 BBCQ,NASDAQ,Bleichroeder Acquisition Corp. II - Class A Ordinary Shares,Stock,True,2026-05-08,,,26291b9dc8d6b2939b1b
 BBCQU,NASDAQ,Bleichroeder Acquisition Corp. II - Units,Stock,True,2026-05-08,,,79c4fb821a540a25b9a4
@@ -1430,7 +1432,9 @@ CG,NASDAQ,The Carlyle Group Inc. - Common Stock,Stock,True,2026-05-08,,,29432d5d
 CGABL,NASDAQ,The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061,Stock,True,2026-05-08,,,c0c75e1abb0811aa56a6
 CGBD,NASDAQ,"Carlyle Secured Lending, Inc. - Closed End Fund",Stock,True,2026-05-08,,,0f11c03e6f562cfda7c0
 CGC,NASDAQ,Canopy Growth Corporation - Common Shares,Stock,True,2026-05-08,,,8553ccf43603012b4c0d
+CGCF,NASDAQ,Cartesian Growth Corporation IV - Class A Ordinary Shares,Stock,True,2026-08-17,,,4188a452e746cc2710c0
 CGCFU,NASDAQ,Cartesian Growth Corporation IV - Units,Stock,True,2026-06-25,,,32005ed67b011c0d387f
+CGCFW,NASDAQ,Cartesian Growth Corporation IV - Warrants,Stock,True,2026-08-17,,,259462ac917579728020
 CGCT,NASDAQ,Cartesian Growth Corporation III - Class A Ordinary Shares,Stock,False,2026-05-08,2026-06-08,Missing from current NASDAQ source snapshot; reason unavailable,c906533c507809d0bb24
 CGCTU,NASDAQ,Cartesian Growth Corporation III - unit,Stock,False,2026-05-08,2026-06-08,Missing from current NASDAQ source snapshot; reason unavailable,52f6bb4a3c936a4bc66d
 CGCTW,NASDAQ,Cartesian Growth Corporation III - Warrant,Stock,False,2026-05-08,2026-06-08,Missing from current NASDAQ source snapshot; reason unavailable,2081bdc2df5f56bd7296
@@ -3076,9 +3080,9 @@ IOTR,NASDAQ,iOThree Limited - Ordinary Shares,Stock,True,2026-05-08,,,7ebc42aa80
 IOVA,NASDAQ,"Iovance Biotherapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,573a39dcc1aaea9d9076
 IOYY,NASDAQ,GraniteShares YieldBOOST IONQ ETF,ETF,True,2026-05-08,,,1b5c64b910b9ac28692d
 IPAR,NASDAQ,"Interparfums, Inc. - Common Stock",Stock,True,2026-05-08,,,6567293d1cc5069d921d
-IPCX,NASDAQ,Inflection Point Acquisition Corp. III - Class A ordinary shares,Stock,True,2026-05-08,,,9d1ee879f2c6d3e630df
-IPCXR,NASDAQ,Inflection Point Acquisition Corp. III - Rights,Stock,True,2026-05-08,,,a38222ba3ca4ff3106f0
-IPCXU,NASDAQ,Inflection Point Acquisition Corp. III - Units,Stock,True,2026-05-08,,,866fe2d949a81806917d
+IPCX,NASDAQ,Inflection Point Acquisition Corp. III - Class A ordinary shares,Stock,False,2026-05-08,2026-08-17,Missing from current NASDAQ source snapshot; reason unavailable,9d1ee879f2c6d3e630df
+IPCXR,NASDAQ,Inflection Point Acquisition Corp. III - Rights,Stock,False,2026-05-08,2026-08-17,Missing from current NASDAQ source snapshot; reason unavailable,a38222ba3ca4ff3106f0
+IPCXU,NASDAQ,Inflection Point Acquisition Corp. III - Units,Stock,False,2026-05-08,2026-08-17,Missing from current NASDAQ source snapshot; reason unavailable,866fe2d949a81806917d
 IPDN,NASDAQ,"Professional Diversity Network, Inc. - Common Stock",Stock,True,2026-05-08,,,1b33eb41ea23a308c51a
 IPEX,NASDAQ,Inflection Point Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,96f80ccde4bb0bf73e7b
 IPEXR,NASDAQ,Inflection Point Acquisition Corp. - Right,Stock,True,2026-05-08,,,93de508a3d5fe23e1a0f
@@ -3768,7 +3772,9 @@ MRA,NASDAQ,GraniteShares Autocallable MARA ETF,ETF,True,2026-05-27,,,03d3219a27a
 MRAL,NASDAQ,GraniteShares 2x Long MARA Daily ETF,ETF,True,2026-05-08,,,f110c3d2fcf794b8bd24
 MRAM,NASDAQ,"Everspin Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,ed30995ab7a9a052b68c
 MRBK,NASDAQ,Meridian Corporation - Common Stock,Stock,True,2026-05-08,,,b08aeecb7ffeff002be9
+MRCO,NASDAQ,Mercator Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-08-17,,,cd20733fbc0b1a380927
 MRCOU,NASDAQ,Mercator Acquisition Corp. - Units,Stock,True,2026-07-09,,,54586766e6fd5c8e36e6
+MRCOW,NASDAQ,Mercator Acquisition Corp. - Warrant,Stock,True,2026-08-17,,,bddef60bc1052e89b33d
 MRCY,NASDAQ,Mercury Systems Inc - Common Stock,Stock,True,2026-05-08,,,521ccd27b8f30c803d6f
 MRDN,NASDAQ,Meridian Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,8d935ed792f84136abf2
 MREO,NASDAQ,Mereo BioPharma Group plc - American Depositary Shares,Stock,True,2026-05-08,,,e85a0fd8164ac28fa9ba
@@ -3863,7 +3869,7 @@ MYPS,NASDAQ,"PLAYSTUDIOS, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,e
 MYPSW,NASDAQ,"PLAYSTUDIOS, Inc. - Warrant",Stock,False,2026-05-08,2026-06-18,Missing from current NASDAQ source snapshot; reason unavailable,0a038cf0b7f071f2a37d
 MYRG,NASDAQ,"MYR Group, Inc. - Common Stock",Stock,True,2026-05-08,,,d49d7d0f69aa225d5827
 MYSE,NASDAQ,"Myseum.AI, Inc. - Common Stock",Stock,True,2026-05-08,,,b76b3b268c66f1d69a16
-MYSEW,NASDAQ,"Myseum.AI, Inc. - Series A Warrant",Stock,True,2026-05-08,,,f5de7a5bac31142ceebc
+MYSEW,NASDAQ,"Myseum.AI, Inc. - Series A Warrant",Stock,False,2026-05-08,2026-08-17,Missing from current NASDAQ source snapshot; reason unavailable,f5de7a5bac31142ceebc
 MYSZ,NASDAQ,"My Size, Inc. - Common Stock",Stock,True,2026-05-08,,,048a4297a23884eb7c23
 MYX,NASDAQ,Maywood Acquisition Corp. 2 - Class A Ordinary Share,Stock,True,2026-05-15,,,5777451723849ff8e9df
 MYXXR,NASDAQ,Maywood Acquisition Corp. 2 - Rights,Stock,True,2026-05-15,,,afa160de996aff6629c1
@@ -4063,6 +4069,7 @@ NUCLW,NASDAQ,Eagle Nuclear Energy Corp. - Warrants,Stock,True,2026-05-08,,,f16d3
 NUG,NASDAQ,Leverage Shares 2X Long NU Daily ETF,ETF,True,2026-05-08,,,8a2ceee9908c14aa5aa5
 NUGY,NASDAQ,GraniteShares YieldBOOST Gold Miners ETF,ETF,True,2026-05-08,,,76a3c391fc79e7a8c6e9
 NUIF,NASDAQ,Nuveen US Infrastructure ETF,ETF,True,2026-06-18,,,f6235b303af7d048ba5b
+NUR,NASDAQ,Nuran Wireless Inc. - Common Shares,Stock,True,2026-08-17,,,4e202024dff770ac45d4
 NUSB,NASDAQ,Nuveen Ultra Short Income ETF,ETF,True,2026-05-08,,,0e6d00e395bf018f193a
 NUTR,NASDAQ,Nusatrip Incorporated - Common Stock,Stock,False,2026-05-08,2026-08-12,Missing from current NASDAQ source snapshot; reason unavailable,b7d657eec10068b6ec78
 NUTX,NASDAQ,Nutex Health Inc. - Common Stock,Stock,True,2026-05-08,,,06a0a8a5a6ad808c1831
@@ -4101,6 +4108,7 @@ NWSA,NASDAQ,News Corporation - Class A Common Stock,Stock,True,2026-05-08,,,146d
 NWTG,NASDAQ,"Newton Golf Company, Inc. - Common Stock",Stock,True,2026-05-08,,,8b3ce474615a68054a62
 NXGL,NASDAQ,"NexGel, Inc - Common Stock",Stock,True,2026-05-08,,,40822e8cebe559d498b2
 NXGLW,NASDAQ,"NexGel, Inc - Warrant",Stock,True,2026-05-08,,,0fd920e7f5d9cc926fb0
+NXH,NASDAQ,Bed Bath - Common Stock,Stock,True,2026-08-17,,,e1806be98221629c72df
 NXL,NASDAQ,"Nexalin Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,67e30d403c5edf3e4012
 NXPI,NASDAQ,NXP Semiconductors N.V. - Common Stock,Stock,True,2026-05-08,,,0ccc8863dc2d7d693989
 NXPL,NASDAQ,NextPlat Corp - Common Stock,Stock,True,2026-05-08,,,fda1ec5ef8a103bf66ec
@@ -5112,7 +5120,8 @@ SKHY,NASDAQ,SK hynix Inc. - American Depositary Shares,Stock,True,2026-07-13,,,d
 SKHYV,NASDAQ,SK hynix Inc. - American Depository Shares,Stock,False,2026-07-10,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,5d52cc059efe59775c85
 SKIN,NASDAQ,SkinHealth Systems Inc. - Class A Common Stock,Stock,True,2026-05-08,,,413da9f80912b1a4efaf
 SKK,NASDAQ,SKK Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,e6d732b9136c032b0f13
-SKOR,NASDAQ,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,True,2026-05-08,,,d50356e268e0c605ef4f
+SKOR,NASDAQ,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,False,2026-05-08,2026-08-17,Listing metadata changed,d50356e268e0c605ef4f
+SKOR,NASDAQ,Northern Trust Credit-Scored US Corporate Bond ETF,ETF,True,2026-08-17,,,3b940f51aec57f34d831
 SKRE,NASDAQ,Tuttle Capital Daily 2X Inverse Regional Banks ETF,ETF,True,2026-05-08,,,f12240ea5aa4dc88d80e
 SKUU,NASDAQ,GraniteShares 2x Long SK Hynix Daily ETF,ETF,True,2026-07-14,,,66728af4b2792a00b54c
 SKWD,NASDAQ,"Skyward Specialty Insurance Group, Inc. - Common Stock",Stock,True,2026-05-08,,,eecee428cc8bb0675199
@@ -5958,6 +5967,7 @@ WALDW,NASDAQ,Waldencast plc - Warrant,Stock,True,2026-05-08,,,d323bc244c8391a826
 WAMA,NASDAQ,WisdomTree US Adaptive Moving Average Fund,ETF,True,2026-05-08,,,4763c86868db8c428df5
 WARP,NASDAQ,VanEck Space ETF,ETF,True,2026-05-08,,,1231d9d36fbcc7c01e87
 WASH,NASDAQ,"Washington Trust Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,a3f2da47f14289bfbe15
+WATR,NASDAQ,Air Water Ventures Limited - Ordinary Shares,Stock,True,2026-08-17,,,6e05c2d18c4ae4c1628a
 WATT,NASDAQ,Energous Corporation - Common Stock,Stock,True,2026-05-08,,,1b5c3f88eece34c81624
 WAVE,NASDAQ,Eco Wave Power Global AB (publ) - American Depositary Shares,Stock,True,2026-05-08,,,4661585f99f897ceaf8d
 WAY,NASDAQ,Waystar Holding Corp. - Common Stock,Stock,True,2026-05-08,,,c2985169b7ec0fac3b62
@@ -6472,7 +6482,7 @@ AUB$A,NYSE,"Atlantic Union Bankshares Corporation Depositary Shares each represe
 AUNA,NYSE,Auna SA Class A Ordinary Shares,Stock,True,2026-05-08,,,a3e14098796158ba3527
 AVA,NYSE,Avista Corporation Common Stock,Stock,True,2026-05-08,,,785aacf05a7dfd47deac
 AVAL,NYSE,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares),Stock,True,2026-05-08,,,09b640e924c99debe0f9
-AVB,NYSE,"AvalonBay Communities, Inc. Common Stock",Stock,True,2026-05-08,,,51f60de4223925c73b16
+AVB,NYSE,"AvalonBay Communities, Inc. Common Stock",Stock,False,2026-05-08,2026-08-17,Missing from current NYSE source snapshot; reason unavailable,51f60de4223925c73b16
 AVBC,NYSE,"Avidia Bancorp, Inc. Common Stock",Stock,True,2026-05-08,,,0e960224ce3570300185
 AVD,NYSE,American Vanguard Corporation Common Stock ($0.10 Par Value),Stock,True,2026-05-08,,,833661d92010223c7c72
 AVEX,NYSE,AEVEX Corp. Class A Common Stock,Stock,True,2026-05-08,,,19d903adcd345ebdc209
@@ -6529,8 +6539,8 @@ BB,NYSE,BlackBerry Limited Common Stock,Stock,True,2026-05-08,,,25ae78cfee124769
 BBAI,NYSE,"BigBear.ai, Inc. Common Stock",Stock,True,2026-05-08,,,a8afdf10f5b2c32b4393
 BBAI.W,NYSE,"BigBear.ai, Inc. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,cf02c3a745d2577078e6
 BBAR,NYSE,Banco BBVA Argentina S.A. ADS,Stock,True,2026-05-08,,,844605f89c850e139b1a
-BBBY,NYSE,"Bed Bath & Beyond, Inc. Common Stock",Stock,True,2026-05-08,,,ebe77fa17743a2704943
-BBBY.W,NYSE,"Bed Bath & Beyond, Inc. Warrants to Purchase Common Stock",Stock,True,2026-05-08,,,9f0f893f3ad460c19e96
+BBBY,NYSE,"Bed Bath & Beyond, Inc. Common Stock",Stock,False,2026-05-08,2026-08-17,Other delisting reason: Details unavailable (source: FMP Delisted API),ebe77fa17743a2704943
+BBBY.W,NYSE,"Bed Bath & Beyond, Inc. Warrants to Purchase Common Stock",Stock,False,2026-05-08,2026-08-17,Missing from current NYSE source snapshot; reason unavailable,9f0f893f3ad460c19e96
 BBD,NYSE,Banco Bradesco Sa American Depositary Shares,Stock,True,2026-05-08,,,d9357ef22ad4baa7de58
 BBDC,NYSE,"Barings BDC, Inc. Common Stock",Stock,True,2026-05-08,,,d7eaed401c1e0e2d2758
 BBDO,NYSE,Banco Bradesco Sa American Depositary Shares (each representing one Common Share),Stock,True,2026-05-08,,,153a32515ef01332a9d7
@@ -6566,7 +6576,8 @@ BEBE,NYSE,TGE Value Creative Solutions Corp Class A Ordinary Shares,Stock,True,2
 BEBE.U,NYSE,"TGE Value Creative Solutions Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",Stock,True,2026-05-08,,,11b492657527b90fcd35
 BEBE.W,NYSE,"TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,cf6dc5441710cbc58118
 BEKE,NYSE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),Stock,True,2026-05-08,,,fca8a08075b17779cf21
-BEN,NYSE,"Franklin Resources, Inc. Common Stock",Stock,True,2026-05-08,,,2780309bfd6054adad09
+BEN,NYSE,"Franklin Resources, Inc. Common Stock",Stock,False,2026-05-08,2026-08-17,Listing metadata changed,2780309bfd6054adad09
+BEN,NYSE,"Franklin Templeton, Inc. Common Stock",Stock,True,2026-08-17,,,820502a5e556ec1fa68e
 BEP,NYSE,Brookfield Renewable Partners L.P. Limited Partnership Units,Stock,True,2026-05-08,,,bdda562d6f95c68af2c3
 BEP$A,NYSE,"Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17",Stock,True,2026-05-08,,,80c37fb4912e80ef0a18
 BEPC,NYSE,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,Stock,True,2026-05-08,,,504fd5dcbc31f5c68378
@@ -7089,6 +7100,7 @@ DTW,NYSE,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures d
 DUK,NYSE,Duke Energy Corporation (Holding Company) Common Stock,Stock,True,2026-05-08,,,07926b0ab0c2adc25698
 DUK$A,NYSE,"Duke Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,True,2026-05-08,,,10ecca24b6e142d284fb
 DUKB,NYSE,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,Stock,True,2026-05-08,,,a6c069ad4c0fd2a9aed4
+DUKU,NYSE,Duke Energy Corporation Corporate Units,Stock,True,2026-08-17,,,bd4b0df8d78bf48939f0
 DV,NYSE,"DoubleVerify Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,8dea5e2486b76a33d0d6
 DVA,NYSE,DaVita Inc. Common Stock,Stock,True,2026-05-08,,,65fd5e96a304d9a28ea5
 DVN,NYSE,Devon Energy Corporation Common Stock,Stock,True,2026-05-08,,,b4cd0107a4bf684d71b6
