@@ -930,7 +930,6 @@ NYSE,EQH,"Equitable Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_dir
 NYSE,EQH$A,"Equitable Holdings, Inc. Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,EQH$C,"Equitable Holdings, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series C",Stock,,nasdaq_trader_symbol_directory
 NYSE,EQNR,Equinor ASA,Stock,,nasdaq_trader_symbol_directory
-NYSE,EQR,Equity Residential Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,EQS,"Equus Total Return, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,EQT,EQT Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ERO,Ero Copper Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2767,6 +2766,7 @@ NYSE,VLTO,Veralto Corp Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VMC,Vulcan Materials Company (Holding Company) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VMI,"Valmont Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VMO,Invesco Municipal Opportunity Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,VMRK,Vivmark Residential Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,VNO,Vornado Realty Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VNO$L,Vornado Realty Trust Pfd Ser L %,Stock,,nasdaq_trader_symbol_directory
 NYSE,VNO$M,"Vornado Realty Trust 5.25% Series M Cumulative Redeemable Preferred Shares of Beneficial Interest, liquidation preference $25.00 per share, no par value per share",Stock,,nasdaq_trader_symbol_directory
