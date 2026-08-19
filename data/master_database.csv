@@ -3324,6 +3324,7 @@ KRT,NASDAQ,Karat Packaging Inc. - Common Stock,Stock,True,2026-05-08,,,f4d537265
 KRUS,NASDAQ,"Kura Sushi USA, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,6db96e78c70086edca2b
 KRYS,NASDAQ,"Krystal Biotech, Inc. - Common Stock",Stock,True,2026-05-08,,,bec732b022f429c3a7f5
 KSCP,NASDAQ,"Knightscope, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,7f4403fa3fef2050ef49
+KSMH,NASDAQ,xETFs Korea AI Semiconductor,ETF,True,2026-08-19,,,c829a5bb655281b11d90
 KSPI,NASDAQ,Joint Stock Company Kaspi.kz - American Depository Shares,Stock,True,2026-05-08,,,95c055ea3a6ca127bc97
 KTCC,NASDAQ,Key Tronic Corporation - Common Stock,Stock,True,2026-05-08,,,742f7682743f1ebb6a4e
 KTOS,NASDAQ,"Kratos Defense & Security Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,279e64b42b954fa5bb33
@@ -6003,7 +6004,8 @@ WEYS,NASDAQ,"Weyco Group, Inc. - Common Stock",Stock,True,2026-05-08,,,1335fe7c9
 WFCF,NASDAQ,"Where Food Comes From, Inc. - Common Stock",Stock,True,2026-05-08,,,308a51d84d64d0ab3892
 WFF,NASDAQ,WF Holding Limited - Ordinary Shares,Stock,True,2026-05-08,,,98232a6d6f12b7a9a827
 WFRD,NASDAQ,Weatherford International plc - Ordinary shares,Stock,True,2026-05-08,,,59c0691eb0a1ece2ea1d
-WGMI,NASDAQ,CoinShares Bitcoin Mining ETF,ETF,True,2026-05-08,,,0cf8ee4003ec4bd8b7bf
+WGMI,NASDAQ,CoinShares Bitcoin Mining ETF,ETF,False,2026-05-08,2026-08-19,Listing metadata changed,0cf8ee4003ec4bd8b7bf
+WGMI,NASDAQ,CoinShares Bitcoin Mining and Digital Power ETF,ETF,True,2026-08-19,,,3207f5b73076d2021834
 WGRX,NASDAQ,"Wellgistics Health, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-22,Missing from current NASDAQ source snapshot; reason unavailable,ba90b741c5077dcdd203
 WGS,NASDAQ,GeneDx Holdings Corp. - Class A Common Stock,Stock,True,2026-05-08,,,1cfd5efc9f7e4fe0b33d
 WGSWW,NASDAQ,GeneDx Holdings Corp. - Warrant,Stock,False,2026-05-08,2026-07-22,Missing from current NASDAQ source snapshot; reason unavailable,0c50ace724e4d9789fbc
@@ -7903,6 +7905,7 @@ LXP$C,NYSE,LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred S
 LXU,NYSE,"LSB Industries, Inc. Common Stock",Stock,True,2026-05-08,,,07c630fa51546a6c124c
 LYB,NYSE,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),Stock,True,2026-05-08,,,ca8b4c6daea825e3b799
 LYG,NYSE,Lloyds Banking Group Plc American Depositary Shares,Stock,True,2026-05-08,,,8536e995bcf49cc6360a
+LYNX,NYSE,Lyntris Inc. Common Stock,Stock,True,2026-08-19,,,78e00cd37feb5d7d06cf
 LYV,NYSE,"Live Nation Entertainment, Inc. Common Stock",Stock,True,2026-05-08,,,f52be05974b1d47cb194
 LZB,NYSE,La-Z-Boy Incorporated Common Stock,Stock,True,2026-05-08,,,efc70c9568631a551231
 LZM,NYSE,Lifezone Metals Limited Ordinary Shares,Stock,True,2026-05-08,,,7d9f67acc6f539f07414

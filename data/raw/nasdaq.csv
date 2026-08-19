@@ -2836,6 +2836,7 @@ NASDAQ,KRT,Karat Packaging Inc. - Common Stock,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,KRUS,"Kura Sushi USA, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KRYS,"Krystal Biotech, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KSCP,"Knightscope, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KSMH,xETFs Korea AI Semiconductor,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KSPI,Joint Stock Company Kaspi.kz - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KTCC,Key Tronic Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KTOS,"Kratos Defense & Security Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5365,7 +5366,7 @@ NASDAQ,WEYS,"Weyco Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direc
 NASDAQ,WFCF,"Where Food Comes From, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WFF,WF Holding Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WFRD,Weatherford International plc - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WGMI,CoinShares Bitcoin Mining ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,WGMI,CoinShares Bitcoin Mining and Digital Power ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WGS,GeneDx Holdings Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WHF,"WhiteHorse Finance, Inc. - Closed End Fund",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WHFCL,"WhiteHorse Finance, Inc. - 7.875% Notes due 2028",Stock,,nasdaq_trader_symbol_directory
