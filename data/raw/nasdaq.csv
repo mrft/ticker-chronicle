@@ -1,8 +1,5 @@
 Exchange,Symbol,Name,InstrumentType,FirstIpoDate,Source
 NASDAQ,AAAP,Pacer Barings CLO Market Flex ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,AACB,Artius II Acquisition Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AACBR,Artius II Acquisition Inc. - Rights,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AACBU,Artius II Acquisition Inc. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AACG,"ATA Creativity Global - American Depositary Shares, each representing two common shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AACI,Armada Acquisition Corp. III - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AACIU,Armada Acquisition Corp. III - Units,Stock,,nasdaq_trader_symbol_directory
@@ -858,6 +855,7 @@ NASDAQ,BTDL,GraniteShares 2x Long BTDR Daily ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,BTDR,Bitdeer Technologies Group - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTF,CoinShares Bitcoin and Ether ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BTGD,STKd 100% Bitcoin & 100% Gold ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BTLN,"Brightline Interactive, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTMD,Biote Corp. - Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTOC,Armlogi Holding Corp. - common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTOG,Bit Origin Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1085,6 +1083,7 @@ NASDAQ,CHSCO,CHS Inc - Class B Cumulative Redeemable Preferred Stock,Stock,,nasd
 NASDAQ,CHSCP,CHS Inc - 8% Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHSN,Chanson International Holding - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHTR,"Charter Communications, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CHTRP,"Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHW,Calamos Global Dynamic Income Fund - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHY,Calamos Convertible and High Income Fund - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHYM,"Chime Financial, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1740,6 +1739,7 @@ NASDAQ,FANG,"Diamondback Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,FAST,Fastenal Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FATE,"Fate Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FATN,"FatPipe, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FBDT,First Breach Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBGL,FBS Global Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBIO,"Fortress Biotech, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBIOP,"Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2085,7 +2085,6 @@ NASDAQ,GGLL,Direxion Daily GOOGL Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GGLS,Direxion Daily GOOGL Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GGR,Gogoro Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GGROW,Gogoro Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GGRP,"The Glimpse Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GH,"Guardant Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GHRS,GH Research PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GHXI,"Gores Holdings XI, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -4106,6 +4105,7 @@ NASDAQ,QMCO,Quantum Corporation - Common Stock,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,QMID,WisdomTree U.S. MidCap Quality Growth Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QMLS,"QumulusAI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMOM,Alpha Architect U.S. Quantitative Momentum ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QNBC,QNB Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNCX,"Quince Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNDX,State Street SPDR Portfolio Nasdaq 100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QNME,"Quanome Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4977,6 +4977,7 @@ NASDAQ,TRAX,"First Tracks Biotherapeutics, Inc. - Ordinary Shares",Stock,,nasdaq
 NASDAQ,TRBF,Angel Oak Total Return ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRDA,"Entrada Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TREE,"LendingTree, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TREO,Tactical Resources Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRGS,TRG Latin America Acquisitions Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRGSR,TRG Latin America Acquisitions Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRGSU,TRG Latin America Acquisitions Corp. - Units,Stock,,nasdaq_trader_symbol_directory
@@ -5483,7 +5484,6 @@ NASDAQ,XNDU,Xanadu Quantum Technologies Limited - Class B Subordinate Voting Sha
 NASDAQ,XNET,Xunlei Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XOMX,Direxion Daily XOM Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XOS,"Xos, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,XOSWW,"Xos, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XOVR,ERShares Private-Public Crossover ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XP,XP Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XPEG,Leverage Shares 2X Long XPEV Daily ETF,ETF,,nasdaq_trader_symbol_directory

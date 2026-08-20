@@ -340,9 +340,9 @@ YCBD,AMEX,"cbdMD, Inc. Common Stock",Stock,True,2026-05-08,,,ac934c116bd54e0ec5c
 ZDGE,AMEX,"Zedge, Inc. Class B Common Stock",Stock,True,2026-05-08,,,d789297abeeaa7753ded
 ZONE,AMEX,CleanCore Solutions Inc. Class B Common Stock,Stock,True,2026-05-08,,,2de3829970426de5636e
 AAAP,NASDAQ,Pacer Barings CLO Market Flex ETF,ETF,True,2026-06-23,,,5976f4ffc2d2099aaced
-AACB,NASDAQ,Artius II Acquisition Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,224a766a4bb75d0dae7a
-AACBR,NASDAQ,Artius II Acquisition Inc. - Rights,Stock,True,2026-05-08,,,711d39cf25af2d68d8c4
-AACBU,NASDAQ,Artius II Acquisition Inc. - Units,Stock,True,2026-05-08,,,48e505de1bc02d40b5d7
+AACB,NASDAQ,Artius II Acquisition Inc. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-08-20,Missing from current NASDAQ source snapshot; reason unavailable,224a766a4bb75d0dae7a
+AACBR,NASDAQ,Artius II Acquisition Inc. - Rights,Stock,False,2026-05-08,2026-08-20,Missing from current NASDAQ source snapshot; reason unavailable,711d39cf25af2d68d8c4
+AACBU,NASDAQ,Artius II Acquisition Inc. - Units,Stock,False,2026-05-08,2026-08-20,Missing from current NASDAQ source snapshot; reason unavailable,48e505de1bc02d40b5d7
 AACG,NASDAQ,"ATA Creativity Global - American Depositary Shares, each representing two common shares",Stock,True,2026-05-08,,,6feee72b70d7b93b40df
 AACI,NASDAQ,Armada Acquisition Corp. III - Class A Ordinary Share,Stock,True,2026-05-08,,,3c79c714fca82f453314
 AACIU,NASDAQ,Armada Acquisition Corp. III - Units,Stock,True,2026-05-08,,,d5add9d7509f852df516
@@ -1241,6 +1241,7 @@ BTDL,NASDAQ,GraniteShares 2x Long BTDR Daily ETF,ETF,True,2026-07-14,,,b34dfbe0b
 BTDR,NASDAQ,Bitdeer Technologies Group - Ordinary Shares,Stock,True,2026-05-08,,,6f2e7ae268a47b7a719e
 BTF,NASDAQ,CoinShares Bitcoin and Ether ETF,ETF,True,2026-05-08,,,fabbbc8a83a5c56f8414
 BTGD,NASDAQ,STKd 100% Bitcoin & 100% Gold ETF,ETF,True,2026-05-08,,,ca427d040bec8b3295d8
+BTLN,NASDAQ,"Brightline Interactive, Inc. - Common Stock",Stock,True,2026-08-20,,,30e3f2981da6f7436ffc
 BTM,NASDAQ,Bitcoin Depot Inc. - Class A Common Stock,Stock,False,2026-05-08,2026-05-26,Other delisting reason: Details unavailable (source: FMP Delisted API),9aa318784b7c35f877a5
 BTMD,NASDAQ,Biote Corp. - Class A common stock,Stock,True,2026-05-08,,,a4a4e2bd1dcac492685b
 BTMWW,NASDAQ,Bitcoin Depot Inc. - Warrant,Stock,False,2026-05-08,2026-05-26,Missing from current NASDAQ source snapshot; reason unavailable,251e39ae6c47ea44ade4
@@ -1486,6 +1487,7 @@ CHSCO,NASDAQ,CHS Inc - Class B Cumulative Redeemable Preferred Stock,Stock,True,
 CHSCP,NASDAQ,CHS Inc - 8% Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,142eca7b9306b1c88018
 CHSN,NASDAQ,Chanson International Holding - Class A Ordinary Shares,Stock,True,2026-05-08,,,62d65f61d97da1b888c8
 CHTR,NASDAQ,"Charter Communications, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,a96dd76ec9bd21891bdd
+CHTRP,NASDAQ,"Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock",Stock,True,2026-08-20,,,b4fe3c736ec177dc7534
 CHW,NASDAQ,Calamos Global Dynamic Income Fund - Closed End Fund,Stock,True,2026-05-08,,,ec167736ce2a8bd5f6ad
 CHY,NASDAQ,Calamos Convertible and High Income Fund - Closed End Fund,Stock,True,2026-05-08,,,5d49e34a60d16408a09d
 CHYM,NASDAQ,"Chime Financial, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,dfa8f17910248a9064ba
@@ -2174,6 +2176,7 @@ FANG,NASDAQ,"Diamondback Energy, Inc. - Common Stock",Stock,True,2026-05-08,,,c0
 FAST,NASDAQ,Fastenal Company - Common Stock,Stock,True,2026-05-08,,,4cb83c0c83f8000415e8
 FATE,NASDAQ,"Fate Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,a976d89ff8442ccadbb6
 FATN,NASDAQ,"FatPipe, Inc. - common stock",Stock,True,2026-05-08,,,a4df84cf89796aca6f58
+FBDT,NASDAQ,First Breach Inc. - Common Stock,Stock,True,2026-08-20,,,5a34cd6d6842cbb5ceea
 FBGL,NASDAQ,FBS Global Limited - Ordinary Shares,Stock,True,2026-05-08,,,438aa84523c4e5405ed9
 FBIO,NASDAQ,"Fortress Biotech, Inc. - Common Stock",Stock,True,2026-05-08,,,ff330e0b60fd9529aad1
 FBIOP,NASDAQ,"Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,True,2026-05-08,,,bb350a3a259a3fd2785a
@@ -2537,7 +2540,7 @@ GGLL,NASDAQ,Direxion Daily GOOGL Bull 2X ETF,ETF,True,2026-05-08,,,b9bab84439b9c
 GGLS,NASDAQ,Direxion Daily GOOGL Bear 1X ETF,ETF,True,2026-05-08,,,20e5ffa114d3b83578c1
 GGR,NASDAQ,Gogoro Inc. - Ordinary Shares,Stock,True,2026-05-08,,,9dcfa4342411f8c8ca41
 GGROW,NASDAQ,Gogoro Inc. - Warrant,Stock,True,2026-05-08,,,dec4d3f5d628eadb2198
-GGRP,NASDAQ,"The Glimpse Group, Inc. - Common Stock",Stock,True,2026-05-08,,,d83317869036590b2b9c
+GGRP,NASDAQ,"The Glimpse Group, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-20,Missing from current NASDAQ source snapshot; reason unavailable,d83317869036590b2b9c
 GH,NASDAQ,"Guardant Health, Inc. - Common Stock",Stock,True,2026-05-08,,,4df093eb08d55b5086e4
 GHRS,NASDAQ,GH Research PLC - Ordinary Shares,Stock,True,2026-05-08,,,f9b5f4c887cde7f71857
 GHXI,NASDAQ,"Gores Holdings XI, Inc. - Class A Ordinary Shares",Stock,True,2026-08-13,,,28ccf38e881ac37e8615
@@ -4668,6 +4671,7 @@ QMID,NASDAQ,WisdomTree U.S. MidCap Quality Growth Fund,ETF,True,2026-05-08,,,ada
 QMLS,NASDAQ,"QumulusAI, Inc. - Common Stock",Stock,True,2026-07-16,,,2e573793c1bcf669dc47
 QMMM,NASDAQ,QMMM Holdings Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-08-14,Missing from current NASDAQ source snapshot; reason unavailable,3de66dd79f4ad24b1e42
 QMOM,NASDAQ,Alpha Architect U.S. Quantitative Momentum ETF,ETF,True,2026-05-08,,,bba14e310381abb69794
+QNBC,NASDAQ,QNB Corp. - Common Stock,Stock,True,2026-08-20,,,b85234f4a8d93bbc43ac
 QNCX,NASDAQ,"Quince Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,98930c4fa884732ca20d
 QNDX,NASDAQ,State Street SPDR Portfolio Nasdaq 100 ETF,ETF,True,2026-06-24,,,c29313f776cad68052e0
 QNME,NASDAQ,"Quanome Technologies, Inc. - Common Stock",Stock,True,2026-08-04,,,dc6363ae47326df85939
@@ -5592,6 +5596,7 @@ TRAX,NASDAQ,"First Tracks Biotherapeutics, Inc. - Ordinary Shares",Stock,True,20
 TRBF,NASDAQ,Angel Oak Total Return ETF,ETF,True,2026-05-08,,,44f79b1995ac62b2000f
 TRDA,NASDAQ,"Entrada Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,85e27fd85832ba4d0b5d
 TREE,NASDAQ,"LendingTree, Inc. - Common Stock",Stock,True,2026-05-08,,,b9b863ff687e6da6d59e
+TREO,NASDAQ,Tactical Resources Corp. - Common Shares,Stock,True,2026-08-20,,,009876b7c813bfe51773
 TRGS,NASDAQ,TRG Latin America Acquisitions Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,aab9d382c80ba7202c40
 TRGSR,NASDAQ,TRG Latin America Acquisitions Corp. - Rights,Stock,True,2026-05-08,,,114521a9f80f2e6bce17
 TRGSU,NASDAQ,TRG Latin America Acquisitions Corp. - Units,Stock,True,2026-05-08,,,854d42676df436982b4e
@@ -6132,7 +6137,7 @@ XOMAO,NASDAQ,XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cu
 XOMAP,NASDAQ,XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock,Stock,False,2026-05-08,2026-07-15,Missing from current NASDAQ source snapshot; reason unavailable,f8a846ebf823596f2bfc
 XOMX,NASDAQ,Direxion Daily XOM Bull 2X ETF,ETF,True,2026-05-08,,,9b882ee33edb4d40ff74
 XOS,NASDAQ,"Xos, Inc. - Common Stock",Stock,True,2026-05-08,,,9eb433e1c7580d12ce7e
-XOSWW,NASDAQ,"Xos, Inc. - Warrants",Stock,True,2026-05-08,,,b30dc5aad1ff9dd5a6cd
+XOSWW,NASDAQ,"Xos, Inc. - Warrants",Stock,False,2026-05-08,2026-08-20,Missing from current NASDAQ source snapshot; reason unavailable,b30dc5aad1ff9dd5a6cd
 XOVR,NASDAQ,ERShares Private-Public Crossover ETF,ETF,True,2026-05-08,,,6b5e0dce50df08907475
 XP,NASDAQ,XP Inc. - Class A Common Stock,Stock,True,2026-05-08,,,b465bddd6b814ac4ffb2
 XPEG,NASDAQ,Leverage Shares 2X Long XPEV Daily ETF,ETF,True,2026-05-08,,,f9056955005d5e9e8a5e
@@ -8082,7 +8087,7 @@ MTW,NYSE,"Manitowoc Company, Inc. (The) Common Stock",Stock,True,2026-05-08,,,0d
 MTX,NYSE,Minerals Technologies Inc. Common Stock,Stock,True,2026-05-08,,,5b36754b539f74a952d4
 MTZ,NYSE,"MasTec, Inc. Common Stock",Stock,True,2026-05-08,,,66477eb2810fc6bf05b5
 MUA,NYSE,"Blackrock MuniAssets Fund, Inc Common Stock",Stock,True,2026-05-08,,,4c924db2f43bba4a81f6
-MUA.R,NYSE,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights",Stock,True,2026-08-04,,,84b8cba1916b237ea6fa
+MUA.R,NYSE,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights",Stock,False,2026-08-04,2026-08-20,Missing from current NYSE source snapshot; reason unavailable,84b8cba1916b237ea6fa
 MUA.V,NYSE,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",Stock,False,2026-07-27,2026-08-04,Missing from current NYSE source snapshot; reason unavailable,af96bdea189598cbdda6
 MUC,NYSE,"Blackrock MuniHoldings California Quality Fund, Inc. Common Stock",Stock,True,2026-05-08,,,fd2e91355566c0f3965e
 MUFG,NYSE,"Mitsubishi UFJ Financial Group, Inc. Common Stock",Stock,True,2026-05-08,,,d3fc2edb0e91df040efa
@@ -8769,6 +8774,8 @@ SNDA,NYSE,"Sonida Senior Living, Inc. Common Stock",Stock,True,2026-05-08,,,769e
 SNDR,NYSE,"Schneider National, Inc. Common Stock",Stock,True,2026-05-08,,,9e696fd05c1edb6987ad
 SNN,NYSE,"Smith & Nephew SNATS, Inc. Common Stock",Stock,True,2026-05-08,,,d5b0a438753556885fcb
 SNOW,NYSE,Snowflake Inc. Common Stock,Stock,True,2026-05-08,,,a0d2ca8579a47e2ca71c
+SNUS$H,NYSE,"Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H",Stock,True,2026-08-20,,,e7205a5d02261af9b1df
+SNUS$I,NYSE,"Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",Stock,True,2026-08-20,,,00fc0524d3c92b852bc6
 SNX,NYSE,TD SYNNEX Corporation Common Stock,Stock,True,2026-05-08,,,83e2db98c60f528d19ea
 SO,NYSE,Southern Company (The) Common Stock,Stock,True,2026-05-08,,,20fe38263d89f5f80c17
 SOBO,NYSE,South Bow Corporation Common Shares,Stock,True,2026-05-08,,,203929982b5224de3a68
@@ -9168,9 +9175,9 @@ WAL$A,NYSE,"Western Alliance Bancorporation Depositary Shares, Each Representing
 WAT,NYSE,Waters Corporation Common Stock,Stock,True,2026-05-08,,,5c44e8faad36172d4114
 WBI,NYSE,WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests,Stock,True,2026-05-08,,,d5165d02a8a8f7b8241e
 WBIY,NYSE,WBI Power Factor High Dividend ETF,ETF,True,2026-05-08,,,dd303dfd54bbaa754d88
-WBS,NYSE,Webster Financial Corporation Common Stock,Stock,True,2026-05-08,,,dcfa247edaa79df362da
-WBS$F,NYSE,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,637844fdfe2b3e3216a7
-WBS$G,NYSE,"Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",Stock,True,2026-05-08,,,9e25a39a810d6d214e81
+WBS,NYSE,Webster Financial Corporation Common Stock,Stock,False,2026-05-08,2026-08-20,Missing from current NYSE source snapshot; reason unavailable,dcfa247edaa79df362da
+WBS$F,NYSE,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock",Stock,False,2026-05-08,2026-08-20,Missing from current NYSE source snapshot; reason unavailable,637844fdfe2b3e3216a7
+WBS$G,NYSE,"Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",Stock,False,2026-05-08,2026-08-20,Missing from current NYSE source snapshot; reason unavailable,9e25a39a810d6d214e81
 WBX,NYSE,Wallbox N.V. Class A Ordinary Shares,Stock,True,2026-05-08,,,4b2d68dd7e811f00ddcd
 WCC,NYSE,"WESCO International, Inc. Common Stock",Stock,True,2026-05-08,,,3f0079788ba3c97f66f7
 WCN,NYSE,"Waste Connections, Inc. Common Shares",Stock,True,2026-05-08,,,24a6301b1c587052e7f9

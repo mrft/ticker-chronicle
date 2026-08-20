@@ -1763,7 +1763,6 @@ NYSE,MTW,"Manitowoc Company, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbo
 NYSE,MTX,Minerals Technologies Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MTZ,"MasTec, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MUA,"Blackrock MuniAssets Fund, Inc Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,MUA.R,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 NYSE,MUC,"Blackrock MuniHoldings California Quality Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MUFG,"Mitsubishi UFJ Financial Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MUJ,"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2422,6 +2421,8 @@ NYSE,SNDA,"Sonida Senior Living, Inc. Common Stock",Stock,,nasdaq_trader_symbol_
 NYSE,SNDR,"Schneider National, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SNN,"Smith & Nephew SNATS, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SNOW,Snowflake Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,SNUS$H,"Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H",Stock,,nasdaq_trader_symbol_directory
+NYSE,SNUS$I,"Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",Stock,,nasdaq_trader_symbol_directory
 NYSE,SNX,TD SYNNEX Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SO,Southern Company (The) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SOBO,South Bow Corporation Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2804,9 +2805,6 @@ NYSE,WAL$A,"Western Alliance Bancorporation Depositary Shares, Each Representing
 NYSE,WAT,Waters Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,WBI,WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests,Stock,,nasdaq_trader_symbol_directory
 NYSE,WBIY,WBI Power Factor High Dividend ETF,ETF,,nasdaq_trader_symbol_directory
-NYSE,WBS,Webster Financial Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,WBS$F,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,WBS$G,"Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WBX,Wallbox N.V. Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,WCC,"WESCO International, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WCN,"Waste Connections, Inc. Common Shares",Stock,,nasdaq_trader_symbol_directory
