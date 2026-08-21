@@ -321,7 +321,7 @@ NASDAQ,ANGU,SEI Ang Research Enhanced U.S. Large Cap ETF,ETF,,nasdaq_trader_symb
 NASDAQ,ANIK,Anika Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANIP,"ANI Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANIX,"Anixa Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ANL,Adlai Nortye Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ANL,Adlai Nortye Group Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANNA,"AleAnna, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANNAW,"AleAnna, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANNX,"Annexon, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
@@ -2876,9 +2876,6 @@ NASDAQ,LATAW,Galata Acquisition Corp. II - Warrant,Stock,,nasdaq_trader_symbol_d
 NASDAQ,LAUR,"Laureate Education, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LAWR,"Robot Consulting Co., Ltd. - ADS",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LBGJ,Li Bang International Corporation Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LBRDA,Liberty Broadband Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LBRDK,Liberty Broadband Corporation - Class C Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LBRDP,Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LBRX,LB Pharmaceuticals Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LBTYA,Liberty Global Ltd. - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LBTYB,Liberty Global Ltd. - Class B Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3716,7 +3713,9 @@ NASDAQ,OSBC,"Old Second Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,OSCX,Defiance Daily Target 2x Long OSCR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OSIS,"OSI Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSPN,OneSpan Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OSPR,Osprey Acquisition Corp. III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSPRU,Osprey Acquisition Corp. III - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OSPRW,Osprey Acquisition Corp. III - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSRH,"OSR Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSRHW,"OSR Health, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSS,"One Stop Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4474,6 +4473,7 @@ NASDAQ,SENEA,Seneca Foods Corp. - Class A Common Stock,Stock,,nasdaq_trader_symb
 NASDAQ,SENEB,Seneca Foods Corp. - Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SENS,"Senseonics Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SEPN,"Septerna, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SEPQ,STF Tactical Growth & Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SERA,"Sera Prognostics, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SERV,Serve Robotics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SETM,Sprott Critical Materials ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5044,7 +5044,6 @@ NASDAQ,TTMI,"TTM Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,TTRX,Turn Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TTWO,"Take-Two Interactive Software, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TUG,STF Tactical Growth ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,TUGN,STF Tactical Growth & Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TULP,"Bloomia Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TUR,iShares MSCI Turkey ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TURB,"Turbo Energy, S.A. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -5516,7 +5515,6 @@ NASDAQ,XYZG,Leverage Shares 2X Long XYZ Daily ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,YAAS,Youxin Technology Ltd - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YARW,"Yarrow Bioscience, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YB,Yuanbao Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,YBMN,Defiance BMNR Option Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YBST,GraniteShares YieldBoost Single Stock Universe ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YBTY,GraniteShares YieldBoost TopYielders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YDDL,One and One Green Technologies. INC - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory

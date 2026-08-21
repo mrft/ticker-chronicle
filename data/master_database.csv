@@ -682,7 +682,8 @@ ANGU,NASDAQ,SEI Ang Research Enhanced U.S. Large Cap ETF,ETF,True,2026-08-06,,,a
 ANIK,NASDAQ,Anika Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,8b0d59b647afef5ef03f
 ANIP,NASDAQ,"ANI Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,f94cb5f53cdadb10ad6d
 ANIX,NASDAQ,"Anixa Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,12a16d321d7eba1ea38e
-ANL,NASDAQ,Adlai Nortye Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,034845642b153bfa7969
+ANL,NASDAQ,Adlai Nortye Ltd. - American Depositary Shares,Stock,False,2026-05-08,2026-08-21,Listing metadata changed,034845642b153bfa7969
+ANL,NASDAQ,Adlai Nortye Group Ltd. - American Depositary Shares,Stock,True,2026-08-21,,,b7b75ec1bb167e80b292
 ANNA,NASDAQ,"AleAnna, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,d8d6dbf1c627b861a653
 ANNAW,NASDAQ,"AleAnna, Inc. - Warrant",Stock,True,2026-05-08,,,b4167f70c211590598c8
 ANNX,NASDAQ,"Annexon, Inc. - common stock",Stock,True,2026-05-08,,,4e8636fccc1b206dacce
@@ -3373,9 +3374,9 @@ LATAW,NASDAQ,Galata Acquisition Corp. II - Warrant,Stock,True,2026-05-08,,,d0b15
 LAUR,NASDAQ,"Laureate Education, Inc. - Common Stock",Stock,True,2026-05-08,,,f164011ced278001972d
 LAWR,NASDAQ,"Robot Consulting Co., Ltd. - ADS",Stock,True,2026-05-08,,,5625da8dd7ff1bf284d6
 LBGJ,NASDAQ,Li Bang International Corporation Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,a5b0a5d972138450274d
-LBRDA,NASDAQ,Liberty Broadband Corporation - Class A Common Stock,Stock,True,2026-05-08,,,2952db5227e8c7000604
-LBRDK,NASDAQ,Liberty Broadband Corporation - Class C Common Stock,Stock,True,2026-05-08,,,2f4c41502f37504cc0b7
-LBRDP,NASDAQ,Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,a69affb3b4392f180ce3
+LBRDA,NASDAQ,Liberty Broadband Corporation - Class A Common Stock,Stock,False,2026-05-08,2026-08-21,Missing from current NASDAQ source snapshot; reason unavailable,2952db5227e8c7000604
+LBRDK,NASDAQ,Liberty Broadband Corporation - Class C Common Stock,Stock,False,2026-05-08,2026-08-21,Missing from current NASDAQ source snapshot; reason unavailable,2f4c41502f37504cc0b7
+LBRDP,NASDAQ,Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred Stock,Stock,False,2026-05-08,2026-08-21,Missing from current NASDAQ source snapshot; reason unavailable,a69affb3b4392f180ce3
 LBRX,NASDAQ,LB Pharmaceuticals Inc - Common Stock,Stock,True,2026-05-08,,,e0640aa821cd83569568
 LBTYA,NASDAQ,Liberty Global Ltd. - Class A Common Shares,Stock,True,2026-05-08,,,638977975a1ef2c93786
 LBTYB,NASDAQ,Liberty Global Ltd. - Class B Common Shares,Stock,True,2026-05-08,,,4d5afed70e199a62ba50
@@ -4270,7 +4271,9 @@ OSCG,NASDAQ,Leverage Shares 2X Long OSCR Daily ETF,ETF,False,2026-05-08,2026-07-
 OSCX,NASDAQ,Defiance Daily Target 2x Long OSCR ETF,ETF,True,2026-05-08,,,9b055e9f63ee5bfb0648
 OSIS,NASDAQ,"OSI Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,b6c0335d121b53be1cf6
 OSPN,NASDAQ,OneSpan Inc. - Common Stock,Stock,True,2026-05-08,,,945169c7344cb6396850
+OSPR,NASDAQ,Osprey Acquisition Corp. III - Class A Ordinary Shares,Stock,True,2026-08-21,,,1a598e2879349a51865f
 OSPRU,NASDAQ,Osprey Acquisition Corp. III - Units,Stock,True,2026-07-01,,,2cb77a20dd40da505023
+OSPRW,NASDAQ,Osprey Acquisition Corp. III - Warrants,Stock,True,2026-08-21,,,8604c6ea5b2331f43e07
 OSRH,NASDAQ,"OSR Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-23,Listing metadata changed,627d25c7c145245f3c34
 OSRH,NASDAQ,"OSR Health, Inc. - Common Stock",Stock,True,2026-06-23,,,3f561cf3b4ba4ee0fd4a
 OSRHW,NASDAQ,"OSR Holdings, Inc. - Warrant",Stock,False,2026-05-08,2026-06-23,Listing metadata changed,6286bd99800d338377f6
@@ -5059,6 +5062,7 @@ SENEA,NASDAQ,Seneca Foods Corp. - Class A Common Stock,Stock,True,2026-05-08,,,d
 SENEB,NASDAQ,Seneca Foods Corp. - Class B Common Stock,Stock,True,2026-05-08,,,8c03bd738ad1c12c33a7
 SENS,NASDAQ,"Senseonics Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,8060a7a235065555477d
 SEPN,NASDAQ,"Septerna, Inc. - Common Stock",Stock,True,2026-05-08,,,ca6e8507fe7c5530d38e
+SEPQ,NASDAQ,STF Tactical Growth & Income ETF,ETF,True,2026-08-21,,,547b2f065b1b1da9353e
 SERA,NASDAQ,"Sera Prognostics, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,92cfe844028a6109bb9c
 SERV,NASDAQ,Serve Robotics Inc. - Common Stock,Stock,True,2026-05-08,,,f66ed1f78679598b6cd7
 SETM,NASDAQ,Sprott Critical Materials ETF,ETF,True,2026-05-08,,,62dac6a609186a8145ed
@@ -5666,7 +5670,7 @@ TTMI,NASDAQ,"TTM Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,90e1
 TTRX,NASDAQ,Turn Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,712e5b7805e3fadc5354
 TTWO,NASDAQ,"Take-Two Interactive Software, Inc. - Common Stock",Stock,True,2026-05-08,,,53a81484262ed8a2073c
 TUG,NASDAQ,STF Tactical Growth ETF,ETF,True,2026-05-08,,,c95bdb899095378272e0
-TUGN,NASDAQ,STF Tactical Growth & Income ETF,ETF,True,2026-05-08,,,547b2f065b1b1da9353e
+TUGN,NASDAQ,STF Tactical Growth & Income ETF,ETF,False,2026-05-08,2026-08-21,Missing from current NASDAQ source snapshot; reason unavailable,547b2f065b1b1da9353e
 TULP,NASDAQ,"Bloomia Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,0c0c72f722113ebe972c
 TUR,NASDAQ,iShares MSCI Turkey ETF,ETF,True,2026-05-08,,,3b23ae6ef57583bee2bf
 TURB,NASDAQ,"Turbo Energy, S.A. - American Depositary Shares",Stock,True,2026-05-08,,,ea6d1dad1946a688c755
@@ -6171,7 +6175,7 @@ XYZG,NASDAQ,Leverage Shares 2X Long XYZ Daily ETF,ETF,True,2026-05-08,,,1547c5e3
 YAAS,NASDAQ,Youxin Technology Ltd - Class A Ordinary shares,Stock,True,2026-05-08,,,099fb2e04771de49994c
 YARW,NASDAQ,"Yarrow Bioscience, Inc. - Common Stock",Stock,True,2026-07-28,,,acec16b31796b0ebeedc
 YB,NASDAQ,Yuanbao Inc. - American Depositary Shares,Stock,True,2026-05-08,,,46bda2693ddffea89834
-YBMN,NASDAQ,Defiance BMNR Option Income ETF,ETF,True,2026-05-08,,,cf06f3cc46ad144aec95
+YBMN,NASDAQ,Defiance BMNR Option Income ETF,ETF,False,2026-05-08,2026-08-21,Missing from current NASDAQ source snapshot; reason unavailable,cf06f3cc46ad144aec95
 YBST,NASDAQ,GraniteShares YieldBoost Single Stock Universe ETF,ETF,True,2026-05-08,,,0390b12bfcfbbd15f6cf
 YBTY,NASDAQ,GraniteShares YieldBoost TopYielders ETF,ETF,True,2026-05-08,,,0c88ae713afe9f8bb6e1
 YDDL,NASDAQ,One and One Green Technologies. INC - Class A Ordinary Shares,Stock,True,2026-05-08,,,cfcc2db6ced8bef950a5
