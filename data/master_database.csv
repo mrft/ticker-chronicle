@@ -83,6 +83,7 @@ DXF,AMEX,"Eason Technology Limited American Depositary Shares (each representing
 EAD,AMEX,Allspring Income Opportunities Fund Common Shares,Stock,True,2026-05-08,,,886be944d1a21f166126
 ECF,AMEX,Ellsworth Growth and Income Fund Ltd.,Stock,True,2026-05-08,,,f87399882cdb47ee5a1a
 ECF$A,AMEX,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),Stock,True,2026-05-08,,,fb6e9a422add4f162864
+EDVA,AMEX,"Endovia Health Sciences, Inc. Common Stock",Stock,True,2026-08-24,,,f1ef03f304809ca73435
 EGG,AMEX,Enigmatig Limited Class A Ordinary Shares,Stock,True,2026-05-08,,,469a7d37eddbad10cd80
 EIM,AMEX,"Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",Stock,True,2026-05-08,,,10442c3c3bdddb467995
 ELA,AMEX,Envela Corporation Common Stock,Stock,True,2026-05-08,,,dfcf4180b14932819c1c
@@ -201,7 +202,7 @@ MYND,AMEX,"Mynd.ai, Inc. American Depositary Shares",Stock,True,2026-05-08,,,11b
 MYO,AMEX,Myomo Inc. Common Stock,Stock,True,2026-05-08,,,e904c26275a1665ef9b8
 NAK,AMEX,"Northern Dynasty Minerals, Ltd. Common Stock",Stock,True,2026-05-08,,,eee24b8f82f650f5f0f1
 NBH,AMEX,Neuberger Municipal Fund Inc. Common Stock,Stock,True,2026-05-08,,,72a4e63d69d287e3126f
-NCL,AMEX,Northann Corp. Common Stock,Stock,True,2026-05-08,,,a93555540d2746a30012
+NCL,AMEX,Northann Corp. Common Stock,Stock,False,2026-05-08,2026-08-24,Missing from current AMEX source snapshot; reason unavailable,a93555540d2746a30012
 NEN,AMEX,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,Stock,True,2026-05-08,,,756627d452cb1bbe7fa0
 NEWP,AMEX,New Pacific Metals Corp. Common Shares,Stock,True,2026-05-08,,,b6d3cdc04d03aedffb47
 NFGC,AMEX,New Found Gold Corp Common Shares,Stock,True,2026-05-08,,,bd495d31eaf7fe41ebe8
@@ -264,7 +265,7 @@ RVP,AMEX,"Retractable Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,2
 RYDE,AMEX,Ryde Group Ltd. Class A Ordinary Shares,Stock,True,2026-05-08,,,4c3c9d67f32edf8bedfb
 SACH,AMEX,Sachem Capital Corp. Common Shares,Stock,True,2026-05-08,,,843e5c4fc73aa04cfac5
 SACH$A,AMEX,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,ba778109457eb6959b7e
-SBEV,AMEX,"Splash Beverage Group, Inc. (NV) Common Stock",Stock,True,2026-05-08,,,10140922a724e0b93062
+SBEV,AMEX,"Splash Beverage Group, Inc. (NV) Common Stock",Stock,False,2026-05-08,2026-08-24,Other delisting reason: Details unavailable (source: FMP Delisted API),10140922a724e0b93062
 SBMT,AMEX,Silver Bow Mining Corp. Common Shares,Stock,True,2026-05-08,,,030da3114c6dbda22347
 SCCD,AMEX,Sachem Capital Corp. 6.00% Notes due 2026,Stock,True,2026-05-08,,,a6b6553b6ec26787c2cd
 SCCE,AMEX,Sachem Capital Corp. 6.00% Notes due 2027,Stock,True,2026-05-08,,,483a809e27382019914b
@@ -3292,6 +3293,7 @@ KLRA,NASDAQ,"Kailera Therapeutics, Inc. - Common stock",Stock,True,2026-05-08,,,
 KLRS,NASDAQ,"Kalaris Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,0ea8e3e0826f3b61f0dd
 KLTR,NASDAQ,"Kaltura, Inc. - Common Stock",Stock,True,2026-05-08,,,717a179d848ecc4c725b
 KLXE,NASDAQ,"KLX Energy Services Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,db466f5c3f8f5fdcf4ef
+KLXER,NASDAQ,"KLX Energy Services Holdings, Inc. - Rights",Stock,True,2026-08-24,,,d19b4c27457f1730d203
 KMB,NASDAQ,Kimberly-Clark Corporation - Common Stock,Stock,True,2026-05-08,,,6fabc531f4ca8def6e6f
 KMDA,NASDAQ,Kamada Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,0021b074300af7583fa0
 KMLI,NASDAQ,KraneShares 2x Long MELI Daily ETF,ETF,True,2026-05-08,,,423bbbcdb3ee279a8d3b
@@ -3697,7 +3699,9 @@ MGRX,NASDAQ,"Mangoceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,544893
 MGTX,NASDAQ,MeiraGTx Holdings plc - Ordinary Shares,Stock,True,2026-05-08,,,5daab830a782fcd5e365
 MGX,NASDAQ,"Metagenomi Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,51a281cd982555c583ea
 MGYR,NASDAQ,"Magyar Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,10113082899e33facc5c
+MIAC,NASDAQ,Meridian3 Industrials Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-08-24,,,a00022b10dc8473f97f4
 MIACU,NASDAQ,Meridian3 Industrials Acquisition Corp - Units,Stock,True,2026-07-02,,,07a6f297eff4f7870ae4
+MIACW,NASDAQ,Meridian3 Industrials Acquisition Corp - Warrant,Stock,True,2026-08-24,,,0ce3a651544ea5a4444c
 MIDD,NASDAQ,The Middleby Corporation - Common Stock,Stock,True,2026-05-08,,,d05185d201b36ee106c7
 MIDDV,NASDAQ,Middleby Corp. - Common Stock Ex-Distribution When Issued,Stock,False,2026-06-26,2026-07-06,Listing metadata changed,0082b3f086dbcf36d736
 MIDDV,NASDAQ,The Middleby Corporation - Common Stock Ex-Distribution When Issued,Stock,False,2026-07-06,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,a763c1c8dad98d32f143
@@ -4803,7 +4807,8 @@ RDZN,NASDAQ,"Roadzen, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,39644e2dea
 RDZNW,NASDAQ,"Roadzen, Inc. - Warrants",Stock,True,2026-05-08,,,6f92b682e478c0a8c724
 REAI,NASDAQ,Intelligent Real Estate ETF,ETF,True,2026-05-08,,,a780b6d4a0cb99a4ea56
 REAL,NASDAQ,"The RealReal, Inc. - Common Stock",Stock,True,2026-05-08,,,0c3389d30f6b7441cdc7
-REAX,NASDAQ,"The Real Brokerage, Inc. - Common Shares",Stock,True,2026-05-08,,,feb1658ff510b5b39d7a
+REAX,NASDAQ,"The Real Brokerage, Inc. - Common Shares",Stock,False,2026-05-08,2026-08-24,Listing metadata changed,feb1658ff510b5b39d7a
+REAX,NASDAQ,"The Real Brokerage, Inc. - Common Stock",Stock,True,2026-08-24,,,134fe23f54c9e5e65791
 REBN,NASDAQ,"Reborn Coffee, Inc. - Common Stock",Stock,True,2026-05-08,,,ec2bedcc168cfe41f206
 RECT,NASDAQ,Rectitude Holdings Ltd - Ordinary Shares,Stock,True,2026-05-08,,,8a28ad047560cd98912b
 REE,NASDAQ,REE Automotive Ltd. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,b73ea61da643d251dc02
@@ -4899,7 +4904,7 @@ RNIN,NASDAQ,Bushido Capital US SMID Cap Equity ETF,ETF,True,2026-05-08,,,3fbc79e
 RNRG,NASDAQ,Global X Renewable Energy Producers ETF,ETF,True,2026-05-08,,,07e6b84073e4326331d0
 RNTX,NASDAQ,"Rein Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,befdbc8f144eb9b7c61f
 RNW,NASDAQ,ReNew Energy Global plc - Class A Shares,Stock,True,2026-05-08,,,5aaeb27ee53adb07c958
-RNWWW,NASDAQ,ReNew Energy Global plc - Warrant,Stock,True,2026-05-08,,,c48d6bd79ff3ea951029
+RNWWW,NASDAQ,ReNew Energy Global plc - Warrant,Stock,False,2026-05-08,2026-08-24,Missing from current NASDAQ source snapshot; reason unavailable,c48d6bd79ff3ea951029
 RNXT,NASDAQ,"RenovoRx, Inc. - Common Stock",Stock,True,2026-05-08,,,e07766b3d8d135414eaa
 ROAD,NASDAQ,"Construction Partners, Inc. - Common Stock",Stock,True,2026-05-08,,,0186bb3fb1bb96015c48
 ROBT,NASDAQ,First Trust Nasdaq Artificial Intelligence and Robotics ETF,ETF,True,2026-05-08,,,848e317514d8486022ca
@@ -7176,8 +7181,10 @@ EGY,NYSE,"VAALCO Energy, Inc. Common Stock",Stock,True,2026-05-08,,,02debf210093
 EHAB,NYSE,"Enhabit, Inc. Common Stock",Stock,False,2026-05-08,2026-05-15,Missing from current NYSE source snapshot; reason unavailable,470bf3165b2bf829ba83
 EHC,NYSE,Encompass Health Corporation Common Stock,Stock,True,2026-05-08,,,4fa322af730d75b771a5
 EHI,NYSE,Western Asset Global High Income Fund Inc Common Stock,Stock,True,2026-05-08,,,a7bb5b6d6a7beda8d6c2
-EIC,NYSE,Eagle Point Income Company Inc. Common Stock,Stock,True,2026-05-08,,,cd4b82b7bcc24fbc07f1
-EICA,NYSE,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,Stock,True,2026-05-08,,,4a7cbdad084811164e63
+EIC,NYSE,Eagle Point Income Company Inc. Common Stock,Stock,False,2026-05-08,2026-08-24,Listing metadata changed,cd4b82b7bcc24fbc07f1
+EIC,NYSE,Eagle Point Income Company Common Shares of Beneficial Interest,Stock,True,2026-08-24,,,a478363939a8c76da319
+EICA,NYSE,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,Stock,False,2026-05-08,2026-08-24,Listing metadata changed,4a7cbdad084811164e63
+EICA,NYSE,Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026,Stock,True,2026-08-24,,,19d766b58b22908e63c3
 EIG,NYSE,Employers Holdings Inc Common Stock,Stock,True,2026-05-08,,,2770c0375e21a20ee811
 EIIA,NYSE,Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029,Stock,True,2026-05-08,,,05b9b8a874b07750b08c
 EIX,NYSE,Edison International Common Stock,Stock,True,2026-05-08,,,80adcffe6137af2c5148

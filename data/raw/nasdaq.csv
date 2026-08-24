@@ -2801,6 +2801,7 @@ NASDAQ,KLRA,"Kailera Therapeutics, Inc. - Common stock",Stock,,nasdaq_trader_sym
 NASDAQ,KLRS,"Kalaris Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KLTR,"Kaltura, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KLXE,"KLX Energy Services Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KLXER,"KLX Energy Services Holdings, Inc. - Rights",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KMB,Kimberly-Clark Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KMDA,Kamada Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KMLI,KraneShares 2x Long MELI Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3173,7 +3174,9 @@ NASDAQ,MGRX,"Mangoceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_di
 NASDAQ,MGTX,MeiraGTx Holdings plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGX,"Metagenomi Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGYR,"Magyar Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MIAC,Meridian3 Industrials Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIACU,Meridian3 Industrials Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MIACW,Meridian3 Industrials Acquisition Corp - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIDD,The Middleby Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MILN,Global X Millennial Consumer ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MIMI,Mint Incorporation Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4227,7 +4230,7 @@ NASDAQ,RDZN,"Roadzen, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_direct
 NASDAQ,RDZNW,"Roadzen, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REAI,Intelligent Real Estate ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,REAL,"The RealReal, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,REAX,"The Real Brokerage, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,REAX,"The Real Brokerage, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REBN,"Reborn Coffee, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RECT,Rectitude Holdings Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REFI,"Chicago Atlantic Real Estate Finance, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4322,7 +4325,6 @@ NASDAQ,RNIN,Bushido Capital US SMID Cap Equity ETF,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,RNRG,Global X Renewable Energy Producers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RNTX,"Rein Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNW,ReNew Energy Global plc - Class A Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RNWWW,ReNew Energy Global plc - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNXT,"RenovoRx, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ROAD,"Construction Partners, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ROBT,First Trust Nasdaq Artificial Intelligence and Robotics ETF,ETF,,nasdaq_trader_symbol_directory

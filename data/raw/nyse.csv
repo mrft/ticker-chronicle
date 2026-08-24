@@ -878,8 +878,8 @@ NYSE,EGP,"EastGroup Properties, Inc. Common Stock",Stock,,nasdaq_trader_symbol_d
 NYSE,EGY,"VAALCO Energy, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,EHC,Encompass Health Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,EHI,Western Asset Global High Income Fund Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,EIC,Eagle Point Income Company Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,EICA,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,Stock,,nasdaq_trader_symbol_directory
+NYSE,EIC,Eagle Point Income Company Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+NYSE,EICA,Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026,Stock,,nasdaq_trader_symbol_directory
 NYSE,EIG,Employers Holdings Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,EIIA,Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029,Stock,,nasdaq_trader_symbol_directory
 NYSE,EIX,Edison International Common Stock,Stock,,nasdaq_trader_symbol_directory

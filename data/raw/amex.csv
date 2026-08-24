@@ -78,6 +78,7 @@ AMEX,DXF,"Eason Technology Limited American Depositary Shares (each representing
 AMEX,EAD,Allspring Income Opportunities Fund Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,ECF,Ellsworth Growth and Income Fund Ltd.,Stock,,nasdaq_trader_symbol_directory
 AMEX,ECF$A,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),Stock,,nasdaq_trader_symbol_directory
+AMEX,EDVA,"Endovia Health Sciences, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 AMEX,EGG,Enigmatig Limited Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,EIM,"Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",Stock,,nasdaq_trader_symbol_directory
 AMEX,ELA,Envela Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -184,7 +185,6 @@ AMEX,MYND,"Mynd.ai, Inc. American Depositary Shares",Stock,,nasdaq_trader_symbol
 AMEX,MYO,Myomo Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,NAK,"Northern Dynasty Minerals, Ltd. Common Stock",Stock,,nasdaq_trader_symbol_directory
 AMEX,NBH,Neuberger Municipal Fund Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
-AMEX,NCL,Northann Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,NEN,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,Stock,,nasdaq_trader_symbol_directory
 AMEX,NEWP,New Pacific Metals Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,NFGC,New Found Gold Corp Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -243,7 +243,6 @@ AMEX,RVP,"Retractable Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symb
 AMEX,RYDE,Ryde Group Ltd. Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,SACH,Sachem Capital Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
-AMEX,SBEV,"Splash Beverage Group, Inc. (NV) Common Stock",Stock,,nasdaq_trader_symbol_directory
 AMEX,SBMT,Silver Bow Mining Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,SCCD,Sachem Capital Corp. 6.00% Notes due 2026,Stock,,nasdaq_trader_symbol_directory
 AMEX,SCCE,Sachem Capital Corp. 6.00% Notes due 2027,Stock,,nasdaq_trader_symbol_directory
