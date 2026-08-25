@@ -99,6 +99,7 @@ NASDAQ,ADAMO,"Adamas Trust, Inc. - 9.250% Senior Notes Due 2031",Stock,,nasdaq_t
 NASDAQ,ADAMZ,"Adamas Trust, Inc. - 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADBE,Adobe Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADBG,Leverage Shares 2X Long ADBE Daily ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ADBT,"Advasa Holdings, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADEA,Adeia Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADGM,"Adagio Medical Holdings, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADI,"Analog Devices, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3580,7 +3581,7 @@ NASDAQ,NXL,"Nexalin Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol
 NASDAQ,NXPI,NXP Semiconductors N.V. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXPL,NextPlat Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXST,"Nexstar Media Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NXT,Nextpower Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NXT,Nextpower Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXTC,"NextCure, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXTG,First Trust Indxx NextG ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NXTS,Nexentis Technologies Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4230,7 +4231,7 @@ NASDAQ,RDZN,"Roadzen, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_direct
 NASDAQ,RDZNW,"Roadzen, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REAI,Intelligent Real Estate ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,REAL,"The RealReal, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,REAX,"The Real Brokerage, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,REAX,Real REMAX Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REBN,"Reborn Coffee, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RECT,Rectitude Holdings Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REFI,"Chicago Atlantic Real Estate Finance, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5543,6 +5544,7 @@ NASDAQ,YORW,The York Water Company - Common Stock,Stock,,nasdaq_trader_symbol_di
 NASDAQ,YOUL,Youlife Group Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YQ,17 Education & Technology Group Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YQQQ,YieldMax Short N100 Option Income Strategy ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,YRAM,YieldMax Memory and Storage Portfolio Option Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YSAG,Y'all Street Physical Silver ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YSAU,Y'all Street Physical Gold ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YSPY,GraniteShares YieldBOOST SPY ETF,ETF,,nasdaq_trader_symbol_directory

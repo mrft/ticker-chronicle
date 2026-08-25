@@ -446,6 +446,7 @@ ADAMO,NASDAQ,"Adamas Trust, Inc. - 9.250% Senior Notes Due 2031",Stock,True,2026
 ADAMZ,NASDAQ,"Adamas Trust, Inc. - 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share",Stock,True,2026-05-08,,,7e2223842d0fe553920c
 ADBE,NASDAQ,Adobe Inc. - Common Stock,Stock,True,2026-05-08,,,15aaf1a5e2956b887299
 ADBG,NASDAQ,Leverage Shares 2X Long ADBE Daily ETF,ETF,True,2026-05-08,,,37b95323ae1b86c66ab6
+ADBT,NASDAQ,"Advasa Holdings, Inc. - Common stock",Stock,True,2026-08-25,,,5f2eaa66a902030f75ad
 ADEA,NASDAQ,Adeia Inc. - Common Stock,Stock,True,2026-05-08,,,6c95447815d3dfe75ba5
 ADGM,NASDAQ,"Adagio Medical Holdings, Inc - Common Stock",Stock,True,2026-05-08,,,52e6c8412b449ebf47cb
 ADI,NASDAQ,"Analog Devices, Inc. - Common Stock",Stock,True,2026-05-08,,,01a3cc8db5a1507f2bdb
@@ -4130,7 +4131,8 @@ NXPI,NASDAQ,NXP Semiconductors N.V. - Common Stock,Stock,True,2026-05-08,,,0ccc8
 NXPL,NASDAQ,NextPlat Corp - Common Stock,Stock,True,2026-05-08,,,fda1ec5ef8a103bf66ec
 NXPLW,NASDAQ,NextPlat Corp - Warrants,Stock,False,2026-05-08,2026-06-03,Missing from current NASDAQ source snapshot; reason unavailable,10e200eee9198ed7bae6
 NXST,NASDAQ,"Nexstar Media Group, Inc. - Common Stock",Stock,True,2026-05-08,,,60dc4706da0fb9c2f6fc
-NXT,NASDAQ,Nextpower Inc. - Class A Common Stock,Stock,True,2026-05-08,,,51225fa05aafa3d9f895
+NXT,NASDAQ,Nextpower Inc. - Class A Common Stock,Stock,False,2026-05-08,2026-08-25,Listing metadata changed,51225fa05aafa3d9f895
+NXT,NASDAQ,Nextpower Inc. - Common Stock,Stock,True,2026-08-25,,,810276359dd88986d81c
 NXTC,NASDAQ,"NextCure, Inc. - Common Stock",Stock,True,2026-05-08,,,ebbd6d40c45d493cea82
 NXTG,NASDAQ,First Trust Indxx NextG ETF,ETF,True,2026-05-08,,,666e96721e3482899683
 NXTS,NASDAQ,Nexentis Technologies Inc. - Common Stock,Stock,True,2026-05-08,,,e17602c00950c6e0c3fe
@@ -4808,7 +4810,8 @@ RDZNW,NASDAQ,"Roadzen, Inc. - Warrants",Stock,True,2026-05-08,,,6f92b682e478c0a8
 REAI,NASDAQ,Intelligent Real Estate ETF,ETF,True,2026-05-08,,,a780b6d4a0cb99a4ea56
 REAL,NASDAQ,"The RealReal, Inc. - Common Stock",Stock,True,2026-05-08,,,0c3389d30f6b7441cdc7
 REAX,NASDAQ,"The Real Brokerage, Inc. - Common Shares",Stock,False,2026-05-08,2026-08-24,Listing metadata changed,feb1658ff510b5b39d7a
-REAX,NASDAQ,"The Real Brokerage, Inc. - Common Stock",Stock,True,2026-08-24,,,134fe23f54c9e5e65791
+REAX,NASDAQ,"The Real Brokerage, Inc. - Common Stock",Stock,False,2026-08-24,2026-08-25,Listing metadata changed,134fe23f54c9e5e65791
+REAX,NASDAQ,Real REMAX Group Inc. - Common Stock,Stock,True,2026-08-25,,,b3c3cef047dd363839c7
 REBN,NASDAQ,"Reborn Coffee, Inc. - Common Stock",Stock,True,2026-05-08,,,ec2bedcc168cfe41f206
 RECT,NASDAQ,Rectitude Holdings Ltd - Ordinary Shares,Stock,True,2026-05-08,,,8a28ad047560cd98912b
 REE,NASDAQ,REE Automotive Ltd. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,b73ea61da643d251dc02
@@ -6208,6 +6211,7 @@ YORW,NASDAQ,The York Water Company - Common Stock,Stock,True,2026-05-08,,,83c215
 YOUL,NASDAQ,Youlife Group Inc. - American Depositary Shares,Stock,True,2026-05-08,,,de8ca03d663b6efaea96
 YQ,NASDAQ,17 Education & Technology Group Inc. - American Depositary Shares,Stock,True,2026-05-08,,,08aeb4755dbdfe0702d2
 YQQQ,NASDAQ,YieldMax Short N100 Option Income Strategy ETF,ETF,True,2026-05-08,,,7c9dca9364d5116bbb74
+YRAM,NASDAQ,YieldMax Memory and Storage Portfolio Option Income ETF,ETF,True,2026-08-25,,,ac8692ed714a802fa35a
 YSAG,NASDAQ,Y'all Street Physical Silver ETF,ETF,True,2026-07-15,,,77068a801187b09836e3
 YSAU,NASDAQ,Y'all Street Physical Gold ETF,ETF,True,2026-07-15,,,9e6ceb32dfc42b18b105
 YSPY,NASDAQ,GraniteShares YieldBOOST SPY ETF,ETF,True,2026-05-08,,,ebd82f2e0e7cbb2afbb5
@@ -7449,7 +7453,8 @@ GFF,NYSE,Griffon Corporation Common Stock,Stock,True,2026-05-08,,,8e6ae91bbf3547
 GFI,NYSE,Gold Fields Limited American Depositary Shares,Stock,True,2026-05-08,,,b3b81c8ebfc4902d6acc
 GFL,NYSE,"GFL Environmental Inc. Subordinate voting shares, no par value",Stock,True,2026-05-08,,,afcce4a5ee701fef33af
 GFR,NYSE,Greenfire Resources Ltd. Common Shares,Stock,True,2026-05-08,,,128a642d764db8a83e57
-GFR.V,NYSE,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",Stock,True,2026-08-14,,,c5c2aef98666c3793f33
+GFR.R,NYSE,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",Stock,True,2026-08-25,,,0e9025f49b43809cca9e
+GFR.V,NYSE,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",Stock,False,2026-08-14,2026-08-25,Missing from current NYSE source snapshot; reason unavailable,c5c2aef98666c3793f33
 GGB,NYSE,Gerdau S.A. Common Stock,Stock,True,2026-05-08,,,8722cf6e2ff3460073fd
 GGG,NYSE,Graco Inc. Common Stock,Stock,True,2026-05-08,,,1a2e6857292152a7bc3d
 GGT,NYSE,"Gabelli Multi-Media Trust, Inc. (The) Common Stock",Stock,True,2026-05-08,,,ded37aacc91bbd0c9846
@@ -8601,7 +8606,7 @@ RLJ$A,NYSE,RLJ Lodging Trust $1.95 Series A Cumulative Convertible Preferred Sha
 RLTY,NYSE,Cohen & Steers Real Estate Opportunities and Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,4a994f5d0854b4b2f359
 RLX,NYSE,"RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class A ordinary share",Stock,True,2026-05-08,,,50e0525bd12b2e691d91
 RM,NYSE,Regional Management Corp. Common Stock,Stock,True,2026-05-08,,,878c97e0ed25543bec0d
-RMAX,NYSE,"RE/MAX Holdings, Inc. Class A Common Stock",Stock,True,2026-05-08,,,eca4f686f4a476b12aeb
+RMAX,NYSE,"RE/MAX Holdings, Inc. Class A Common Stock",Stock,False,2026-05-08,2026-08-25,Missing from current NYSE source snapshot; reason unavailable,eca4f686f4a476b12aeb
 RMD,NYSE,ResMed Inc. Common Stock,Stock,True,2026-05-08,,,0593ae46695fa68c7503
 RMI,NYSE,"RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock",Stock,True,2026-05-08,,,0e7152d56fc247121f5a
 RMM,NYSE,"RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock",Stock,True,2026-05-08,,,e119d6d920b06ea0c58e
@@ -9032,7 +9037,7 @@ TWI,NYSE,"Titan International, Inc. (DE) Common Stock",Stock,True,2026-05-08,,,c
 TWLO,NYSE,Twilio Inc. Class A Common Stock,Stock,True,2026-05-08,,,b231d0097b6f4b740a77
 TWN,NYSE,"Taiwan Fund, Inc. (The) Common Stock",Stock,True,2026-05-08,,,c96c95f78e556cd302b0
 TWO,NYSE,Two Harbors Investment Corp,Stock,False,2026-05-08,2026-08-03,Missing from current NYSE source snapshot; reason unavailable,c81f00411baa31444237
-TWO,NYSE,Two Harbors Investment Corp,Stock,True,2026-08-04,,,c81f00411baa31444237
+TWO,NYSE,Two Harbors Investment Corp,Stock,False,2026-08-04,2026-08-25,Missing from current NYSE source snapshot; reason unavailable,c81f00411baa31444237
 TWO$A,NYSE,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),Stock,True,2026-05-08,,,5865b22ce825a68a62c3
 TWO$B,NYSE,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,238c79d6949224b7bb5c
 TWO$C,NYSE,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,088bd9bfa7bb611d600a

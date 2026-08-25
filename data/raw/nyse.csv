@@ -1136,7 +1136,7 @@ NYSE,GFF,Griffon Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GFI,Gold Fields Limited American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,GFL,"GFL Environmental Inc. Subordinate voting shares, no par value",Stock,,nasdaq_trader_symbol_directory
 NYSE,GFR,Greenfire Resources Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,GFR.V,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
+NYSE,GFR.R,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 NYSE,GGB,Gerdau S.A. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GGG,Graco Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GGT,"Gabelli Multi-Media Trust, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2247,7 +2247,6 @@ NYSE,RLJ$A,RLJ Lodging Trust $1.95 Series A Cumulative Convertible Preferred Sha
 NYSE,RLTY,Cohen & Steers Real Estate Opportunities and Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,RLX,"RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class A ordinary share",Stock,,nasdaq_trader_symbol_directory
 NYSE,RM,Regional Management Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,RMAX,"RE/MAX Holdings, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,RMD,ResMed Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,RMM,"RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2657,7 +2656,6 @@ NYSE,TVE,Tennessee Valley Authority,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWI,"Titan International, Inc. (DE) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TWLO,Twilio Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWN,"Taiwan Fund, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,TWO,Two Harbors Investment Corp,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),Stock,,nasdaq_trader_symbol_directory
 NYSE,TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
