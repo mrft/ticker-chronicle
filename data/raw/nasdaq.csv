@@ -796,7 +796,6 @@ NASDAQ,BRTMU,B&R Technology Merger Corp. - Units,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,BRTR,iShares Total Return Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRTX,"BioRestorative Therapies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRUN,Boost Run Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BRUNW,Boost Run Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRVE,"Braveheart Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRZE,"Braze, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSAA,BEST SPAC I Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1872,7 +1871,6 @@ NASDAQ,FLXS,"Flexsteel Industries, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,FLY,Firefly Aerospace Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FLYE,"Fly-E Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FLYW,Flywire Corporation - Voting Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FLZH,"Flash Sports & Media Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FMAC,Future Money Acquisition Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FMACR,Future Money Acquisition Corporation - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FMACU,Future Money Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
@@ -2046,7 +2044,6 @@ NASDAQ,GCT,GigaCloud Technology Inc - Class A Ordinary Shares,Stock,,nasdaq_trad
 NASDAQ,GCTK,"GlucoTrack, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GDC,GD Culture Group Limited - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GDEV,GDEV Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GDEVW,GDEV Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GDHG,Golden Heaven Group Holdings Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GDRX,"GoodRx Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GDS,GDS Holdings Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2395,7 +2392,6 @@ NASDAQ,HUDI,"Huadi International Group Co., Ltd. - Ordinary Shares",Stock,,nasda
 NASDAQ,HUHU,HUHUTECH International Group Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HUIZ,Huize Holding Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HUMA,"Humacyte, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HUMAW,"Humacyte, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HURA,"TuHURA Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HURC,"Hurco Companies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HURN,Huron Consulting Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2740,6 +2736,7 @@ NASDAQ,JSPR,"Jasper Therapeutics, Inc. - Class A Common Stock",Stock,,nasdaq_tra
 NASDAQ,JSPRW,"Jasper Therapeutics, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JTAI,Jet.AI Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JTEK,JPMorgan U.S. Tech Leaders ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,JTTT,JATT III Acquisition Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JUNS,"Jupiter Neurosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JVA,"Coffee Holding Co., Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JWEL,Jowell Global Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3720,8 +3717,6 @@ NASDAQ,OSPN,OneSpan Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSPR,Osprey Acquisition Corp. III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSPRU,Osprey Acquisition Corp. III - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSPRW,Osprey Acquisition Corp. III - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OSRH,"OSR Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OSRHW,"OSR Health, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSS,"One Stop Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OST,"Ostin Technology Group Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OSUR,"OraSure Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4427,6 +4422,7 @@ NASDAQ,SBUX,Starbucks Corporation - Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,SCA,GraniteShares Autocallable SMCI ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SCAG,Scage Future - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCAGW,Scage Future - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SCATU,Southern Cross Acquisition II Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCDS,JPMorgan Fundamental Data Science Small Core ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SCHL,Scholastic Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCII,SC II Acquisition Corp. - Class A ordinary share,Stock,,nasdaq_trader_symbol_directory
@@ -4890,6 +4886,7 @@ NASDAQ,TFNS,T. Rowe Price Financials ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TFSL,TFS Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TGHL,The GrowHub Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TGL,Treasure Global Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TGRZ,China AI Tigers LLM ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TGTX,"TG Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TH,Target Hospitality Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THCH,TH International Limited - Ordinary shares,Stock,,nasdaq_trader_symbol_directory

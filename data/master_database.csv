@@ -1184,7 +1184,7 @@ BRTMU,NASDAQ,B&R Technology Merger Corp. - Units,Stock,True,2026-07-21,,,74aeeb7
 BRTR,NASDAQ,iShares Total Return Active ETF,ETF,True,2026-05-08,,,532f55c7d0034a204d70
 BRTX,NASDAQ,"BioRestorative Therapies, Inc. - Common Stock",Stock,True,2026-05-08,,,007fc8949872a1220bf7
 BRUN,NASDAQ,Boost Run Inc. - Class A Common Stock,Stock,True,2026-05-11,,,b07fee52577aebf844c2
-BRUNW,NASDAQ,Boost Run Inc. - Warrant,Stock,True,2026-05-11,,,d0567fc4a44d15677777
+BRUNW,NASDAQ,Boost Run Inc. - Warrant,Stock,False,2026-05-11,2026-08-26,Missing from current NASDAQ source snapshot; reason unavailable,d0567fc4a44d15677777
 BRVE,NASDAQ,"Braveheart Bio, Inc. - Common Stock",Stock,True,2026-08-06,,,dc8d4f8b2bb1cf39eec2
 BRZE,NASDAQ,"Braze, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1cb454e31a9adcf2698a
 BSAA,NASDAQ,BEST SPAC I Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,9f5d971dfbc3c23c8b51
@@ -2323,7 +2323,7 @@ FLXS,NASDAQ,"Flexsteel Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,
 FLY,NASDAQ,Firefly Aerospace Inc. - Common Stock,Stock,True,2026-05-08,,,c1137e21f8faa7a26b30
 FLYE,NASDAQ,"Fly-E Group, Inc. - Common Stock",Stock,True,2026-05-08,,,993db8eb18a8b4060a96
 FLYW,NASDAQ,Flywire Corporation - Voting Common Stock,Stock,True,2026-05-08,,,19901bb85dbac51f29d2
-FLZH,NASDAQ,"Flash Sports & Media Holdings, Inc. - Common Stock",Stock,True,2026-06-16,,,6e033d3c4ed39393caef
+FLZH,NASDAQ,"Flash Sports & Media Holdings, Inc. - Common Stock",Stock,False,2026-06-16,2026-08-26,Missing from current NASDAQ source snapshot; reason unavailable,6e033d3c4ed39393caef
 FMAC,NASDAQ,Future Money Acquisition Corporation - Ordinary Shares,Stock,True,2026-05-18,,,4c569fe94a9a9085de20
 FMACR,NASDAQ,Future Money Acquisition Corporation - Rights,Stock,True,2026-05-18,,,4008dfc177d8c7d5f8bc
 FMACU,NASDAQ,Future Money Acquisition Corporation - Units,Stock,True,2026-05-08,,,7ce7e036f2c47269ad0a
@@ -2502,7 +2502,7 @@ GCT,NASDAQ,GigaCloud Technology Inc - Class A Ordinary Shares,Stock,True,2026-05
 GCTK,NASDAQ,"GlucoTrack, Inc. - Common Stock",Stock,True,2026-05-08,,,06374bf2b8f3c9cb8f1d
 GDC,NASDAQ,GD Culture Group Limited - Common Stock,Stock,True,2026-05-08,,,ae600a5b4cfae363d74b
 GDEV,NASDAQ,GDEV Inc. - Ordinary Shares,Stock,True,2026-05-08,,,a019f66a3488cf02e63b
-GDEVW,NASDAQ,GDEV Inc. - Warrant,Stock,True,2026-05-08,,,048919b4bebf8fb80fe9
+GDEVW,NASDAQ,GDEV Inc. - Warrant,Stock,False,2026-05-08,2026-08-26,Missing from current NASDAQ source snapshot; reason unavailable,048919b4bebf8fb80fe9
 GDHG,NASDAQ,Golden Heaven Group Holdings Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,9afb749b14a903bf6474
 GDRX,NASDAQ,"GoodRx Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,7602cb74ecd5db6eb8a1
 GDS,NASDAQ,GDS Holdings Limited - American Depositary Shares,Stock,True,2026-05-08,,,c4147c63271c26da2026
@@ -2873,7 +2873,7 @@ HUDI,NASDAQ,"Huadi International Group Co., Ltd. - Ordinary Shares",Stock,True,2
 HUHU,NASDAQ,HUHUTECH International Group Inc. - Ordinary Shares,Stock,True,2026-05-08,,,2cacc7d704aa4649caf3
 HUIZ,NASDAQ,Huize Holding Limited - American Depositary Shares,Stock,True,2026-05-08,,,1de2583900d6a3c9fa0c
 HUMA,NASDAQ,"Humacyte, Inc. - Common Stock",Stock,True,2026-05-08,,,9040a169aecf7beed13d
-HUMAW,NASDAQ,"Humacyte, Inc. - Warrant",Stock,True,2026-05-08,,,3cb76a908bcd14f3481a
+HUMAW,NASDAQ,"Humacyte, Inc. - Warrant",Stock,False,2026-05-08,2026-08-26,Missing from current NASDAQ source snapshot; reason unavailable,3cb76a908bcd14f3481a
 HURA,NASDAQ,"TuHURA Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,0a56a1e6b2b63dde1db8
 HURC,NASDAQ,"Hurco Companies, Inc. - Common Stock",Stock,True,2026-05-08,,,995cf549b4257ffabcce
 HURN,NASDAQ,Huron Consulting Group Inc. - Common Stock,Stock,True,2026-05-08,,,a343c115cfd554431a94
@@ -3229,6 +3229,7 @@ JSPR,NASDAQ,"Jasper Therapeutics, Inc. - Class A Common Stock",Stock,True,2026-0
 JSPRW,NASDAQ,"Jasper Therapeutics, Inc. - Warrant",Stock,True,2026-05-08,,,1fa2718982b5a95be998
 JTAI,NASDAQ,Jet.AI Inc. - Common Stock,Stock,True,2026-05-08,,,adc197c894b20efbfb4c
 JTEK,NASDAQ,JPMorgan U.S. Tech Leaders ETF,ETF,True,2026-05-08,,,da1d6f2c2cc4c38637a2
+JTTT,NASDAQ,JATT III Acquisition Corp - Ordinary Shares,Stock,True,2026-08-26,,,5e6573aab04ff27c4ec7
 JUNS,NASDAQ,"Jupiter Neurosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,f737d29a4b8b7785ec36
 JVA,NASDAQ,"Coffee Holding Co., Inc. - Common Stock",Stock,True,2026-05-08,,,ae41db2d9dce3bc8437a
 JWEL,NASDAQ,Jowell Global Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,29fe03b13b0ec303da80
@@ -4281,9 +4282,9 @@ OSPR,NASDAQ,Osprey Acquisition Corp. III - Class A Ordinary Shares,Stock,True,20
 OSPRU,NASDAQ,Osprey Acquisition Corp. III - Units,Stock,True,2026-07-01,,,2cb77a20dd40da505023
 OSPRW,NASDAQ,Osprey Acquisition Corp. III - Warrants,Stock,True,2026-08-21,,,8604c6ea5b2331f43e07
 OSRH,NASDAQ,"OSR Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-23,Listing metadata changed,627d25c7c145245f3c34
-OSRH,NASDAQ,"OSR Health, Inc. - Common Stock",Stock,True,2026-06-23,,,3f561cf3b4ba4ee0fd4a
+OSRH,NASDAQ,"OSR Health, Inc. - Common Stock",Stock,False,2026-06-23,2026-08-26,Missing from current NASDAQ source snapshot; reason unavailable,3f561cf3b4ba4ee0fd4a
 OSRHW,NASDAQ,"OSR Holdings, Inc. - Warrant",Stock,False,2026-05-08,2026-06-23,Listing metadata changed,6286bd99800d338377f6
-OSRHW,NASDAQ,"OSR Health, Inc. - Warrant",Stock,True,2026-06-23,,,b53418a3a15780faa1dd
+OSRHW,NASDAQ,"OSR Health, Inc. - Warrant",Stock,False,2026-06-23,2026-08-26,Missing from current NASDAQ source snapshot; reason unavailable,b53418a3a15780faa1dd
 OSS,NASDAQ,"One Stop Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,d2e122eef7a83335f19b
 OST,NASDAQ,"Ostin Technology Group Co., Ltd. - Class A Ordinary Shares",Stock,True,2026-05-08,,,4fe1e3ec4913cd403754
 OSUR,NASDAQ,"OraSure Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,ed68eb17df3490a49255
@@ -5017,6 +5018,7 @@ SBUX,NASDAQ,Starbucks Corporation - Common Stock,Stock,True,2026-05-08,,,9852390
 SCA,NASDAQ,GraniteShares Autocallable SMCI ETF,ETF,True,2026-05-27,,,cda6d513de6070035960
 SCAG,NASDAQ,Scage Future - American Depositary Shares,Stock,True,2026-05-08,,,37f410f7b977c73dcf57
 SCAGW,NASDAQ,Scage Future - Warrants,Stock,True,2026-05-08,,,075d6678fe2bc92ea18d
+SCATU,NASDAQ,Southern Cross Acquisition II Corp. - Units,Stock,True,2026-08-26,,,313bc1db917d3790e247
 SCDS,NASDAQ,JPMorgan Fundamental Data Science Small Core ETF,ETF,True,2026-05-08,,,312b4bece8ace8204cd2
 SCHL,NASDAQ,Scholastic Corporation - Common Stock,Stock,True,2026-05-08,,,8dee371ae70c699762b7
 SCII,NASDAQ,SC II Acquisition Corp. - Class A ordinary share,Stock,True,2026-05-08,,,e5489a25c6968b98e07f
@@ -5514,6 +5516,7 @@ TFNS,NASDAQ,T. Rowe Price Financials ETF,ETF,True,2026-05-08,,,fd9937ae8e10864fe
 TFSL,NASDAQ,TFS Financial Corporation - Common Stock,Stock,True,2026-05-08,,,1a5982451cfd60f7dc4d
 TGHL,NASDAQ,The GrowHub Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,5f366363fc0bc2bfb6a4
 TGL,NASDAQ,Treasure Global Inc. - Common Stock,Stock,True,2026-05-08,,,64d3dc02246e3d71d735
+TGRZ,NASDAQ,China AI Tigers LLM ETF,ETF,True,2026-08-26,,,3c52d5e59570f994d5ce
 TGTX,NASDAQ,"TG Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,1a7b4c5d98ce7fb85257
 TH,NASDAQ,Target Hospitality Corp. - Common Stock,Stock,True,2026-05-08,,,8f4c7234283263427bca
 THCH,NASDAQ,TH International Limited - Ordinary shares,Stock,True,2026-05-08,,,115ae54ba29e45cf7b42
@@ -8329,6 +8332,7 @@ OSK,NYSE,Oshkosh Corporation (Holding Company)Common Stock,Stock,True,2026-05-08
 OTAI,NYSE,Starlink AI Acquisition Corporation Ordinary Shares,Stock,True,2026-06-29,,,2a3de3d7b21d8f564c17
 OTAI.R,NYSE,"Starlink AI Acquisition Corporation Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",Stock,True,2026-06-29,,,93f720454fb86fa379b0
 OTAI.U,NYSE,"Starlink AI Acquisition Corporation Units, each consisting of one Ordinary Share, and one Right to receive one-fourth (1/4) of one ordinary share",Stock,True,2026-05-08,,,ac3f101fd0945874d1f9
+OTAX,NYSE,Optimal Tax Managed Equity ETF,ETF,True,2026-08-26,,,dd0775091a793cf10830
 OTF,NYSE,Blue Owl Technology Finance Corp. Common Stock,Stock,True,2026-05-08,,,fb6e6963388f4ffd09d3
 OTIS,NYSE,Otis Worldwide Corporation Common Stock,Stock,True,2026-05-08,,,a6ff271437512162ae08
 OUT,NYSE,OUTFRONT Media Inc. Common Stock,Stock,True,2026-05-08,,,73302143f768db34dccc
