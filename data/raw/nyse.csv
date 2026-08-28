@@ -1635,7 +1635,7 @@ NYSE,MDT,Medtronic plc. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,MDU,"MDU Resources Group, Inc. Common Stock (Holding Company)",Stock,,nasdaq_trader_symbol_directory
 NYSE,MEC,"Mayville Engineering Company, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MED,MEDIFAST INC Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,MEGI,NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,MEGI,NYLIM CBRE Global Infrastructure Megatrends Term Fund Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,MEI,"Methode Electronics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MER$K,"Bank of America Corporation Income Capital Obligation Notes initially due December 15, 2066",Stock,,nasdaq_trader_symbol_directory
 NYSE,MET,"MetLife, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1689,7 +1689,7 @@ NYSE,MLI,"Mueller Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_dir
 NYSE,MLM,"Martin Marietta Materials, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MLP,"Maui Land & Pineapple Company, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MLR,"Miller Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,MMD,NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,MMD,NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,MMI,"Marcus & Millichap, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MMID,MFS Active Mid Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,MMK,State Street Prime Money Market ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2239,6 +2239,7 @@ NYSE,RITM$E,Rithm Capital Corp. 8.75% Series E Fixed-Rate Cumulative Redeemable 
 NYSE,RITM$F,Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RIV,"RiverNorth Opportunities Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,RIV.V,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,RJF,"Raymond James Financial, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,RKT,"Rocket Companies, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,RL,Ralph Lauren Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory

@@ -247,7 +247,6 @@ NASDAQ,ALMS,Alumis Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALMU,"Aeluma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALNT,Allient Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALNY,"Alnylam Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ALOT,"AstroNova, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALOV,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALOVU,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALOVW,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
@@ -552,9 +551,6 @@ NASDAQ,BATRK,"Atlanta Braves Holdings, Inc. - Series C Common Stock",Stock,,nasd
 NASDAQ,BBB,CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BBBYW,"Neighborhood Intelligence, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBCP,"Concrete Pumping Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BBCQ,Bleichroeder Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BBCQU,Bleichroeder Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BBCQW,Bleichroeder Acquisition Corp. II - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBGI,"Beasley Broadcast Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBH,VanEck Biotech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BBIO,"BridgeBio Pharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -567,9 +563,6 @@ NASDAQ,BBUL,GraniteShares 2x Long BB Daily ETF,ETF,,nasdaq_trader_symbol_directo
 NASDAQ,BBYY,GraniteShares YieldBOOST BABA ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BCAB,"BioAtla, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCAL,California BanCorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BCAR,D. Boral ARC Acquisition I Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BCARU,D. Boral ARC Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BCARW,D. Boral ARC Acquisition I Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCAX,Bicara Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCBP,"BCB Bancorp, Inc. (NJ) - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCCQ,Bleichroeder Acquisition Corp. III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1408,7 +1401,6 @@ NASDAQ,DJT,Trump Media & Technology Group Corp. - Common Stock,Stock,,nasdaq_tra
 NASDAQ,DJTWW,Trump Media & Technology Group Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DKI,DarkIris Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DKNG,DraftKings Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DKNX,Defiance Daily Target 2X Long DKNG ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DLCU,U.S. Large Company Portfolio: ETF Class Shares,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DLHC,DLH Holdings Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DLLL,GraniteShares 2x Long DELL Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1734,7 +1726,6 @@ NASDAQ,FBLA,"FB Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direct
 NASDAQ,FBLG,"FibroBiologics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBNC,First Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBOT,Fidelity Disruptive Automation ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,FBRX,"Forte Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBYD,"Falcon's Beyond Global, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBYDP,"Falcon's Beyond Global, Inc. - 11% Series B Cumulative Convertible Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBYDW,"Falcon's Beyond Global, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
@@ -2469,7 +2460,7 @@ NASDAQ,IDACU,Iron Dome Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbol_d
 NASDAQ,IDACW,Iron Dome Acquisition I Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IDAI,T Stamp Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IDCC,"InterDigital, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IDEF,iShares Defense Industrials Active ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,IDEF,iShares Defense Industrials and Tech Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IDN,"Intellicheck, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IDVY,First Trust International Rising Dividend Achievers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IDXX,"IDEXX Laboratories, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2600,6 +2591,7 @@ NASDAQ,IPFXU,Inflection Point Acquisition Corp. VI - Units,Stock,,nasdaq_trader_
 NASDAQ,IPFXW,Inflection Point Acquisition Corp. VI - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPGP,IPG Photonics Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPHA,Innate Pharma S.A. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IPHXU,Inflection Point Acquisition Corp. VIII - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPKW,Invesco International BuyBack Achievers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IPM,Intelligent Protection Management Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPSC,"Century Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2953,7 +2945,6 @@ NASDAQ,LMAT,"LeMaitre Vascular, Inc. - Common Stock",Stock,,nasdaq_trader_symbol
 NASDAQ,LMB,"Limbach Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LMBS,First Trust Low Duration Opportunities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LMNR,Limoneira Co - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LMNX,Defiance Daily Target 2x Long LMND ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LMRI,"Lumexa Imaging Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LMTL,Direxion Daily LMT Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LNAI,Lunai Bioworks Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2996,7 +2987,7 @@ NASDAQ,LRE,"Lead Real Estate Co., Ltd - American Depositary Shares",Stock,,nasda
 NASDAQ,LRGE,ClearBridge Large Cap Growth Select ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LRHC,La Rosa Holdings Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LRMR,"Larimar Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LRND,NYLI U.S. Large Cap R&D Leaders ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,LRND,NYLIM U.S. Large Cap R&D Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LSAK,"Lesaka Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LSBK,"Lake Shore Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LSCC,Lattice Semiconductor Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4013,6 +4004,8 @@ NASDAQ,PSMT,"PriceSmart, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direct
 NASDAQ,PSNL,"Personalis, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSNY,Polestar Automotive Holding UK Limited - Class A ADS,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSNYW,Polestar Automotive Holding UK Limited - Class C-1 ADS (ADW),Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PSQL,Pasqal Holding SA - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PSQLW,Pasqal Holding SA - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSTR,PeakShares Sector Rotation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PSWD,Xtrackers Cybersecurity Select Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PTAC,Patriot Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -5397,7 +5390,7 @@ NASDAQ,WPRT,Westport Fuel Systems Inc - Common Shares,Stock,,nasdaq_trader_symbo
 NASDAQ,WRAP,"Wrap Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WRD,WeRide Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WRLD,World Acceptance Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WRND,NYLI Global Equity R&D Leaders ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,WRND,NYLIM Global Equity R&D Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WRTH,Worth Charting Options Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WSBC,"WesBanco, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WSBCO,"WesBanco, Inc. - Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",Stock,,nasdaq_trader_symbol_directory
@@ -5464,6 +5457,8 @@ NASDAQ,XGN,Exagen Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XHG,XChange TEC.INC - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XHLD,"TEN Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XIIIU,Churchill Capital Corp XIII - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XLAB,Exascale Labs Holdings Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XLABW,Exascale Labs Holdings Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XLO,"Xilio Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XMAG,Defiance Large Cap ex-Mag 7 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XMAX,"XMAX, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5477,7 +5472,7 @@ NASDAQ,XOVR,ERShares Private-Public Crossover ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,XP,XP Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XPEG,Leverage Shares 2X Long XPEV Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XPEL,"XPEL, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,XPON,Expion360 Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XPON,"Expion Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XQQI,NEOS Boosted Nasdaq-100 High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XRAY,DENTSPLY SIRONA Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XRPC,Canary XRP ETF,ETF,,nasdaq_trader_symbol_directory
