@@ -1,7 +1,9 @@
 Exchange,Symbol,Name,InstrumentType,FirstIpoDate,Source
 NYSE,A,"Agilent Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,AA,Alcoa Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,AAC,Ares Acquisition Corporation III Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,AAC.U,"Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
+NYSE,AAC.W,"Ares Acquisition Corporation III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NYSE,AADX,"Applied Aerospace & Defense, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,AAMI,Acadian Asset Management Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AAP,Advance Auto Parts Inc.,Stock,,nasdaq_trader_symbol_directory
@@ -1544,7 +1546,6 @@ NYSE,LDI,"loanDepot, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_dire
 NYSE,LDOS,"Leidos Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",Stock,,nasdaq_trader_symbol_directory
 NYSE,LEA,Lear Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,LEG,"Leggett & Platt, Incorporated Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LEN,Lennar Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LEN.B,Lennar Corporation Class B,Stock,,nasdaq_trader_symbol_directory
 NYSE,LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1890,7 +1891,6 @@ NYSE,NTEST.B,NYSE Tick Pilot Test Sym-G2,Stock,,nasdaq_trader_symbol_directory
 NYSE,NTEST.C,Tick Pilot Test C Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NTR,Nutrien Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,NTST,NetSTREIT Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,NTZ,"Natuzzi, S.p.A.",Stock,,nasdaq_trader_symbol_directory
 NYSE,NU,Nu Holdings Ltd. Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,NUE,Nucor Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NUS,"Nu Skin Enterprises, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2318,6 +2318,7 @@ NYSE,SAR,Saratoga Investment Corp New,Stock,,nasdaq_trader_symbol_directory
 NYSE,SARO,"StandardAero, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SAT,Saratoga Investment Corp 6.00% Notes due 2027,Stock,,nasdaq_trader_symbol_directory
 NYSE,SAV,Saratoga Investment Corp 7.50% Notes due 2031,Stock,,nasdaq_trader_symbol_directory
+NYSE,SAX,Saratoga Investment Corp 8.00% Notes due 2031,Stock,,nasdaq_trader_symbol_directory
 NYSE,SAY,Saratoga Investment Corp 8.125% Notes due 2027,Stock,,nasdaq_trader_symbol_directory
 NYSE,SAZ,Saratoga Investment Corp 8.50% Notes due 2028,Stock,,nasdaq_trader_symbol_directory
 NYSE,SB,"Safe Bulkers, Inc Common Stock ($0.001 par value)",Stock,,nasdaq_trader_symbol_directory

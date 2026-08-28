@@ -182,7 +182,6 @@ NASDAQ,AIFC,AI Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,AIFD,TCW Artificial Intelligence ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AIFF,"Firefly Neuroscience, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIFU,AIFU Inc. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AIHS,Senmiao Technology Limited - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIIO,Robo.ai Inc. - Class B Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIIOW,Robo.ai Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIIR,Air Global PLC - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
@@ -1133,9 +1132,6 @@ NASDAQ,CMCO,Columbus McKinnon Corporation - Common Stock,Stock,,nasdaq_trader_sy
 NASDAQ,CMCSA,Comcast Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CMCT,Creative Media - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CME,CME Group Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CMII,Columbus Circle Capital Corp II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CMIIU,Columbus Circle Capital Corp II - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CMIIW,Columbus Circle Capital Corp II - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CMMB,Chemomab Therapeutics Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CMND,Clearmind Medicine Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CMPR,Cimpress plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1494,22 +1490,11 @@ NASDAQ,DUOT,"Duos Technologies Group, Inc. - Common Stock",Stock,,nasdaq_trader_
 NASDAQ,DUSG,U.S. Small Cap Growth Portfolio: ETF Class Shares,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVAL,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVGR,DAC 3D Dividend Growth ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVIN,WEBs Industrials XLI Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVLT,Datavault AI Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DVLU,First Trust Dorsey Wright Momentum & Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVOL,First Trust Dorsey Wright Momentum & Low Volatility ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVQQ,WEBs QQQ Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVRE,WEBs Real Estate XLRE Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVSP,WEBs SPY Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVUT,WEBs Utilities XLU Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVXB,WEBs Materials XLB Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVXC,WEBs Communication Services XLC Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVXE,WEBs Energy XLE Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVXF,WEBs Financial XLF Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVXK,WEBs Technology XLK Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVXP,WEBs Consumer Staples XLP Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVXV,WEBs Health Care XLV Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVXY,WEBs Consumer Discretionary XLY Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVY,iShares Select Dividend ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DWAS,Invesco Dorsey Wright SmallCap Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DWAW,AdvisorShares Dorsey Wright FSM All Cap World ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2406,6 +2391,7 @@ NASDAQ,HVMCW,Highview Merger Corp. - Warrants,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,HWBK,"Hawthorn Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HWC,Hancock Whitney Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HWCPZ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HWGV,Hotchkis & Wiley Global Value Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HWH,HWH International Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HWIV,Hotchkis & Wiley International Value Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HWKN,"Hawkins, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2624,6 +2610,9 @@ NASDAQ,IPVVW,"InterPrivate Investment Partners V, Inc. - Warrants",Stock,,nasdaq
 NASDAQ,IPW,iPower Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPWR,Ideal Power Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPX,IperionX Limited - American Depositary Share,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IPXG,Inection Point Acquisition Corp. VII - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IPXGU,Inection Point Acquisition Corp. VII - Unit,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IPXGW,Inection Point Acquisition Corp. VII - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQ,"iQIYI, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQMX,IQM Quantum Computers Oyj - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQMXW,IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4312,6 +4301,7 @@ NASDAQ,RMSGW,Real Messenger Corporation - Warrants,Stock,,nasdaq_trader_symbol_d
 NASDAQ,RMTI,"Rockwell Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNA,"Atrium Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNAC,"Cartesian Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RNAQU,Rainier Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNAZ,"TransCode Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNEM,Emerging Markets Equity Select ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RNGT,Range Capital Acquisition Corp II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4857,7 +4847,7 @@ NASDAQ,TDI,Touchstone Dynamic International ETF,ETF,,nasdaq_trader_symbol_direct
 NASDAQ,TDIC,Dreamland Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TDIV,First Trust NASDAQ Technology Dividend Index Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TDOG,21shares Dogecoin ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,TDOT,21shares Polkadot ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TDOT,21shares Polkadot Staking ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TDSB,ETC Cabana Target Beta ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TDSC,ETC Cabana Target Drawdown 10 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TDTH,Trident Digital Tech Holdings Ltd - Class B Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4900,7 +4890,7 @@ NASDAQ,THRM,Gentherm Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THRV,Prospera Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,THRY,"Thryv Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THYM,T. Rowe Price High Income Municipal ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,THYP,21shares Hyperliquid ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,THYP,21shares Hyperliquid Staking ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TIGO,Millicom International Cellular S.A. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TIGR,UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TIH,The Investment House ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5031,7 +5021,7 @@ NASDAQ,TSMX,Direxion Daily TSM Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TSMZ,Direxion Daily TSM Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TSPY,TappAlpha S&P 500 Growth & Daily Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TSSI,"TSS, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,TSUI,21Shares Sui ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TSUI,21Shares Sui Staking ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TSYX,TSPY Lift ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TSYY,GraniteShares YieldBOOST TSLA ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TTAN,"ServiceTitan, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5180,6 +5170,7 @@ NASDAQ,UYSCR,UY Scuti Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,UYSCU,UY Scuti Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UZX,Linkage Global Inc - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VABK,Virginia National Bankshares Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VAI,Valor Energy Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VALG,Leverage Shares 2X Long VALE Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VALN,Valneva SE - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VALU,"Value Line, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5375,7 +5366,6 @@ NASDAQ,WHLRD,"Wheeler Real Estate Investment Trust, Inc. - Series D Cumulative P
 NASDAQ,WHLRL,"Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WHLRP,"Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WHWK,"Whitehawk Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WILC,"G. Willi-Food International, Ltd. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WIMA,WisdomTree International Adaptive Moving Average Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WIMI,WiMi Hologram Cloud Inc. - Class B Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WINA,Winmark Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5505,7 +5495,9 @@ NASDAQ,XSLLW,Xsolla SPAC 1 - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XSPC,VegaShares SpaceX & Beyond Earth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XSPI,NEOS Boosted S&P 500 High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XT,iShares Future Exponential Technologies ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,XTER,Karman Line Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XTERU,Karman Line Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XTERW,Karman Line Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XTIA,"XTI Aerospace, Inc. Common Stock - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XTLB,XTL Biopharmaceuticals Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XWEL,"XWELL, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
