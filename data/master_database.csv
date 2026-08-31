@@ -13,7 +13,7 @@ AMS,AMEX,American Shared Hospital Services Common Stock,Stock,True,2026-05-08,,,
 AMZE,AMEX,"Amaze Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,cba5aeed6b3e4fc0c2c4
 APT,AMEX,"Alpha Pro Tech, Ltd. Common Stock",Stock,True,2026-05-08,,,37ae130a73a008c9c797
 APUS,AMEX,"Apimeds Pharmaceuticals US, Inc. Common Stock",Stock,True,2026-05-08,,,7485f0b3e9113c2ab972
-AREN,AMEX,"The Arena Group Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,464a2e39cd09934ef224
+AREN,AMEX,"The Arena Group Holdings, Inc. Common Stock",Stock,False,2026-05-08,2026-08-31,Missing from current AMEX source snapshot; reason unavailable,464a2e39cd09934ef224
 ARMP,AMEX,"Armata Pharmaceuticals, Inc. Common Stock",Stock,True,2026-05-08,,,19d2c942c1cb43051877
 ASM,AMEX,Avino Silver & Gold Mines Ltd. Common Shares (Canada),Stock,True,2026-05-08,,,2702fb5e4eab019daf78
 ATCH,AMEX,"AtlasClear Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,96a8b52ca8fb5ecbbda9
@@ -228,6 +228,7 @@ ORLA,AMEX,Orla Mining Ltd. Common Shares,Stock,False,2026-05-08,2026-07-31,Missi
 OSTX,AMEX,OS Therapies Incorporated Common Stock,Stock,True,2026-05-08,,,5774c1e8220489b76371
 OTH,AMEX,Off The Hook YS Inc. Common Stock,Stock,False,2026-05-08,2026-05-29,Missing from current AMEX source snapshot; reason unavailable,926ec586a930536cdb9a
 OZ,AMEX,"Belpointe PREP, LLC Class A Units",Stock,True,2026-05-08,,,8ff952f8b3ed73974e3d
+PAAI,AMEX,"Paradium.AI, Inc. Common Stock",Stock,True,2026-08-31,,,b2187689654baa88dfba
 PAPL,AMEX,Pineapple Financial Inc. Common Stock,Stock,True,2026-05-08,,,3d83523849da06d27d63
 PCG$A,AMEX,Pacific Gas & Electric Co. 6% Preferred Stock,Stock,True,2026-05-08,,,c6aef121cf7bacda67f0
 PCG$B,AMEX,Pacific Gas & Electric Co. 5 1/2% Preferred Stock,Stock,True,2026-05-08,,,b8962f2217aea44ab88d
@@ -835,6 +836,10 @@ ATLCP,NASDAQ,"Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpe
 ATLCZ,NASDAQ,Atlanticus Holdings Corporation - 9.25% Senior Notes due 2029,Stock,True,2026-05-08,,,5c545abaf67a426ea07f
 ATLN,NASDAQ,Atlantic International Corp. - Common Stock,Stock,False,2026-05-08,2026-07-02,Missing from current NASDAQ source snapshot; reason unavailable,a7715c1bd21f17881ec2
 ATLO,NASDAQ,Ames National Corporation - Common Stock,Stock,True,2026-05-08,,,93dfe70bf4e97bd6f6fa
+ATLQ,NASDAQ,JAB Acquisition Corp I - Class A Ordinary Shares,Stock,True,2026-08-31,,,960dad17d1a3b5bcb06b
+ATLQR,NASDAQ,JAB Acquisition Corp I - Rights,Stock,True,2026-08-31,,,ec499c04188717001826
+ATLQU,NASDAQ,JAB Acquisition Corp I - Units,Stock,True,2026-08-31,,,00529174f9a91accdc20
+ATLQW,NASDAQ,JAB Acquisition Corp I - Warrants,Stock,True,2026-08-31,,,35df8af7a32765ff8e78
 ATLX,NASDAQ,Atlas Lithium Corporation - Common Stock,Stock,True,2026-05-08,,,859129a57ed3f51611c8
 ATNI,NASDAQ,"ATN International, Inc. - Common Stock",Stock,True,2026-05-08,,,d8f2dbb2fdcb5a31989c
 ATOM,NASDAQ,Atomera Incorporated - Common Stock,Stock,True,2026-05-08,,,f0c4b9c3bb6eb8eab176
@@ -945,7 +950,7 @@ BBOT,NASDAQ,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",Stock,True,20
 BBSI,NASDAQ,"Barrett Business Services, Inc. - Common Stock",Stock,True,2026-05-08,,,474d83bfbbc617ba2f52
 BBUL,NASDAQ,GraniteShares 2x Long BB Daily ETF,ETF,True,2026-07-07,,,9ef420d2bb641832379b
 BBYY,NASDAQ,GraniteShares YieldBOOST BABA ETF,ETF,True,2026-05-08,,,a02a72a25ca017460e48
-BCAB,NASDAQ,"BioAtla, Inc. - Common Stock",Stock,True,2026-05-08,,,5e20421c2ae18571f676
+BCAB,NASDAQ,"BioAtla, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-31,Missing from current NASDAQ source snapshot; reason unavailable,5e20421c2ae18571f676
 BCAL,NASDAQ,California BanCorp - Common Stock,Stock,True,2026-05-08,,,d365b65cbf98babe978e
 BCAR,NASDAQ,D. Boral ARC Acquisition I Corp. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-08-28,Other delisting reason: Details unavailable (source: FMP Delisted API),cad131f720ed30ed0a99
 BCARU,NASDAQ,D. Boral ARC Acquisition I Corp. - Units,Stock,False,2026-05-08,2026-08-28,Missing from current NASDAQ source snapshot; reason unavailable,936a916c26f9cb434355
@@ -3179,10 +3184,10 @@ IXHL,NASDAQ,Incannex Healthcare Inc. - Common Stock,Stock,True,2026-05-08,,,7f4a
 IXUS,NASDAQ,iShares Core MSCI Total International Stock ETF,ETF,True,2026-05-08,,,724f29f4f23305bceb97
 IZEA,NASDAQ,"IZEA Worldwide, Inc. - Common Stock",Stock,True,2026-05-08,,,d62f05ee08c6fc7af5e7
 IZM,NASDAQ,ICZOOM Group Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,55041cd9f55fbf0601d2
-JAB,NASDAQ,JAB Acquisition Corp I - Class A Ordinary Shares,Stock,True,2026-08-05,,,960dad17d1a3b5bcb06b
-JABRR,NASDAQ,JAB Acquisition Corp I - Rights,Stock,True,2026-08-05,,,ec499c04188717001826
-JABRU,NASDAQ,JAB Acquisition Corp I - Units,Stock,True,2026-06-10,,,00529174f9a91accdc20
-JABRW,NASDAQ,JAB Acquisition Corp I - Warrants,Stock,True,2026-08-05,,,35df8af7a32765ff8e78
+JAB,NASDAQ,JAB Acquisition Corp I - Class A Ordinary Shares,Stock,False,2026-08-05,2026-08-31,Missing from current NASDAQ source snapshot; reason unavailable,960dad17d1a3b5bcb06b
+JABRR,NASDAQ,JAB Acquisition Corp I - Rights,Stock,False,2026-08-05,2026-08-31,Missing from current NASDAQ source snapshot; reason unavailable,ec499c04188717001826
+JABRU,NASDAQ,JAB Acquisition Corp I - Units,Stock,False,2026-06-10,2026-08-31,Missing from current NASDAQ source snapshot; reason unavailable,00529174f9a91accdc20
+JABRW,NASDAQ,JAB Acquisition Corp I - Warrants,Stock,False,2026-08-05,2026-08-31,Missing from current NASDAQ source snapshot; reason unavailable,35df8af7a32765ff8e78
 JACK,NASDAQ,Jack In The Box Inc. - Common Stock,Stock,True,2026-05-08,,,63771ebb1b48b9fcd1e4
 JAGX,NASDAQ,"Jaguar Health, Inc. - Common Stock",Stock,True,2026-05-08,,,67a13348bc2f1584a016
 JAKK,NASDAQ,"JAKKS Pacific, Inc. - Common Stock",Stock,True,2026-05-08,,,6a373935b850f3f4229f
@@ -3603,7 +3608,8 @@ MAXI,NASDAQ,Simplify Bitcoin Strategy ETF,ETF,True,2026-07-15,,,994c07a77a06b255
 MAYS,NASDAQ,"J. W. Mays, Inc. - Common Stock",Stock,True,2026-05-08,,,a3eb05016a065d7d3f6b
 MAZE,NASDAQ,"Maze Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,d776d0663ac82576f96c
 MB,NASDAQ,MasterBeef Group - Ordinary Shares,Stock,True,2026-05-08,,,f2f64e7e523afd0ca70d
-MBAI,NASDAQ,Check-Cap Ltd. - Ordinary Share,Stock,True,2026-05-08,,,38289db8fd13b1bfa276
+MBAI,NASDAQ,Check-Cap Ltd. - Ordinary Share,Stock,False,2026-05-08,2026-08-31,Listing metadata changed,38289db8fd13b1bfa276
+MBAI,NASDAQ,MBody AI Ltd. - Ordinary Share,Stock,True,2026-08-31,,,f461e710e72acb327b25
 MBAV,NASDAQ,M3-Brigade Acquisition V Corp. - Class A Ordinary shares,Stock,False,2026-05-08,2026-07-23,Missing from current NASDAQ source snapshot; reason unavailable,95158102b4132b9e3446
 MBAVU,NASDAQ,M3-Brigade Acquisition V Corp. - Units,Stock,False,2026-05-08,2026-07-23,Missing from current NASDAQ source snapshot; reason unavailable,33df673fc476ac35529e
 MBAVW,NASDAQ,M3-Brigade Acquisition V Corp. - Warrant,Stock,False,2026-05-08,2026-07-23,Missing from current NASDAQ source snapshot; reason unavailable,95e70823a61d0e6bcf69
@@ -4240,6 +4246,7 @@ ONFO,NASDAQ,Onfolio Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,0888646
 ONFOW,NASDAQ,Onfolio Holdings Inc. - Warrant,Stock,True,2026-05-08,,,2e4c57b92d545ffc87ee
 ONMD,NASDAQ,OneMedNet Corp - Class A Common Stock,Stock,True,2026-05-08,,,d2da53a8b2ab9f568417
 ONMDW,NASDAQ,OneMedNet Corp - Warrant,Stock,True,2026-05-08,,,6f5e2b219f1a4f0c4fbb
+OPAD,NASDAQ,Offerpad Solutions Inc. - Class A Common Stock,Stock,True,2026-08-31,,,9c013cc1c641896cb193
 OPAL,NASDAQ,OPAL Fuels Inc. - Class A Common Stock,Stock,True,2026-05-08,,,d1bc23544e7fcacb4a34
 OPBK,NASDAQ,OP Bancorp - Common Stock,Stock,True,2026-05-08,,,4831865fb61cc2ac8610
 OPCH,NASDAQ,"Option Care Health, Inc. - Common Stock",Stock,True,2026-05-08,,,7feba12bc12e173fc88b
@@ -5413,7 +5420,8 @@ SVIVW,NASDAQ,Spring Valley Acquisition Corp. IV - Warrants,Stock,True,2026-05-08
 SVRA,NASDAQ,"Savara, Inc. - Common Stock",Stock,True,2026-05-08,,,95265ea33336a9b3de14
 SVRE,NASDAQ,SaverOne 2014 Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,5c8fee3b489ffb9c6ebb
 SVREW,NASDAQ,SaverOne 2014 Ltd. - Warrant,Stock,True,2026-05-08,,,fe34415f6343a0c5ffd8
-SVRN,NASDAQ,OceanPal Inc. - Common Stock,Stock,True,2026-05-08,,,8049f26d4b65c81bdce2
+SVRN,NASDAQ,OceanPal Inc. - Common Stock,Stock,False,2026-05-08,2026-08-31,Listing metadata changed,8049f26d4b65c81bdce2
+SVRN,NASDAQ,"SVRN, Inc. - Common Stock",Stock,True,2026-08-31,,,780adfba92140cf035f3
 SWAG,NASDAQ,"Stran & Company, Inc. - Common Stock",Stock,True,2026-05-08,,,6ceacaca1180b7168699
 SWAGW,NASDAQ,"Stran & Company, Inc. - Warrant",Stock,True,2026-05-08,,,8ceb8cb74e01ba014d95
 SWBI,NASDAQ,"Smith & Wesson Brands, Inc. - Common Stock",Stock,True,2026-05-08,,,4e5e63979b4b71249cb2
@@ -5621,6 +5629,7 @@ TQQY,NASDAQ,GraniteShares YieldBOOST QQQ ETF,ETF,True,2026-05-08,,,819b37566d73e
 TRAW,NASDAQ,"Traws Pharma, Inc. - Common Stock",Stock,True,2026-05-08,,,de41e6c424ddb8115ebe
 TRAX,NASDAQ,"First Tracks Biotherapeutics, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,7a034ffb4a5b6a537881
 TRBF,NASDAQ,Angel Oak Total Return ETF,ETF,True,2026-05-08,,,44f79b1995ac62b2000f
+TRBG,NASDAQ,TurboGen Ltd. - Ordinary Shares,Stock,True,2026-08-31,,,beaeb0f38aa4a50644d8
 TRDA,NASDAQ,"Entrada Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,85e27fd85832ba4d0b5d
 TREE,NASDAQ,"LendingTree, Inc. - Common Stock",Stock,True,2026-05-08,,,b9b863ff687e6da6d59e
 TREO,NASDAQ,Tactical Resources Corp. - Common Shares,Stock,True,2026-08-20,,,009876b7c813bfe51773
@@ -8334,7 +8343,7 @@ ONON,NYSE,On Holding AG Class A Ordinary Shares,Stock,True,2026-05-08,,,fb61c29b
 ONT,NYSE,"Onterris, Inc. Common Stock",Stock,True,2026-05-08,,,99b54b301a9a9d96dc59
 ONTO,NYSE,Onto Innovation Inc. Common Stock,Stock,True,2026-05-08,,,7c5e107f4803fef0428f
 OOMA,NYSE,"Ooma, Inc. Common Stock",Stock,True,2026-05-08,,,78137a645f08898a43b6
-OPAD,NYSE,Offerpad Solutions Inc. Class A Common Stock,Stock,True,2026-05-08,,,eceed3268529ee29dba2
+OPAD,NYSE,Offerpad Solutions Inc. Class A Common Stock,Stock,False,2026-05-08,2026-08-31,Missing from current NYSE source snapshot; reason unavailable,eceed3268529ee29dba2
 OPFI,NYSE,OppFi Inc. Class A Common Stock,Stock,True,2026-05-08,,,590d520007ca0a55debe
 OPFI.W,NYSE,OppFi Inc. Warrants,Stock,False,2026-05-08,2026-07-20,Missing from current NYSE source snapshot; reason unavailable,ed670fa534fc0008be02
 OPLN,NYSE,"OPENLANE, Inc. Common Stock",Stock,True,2026-05-08,,,49369d6680e7cc6a6627
@@ -8703,7 +8712,9 @@ SAGU.W,NYSE,"Shreya Acquisition Group Redeemable warrants, entitling the holder 
 SAH,NYSE,"Sonic Automotive, Inc. Common Stock",Stock,True,2026-05-08,,,d8ae45872290ae162106
 SAJ,NYSE,Saratoga Investment Corp 8.00% Notes due 2027,Stock,True,2026-05-08,,,306ebce8f6bc12c8a174
 SAM,NYSE,"Boston Beer Company, Inc. (The) Common Stock",Stock,True,2026-05-08,,,18e3993f053cf3e6669e
+SAMO,NYSE,Samos Energy Acquisition Corporation Class A Ordinary Shares,Stock,True,2026-08-31,,,a4778f93cf66ad37187d
 SAMO.U,NYSE,"Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one-half of one Warrant",Stock,True,2026-07-10,,,fa96f30dbff1d507c867
+SAMO.W,NYSE,"Samos Energy Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,True,2026-08-31,,,f445d39bd14b285bbddf
 SAN,NYSE,"Banco Santander, S.A. Sponsored ADR (Spain)",Stock,True,2026-05-08,,,95f9b6eaa94f0f7d07b1
 SAP,NYSE,SAP SE ADS,Stock,True,2026-05-08,,,1e4fdf6f0f18644e53a3
 SAR,NYSE,Saratoga Investment Corp New,Stock,True,2026-05-08,,,88f164030c8107e292ec

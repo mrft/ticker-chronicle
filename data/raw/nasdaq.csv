@@ -459,6 +459,10 @@ NASDAQ,ATLCL,Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026,Stoc
 NASDAQ,ATLCP,"Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATLCZ,Atlanticus Holdings Corporation - 9.25% Senior Notes due 2029,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATLO,Ames National Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ATLQ,JAB Acquisition Corp I - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ATLQR,JAB Acquisition Corp I - Rights,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ATLQU,JAB Acquisition Corp I - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ATLQW,JAB Acquisition Corp I - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATLX,Atlas Lithium Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATNI,"ATN International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATOM,Atomera Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -561,7 +565,6 @@ NASDAQ,BBOT,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",Stock,,nasdaq
 NASDAQ,BBSI,"Barrett Business Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBUL,GraniteShares 2x Long BB Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BBYY,GraniteShares YieldBOOST BABA ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,BCAB,"BioAtla, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCAL,California BanCorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCAX,Bicara Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCBP,"BCB Bancorp, Inc. (NJ) - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2661,10 +2664,6 @@ NASDAQ,IXHL,Incannex Healthcare Inc. - Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,IXUS,iShares Core MSCI Total International Stock ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IZEA,"IZEA Worldwide, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IZM,ICZOOM Group Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,JAB,JAB Acquisition Corp I - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,JABRR,JAB Acquisition Corp I - Rights,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,JABRU,JAB Acquisition Corp I - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,JABRW,JAB Acquisition Corp I - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JACK,Jack In The Box Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JAGX,"Jaguar Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JAKK,"JAKKS Pacific, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3053,7 +3052,7 @@ NASDAQ,MAXI,Simplify Bitcoin Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MAYS,"J. W. Mays, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAZE,"Maze Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MB,MasterBeef Group - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MBAI,Check-Cap Ltd. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MBAI,MBody AI Ltd. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MBB,iShares MBS ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MBBC,"Marathon Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MBIN,Merchants Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3654,6 +3653,7 @@ NASDAQ,ONFO,Onfolio Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,ONFOW,Onfolio Holdings Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ONMD,OneMedNet Corp - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ONMDW,OneMedNet Corp - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OPAD,Offerpad Solutions Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPAL,OPAL Fuels Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPBK,OP Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPCH,"Option Care Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4762,7 +4762,7 @@ NASDAQ,SVIVW,Spring Valley Acquisition Corp. IV - Warrants,Stock,,nasdaq_trader_
 NASDAQ,SVRA,"Savara, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVRE,SaverOne 2014 Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVREW,SaverOne 2014 Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SVRN,OceanPal Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SVRN,"SVRN, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SWAG,"Stran & Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SWAGW,"Stran & Company, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SWBI,"Smith & Wesson Brands, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4958,6 +4958,7 @@ NASDAQ,TQQY,GraniteShares YieldBOOST QQQ ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRAW,"Traws Pharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRAX,"First Tracks Biotherapeutics, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRBF,Angel Oak Total Return ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TRBG,TurboGen Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRDA,"Entrada Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TREE,"LendingTree, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TREO,Tactical Resources Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory

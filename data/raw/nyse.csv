@@ -1957,7 +1957,6 @@ NYSE,ONON,On Holding AG Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_dire
 NYSE,ONT,"Onterris, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ONTO,Onto Innovation Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OOMA,"Ooma, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,OPAD,Offerpad Solutions Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OPFI,OppFi Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OPLN,"OPENLANE, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2312,7 +2311,9 @@ NYSE,SAGU.W,"Shreya Acquisition Group Redeemable warrants, entitling the holder 
 NYSE,SAH,"Sonic Automotive, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SAJ,Saratoga Investment Corp 8.00% Notes due 2027,Stock,,nasdaq_trader_symbol_directory
 NYSE,SAM,"Boston Beer Company, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,SAMO,Samos Energy Acquisition Corporation Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,SAMO.U,"Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one-half of one Warrant",Stock,,nasdaq_trader_symbol_directory
+NYSE,SAMO.W,"Samos Energy Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,SAN,"Banco Santander, S.A. Sponsored ADR (Spain)",Stock,,nasdaq_trader_symbol_directory
 NYSE,SAP,SAP SE ADS,Stock,,nasdaq_trader_symbol_directory
 NYSE,SAR,Saratoga Investment Corp New,Stock,,nasdaq_trader_symbol_directory
