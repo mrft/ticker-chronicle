@@ -340,7 +340,8 @@ XPL,AMEX,Solitario Resources Corp. Common Stock,Stock,True,2026-05-08,,,f3e6b363
 XTNT,AMEX,"Xtant Medical Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,17d75ea52873550c5369
 YCBD,AMEX,"cbdMD, Inc. Common Stock",Stock,True,2026-05-08,,,ac934c116bd54e0ec5cc
 ZDGE,AMEX,"Zedge, Inc. Class B Common Stock",Stock,True,2026-05-08,,,d789297abeeaa7753ded
-ZONE,AMEX,CleanCore Solutions Inc. Class B Common Stock,Stock,True,2026-05-08,,,2de3829970426de5636e
+ZONE,AMEX,CleanCore Solutions Inc. Class B Common Stock,Stock,False,2026-05-08,2026-09-01,Listing metadata changed,2de3829970426de5636e
+ZONE,AMEX,Zone Frontier Inc. Class B Common Stock,Stock,True,2026-09-01,,,32cd0da969be1cb0562a
 AAAP,NASDAQ,Pacer Barings CLO Market Flex ETF,ETF,True,2026-06-23,,,5976f4ffc2d2099aaced
 AACB,NASDAQ,Artius II Acquisition Inc. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-08-20,Missing from current NASDAQ source snapshot; reason unavailable,224a766a4bb75d0dae7a
 AACBR,NASDAQ,Artius II Acquisition Inc. - Rights,Stock,False,2026-05-08,2026-08-20,Missing from current NASDAQ source snapshot; reason unavailable,711d39cf25af2d68d8c4
@@ -2574,6 +2575,7 @@ GIW,NASDAQ,GigCapital8 Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,8
 GIWWR,NASDAQ,GigCapital8 Corp. - Rights,Stock,True,2026-05-08,,,952e58d6e818bb60f0bb
 GIWWU,NASDAQ,GigCapital8 Corp. - Units,Stock,True,2026-05-08,,,bfabfa27fe601fbfbf35
 GIX,NASDAQ,GigCapital9 Corp. - Class A Ordinary Share,Stock,True,2026-05-08,,,bd351931f44799ffeda2
+GIXI,NASDAQ,Gix Internet Ltd. - Ordinary Shares,Stock,True,2026-09-01,,,a39daacdc4424febf06a
 GIXXR,NASDAQ,GigCapital9 Corp. - Rights,Stock,True,2026-05-08,,,03191bbb00caf4e0553f
 GIXXU,NASDAQ,GigCapital9 Corp. - Units,Stock,True,2026-05-08,,,0cf72cdbc137fe5ac5f9
 GKAT,NASDAQ,Scharf Global Opportunity ETF,ETF,True,2026-05-08,,,65a4625efb4e6f5028a3
@@ -3154,6 +3156,7 @@ ISNRW,NASDAQ,Snow Rothschild Acquisition Corp. - Warrants,Stock,True,2026-07-30,
 ISPC,NASDAQ,iSpecimen Inc. - Common Stock,Stock,True,2026-05-08,,,db9c636fa921bbbd4c90
 ISPR,NASDAQ,Ispire Technology Inc. - Common Stock,Stock,True,2026-05-08,,,a61d27075e039935df3a
 ISRG,NASDAQ,"Intuitive Surgical, Inc. - Common Stock",Stock,True,2026-05-08,,,66eed9615bc8d49be35d
+ISRL,NASDAQ,Defiance KSM Israel 120 ETF,ETF,True,2026-09-01,,,81fbf618c6b1481b3982
 ISSC,NASDAQ,"Innovative Solutions and Support, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-18,Missing from current NASDAQ source snapshot; reason unavailable,a5fa9d3768ca4cc883d3
 ISTB,NASDAQ,iShares Core 1-5 Year USD Bond ETF,ETF,True,2026-05-08,,,9dabebaf78f0a3ee4acc
 ISTM,NASDAQ,iShares Strategic Metals ETF,ETF,True,2026-05-29,,,d540587540f6bd48118f
@@ -5109,6 +5112,7 @@ SFWL,NASDAQ,Shengfeng Development Limited - Class A Ordinary Shares,Stock,True,2
 SGA,NASDAQ,"Saga Communications, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,9fe2922e4d33f2287a80
 SGC,NASDAQ,"Superior Group of Companies, Inc. - Common Stock",Stock,True,2026-05-08,,,4a143f233310fdc5870f
 SGHT,NASDAQ,"Sight Sciences, Inc. - Common Stock",Stock,True,2026-05-08,,,84f0f4b7b9f7c7f87d4f
+SGLD,NASDAQ,Scorpio Gold Corporation - Common Stock,Stock,True,2026-09-01,,,0d32696d3508384605c3
 SGLY,NASDAQ,Singularity Future Technology Ltd. - Common Stock,Stock,True,2026-05-08,,,c3a283acde8e849e6056
 SGML,NASDAQ,Sigma Lithium Corporation - common shares,Stock,True,2026-05-08,,,16e42074222b4c00dccf
 SGMT,NASDAQ,Sagimet Biosciences Inc. - Series A Common Stock,Stock,True,2026-05-08,,,9e274eeca28fa98fc35b
@@ -5566,6 +5570,7 @@ TKLF,NASDAQ,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",Stock,True,
 TKNO,NASDAQ,"Alpha Teknova, Inc. - Common Stock",Stock,True,2026-05-08,,,3f2d3f38fe62ecb13f77
 TKNS,NASDAQ,21Shares Active Crypto ETF,ETF,True,2026-05-14,,,2057e99454c177ccfddd
 TLA,NASDAQ,GraniteShares Autocallable TSLA ETF,ETF,True,2026-05-08,,,216d69bfae76e87d7251
+TLACU,NASDAQ,Three Lions Acquisition Corp. - Units,Stock,True,2026-09-01,,,e803aa859f1abd4ef033
 TLF,NASDAQ,"Tandy Leather Factory, Inc. - common stock",Stock,True,2026-05-08,,,c305ba52567d8b740bc0
 TLG,NASDAQ,Touchstone Large Company Growth ETF,ETF,True,2026-05-08,,,d29751ce9435a13f8251
 TLIH,NASDAQ,Ten-League International Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,e82a5d4a38d61f05b933
@@ -8149,6 +8154,7 @@ MUSA,NYSE,Murphy USA Inc. Common Stock,Stock,True,2026-05-08,,,2e3a14463caab6a01
 MUSE,NYSE,TCW Multisector Credit Income ETF,ETF,True,2026-05-08,,,b8c9eea24c6969e4ec31
 MUX,NYSE,McEwen Inc. Common Stock,Stock,True,2026-05-08,,,e04284c4fae66a38855e
 MVO,NYSE,MV Oil Trust Units of Beneficial Interests,Stock,False,2026-05-08,2026-07-27,Missing from current NYSE source snapshot; reason unavailable,f3c75cdee90088453727
+MVPA,NYSE,Miller Value Partners Appreciation ETF,ETF,True,2026-09-01,,,183165ba778b16207a2b
 MWA,NYSE,MUELLER WATER PRODUCTS Common Stock,Stock,True,2026-05-08,,,6a5069092523098bb512
 MX,NYSE,Magnachip Semiconductor Corporation Common Stock,Stock,True,2026-05-08,,,350001e5011e427ca591
 MXE,NYSE,"Mexico Equity and Income Fund, Inc. (The) Common Stock",Stock,True,2026-05-08,,,67bb50bbd528ad76c5bc

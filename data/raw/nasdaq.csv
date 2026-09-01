@@ -2084,6 +2084,7 @@ NASDAQ,GIW,GigCapital8 Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symb
 NASDAQ,GIWWR,GigCapital8 Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIWWU,GigCapital8 Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIX,GigCapital9 Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GIXI,Gix Internet Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIXXR,GigCapital9 Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIXXU,GigCapital9 Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GKAT,Scharf Global Opportunity ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2635,6 +2636,7 @@ NASDAQ,ISNRW,Snow Rothschild Acquisition Corp. - Warrants,Stock,,nasdaq_trader_s
 NASDAQ,ISPC,iSpecimen Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISPR,Ispire Technology Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISRG,"Intuitive Surgical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ISRL,Defiance KSM Israel 120 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ISTB,iShares Core 1-5 Year USD Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ISTM,iShares Strategic Metals ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ISTR,Investar Holding Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4475,6 +4477,7 @@ NASDAQ,SFWL,Shengfeng Development Limited - Class A Ordinary Shares,Stock,,nasda
 NASDAQ,SGA,"Saga Communications, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGC,"Superior Group of Companies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGHT,"Sight Sciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SGLD,Scorpio Gold Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGLY,Singularity Future Technology Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGML,Sigma Lithium Corporation - common shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGMT,Sagimet Biosciences Inc. - Series A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4898,6 +4901,7 @@ NASDAQ,TKLF,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",Stock,,nasd
 NASDAQ,TKNO,"Alpha Teknova, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TKNS,21Shares Active Crypto ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TLA,GraniteShares Autocallable TSLA ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TLACU,Three Lions Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TLF,"Tandy Leather Factory, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TLG,Touchstone Large Company Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TLIH,Ten-League International Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
