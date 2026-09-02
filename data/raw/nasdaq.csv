@@ -1241,7 +1241,6 @@ NASDAQ,CRMT,"America's Car-Mart, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,CRMU,Leverage Shares 2x Long CRML Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CRNC,Cerence Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRNT,Ceragon Networks Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CRNX,"Crinetics Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CROB,Defiance China Robotics ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CRON,Cronos Group Inc. - Common Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CROX,"Crocs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3376,7 +3375,6 @@ NASDAQ,NCPB,Nuveen Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NCPL,Netcapital Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCPLW,Netcapital Inc. - warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCRA,"Nocera, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NCSM,"NCS Multistage Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCT,Intercont (Cayman) Limited - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NCTY,The9 Limited - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NDAA,Ned Davis Research 360 Dynamic Allocation ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3483,7 +3481,10 @@ NASDAQ,NRIX,"Nurix Therapeutics, Inc. - Common stock",Stock,,nasdaq_trader_symbo
 NASDAQ,NRSN,NeuroSense Therapeutics Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NRSNW,NeuroSense Therapeutics Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NRXP,"NRX Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NSAI,NorthStrive Acquisition Corp I. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NSAIR,NorthStrive Acquisition Corp I. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSAIU,NorthStrive Acquisition Corp I. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NSAIW,NorthStrive Acquisition Corp I. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSI,National Security Emerging Markets Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NSIT,"Insight Enterprises, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSLR,Neostellar Capital Corp. - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
@@ -5513,6 +5514,7 @@ NASDAQ,YDDL,One and One Green Technologies. INC - Class A Ordinary Shares,Stock,
 NASDAQ,YDES,YD Bio Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YDESW,YD Bio Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YDKG,Yueda Digital Holding - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,YFOR,YYForce Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YHC,LQR House Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YHGJ,Yunhong Green CTI Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YHNA,YHN Acquisition I Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -5542,7 +5544,6 @@ NASDAQ,YSXT,"YSX Tech. Co., Ltd - Class A Ordinary Shares",Stock,,nasdaq_trader_
 NASDAQ,YTRA,"Yatra Online, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YXT,YXT.COM GROUP HOLDING LIMITED - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YYAI,AiRWA Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,YYGH,YY Group Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,Z,"Zillow Group, Inc. - Class C Capital Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZAP,Global X U.S. Electrification ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ZAZZT,Tick Pilot Test Stock Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5578,7 +5579,6 @@ NASDAQ,ZOOZW,ZOOZ Strategy Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZS,"Zscaler, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZSQR,Z Squared Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZSTK,ZeroStack Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ZTEK,Zentek Ltd. - common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZTEN,F/m 10-Year Investment Grade Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ZTG,Zenta Group Company Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZTOP,F/m High Yield 100 ETF,ETF,,nasdaq_trader_symbol_directory

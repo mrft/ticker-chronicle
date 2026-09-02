@@ -1667,7 +1667,7 @@ CRMT,NASDAQ,"America's Car-Mart, Inc. - Common Stock",Stock,True,2026-05-08,,,05
 CRMU,NASDAQ,Leverage Shares 2x Long CRML Daily ETF,ETF,True,2026-05-08,,,cb644ec86ec09b4032f0
 CRNC,NASDAQ,Cerence Inc. - Common Stock,Stock,True,2026-05-08,,,4a74eaa5392ad0d1fbd5
 CRNT,NASDAQ,Ceragon Networks Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,44ca06acb4c5c010b37c
-CRNX,NASDAQ,"Crinetics Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,59ac99b12dc7bd66c0af
+CRNX,NASDAQ,"Crinetics Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-02,Missing from current NASDAQ source snapshot; reason unavailable,59ac99b12dc7bd66c0af
 CROB,NASDAQ,Defiance China Robotics ETF,ETF,True,2026-08-18,,,77027710ce3bf404da6d
 CRON,NASDAQ,Cronos Group Inc. - Common Share,Stock,True,2026-05-08,,,5c9cec440af44b172fbc
 CROX,NASDAQ,"Crocs, Inc. - Common Stock",Stock,True,2026-05-08,,,4581880f58d707779cae
@@ -3953,7 +3953,7 @@ NCPB,NASDAQ,Nuveen Core Plus Bond ETF,ETF,True,2026-05-08,,,a46a4292fe91c2c7062f
 NCPL,NASDAQ,Netcapital Inc. - Common Stock,Stock,True,2026-05-08,,,ed4397318de2fa194492
 NCPLW,NASDAQ,Netcapital Inc. - warrants,Stock,True,2026-05-08,,,b061e30b8320466d7ac9
 NCRA,NASDAQ,"Nocera, Inc. - common stock",Stock,True,2026-05-08,,,b42ead815c0fa4a6e8e4
-NCSM,NASDAQ,"NCS Multistage Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,a8c14dbb024871bc9af6
+NCSM,NASDAQ,"NCS Multistage Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-02,Missing from current NASDAQ source snapshot; reason unavailable,a8c14dbb024871bc9af6
 NCT,NASDAQ,Intercont (Cayman) Limited - Class A Ordinary shares,Stock,True,2026-05-08,,,dd20e4389ed5c63c8ad0
 NCTY,NASDAQ,The9 Limited - American Depository Shares,Stock,True,2026-05-08,,,a6546108e25ed36418b6
 NDAA,NASDAQ,Ned Davis Research 360 Dynamic Allocation ETF,ETF,True,2026-05-08,,,c99436f7333580ee0b82
@@ -4065,7 +4065,10 @@ NRSN,NASDAQ,NeuroSense Therapeutics Ltd. - Ordinary Shares,Stock,True,2026-05-08
 NRSNW,NASDAQ,NeuroSense Therapeutics Ltd. - Warrant,Stock,True,2026-05-08,,,28a73cf232ff5d18360d
 NRXP,NASDAQ,"NRX Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,04c83a8b17d58fe65a7c
 NRXPW,NASDAQ,"NRX Pharmaceuticals, Inc. - Warrant",Stock,False,2026-05-08,2026-05-26,Missing from current NASDAQ source snapshot; reason unavailable,4a945452581760b73e90
+NSAI,NASDAQ,NorthStrive Acquisition Corp I. - Class A Ordinary Shares,Stock,True,2026-09-02,,,35baac271a8361eb0dcf
+NSAIR,NASDAQ,NorthStrive Acquisition Corp I. - Rights,Stock,True,2026-09-02,,,53d03334b37a8bfac406
 NSAIU,NASDAQ,NorthStrive Acquisition Corp I. - Units,Stock,True,2026-08-18,,,c895f3fee49414e53d7d
+NSAIW,NASDAQ,NorthStrive Acquisition Corp I. - Warrants,Stock,True,2026-09-02,,,78d238c2f35578baf840
 NSI,NASDAQ,National Security Emerging Markets Index ETF,ETF,True,2026-05-08,,,0b0aacc0e892aaf3aa79
 NSIT,NASDAQ,"Insight Enterprises, Inc. - Common Stock",Stock,True,2026-05-08,,,4fd2da27e0d69b151b5b
 NSLR,NASDAQ,Neostellar Capital Corp. - Closed End Fund,Stock,True,2026-07-01,,,15f61c1a366119249d0d
@@ -6227,6 +6230,7 @@ YDDL,NASDAQ,One and One Green Technologies. INC - Class A Ordinary Shares,Stock,
 YDES,NASDAQ,YD Bio Limited - Ordinary Shares,Stock,True,2026-05-08,,,0b5dcd3d582da01dff66
 YDESW,NASDAQ,YD Bio Limited - Warrants,Stock,True,2026-05-08,,,51429d4c78eefbb40ff3
 YDKG,NASDAQ,Yueda Digital Holding - Class A Ordinary Share,Stock,True,2026-05-08,,,10feffd726a90875dcdb
+YFOR,NASDAQ,YYForce Inc. - Class A Ordinary Shares,Stock,True,2026-09-02,,,8c463fe8a22105428dcd
 YHC,NASDAQ,LQR House Inc. - Common Stock,Stock,True,2026-05-08,,,d1e0e9fb7eb82ca70503
 YHGJ,NASDAQ,Yunhong Green CTI Ltd. - Common Stock,Stock,True,2026-05-08,,,023d9cb6b06d857a72ef
 YHNA,NASDAQ,YHN Acquisition I Limited - Ordinary Shares,Stock,True,2026-05-08,,,ad18db4361ef82b70d78
@@ -6257,7 +6261,7 @@ YSXT,NASDAQ,"YSX Tech. Co., Ltd - Class A Ordinary Shares",Stock,True,2026-05-08
 YTRA,NASDAQ,"Yatra Online, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,2b773e3b5a8c9ce2fabf
 YXT,NASDAQ,YXT.COM GROUP HOLDING LIMITED - American Depository Shares,Stock,True,2026-05-08,,,c25db7ccab05e4472ac0
 YYAI,NASDAQ,AiRWA Inc. - Common Stock,Stock,True,2026-05-08,,,33480bafb41bc595ec04
-YYGH,NASDAQ,YY Group Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,f3cb0650a4ba0f0fcc4a
+YYGH,NASDAQ,YY Group Holding Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-09-02,Other delisting reason: Details unavailable (source: FMP Delisted API),f3cb0650a4ba0f0fcc4a
 Z,NASDAQ,"Zillow Group, Inc. - Class C Capital Stock",Stock,True,2026-05-08,,,8f5edce84178aa942c37
 ZAP,NASDAQ,Global X U.S. Electrification ETF,ETF,True,2026-05-08,,,d6deb139533a65b54e48
 ZAZZT,NASDAQ,Tick Pilot Test Stock Class A Common Stock,Stock,True,2026-05-08,,,fabf06571d0da0a3d8c8
@@ -6294,7 +6298,7 @@ ZOOZW,NASDAQ,ZOOZ Strategy Ltd. - Warrant,Stock,True,2026-05-08,,,8ec3566d85378c
 ZS,NASDAQ,"Zscaler, Inc. - Common Stock",Stock,True,2026-05-08,,,11fda8aa9791c2f8a802
 ZSQR,NASDAQ,Z Squared Inc. - Common Stock,Stock,True,2026-05-08,,,61368f6bbefbc578329f
 ZSTK,NASDAQ,ZeroStack Corp. - Common Stock,Stock,True,2026-05-08,,,bd5f294e4f151c353cab
-ZTEK,NASDAQ,Zentek Ltd. - common stock,Stock,True,2026-05-08,,,9580a6ee67620adb0025
+ZTEK,NASDAQ,Zentek Ltd. - common stock,Stock,False,2026-05-08,2026-09-02,Missing from current NASDAQ source snapshot; reason unavailable,9580a6ee67620adb0025
 ZTEN,NASDAQ,F/m 10-Year Investment Grade Corporate Bond ETF,ETF,True,2026-05-08,,,c0f88ca5b0d0d2a60987
 ZTG,NASDAQ,Zenta Group Company Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,58df7fbd2dad27e24481
 ZTOP,NASDAQ,F/m High Yield 100 ETF,ETF,True,2026-05-08,,,9856608f2722209525c9
@@ -7646,7 +7650,7 @@ HLLY,NYSE,Holley Inc. Common Stock,Stock,True,2026-05-08,,,7715cd6cc62f73c1af96
 HLLY.W,NYSE,Holley Inc. Warrants,Stock,False,2026-05-08,2026-07-15,Missing from current NYSE source snapshot; reason unavailable,5de2b2913ab1c3ef828f
 HLN,NYSE,Haleon plc American Depositary Shares (Each representing two Ordinary Shares),Stock,True,2026-05-08,,,b578c0cf655a96ad6bb1
 HLT,NYSE,Hilton Worldwide Holdings Inc. Common Stock,Stock,True,2026-05-08,,,6e7cd5fd3e134598e4aa
-HLX,NYSE,"Helix Energy Solutions Group, Inc. Common Stock",Stock,True,2026-05-08,,,b94d7e537ffaf979a3f8
+HLX,NYSE,"Helix Energy Solutions Group, Inc. Common Stock",Stock,False,2026-05-08,2026-09-02,Other delisting reason: Details unavailable (source: FMP Delisted API),b94d7e537ffaf979a3f8
 HMC,NYSE,"Honda Motor Company, Ltd. Common Stock",Stock,True,2026-05-08,,,a1007bedf414cf89cdaf
 HMN,NYSE,Horace Mann Educators Corporation Common Stock,Stock,True,2026-05-08,,,dd3c2802cbcbe79a048e
 HMY,NYSE,Harmony Gold Mining Company Limited,Stock,True,2026-05-08,,,d90401e7975cd0e1f943
@@ -7654,6 +7658,7 @@ HNGE,NYSE,"Hinge Health, Inc. Class A Common Stock",Stock,True,2026-05-08,,,cee7
 HNI,NYSE,HNI Corporation Common Stock,Stock,True,2026-05-08,,,86396a6b743739940096
 HOG,NYSE,"Harley-Davidson, Inc. Common Stock",Stock,True,2026-05-08,,,05686dd159633ce63b77
 HOMB,NYSE,"Home BancShares, Inc. Common Stock",Stock,True,2026-05-08,,,672f42f688da9244cfb7
+HOS,NYSE,"Hornbeck Offshore Services, Inc. Common Stock",Stock,True,2026-09-02,,,6239511707b450670422
 HOV,NYSE,"Hovnanian Enterprises, Inc. Class A Common Stock",Stock,True,2026-05-08,,,38162a205eb3efc352ab
 HP,NYSE,"Helmerich & Payne, Inc. Common Stock",Stock,True,2026-05-08,,,e81d0bb7751c5da9a49b
 HPE,NYSE,Hewlett Packard Enterprise Company Common Stock,Stock,True,2026-05-08,,,a87f08639701cfcd09f6
