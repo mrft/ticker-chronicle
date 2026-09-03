@@ -397,7 +397,6 @@ NASDAQ,ARMY,Tema International Defense ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AROW,Arrow Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARQ,"Arq, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARQQ,Arqit Quantum Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ARQQW,Arqit Quantum Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARQT,"Arcutis Biotherapeutics, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARRY,"Array Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARTC,Art Technology Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2701,6 +2700,8 @@ NASDAQ,JLHL,Julong Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trade
 NASDAQ,JLVP,JPMorgan U.S. Large Cap Value Plus ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JMID,Janus Henderson Mid Cap Growth Alpha ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JMSB,"John Marshall Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,JONE,Jones Ventures INTL Acquisition1 Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,JONER,Jones Ventures INTL Acquisition1 Corp - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JONEU,Jones Ventures INTL Acquisition1 Corp - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JOUT,Johnson Outdoors Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JOYT,JPMorgan Equity and Options Total Return ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4184,7 +4185,6 @@ NASDAQ,RCBC,River City Bank - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RCEL,"Avita Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RCGE,RockCreek Global Equality ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RCKT,"Rocket Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RCKTW,"Rocket Pharmaceuticals, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RCKY,"Rocky Brands, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RCMT,"RCM Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RCON,"Recon Technology, Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory

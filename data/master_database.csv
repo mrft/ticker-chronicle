@@ -773,7 +773,7 @@ ARMY,NASDAQ,Tema International Defense ETF,ETF,True,2026-05-08,,,71b76526d25502f
 AROW,NASDAQ,Arrow Financial Corporation - Common Stock,Stock,True,2026-05-08,,,84cd33b068f5fc1cca76
 ARQ,NASDAQ,"Arq, Inc. - Common Stock",Stock,True,2026-05-08,,,ea478379f09674e5ac46
 ARQQ,NASDAQ,Arqit Quantum Inc. - Ordinary Shares,Stock,True,2026-05-08,,,4b7e350e1d9e02dc86fb
-ARQQW,NASDAQ,Arqit Quantum Inc. - Warrants,Stock,True,2026-05-08,,,57788f19267a14314dc9
+ARQQW,NASDAQ,Arqit Quantum Inc. - Warrants,Stock,False,2026-05-08,2026-09-03,Missing from current NASDAQ source snapshot; reason unavailable,57788f19267a14314dc9
 ARQT,NASDAQ,"Arcutis Biotherapeutics, Inc. - Common stock",Stock,True,2026-05-08,,,ff17ec5aeddfe25252d4
 ARRY,NASDAQ,"Array Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,ae96b68f4a1a89d0a3b2
 ARTC,NASDAQ,Art Technology Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,ced7b4c900f0eb73ba00
@@ -3227,6 +3227,8 @@ JLHL,NASDAQ,Julong Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-
 JLVP,NASDAQ,JPMorgan U.S. Large Cap Value Plus ETF,ETF,True,2026-07-31,,,64bbfb440d15b3223607
 JMID,NASDAQ,Janus Henderson Mid Cap Growth Alpha ETF,ETF,True,2026-05-08,,,66056845c9da4d8f3a55
 JMSB,NASDAQ,"John Marshall Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,fdd2c3876e16d10044dc
+JONE,NASDAQ,Jones Ventures INTL Acquisition1 Corp - Class A Ordinary Shares,Stock,True,2026-09-03,,,e4ddb69e55482efda40f
+JONER,NASDAQ,Jones Ventures INTL Acquisition1 Corp - Rights,Stock,True,2026-09-03,,,22f1670994ca4f0e4fd4
 JONEU,NASDAQ,Jones Ventures INTL Acquisition1 Corp - Units,Stock,True,2026-07-14,,,ee03f77a798b9365228a
 JOUT,NASDAQ,Johnson Outdoors Inc. - Class A Common Stock,Stock,True,2026-05-08,,,f6300b8ccea8bb7e6ef7
 JOYT,NASDAQ,JPMorgan Equity and Options Total Return ETF,ETF,True,2026-05-08,,,92ca9ee8cd9e7977687f
@@ -4805,7 +4807,7 @@ RCBC,NASDAQ,River City Bank - Common stock,Stock,True,2026-08-06,,,5912dda93010e
 RCEL,NASDAQ,"Avita Medical, Inc. - Common Stock",Stock,True,2026-05-08,,,5ea5918e471d99ad9b01
 RCGE,NASDAQ,RockCreek Global Equality ETF,ETF,True,2026-05-08,,,e99c62e9838e5db6764f
 RCKT,NASDAQ,"Rocket Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,a30a5e7d64417609d5ee
-RCKTW,NASDAQ,"Rocket Pharmaceuticals, Inc. - Warrant",Stock,True,2026-05-08,,,c7dcbbbd436246be8171
+RCKTW,NASDAQ,"Rocket Pharmaceuticals, Inc. - Warrant",Stock,False,2026-05-08,2026-09-03,Missing from current NASDAQ source snapshot; reason unavailable,c7dcbbbd436246be8171
 RCKY,NASDAQ,"Rocky Brands, Inc. - Common Stock",Stock,True,2026-05-08,,,2711fc50fe050d9e826d
 RCMT,NASDAQ,"RCM Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,700343e1ca48fb20416b
 RCON,NASDAQ,"Recon Technology, Ltd. - Class A Ordinary Shares",Stock,True,2026-05-08,,,f2c54e0cea1b52ddd13c
