@@ -1846,6 +1846,7 @@ NYSE,NLY$J,Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative 
 NYSE,NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,NMAX,"Newsmax, Inc. Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,NMCO.V,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,NMG,Nouveau Monde Graphite Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,NMI,"Nuveen Municipal Income Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,NMM,Navios Maritime Partners LP Common Units Representing Limited Partner Interests,Stock,,nasdaq_trader_symbol_directory
@@ -2239,7 +2240,7 @@ NYSE,RITM$E,Rithm Capital Corp. 8.75% Series E Fixed-Rate Cumulative Redeemable 
 NYSE,RITM$F,Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RIV,"RiverNorth Opportunities Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,RIV.V,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
+NYSE,RIV.R,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 NYSE,RJF,"Raymond James Financial, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,RKT,"Rocket Companies, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,RL,Ralph Lauren Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2899,6 +2900,7 @@ NYSE,XPRO,Expro Ltd Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,XRN,Chiron Real Estate Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,XRN$A,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,XRN$B,"Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",Stock,,nasdaq_trader_symbol_directory
+NYSE,XTND,"Xtend AI Robotics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,XXI,"Twenty One Capital, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,XYF,"X Financial American Depositary Shares, each representing six Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,XYL,Xylem Inc. Common Stock New,Stock,,nasdaq_trader_symbol_directory

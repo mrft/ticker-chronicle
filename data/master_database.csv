@@ -51,7 +51,8 @@ CCEL,AMEX,"Cryo-Cell International, Inc. Common Stock",Stock,True,2026-05-08,,,8
 CET,AMEX,Central Securities Corporation Common Stock,Stock,True,2026-05-08,,,1af93b6525857e9798db
 CEV,AMEX,Eaton Vance California Municipal Income Trust Shares of Beneficial Interest,Stock,True,2026-05-08,,,8e952bf7715e04a9fbc3
 CHOW,AMEX,ChowChow Cloud International Holdings Limited Ordinary Shares,Stock,True,2026-05-08,,,7ac98eeea502fb62bce0
-CIK,AMEX,"Credit Suisse Asset Management Income Fund, Inc. Common Stock",Stock,True,2026-05-08,,,2ad4f01e6f1919a7f579
+CIK,AMEX,"Credit Suisse Asset Management Income Fund, Inc. Common Stock",Stock,False,2026-05-08,2026-09-04,Listing metadata changed,2ad4f01e6f1919a7f579
+CIK,AMEX,"UBS Asset Management Income Fund, Inc. Common Stock",Stock,True,2026-09-04,,,a997e01c45ad5149452e
 CITR,AMEX,CitroTech Inc. Common Stock,Stock,True,2026-05-08,,,d9bb63b3d05f5edeeecb
 CIX,AMEX,CompX International Inc. Common Stock,Stock,True,2026-05-08,,,8fbc840e81db2a45fe86
 CKX,AMEX,"CKX Lands, Inc. Common Stock",Stock,True,2026-05-08,,,43ea91916b02cb28634c
@@ -74,7 +75,8 @@ CVR,AMEX,Chicago Rivet & Machine Co. Common Stock,Stock,True,2026-05-08,,,b943df
 CVU,AMEX,"CPI Aerostructures, Inc. Common Stock",Stock,True,2026-05-08,,,d60e03887c9ff1260537
 DC,AMEX,Dakota Gold Corp. Common Stock,Stock,True,2026-05-08,,,5d55e65e6e710676a515
 DDC,AMEX,DDC Enterprise Limited Class A Ordinary Shares,Stock,True,2026-05-08,,,f89533cef933201b6199
-DHY,AMEX,Credit Suisse High Yield Credit Fund Common Stock,Stock,True,2026-05-08,,,128ec2e521ff3478c1af
+DHY,AMEX,Credit Suisse High Yield Credit Fund Common Stock,Stock,False,2026-05-08,2026-09-04,Listing metadata changed,128ec2e521ff3478c1af
+DHY,AMEX,UBS Asset Management High Yield Credit Fund Common Stock,Stock,True,2026-09-04,,,876d41c1726128fd2a4a
 DHY.R,AMEX,"Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",Stock,False,2026-05-08,2026-05-14,Missing from current AMEX source snapshot; reason unavailable,903715b92bb68d25cbf4
 DIT,AMEX,AMCON Distributing Company Common Stock,Stock,True,2026-05-08,,,91be50e1995314b2185b
 DNN,AMEX,Denison Mines Corp Ordinary Shares (Canada),Stock,True,2026-05-08,,,622464a10c558b7ffc47
@@ -709,7 +711,7 @@ APACR,NASDAQ,StoneBridge Acquisition II Corporation - Rights,Stock,True,2026-05-
 APACU,NASDAQ,StoneBridge Acquisition II Corporation - Units,Stock,True,2026-05-08,,,90361882d384c0aec6c9
 APC,NASDAQ,ARKO Petroleum Corp. - Class A Common Stock,Stock,True,2026-05-08,,,2a8d5585b9256acd1f78
 APEI,NASDAQ,"American Public Education, Inc. - Common Stock",Stock,True,2026-05-08,,,b677cc01acda90fb9f0e
-APGE,NASDAQ,"Apogee Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,454da55cfb1d26dd1934
+APGE,NASDAQ,"Apogee Therapeutics, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-04,Missing from current NASDAQ source snapshot; reason unavailable,454da55cfb1d26dd1934
 API,NASDAQ,"Agora, Inc. - ADS",Stock,True,2026-05-08,,,664f9198f1e6323075ab
 APLD,NASDAQ,Applied Digital Corporation - Common Stock,Stock,True,2026-05-08,,,bab5e66513f17f17b9c6
 APLM,NASDAQ,Apollomics Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,b77b9caa8cec14101d19
@@ -1255,7 +1257,7 @@ BTM,NASDAQ,Bitcoin Depot Inc. - Class A Common Stock,Stock,False,2026-05-08,2026
 BTMD,NASDAQ,Biote Corp. - Class A common stock,Stock,True,2026-05-08,,,a4a4e2bd1dcac492685b
 BTMWW,NASDAQ,Bitcoin Depot Inc. - Warrant,Stock,False,2026-05-08,2026-05-26,Missing from current NASDAQ source snapshot; reason unavailable,251e39ae6c47ea44ade4
 BTOC,NASDAQ,Armlogi Holding Corp. - common stock,Stock,True,2026-05-08,,,4fe3892b64589f4de7a6
-BTOG,NASDAQ,Bit Origin Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,085c10e725ad2e50027e
+BTOG,NASDAQ,Bit Origin Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-09-04,Missing from current NASDAQ source snapshot; reason unavailable,085c10e725ad2e50027e
 BTQ,NASDAQ,BTQ Technologies Corp. - Common Stock,Stock,True,2026-05-08,,,74a11ebbf3deff8cd118
 BTSG,NASDAQ,"BrightSpring Health Services, Inc. - Common Stock",Stock,True,2026-05-08,,,3d509a30e2511e818a56
 BTSGU,NASDAQ,"BrightSpring Health Services, Inc. - Tangible Equity Unit",Stock,True,2026-05-08,,,2e953d3e2fed7db79938
@@ -2842,6 +2844,7 @@ HPAI,NASDAQ,Helport AI Limited - Ordinary Shares,Stock,True,2026-05-08,,,ca50906
 HPAIW,NASDAQ,Helport AI Limited - Warrants,Stock,True,2026-05-08,,,8269d443d6a34ab394d6
 HPK,NASDAQ,"HighPeak Energy, Inc. - Common Stock",Stock,True,2026-05-08,,,9f93a46b59cfcfd81345
 HQ,NASDAQ,Horizon Quantum Holdings Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,31d1109ede675683a82a
+HQDG,NASDAQ,Raub Brock Dividend Growth ETF,ETF,True,2026-09-04,,,0ee7876f0a621dd9ece5
 HQGO,NASDAQ,Hartford US Quality Growth ETF,ETF,True,2026-05-08,,,fc226b5b9e554db93d9a
 HQI,NASDAQ,"HireQuest, Inc. - Common Stock",Stock,True,2026-05-08,,,8fae09c0d0144d366489
 HQWWW,NASDAQ,Horizon Quantum Holdings Ltd. - Warrant,Stock,True,2026-05-08,,,9721b77889ed6a46959c
@@ -3213,7 +3216,7 @@ JEM,NASDAQ,707 Cayman Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,
 JEMA,NASDAQ,JPMorgan ActiveBuilders Emerging Markets Equity ETF,ETF,True,2026-05-08,,,50c83efd59692b980b89
 JEPQ,NASDAQ,JPMorgan Nasdaq Equity Premium Income ETF,ETF,True,2026-05-08,,,86acd9d99841df79f053
 JF,NASDAQ,J and Friends Holdings Limited - American Depositary Shares,Stock,True,2026-05-08,,,4b0b8aff37e57d7a04ff
-JFB,NASDAQ,JFB Construction Holdings - Class A Common Stock,Stock,True,2026-05-08,,,672dbda154a314f4eb49
+JFB,NASDAQ,JFB Construction Holdings - Class A Common Stock,Stock,False,2026-05-08,2026-09-04,Missing from current NASDAQ source snapshot; reason unavailable,672dbda154a314f4eb49
 JFIN,NASDAQ,Jiayin Group Inc. - American Depositary Shares,Stock,True,2026-05-08,,,dd58dbb2baac9a4b96a5
 JFU,NASDAQ,9F Inc. - American Depositary Shares,Stock,True,2026-05-08,,,0999de0ea3764a398061
 JG,NASDAQ,Aurora Mobile Limited - American Depositary Shares,Stock,True,2026-05-08,,,d3a43badc1400d8d35e3
@@ -4005,7 +4008,7 @@ NHIV,NASDAQ,NewHold Investment Corp IV - Class A Ordinary Shares,Stock,True,2026
 NHIVU,NASDAQ,NewHold Investment Corp IV - Units,Stock,True,2026-05-08,,,6446708c631ecfd4d595
 NHIVW,NASDAQ,NewHold Investment Corp IV - Warrants,Stock,True,2026-06-08,,,618f70da04aabb0640a4
 NHP,NASDAQ,"National Healthcare Properties, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,299ca10fb56758ec16d6
-NHPAP,NASDAQ,"National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,True,2026-05-08,,,2bb934213968a7c297de
+NHPAP,NASDAQ,"National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,False,2026-05-08,2026-09-04,Missing from current NASDAQ source snapshot; reason unavailable,2bb934213968a7c297de
 NHPBP,NASDAQ,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",Stock,True,2026-05-08,,,636b8c4e08d050ada7e5
 NHTC,NASDAQ,Natural Health Trends Corp. - Common Stock,Stock,True,2026-05-08,,,92501bd87c982bfde906
 NICE,NASDAQ,NICE Ltd - American Depositary Shares each representing one Ordinary Share,Stock,True,2026-05-08,,,dcd647d9895ea1751464
@@ -5123,6 +5126,7 @@ SGML,NASDAQ,Sigma Lithium Corporation - common shares,Stock,True,2026-05-08,,,16
 SGMT,NASDAQ,Sagimet Biosciences Inc. - Series A Common Stock,Stock,True,2026-05-08,,,9e274eeca28fa98fc35b
 SGP,NASDAQ,"SpyGlass Pharma, Inc. - Common Stock",Stock,True,2026-05-08,,,da7aeaee338060061ed6
 SGRP,NASDAQ,"SPAR Group, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-23,Missing from current NASDAQ source snapshot; reason unavailable,71f3dd271743f7f0e21d
+SGRX,NASDAQ,SANGRIX INC. - Class A Ordinary Shares,Stock,True,2026-09-04,,,14f91722da9f27775e5f
 SGRY,NASDAQ,"Surgery Partners, Inc. - Common Stock",Stock,True,2026-05-08,,,6c93c8c21585e77328df
 SGVA,NASDAQ,F/m Accumulator Ultrashort Treasury Fund,ETF,True,2026-06-11,,,08ec668378049f257343
 SHAZ,NASDAQ,"SharonAI Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,451441c7fc4380d2209d
@@ -8237,6 +8241,7 @@ NLY$J,NYSE,Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative 
 NMAI,NYSE,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,da563bf47022487eba13
 NMAX,NYSE,"Newsmax, Inc. Class B Common Stock",Stock,True,2026-05-08,,,d6f75e95c0e53fbbe032
 NMCO,NYSE,Nuveen Municipal Credit Opportunities Fund Common Shares,Stock,True,2026-05-08,,,e1639731530faf41ec51
+NMCO.V,NYSE,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",Stock,True,2026-09-04,,,9f2edde93ce01fa5a4ce
 NMG,NYSE,Nouveau Monde Graphite Inc. Common Shares,Stock,True,2026-05-08,,,702934985ead708445ca
 NMI,NYSE,"Nuveen Municipal Income Fund, Inc. Common Stock",Stock,True,2026-05-08,,,eada02b5fc0b9f15991c
 NMM,NYSE,Navios Maritime Partners LP Common Units Representing Limited Partner Interests,Stock,True,2026-05-08,,,914fc77af5b5f49b19b7
@@ -8647,7 +8652,8 @@ RITM$E,NYSE,Rithm Capital Corp. 8.75% Series E Fixed-Rate Cumulative Redeemable 
 RITM$F,NYSE,Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,d6dcffa9252ddad29ffe
 RIV,NYSE,"RiverNorth Opportunities Fund, Inc. Common Stock",Stock,True,2026-05-08,,,75a6d4efd7c31d65910e
 RIV$A,NYSE,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",Stock,True,2026-05-08,,,64f67422c02b11c49697
-RIV.V,NYSE,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",Stock,True,2026-08-28,,,5b8cabae1dd715035b32
+RIV.R,NYSE,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",Stock,True,2026-09-04,,,ab85b4e69009070eec65
+RIV.V,NYSE,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",Stock,False,2026-08-28,2026-09-04,Missing from current NYSE source snapshot; reason unavailable,5b8cabae1dd715035b32
 RJF,NYSE,"Raymond James Financial, Inc. Common Stock",Stock,True,2026-05-08,,,fb656d7eaadc11c477b2
 RKT,NYSE,"Rocket Companies, Inc. Class A Common Stock",Stock,True,2026-05-08,,,adc4e920f2f9fbc0e185
 RL,NYSE,Ralph Lauren Corporation Common Stock,Stock,True,2026-05-08,,,5e6327e45000dc071688
@@ -9343,6 +9349,7 @@ XPRO,NYSE,Expro Ltd Ordinary Shares,Stock,True,2026-07-14,,,e2b40028d09042fed34d
 XRN,NYSE,Chiron Real Estate Inc. Common Stock,Stock,True,2026-05-08,,,8d5f9d0490eb6e8db078
 XRN$A,NYSE,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,c4f8be2e7ced909ee398
 XRN$B,NYSE,"Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",Stock,True,2026-05-08,,,09c0e967fe6df798a5dc
+XTND,NYSE,"Xtend AI Robotics, Inc. Common Stock",Stock,True,2026-09-04,,,fb50cf3fad3444b8b474
 XXI,NYSE,"Twenty One Capital, Inc. Class A Common Stock",Stock,True,2026-05-08,,,2904ae11135946aba5fc
 XYF,NYSE,"X Financial American Depositary Shares, each representing six Class A Ordinary Shares",Stock,True,2026-05-08,,,9f0c58a8979ee3c1e9fa
 XYL,NYSE,Xylem Inc. Common Stock New,Stock,True,2026-05-08,,,02d9cd42670fca4c609c

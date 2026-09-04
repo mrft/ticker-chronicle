@@ -339,7 +339,6 @@ NASDAQ,APACR,StoneBridge Acquisition II Corporation - Rights,Stock,,nasdaq_trade
 NASDAQ,APACU,StoneBridge Acquisition II Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APC,ARKO Petroleum Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APEI,"American Public Education, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,APGE,"Apogee Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,API,"Agora, Inc. - ADS",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLD,Applied Digital Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APLM,Apollomics Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -852,7 +851,6 @@ NASDAQ,BTGD,STKd 100% Bitcoin & 100% Gold ETF,ETF,,nasdaq_trader_symbol_director
 NASDAQ,BTLN,"Brightline Interactive, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTMD,Biote Corp. - Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTOC,Armlogi Holding Corp. - common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BTOG,Bit Origin Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTQ,BTQ Technologies Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTSG,"BrightSpring Health Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTSGU,"BrightSpring Health Services, Inc. - Tangible Equity Unit",Stock,,nasdaq_trader_symbol_directory
@@ -2336,6 +2334,7 @@ NASDAQ,HPAI,Helport AI Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,HPAIW,Helport AI Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HPK,"HighPeak Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HQ,Horizon Quantum Holdings Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HQDG,Raub Brock Dividend Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HQGO,Hartford US Quality Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HQI,"HireQuest, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HQWWW,Horizon Quantum Holdings Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -2686,7 +2685,6 @@ NASDAQ,JEM,707 Cayman Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_sy
 NASDAQ,JEMA,JPMorgan ActiveBuilders Emerging Markets Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JEPQ,JPMorgan Nasdaq Equity Premium Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JF,J and Friends Holdings Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,JFB,JFB Construction Holdings - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JFIN,Jiayin Group Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JFU,9F Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JG,Aurora Mobile Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3424,7 +3422,6 @@ NASDAQ,NHIV,NewHold Investment Corp IV - Class A Ordinary Shares,Stock,,nasdaq_t
 NASDAQ,NHIVU,NewHold Investment Corp IV - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHIVW,NewHold Investment Corp IV - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHP,"National Healthcare Properties, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NHPAP,"National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHPBP,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHTC,Natural Health Trends Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NICE,NICE Ltd - American Depositary Shares each representing one Ordinary Share,Stock,,nasdaq_trader_symbol_directory
@@ -4483,6 +4480,7 @@ NASDAQ,SGLY,Singularity Future Technology Ltd. - Common Stock,Stock,,nasdaq_trad
 NASDAQ,SGML,Sigma Lithium Corporation - common shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGMT,Sagimet Biosciences Inc. - Series A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGP,"SpyGlass Pharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SGRX,SANGRIX INC. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGRY,"Surgery Partners, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGVA,F/m Accumulator Ultrashort Treasury Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
