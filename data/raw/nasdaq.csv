@@ -251,7 +251,7 @@ NASDAQ,ALOV,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Sh
 NASDAQ,ALOVU,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALOVW,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALOY,REalloys Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ALP,Alpha Compute Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ALP,Alpha Compute Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALPS,ALPS Group Inc - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALPX,Alpex Acquisition Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALPXR,Alpex Acquisition Corporation - Rights,Stock,,nasdaq_trader_symbol_directory
@@ -268,7 +268,9 @@ NASDAQ,ALVOW,Alvotech - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALXO,ALX Oncology Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALZN,"Alzamend Neuro, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMA,Defiance Daily Target 2X Long AMAT ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AMAC,AMR Resources Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMACU,AMR Resources Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AMACW,AMR Resources Acquisition Corp - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMAL,Amalgamated Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMAN,Amanat Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMAT,"Applied Materials, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -838,7 +840,6 @@ NASDAQ,BSTV,Invesco BulletShares 2031 Treasury Bond ETF,ETF,,nasdaq_trader_symbo
 NASDAQ,BSVN,Bank7 Corp. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSVO,EA Bridgeway Omni Small-Cap Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSY,"Bentley Systems, Incorporated - Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BTAI,"BioXcel Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTBD,"BT Brands, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTBDW,"BT Brands, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTBT,"Bit Digital, Inc. - Ordinary Share",Stock,,nasdaq_trader_symbol_directory
@@ -1040,6 +1041,7 @@ NASDAQ,CGPT,VegaShares AI Inference ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CGTL,Creative Global Technology Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CGTX,"Cognition Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHA,"Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CHAD,DeFi Development Corp. - Variable Rate Series C Perpetual Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHAI,"Core AI Holdings, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHAR,Charlton Aria Acquisition Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHARR,Charlton Aria Acquisition Corporation - Rights,Stock,,nasdaq_trader_symbol_directory
@@ -2074,7 +2076,6 @@ NASDAQ,GILT,Gilat Satellite Networks Ltd. - Ordinary Shares,Stock,,nasdaq_trader
 NASDAQ,GIND,Goldman Sachs India Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GINX,SGI Enhanced Global Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GIPR,Generation Income Properties Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GIPRW,Generation Income Properties Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GITS,"Global Interactive Technologies, Inc. Common Stock - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIW,GigCapital8 Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GIWWR,GigCapital8 Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
@@ -2976,7 +2977,6 @@ NASDAQ,LPCV,Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share,Stock,
 NASDAQ,LPCVU,Launchpad Cadenza Acquisition Corp I - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPCVW,Launchpad Cadenza Acquisition Corp I - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPLA,LPL Financial Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LPSN,"LivePerson, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPTH,"LightPath Technologies, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LQ,Simplify Tax Aware Alternatives ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LQDA,Liquidia Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory

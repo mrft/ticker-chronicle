@@ -23,6 +23,7 @@ ATEST.B,AMEX,Tick pilot Test 2 Common Stock,Stock,True,2026-05-08,,,d2c8e631a2bb
 ATEST.C,AMEX,Tick Pilot Test 3 Common Stock,Stock,True,2026-05-08,,,7344311104ee8d0085ec
 ATNM,AMEX,"Actinium Pharmaceuticals, Inc. (Delaware) Common Stock",Stock,True,2026-05-08,,,df9438870b47977e7ce5
 AUST,AMEX,Austin Gold Corp. Common Shares,Stock,True,2026-05-08,,,1acf1d47738b8a22c0b2
+AUXX,AMEX,Gold X2 Mining Inc. Common Shares,Stock,True,2026-09-08,,,4f7bb54fff3a94a128f0
 AWX,AMEX,Avalon Holdings Corporation Common Stock,Stock,True,2026-05-08,,,f97f70406201cd949bf5
 AXIL,AMEX,"AXIL Brands, Inc. Common Stock",Stock,True,2026-05-08,,,64a7dd8f0c054cd363e9
 AZTR,AMEX,Azitra Inc Common Stock,Stock,True,2026-05-08,,,4f973285efdd9749130f
@@ -616,7 +617,8 @@ ALOV,NASDAQ,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Sh
 ALOVU,NASDAQ,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units",Stock,True,2026-05-08,,,3bc050c85409c720bab0
 ALOVW,NASDAQ,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants",Stock,True,2026-05-08,,,338f0dc1562c5cdf16fd
 ALOY,NASDAQ,REalloys Inc. - Common Stock,Stock,True,2026-05-08,,,46dc81e3e175c097fd79
-ALP,NASDAQ,Alpha Compute Corp - Common Stock,Stock,True,2026-05-08,,,f1e96b24986a92a11c81
+ALP,NASDAQ,Alpha Compute Corp - Common Stock,Stock,False,2026-05-08,2026-09-08,Listing metadata changed,f1e96b24986a92a11c81
+ALP,NASDAQ,Alpha Compute Corp - Ordinary Shares,Stock,True,2026-09-08,,,17b0b28ebff3d4989aa5
 ALPS,NASDAQ,ALPS Group Inc - Ordinary Share,Stock,True,2026-05-08,,,bc44583b2eb2d2a64ead
 ALPX,NASDAQ,Alpex Acquisition Corporation - Class A Ordinary Shares,Stock,True,2026-07-07,,,5624d2d5936774358de9
 ALPXR,NASDAQ,Alpex Acquisition Corporation - Rights,Stock,True,2026-07-07,,,8b75a45b0d99cf0581ca
@@ -633,7 +635,9 @@ ALVOW,NASDAQ,Alvotech - Warrant,Stock,True,2026-05-08,,,ec3c1e3b8f4f9b638e26
 ALXO,NASDAQ,ALX Oncology Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,c885b0f2abe9b187fff2
 ALZN,NASDAQ,"Alzamend Neuro, Inc. - Common Stock",Stock,True,2026-05-08,,,c0ba4c2b822098648944
 AMA,NASDAQ,Defiance Daily Target 2X Long AMAT ETF,ETF,True,2026-05-08,,,b997d2630d04a7d2008c
+AMAC,NASDAQ,AMR Resources Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-09-08,,,53150c2c27f2389a1a39
 AMACU,NASDAQ,AMR Resources Acquisition Corp - Units,Stock,True,2026-07-17,,,154079b2610446034b12
+AMACW,NASDAQ,AMR Resources Acquisition Corp - Warrants,Stock,True,2026-09-08,,,b41107e551a583cee8c3
 AMAL,NASDAQ,Amalgamated Financial Corp. - Common Stock,Stock,True,2026-05-08,,,43086b65201235794e3a
 AMAN,NASDAQ,Amanat Acquisition Corp - Ordinary Shares,Stock,False,2026-05-19,2026-05-20,Listing metadata changed,64ee2faea4e8709594b6
 AMAN,NASDAQ,Amanat Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-20,,,04f7a62dac0dfbaba1a6
@@ -1242,7 +1246,7 @@ BSTV,NASDAQ,Invesco BulletShares 2031 Treasury Bond ETF,ETF,True,2026-06-10,,,c2
 BSVN,NASDAQ,Bank7 Corp. - Common stock,Stock,True,2026-05-08,,,a7cc935e23e9097e0124
 BSVO,NASDAQ,EA Bridgeway Omni Small-Cap Value ETF,ETF,True,2026-05-08,,,8c9b4fbbfbf004b62628
 BSY,NASDAQ,"Bentley Systems, Incorporated - Class B Common Stock",Stock,True,2026-05-08,,,ddb2b57cc33e7a9f87d9
-BTAI,NASDAQ,"BioXcel Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,789ec4e2a2d3f0f1f2ee
+BTAI,NASDAQ,"BioXcel Therapeutics, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-08,Missing from current NASDAQ source snapshot; reason unavailable,789ec4e2a2d3f0f1f2ee
 BTBD,NASDAQ,"BT Brands, Inc. - Common Stock",Stock,True,2026-05-08,,,bd0c4f2fb9068fdaeeff
 BTBDW,NASDAQ,"BT Brands, Inc. - Warrant",Stock,True,2026-05-08,,,9d45dde882d67f565718
 BTBT,NASDAQ,"Bit Digital, Inc. - Ordinary Share",Stock,True,2026-05-08,,,bd6fbbb826035453c525
@@ -1462,6 +1466,7 @@ CGPT,NASDAQ,VegaShares AI Inference ETF,ETF,True,2026-08-13,,,f53a17b8715ef0d705
 CGTL,NASDAQ,Creative Global Technology Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,923e9087607500dcda7f
 CGTX,NASDAQ,"Cognition Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,d4e8cd83921859b5aefa
 CHA,NASDAQ,"Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share",Stock,True,2026-05-08,,,a7672325abb958a8fbad
+CHAD,NASDAQ,DeFi Development Corp. - Variable Rate Series C Perpetual Preferred Stock,Stock,True,2026-09-08,,,dc39595b203efc40f204
 CHAI,NASDAQ,"Core AI Holdings, Inc. - Common Shares",Stock,True,2026-05-08,,,36637dcbce7a3812a6d9
 CHAR,NASDAQ,Charlton Aria Acquisition Corporation - Class A Ordinary Shares,Stock,True,2026-05-08,,,881c15d4d95d5151a003
 CHARR,NASDAQ,Charlton Aria Acquisition Corporation - Rights,Stock,True,2026-05-08,,,51caaee958e86622034b
@@ -2571,7 +2576,7 @@ GILT,NASDAQ,Gilat Satellite Networks Ltd. - Ordinary Shares,Stock,True,2026-05-0
 GIND,NASDAQ,Goldman Sachs India Equity ETF,ETF,True,2026-05-08,,,0f5c4b9f3a75415a3919
 GINX,NASDAQ,SGI Enhanced Global Income ETF,ETF,True,2026-05-08,,,0bc1dde1f4a8d440430d
 GIPR,NASDAQ,Generation Income Properties Inc. - Common stock,Stock,True,2026-05-08,,,e3451f0f47ff3ce27230
-GIPRW,NASDAQ,Generation Income Properties Inc. - Warrant,Stock,True,2026-05-08,,,99a9196473705d0512ad
+GIPRW,NASDAQ,Generation Income Properties Inc. - Warrant,Stock,False,2026-05-08,2026-09-08,Missing from current NASDAQ source snapshot; reason unavailable,99a9196473705d0512ad
 GITS,NASDAQ,"Global Interactive Technologies, Inc. Common Stock - Common Stock",Stock,True,2026-05-08,,,918bafcdd7ee883ec62f
 GIW,NASDAQ,GigCapital8 Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,861749b522e9799ffbe0
 GIWWR,NASDAQ,GigCapital8 Corp. - Rights,Stock,True,2026-05-08,,,952e58d6e818bb60f0bb
@@ -3536,7 +3541,7 @@ LPCVU,NASDAQ,Launchpad Cadenza Acquisition Corp I - Unit,Stock,True,2026-05-08,,
 LPCVW,NASDAQ,Launchpad Cadenza Acquisition Corp I - Warrant,Stock,True,2026-05-08,,,2b0753328c2554a22e7b
 LPLA,NASDAQ,LPL Financial Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,5b3b9e44359bcbbc9ed5
 LPRO,NASDAQ,Open Lending Corporation - Common Stock,Stock,False,2026-05-08,2026-07-31,Missing from current NASDAQ source snapshot; reason unavailable,7e7b1f705f767a2215f6
-LPSN,NASDAQ,"LivePerson, Inc. - Common Stock",Stock,True,2026-05-08,,,0026455f7fdd805a82fb
+LPSN,NASDAQ,"LivePerson, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-08,Missing from current NASDAQ source snapshot; reason unavailable,0026455f7fdd805a82fb
 LPTH,NASDAQ,"LightPath Technologies, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,a7b881b78d6b8d40f872
 LQ,NASDAQ,Simplify Tax Aware Alternatives ETF,ETF,True,2026-05-08,,,cda25d49c841d3af9e77
 LQDA,NASDAQ,Liquidia Corporation - Common Stock,Stock,True,2026-05-08,,,c06ba592f422e5166759
