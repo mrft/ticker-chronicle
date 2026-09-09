@@ -411,8 +411,8 @@ NASDAQ,ARVN,"Arvinas, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARVR,First Trust Indxx Metaverse ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ARWR,"Arrowhead Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARXS,"Arxis, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ASBP,"Aspire Biopharma Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ASBPW,"Aspire Biopharma Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ASBP,"Aspire-Lakewood Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ASBPW,"Aspire-Lakewood Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASCI,abrdn International Small Cap Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ASD,Defiance Autism Impact ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ASEC,American Century Securitized Credit ETF,ETF,,nasdaq_trader_symbol_directory
@@ -781,7 +781,6 @@ NASDAQ,BRKU,Direxion Daily BRKB Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRLS,Borealis Foods Inc. - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRLSW,Borealis Foods Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRLT,"Brilliant Earth Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BRNS,Barinthus Biotherapeutics plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRNX,BrenX Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRNY,Burney U.S. Factor Rotation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRR,"ProCap Financial, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -967,6 +966,7 @@ NASDAQ,CCII,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,Stock,,n
 NASDAQ,CCIIU,Cohen Circle Acquisition Corp. II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCIIW,Cohen Circle Acquisition Corp. II - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCLD,"CareCloud, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CCML,Roundhill MLCC & Electronic Components ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CCNE,CNB Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCNEP,"CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCNR,ALPS/CoreCommodity Natural Resources ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1321,7 +1321,6 @@ NASDAQ,CXIIU,Churchill Capital Corp XII - Units,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,CXIIW,Churchill Capital Corp XII - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CXSE,WisdomTree China ex-State-Owned Enterprises Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CYAB,"Cyabra, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CYCN,"Cyclerion Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CYCU,"Cycurion, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CYCUW,"Cycurion, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CYN,Cyngn Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
@@ -2811,6 +2810,7 @@ NASDAQ,KRNY,Kearny Financial - Common Stock,Stock,,nasdaq_trader_symbol_director
 NASDAQ,KROP,Global X AgTech & Food Innovation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KROS,"Keros Therapeutics, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KRRO,"Korro Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KRSA,"Korsana Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KRT,Karat Packaging Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KRUS,"Kura Sushi USA, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KRYS,"Krystal Biotech, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2827,8 +2827,6 @@ NASDAQ,KTWOU,K2 Capital Acquisition Corporation - Units,Stock,,nasdaq_trader_sym
 NASDAQ,KURA,"Kura Oncology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KUST,"Kustom Entertainment, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KVHI,"KVH Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KWM,"K Wave Media, Ltd. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KWMWW,"K Wave Media, Ltd. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KXIN,Kaixin Holdings - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KYIV,Kyivstar Group Ltd. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KYIVW,Kyivstar Group Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -3551,6 +3549,8 @@ NASDAQ,NWPX,"NWPX Infrastructure, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,NWS,News Corporation - Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NWSA,News Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NWTG,"Newton Golf Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NXAT,Nexus Advanced Technologies Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NXATW,Nexus Advanced Technologies Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXGL,"NexGel, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXGLW,"NexGel, Inc - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXH,"Neighborhood Intelligence, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4287,6 +4287,7 @@ NASDAQ,RMCF,"Rocky Mountain Chocolate Factory, Inc. - Common Stock",Stock,,nasda
 NASDAQ,RMCO,Royalty Management Holding Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RMCOW,Royalty Management Holding Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RMIX,"Suncrete, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RML,Resolution Minerals Ltd - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RMNI,"Rimini Street, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RMR,The RMR Group Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RMSG,Real Messenger Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory

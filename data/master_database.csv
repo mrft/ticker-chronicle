@@ -242,7 +242,8 @@ PCG$G,AMEX,Pacific Gas & Electric Co. 4.80% 1st Preferred Stock,Stock,True,2026-
 PCG$H,AMEX,Pacific Gas & Electric Co. 4.50% 1st Preferred Stock,Stock,True,2026-05-08,,,7db11feeb09787e95687
 PCG$I,AMEX,Pacific Gas & Electric Co. 4.36% 1st Preferred Stock,Stock,True,2026-05-08,,,231ea417057e20a9a121
 PED,AMEX,Pedevco Corp. Common Stock,Stock,True,2026-05-08,,,a162f20de33b70aca017
-PHGE,AMEX,BiomX Inc. COmmon Stock,Stock,True,2026-05-08,,,71fd7b776e04c7268e42
+PHGE,AMEX,BiomX Inc. COmmon Stock,Stock,False,2026-05-08,2026-09-09,Listing metadata changed,71fd7b776e04c7268e42
+PHGE,AMEX,BiomX Inc. Common Stock,Stock,True,2026-09-09,,,71fd7b776e04c7268e42
 PHXE$,AMEX,"Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares",Stock,True,2026-05-08,,,4bf4918fdcdac78d2bd8
 PLAG,AMEX,Planet Green Holdings Corp. Common Stock,Stock,True,2026-05-08,,,f8a30382706fd86991ec
 PLG,AMEX,Platinum Group Metals Ltd. Ordinary Shares (Canada),Stock,True,2026-05-08,,,a3fda65f8ad91bb138d4
@@ -793,8 +794,10 @@ ARVN,NASDAQ,"Arvinas, Inc. - Common Stock",Stock,True,2026-05-08,,,5d959ba5c60ae
 ARVR,NASDAQ,First Trust Indxx Metaverse ETF,ETF,True,2026-05-08,,,d21764bb70e8f4265f60
 ARWR,NASDAQ,"Arrowhead Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,29803491125369293170
 ARXS,NASDAQ,"Arxis, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,b8ee2037d70fe3a68502
-ASBP,NASDAQ,"Aspire Biopharma Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,8c9f170337ba6c201395
-ASBPW,NASDAQ,"Aspire Biopharma Holdings, Inc. - Warrant",Stock,True,2026-05-08,,,009d3f9313541da017f3
+ASBP,NASDAQ,"Aspire Biopharma Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-09,Listing metadata changed,8c9f170337ba6c201395
+ASBP,NASDAQ,"Aspire-Lakewood Holdings, Inc. - Common Stock",Stock,True,2026-09-09,,,45d2b0b190aad6d2abe8
+ASBPW,NASDAQ,"Aspire Biopharma Holdings, Inc. - Warrant",Stock,False,2026-05-08,2026-09-09,Listing metadata changed,009d3f9313541da017f3
+ASBPW,NASDAQ,"Aspire-Lakewood Holdings, Inc. - Warrant",Stock,True,2026-09-09,,,feeffa927291d21d256e
 ASCI,NASDAQ,abrdn International Small Cap Active ETF,ETF,True,2026-05-08,,,345d8767194a6da2abe2
 ASD,NASDAQ,Defiance Autism Impact ETF,ETF,True,2026-06-01,,,0b5132fdbd993514c32e
 ASEC,NASDAQ,American Century Securitized Credit ETF,ETF,True,2026-05-28,,,74aeb92089aa0e7be3ed
@@ -1186,7 +1189,7 @@ BRKU,NASDAQ,Direxion Daily BRKB Bull 2X ETF,ETF,True,2026-05-08,,,05b2270ceafcb5
 BRLS,NASDAQ,Borealis Foods Inc. - Class A Common Shares,Stock,True,2026-05-08,,,9ee3e7ef9230dd4a8939
 BRLSW,NASDAQ,Borealis Foods Inc. - Warrant,Stock,True,2026-05-08,,,7176a40f5bd8a787f738
 BRLT,NASDAQ,"Brilliant Earth Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,95e34909304a06773e3c
-BRNS,NASDAQ,Barinthus Biotherapeutics plc - American Depositary Shares,Stock,True,2026-05-08,,,8287e236463bd0c8648e
+BRNS,NASDAQ,Barinthus Biotherapeutics plc - American Depositary Shares,Stock,False,2026-05-08,2026-09-09,Missing from current NASDAQ source snapshot; reason unavailable,8287e236463bd0c8648e
 BRNX,NASDAQ,BrenX Ltd. - Ordinary Shares,Stock,True,2026-08-14,,,9b380c397f5107219fa5
 BRNY,NASDAQ,Burney U.S. Factor Rotation ETF,ETF,True,2026-05-08,,,e7d87d4ce5a82a8bb8c9
 BRR,NASDAQ,"ProCap Financial, Inc. - Common Stock",Stock,True,2026-05-08,,,8b9e20db60c83130605d
@@ -1386,6 +1389,7 @@ CCIXU,NASDAQ,Churchill Capital Corp IX - Unit,Stock,False,2026-05-08,2026-07-28,
 CCIXW,NASDAQ,Churchill Capital Corp IX - Warrant,Stock,False,2026-05-08,2026-07-28,Missing from current NASDAQ source snapshot; reason unavailable,1c371950187bd1893170
 CCLD,NASDAQ,"CareCloud, Inc. - Common Stock",Stock,True,2026-05-08,,,4fdb20e6389990e0daf6
 CCLDO,NASDAQ,"CareCloud, Inc. - 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock",Stock,False,2026-05-08,2026-05-15,Missing from current NASDAQ source snapshot; reason unavailable,1c053812dca8d167ca95
+CCML,NASDAQ,Roundhill MLCC & Electronic Components ETF,ETF,True,2026-09-09,,,5403cf4065859cc49535
 CCNE,NASDAQ,CNB Financial Corporation - Common Stock,Stock,True,2026-05-08,,,bbad6ea1de428086682e
 CCNEP,NASDAQ,"CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,f2cb0e290d5e98b23915
 CCNR,NASDAQ,ALPS/CoreCommodity Natural Resources ETF,ETF,True,2026-05-08,,,92f56200243277a160f0
@@ -1764,7 +1768,7 @@ CXIIU,NASDAQ,Churchill Capital Corp XII - Units,Stock,True,2026-05-08,,,ec88d158
 CXIIW,NASDAQ,Churchill Capital Corp XII - Warrants,Stock,True,2026-06-17,,,7f58d7b25a70fce49671
 CXSE,NASDAQ,WisdomTree China ex-State-Owned Enterprises Fund,ETF,True,2026-05-08,,,80f9f6dd56e8e7f8c08b
 CYAB,NASDAQ,"Cyabra, Inc. - Common Stock",Stock,True,2026-05-08,,,45bef1f97d35725ee6f8
-CYCN,NASDAQ,"Cyclerion Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,b19d2184cf0f8e477ce8
+CYCN,NASDAQ,"Cyclerion Therapeutics, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-09,Other delisting reason: Details unavailable (source: FMP Delisted API),b19d2184cf0f8e477ce8
 CYCU,NASDAQ,"Cycurion, Inc. - Common Stock",Stock,True,2026-05-08,,,c1a74c75cb889295d438
 CYCUW,NASDAQ,"Cycurion, Inc. - Warrants",Stock,True,2026-05-08,,,1db0d2ddb0697e56145a
 CYN,NASDAQ,Cyngn Inc. - Common stock,Stock,True,2026-05-08,,,3f0330709a81e24f8db2
@@ -3352,6 +3356,7 @@ KRNY,NASDAQ,Kearny Financial - Common Stock,Stock,True,2026-05-08,,,bbc305a9ae71
 KROP,NASDAQ,Global X AgTech & Food Innovation ETF,ETF,True,2026-05-08,,,04d5e5b7bf293606e5c2
 KROS,NASDAQ,"Keros Therapeutics, Inc. - common stock",Stock,True,2026-05-08,,,658f883c1bb39842929f
 KRRO,NASDAQ,"Korro Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,6378a93e0b07461ff125
+KRSA,NASDAQ,"Korsana Biosciences, Inc. - Common Stock",Stock,True,2026-09-09,,,e8debda81beced0f73b2
 KRT,NASDAQ,Karat Packaging Inc. - Common Stock,Stock,True,2026-05-08,,,f4d537265cd42ef4c55d
 KRUS,NASDAQ,"Kura Sushi USA, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,6db96e78c70086edca2b
 KRYS,NASDAQ,"Krystal Biotech, Inc. - Common Stock",Stock,True,2026-05-08,,,bec732b022f429c3a7f5
@@ -3371,8 +3376,8 @@ KVAC,NASDAQ,Keen Vision Acquisition Corporation - Ordinary Shares,Stock,False,20
 KVACU,NASDAQ,Keen Vision Acquisition Corporation - Units,Stock,False,2026-05-08,2026-08-03,Missing from current NASDAQ source snapshot; reason unavailable,69abebb9ee9a53bbf50e
 KVACW,NASDAQ,Keen Vision Acquisition Corporation - Warrant,Stock,False,2026-05-08,2026-08-03,Missing from current NASDAQ source snapshot; reason unavailable,a24a887fa21bde8a446a
 KVHI,NASDAQ,"KVH Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,71322cdc18cce4b3a2b0
-KWM,NASDAQ,"K Wave Media, Ltd. - Ordinary Shares",Stock,True,2026-05-08,,,4bfc777e421459841219
-KWMWW,NASDAQ,"K Wave Media, Ltd. - Warrant",Stock,True,2026-05-08,,,e54e9b901a1d60a96919
+KWM,NASDAQ,"K Wave Media, Ltd. - Ordinary Shares",Stock,False,2026-05-08,2026-09-09,Other delisting reason: Details unavailable (source: FMP Delisted API),4bfc777e421459841219
+KWMWW,NASDAQ,"K Wave Media, Ltd. - Warrant",Stock,False,2026-05-08,2026-09-09,Missing from current NASDAQ source snapshot; reason unavailable,e54e9b901a1d60a96919
 KXIN,NASDAQ,Kaixin Holdings - Ordinary Shares,Stock,True,2026-05-08,,,ceb4eb163d53de3eef68
 KYIV,NASDAQ,Kyivstar Group Ltd. - Common Shares,Stock,True,2026-05-08,,,e1c7b3b101524787af5e
 KYIVW,NASDAQ,Kyivstar Group Ltd. - Warrant,Stock,True,2026-05-08,,,840dd4d1a778e0e8e8b2
@@ -4152,6 +4157,8 @@ NWPX,NASDAQ,"NWPX Infrastructure, Inc. - Common Stock",Stock,True,2026-05-08,,,c
 NWS,NASDAQ,News Corporation - Class B Common Stock,Stock,True,2026-05-08,,,57583e4e9a0b88bb2425
 NWSA,NASDAQ,News Corporation - Class A Common Stock,Stock,True,2026-05-08,,,146d9db238078782999a
 NWTG,NASDAQ,"Newton Golf Company, Inc. - Common Stock",Stock,True,2026-05-08,,,8b3ce474615a68054a62
+NXAT,NASDAQ,Nexus Advanced Technologies Inc. - Ordinary Shares,Stock,True,2026-09-09,,,2ec36da7b76dead861ec
+NXATW,NASDAQ,Nexus Advanced Technologies Inc. - Warrant,Stock,True,2026-09-09,,,13fec54ac5b01bfb3771
 NXGL,NASDAQ,"NexGel, Inc - Common Stock",Stock,True,2026-05-08,,,40822e8cebe559d498b2
 NXGLW,NASDAQ,"NexGel, Inc - Warrant",Stock,True,2026-05-08,,,0fd920e7f5d9cc926fb0
 NXH,NASDAQ,Bed Bath - Common Stock,Stock,False,2026-08-17,2026-08-18,Listing metadata changed,e1806be98221629c72df
@@ -4924,6 +4931,7 @@ RMCF,NASDAQ,"Rocky Mountain Chocolate Factory, Inc. - Common Stock",Stock,True,2
 RMCO,NASDAQ,Royalty Management Holding Corporation - Class A Common Stock,Stock,True,2026-05-08,,,f570b3922a9d4819607d
 RMCOW,NASDAQ,Royalty Management Holding Corporation - Warrant,Stock,True,2026-05-08,,,13171c5a42cffa7af2f5
 RMIX,NASDAQ,"Suncrete, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,d5f540465eeead0ce47c
+RML,NASDAQ,Resolution Minerals Ltd - American Depositary Shares,Stock,True,2026-09-09,,,3410248b494a4e891438
 RMNI,NASDAQ,"Rimini Street, Inc. - Common Stock",Stock,True,2026-05-08,,,f2baf6f653b054a3aea5
 RMR,NASDAQ,The RMR Group Inc. - Class A Common Stock,Stock,True,2026-05-08,,,154659b86164d9a8a80b
 RMSG,NASDAQ,Real Messenger Corporation - Ordinary Shares,Stock,True,2026-05-08,,,f4c1bb9c5ff6d6f010d8
