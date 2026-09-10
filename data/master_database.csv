@@ -402,6 +402,8 @@ ACAAU,NASDAQ,Averin Capital Acquisition Corp. - Units,Stock,True,2026-05-08,,,91
 ACAAW,NASDAQ,Averin Capital Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,87dd2cf1e30dbe541a16
 ACAD,NASDAQ,ACADIA Pharmaceuticals Inc. - Common Stock,Stock,True,2026-05-08,,,ea6232d3a49931b67e9a
 ACB,NASDAQ,Aurora Cannabis Inc. - Common Shares,Stock,True,2026-05-08,,,e7ae3db15a23674c3d03
+ACBE,NASDAQ,Pacer Metaurus Enhanced Core Income Autocallable ETF,ETF,True,2026-09-10,,,049b2ab2c371b3282b6b
+ACBH,NASDAQ,Pacer Metaurus High Income Autocallable ETF,ETF,True,2026-09-10,,,b90a8ad45470d2eea951
 ACCL,NASDAQ,Acco Group Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,2962a45312549832e3d6
 ACDC,NASDAQ,ProFrac Holding Corp. - Class A Common Stock,Stock,True,2026-05-08,,,e80dad631b6d9d37074e
 ACEP,NASDAQ,ARS Core Equity Portfolio ETF,ETF,True,2026-05-08,,,231bd8c716f89f7ddaeb
@@ -542,6 +544,7 @@ AIFA,NASDAQ,"All In FutureTech Alliance, Inc. - Common Stock",Stock,True,2026-05
 AIFC,NASDAQ,AI Financial Corporation - Common Stock,Stock,True,2026-05-08,,,d814890cabc376e8f386
 AIFD,NASDAQ,TCW Artificial Intelligence ETF,ETF,True,2026-05-08,,,f665226938380dcab43f
 AIFF,NASDAQ,"Firefly Neuroscience, Inc. - Common Stock",Stock,True,2026-05-08,,,95a0ee0cf52f7917a50a
+AIFR,NASDAQ,Defiance Global Foundries ETF,ETF,True,2026-09-10,,,46f8a18070067ca4a3f9
 AIFU,NASDAQ,AIFU Inc. - Class A Ordinary Share,Stock,True,2026-05-08,,,8c60cbd93dd4647c98be
 AIHS,NASDAQ,Senmiao Technology Limited - Common Stock,Stock,False,2026-05-08,2026-08-28,Other delisting reason: Details unavailable (source: FMP Delisted API),f6abdfd859aa7d567116
 AIIO,NASDAQ,Robo.ai Inc. - Class B Ordinary Shares,Stock,True,2026-05-08,,,b9ab1740a3683c3a0f6c
@@ -549,6 +552,7 @@ AIIOW,NASDAQ,Robo.ai Inc. - Warrant,Stock,True,2026-05-08,,,d731c57c60cc864c4f0c
 AIIR,NASDAQ,Air Global PLC - Ordinary shares,Stock,True,2026-05-18,,,6fddf7eea04ab5aac0cb
 AIMD,NASDAQ,"Ainos, Inc. - Common Stock",Stock,True,2026-05-08,,,4d3c6a5ec5e60eea924c
 AIMDW,NASDAQ,"Ainos, Inc. - warrants",Stock,True,2026-05-08,,,21d1cf22d6693a65dd37
+AIMG,NASDAQ,Defiance AI Magnificent 10 ETF,ETF,True,2026-09-10,,,fb3946b65609721ac165
 AIMS,NASDAQ,Acuitas Small Cap Active ETF,ETF,True,2026-05-08,,,399ff65618bab8e09b20
 AINF,NASDAQ,Defiance Inference AI Chip ETF,ETF,True,2026-08-18,,,ff7ef904092762442b2e
 AIOS,NASDAQ,AIOS Tech Inc. - Class A Common Shares,Stock,True,2026-05-08,,,995450d6d44c6a32e92b
@@ -859,6 +863,7 @@ ATRA,NASDAQ,"Atara Biotherapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,
 ATRC,NASDAQ,"AtriCure, Inc. - Common Stock",Stock,True,2026-05-08,,,f5b1018a7567aef12c72
 ATRO,NASDAQ,Astronics Corporation - Common Stock,Stock,True,2026-05-08,,,1430136f6c67830e4a0c
 ATTO,NASDAQ,"Attovia Therapeutics, Inc. - Common Stock",Stock,True,2026-08-05,,,b7decab7d3c888260490
+ATTT,NASDAQ,Atlas Trinity Tech Limited - Ordinary Shares,Stock,True,2026-09-10,,,12426bcb0413f67ec651
 ATXG,NASDAQ,Addentax Group Corp. - Common Stock,Stock,True,2026-05-08,,,86fcab616c767285813b
 ATYR,NASDAQ,"aTyr Pharma, Inc. - Common Stock",Stock,True,2026-05-08,,,a84802fdcc7a020b180d
 AUBN,NASDAQ,"Auburn National Bancorporation, Inc. - Common Stock",Stock,True,2026-05-08,,,156c3e2735c4f5bc7cdf
@@ -1195,7 +1200,9 @@ BRNY,NASDAQ,Burney U.S. Factor Rotation ETF,ETF,True,2026-05-08,,,e7d87d4ce5a82a
 BRR,NASDAQ,"ProCap Financial, Inc. - Common Stock",Stock,True,2026-05-08,,,8b9e20db60c83130605d
 BRRR,NASDAQ,Coinshares Bitcoin ETF,ETF,True,2026-05-08,,,da025216be30b9ae553e
 BRRWW,NASDAQ,"ProCap Financial, Inc. - Warrant.",Stock,True,2026-05-08,,,1306a94b792cfdeb1cc2
+BRTM,NASDAQ,B&R Technology Merger Corp. - Class A Ordinary Shares,Stock,True,2026-09-10,,,6b6ee5badee76239944e
 BRTMU,NASDAQ,B&R Technology Merger Corp. - Units,Stock,True,2026-07-21,,,74aeeb7809cfeefec1e5
+BRTMW,NASDAQ,B&R Technology Merger Corp. - Warrants,Stock,True,2026-09-10,,,b033216d4db74cd176b9
 BRTR,NASDAQ,iShares Total Return Active ETF,ETF,True,2026-05-08,,,532f55c7d0034a204d70
 BRTX,NASDAQ,"BioRestorative Therapies, Inc. - Common Stock",Stock,True,2026-05-08,,,007fc8949872a1220bf7
 BRUN,NASDAQ,Boost Run Inc. - Class A Common Stock,Stock,True,2026-05-11,,,b07fee52577aebf844c2
@@ -1650,6 +1657,7 @@ CRACR,NASDAQ,Crown Reserve Acquisition Corp. I - Rights,Stock,True,2026-05-08,,,
 CRACU,NASDAQ,Crown Reserve Acquisition Corp. I - Unit,Stock,True,2026-05-08,,,6491f767bf3838c06950
 CRACW,NASDAQ,Crown Reserve Acquisition Corp. I - Warrant,Stock,True,2026-05-08,,,ebf055ca1cd19ccbf6c4
 CRAI,NASDAQ,"CRA International,Inc. - Common Stock",Stock,True,2026-05-08,,,45a6e173061271ccd05e
+CRAM,NASDAQ,Defiance China Memory ETF,ETF,True,2026-09-10,,,ec4883e9ef78bae9beb3
 CRAN,NASDAQ,Crane Harbor Acquisition Corp. II - Class A Ordinary Shares,Stock,True,2026-05-08,,,a06657eef5aed9694bc9
 CRANR,NASDAQ,Crane Harbor Acquisition Corp. II - Rights,Stock,True,2026-05-08,,,bdb5ea2e69b4b94c101a
 CRANU,NASDAQ,Crane Harbor Acquisition Corp. II - Units,Stock,True,2026-05-08,,,c1e05a704810e5629f06
@@ -2083,6 +2091,7 @@ ENTX,NASDAQ,Entera Bio Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,f3d6461069
 ENVB,NASDAQ,"Enveric Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,3c23349d31b24b4cb975
 ENVX,NASDAQ,Enovix Corporation - Common Stock,Stock,True,2026-05-08,,,4314f575d236a233dea2
 ENZL,NASDAQ,iShares MSCI New Zealand ETF,ETF,True,2026-05-08,,,2328784e3a77bdb6c7b9
+EOCN,NASDAQ,Eocene Ltd. - Ordinary Shares,Stock,True,2026-09-10,,,ead54969e00199065b4d
 EOLS,NASDAQ,"Evolus, Inc. - Common Stock",Stock,True,2026-05-08,,,4b549cdbd1f8b0445142
 EOSE,NASDAQ,"Eos Energy Enterprises, Inc. - Common Stock",Stock,True,2026-05-08,,,d8ad9d9a33b2da64f9ab
 EOSER,NASDAQ,"Eos Energy Enterprises, Inc. - Right",Stock,False,2026-07-06,2026-07-21,Missing from current NASDAQ source snapshot; reason unavailable,12cf3a371773bb854fbe
@@ -2603,7 +2612,7 @@ GLIBA,NASDAQ,"GCI Liberty, Inc. - Series A GCI Group Common Stock",Stock,False,2
 GLIBA,NASDAQ,Liberty Capital Corporation - Series A GCI Group Common Stock,Stock,True,2026-05-26,,,6d0c9152fe8f9fd53fc2
 GLIBK,NASDAQ,"GCI Liberty, Inc. - Series C GCI Group Common Stock",Stock,False,2026-05-08,2026-05-26,Listing metadata changed,12de032a0f9ed8c43ca0
 GLIBK,NASDAQ,Liberty Capital Corporation - Series C GCI Group Common Stock,Stock,True,2026-05-26,,,d1eaef8e581fef5b70db
-GLMD,NASDAQ,Galmed Pharmaceuticals Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,8e6abd13192a8c6d6a83
+GLMD,NASDAQ,Galmed Pharmaceuticals Ltd. - Ordinary Shares,Stock,False,2026-05-08,2026-09-10,Missing from current NASDAQ source snapshot; reason unavailable,8e6abd13192a8c6d6a83
 GLND,NASDAQ,Greenland Energy Company - Common Stock,Stock,True,2026-05-08,,,e37c77b5bdb86b0ec809
 GLNDW,NASDAQ,Greenland Energy Company - Warrant,Stock,True,2026-05-08,,,c0d5af63cc9c24497bf1
 GLNG,NASDAQ,Golar LNG Limited - Common Shares,Stock,True,2026-05-08,,,e7da52eb363434d144ca
@@ -4534,7 +4543,8 @@ PLUT,NASDAQ,Plutus Financial Group Limited - Ordinary Shares,Stock,True,2026-05-
 PLXS,NASDAQ,Plexus Corp. - Common Stock,Stock,True,2026-05-08,,,514a40571a5001b95207
 PLYX,NASDAQ,"Polaryx Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,00dab765edcc898583ab
 PLYY,NASDAQ,GraniteShares YieldBOOST PLTR ETF,ETF,True,2026-05-08,,,12f3629c5f1ee548fbfd
-PMA,NASDAQ,Ming Shing Group Holdings Limited - Ordinary Shares,Stock,True,2026-07-09,,,71a7dea87a013964383f
+PMA,NASDAQ,Ming Shing Group Holdings Limited - Ordinary Shares,Stock,False,2026-07-09,2026-09-10,Listing metadata changed,71a7dea87a013964383f
+PMA,NASDAQ,PMA Graphene Technology Group Inc. - Class A Ordinary Shares,Stock,True,2026-09-10,,,aa9b4e387fae70305f9a
 PMAX,NASDAQ,Powell Max Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,09753f67bc5de4ac75a0
 PMBS,NASDAQ,PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund,ETF,True,2026-05-08,,,200cc77235e2486069cb
 PMCB,NASDAQ,"PharmaCyte Biotech, Inc. - Common Stock",Stock,True,2026-05-08,,,89bedcc49a4b29f0fb99
@@ -4808,7 +4818,7 @@ RAPP,NASDAQ,"Rapport Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,
 RARE,NASDAQ,Ultragenyx Pharmaceutical Inc. - Common Stock,Stock,True,2026-05-08,,,27739c65ce2bd5c6d393
 RAUS,NASDAQ,RACWI US ETF,ETF,True,2026-05-08,,,b85cf3609a224f563036
 RAVE,NASDAQ,"Rave Restaurant Group, Inc. - Common Stock",Stock,True,2026-05-08,,,fe5f3fdeb96b9bd50930
-RAY,NASDAQ,Raytech Holding Limited - Ordinary Shares,Stock,True,2026-05-08,,,163331a9715285c7c0a6
+RAY,NASDAQ,Raytech Holding Limited - Ordinary Shares,Stock,False,2026-05-08,2026-09-10,Missing from current NASDAQ source snapshot; reason unavailable,163331a9715285c7c0a6
 RAYA,NASDAQ,Erayak Power Solution Group Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,d807ed94c4df7da6efb2
 RBB,NASDAQ,RBB Bancorp - Common Stock,Stock,True,2026-05-08,,,ac37df50cb72cc4bf3c8
 RBBN,NASDAQ,Ribbon Communications Inc. - Common Stock,Stock,True,2026-05-08,,,e69a2462605b02d3b986
@@ -5456,6 +5466,7 @@ SWKHL,NASDAQ,SWK Holdings Corporation - 9.00% Senior Notes due 2027,Stock,True,2
 SWKS,NASDAQ,"Skyworks Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,6c195a8e50305e5721ca
 SWMR,NASDAQ,"Swarmer, Inc - common stock",Stock,True,2026-05-08,,,b7f7e1013e08c29ee383
 SWP,NASDAQ,SWP Growth & Income ETF,ETF,True,2026-05-08,,,c9c0f77cbde5fb724c53
+SWRD,NASDAQ,Stewards Inc - Common Stock,Stock,True,2026-09-10,,,59bd454a4167a5c5c5da
 SWVL,NASDAQ,Swvl Holdings Corp - Ordinary Shares,Stock,True,2026-05-08,,,44fb6f75c4730bb68966
 SWVLW,NASDAQ,Swvl Holdings Corp - Warrant,Stock,True,2026-05-08,,,a0a73b1ce4d17ca4ce83
 SXTC,NASDAQ,"China SXT Pharmaceuticals, Inc. - Class A Ordinary Shares",Stock,True,2026-05-08,,,200dcd2a96da702b7aa4
@@ -5612,7 +5623,7 @@ TMB,NASDAQ,Thornburg Multi Sector Bond ETF,ETF,True,2026-05-08,,,dc094d4b893a14e
 TMC,NASDAQ,TMC the metals company Inc. - Common Stock,Stock,True,2026-05-08,,,9c651d81972083d2bd07
 TMCI,NASDAQ,"Treace Medical Concepts, Inc. - Common Stock",Stock,True,2026-05-08,,,4c0a83ea5b72950852bc
 TMCR,NASDAQ,The Metals Royalty Company Inc. - Common Stock,Stock,True,2026-05-08,,,ecae9789e407db2e7422
-TMCWW,NASDAQ,TMC the metals company Inc. - Warrant,Stock,True,2026-05-08,,,77e1e63c2956fddd070f
+TMCWW,NASDAQ,TMC the metals company Inc. - Warrant,Stock,False,2026-05-08,2026-09-10,Missing from current NASDAQ source snapshot; reason unavailable,77e1e63c2956fddd070f
 TMDX,NASDAQ,"TransMedics Group, Inc. - Common Stock",Stock,True,2026-05-08,,,d557f0be8c2ab529a023
 TMED,NASDAQ,T. Rowe Price Health Care ETF,ETF,True,2026-05-08,,,0a22cead50a662cd1db3
 TMET,NASDAQ,iShares Transition-Enabling Metals ETF,ETF,False,2026-05-08,2026-05-29,Missing from current NASDAQ source snapshot; reason unavailable,25515727c52e4c88d8ae
@@ -5914,6 +5925,7 @@ VECO,NASDAQ,Veeco Instruments Inc. - Common Stock,Stock,True,2026-05-08,,,369f0b
 VEEA,NASDAQ,Veea Inc. - Common Stock,Stock,True,2026-05-08,,,2ffa8319f4b14dea24b2
 VEEAW,NASDAQ,Veea Inc. - Warrant,Stock,True,2026-05-08,,,aa53bff4b0998d932691
 VEEE,NASDAQ,Twin Vee PowerCats Co. - Common Stock,Stock,True,2026-05-08,,,28297eec23d69aa52ea2
+VEEM,NASDAQ,VanEck MSCI EM Analyst Sentiment ETF,ETF,True,2026-09-10,,,bafe63f2413c99a3df67
 VEFA,NASDAQ,VanEck MSCI EAFE Analyst Sentiment ETF,ETF,True,2026-05-08,,,1b9e837c349b157de357
 VELO,NASDAQ,"Velo3D, Inc. - Common stock",Stock,True,2026-05-08,,,610112641dba47ac93ea
 VEON,NASDAQ,VEON Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,628139ef22d99ff9e249
@@ -8254,7 +8266,8 @@ NLY$J,NYSE,Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative 
 NMAI,NYSE,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,da563bf47022487eba13
 NMAX,NYSE,"Newsmax, Inc. Class B Common Stock",Stock,True,2026-05-08,,,d6f75e95c0e53fbbe032
 NMCO,NYSE,Nuveen Municipal Credit Opportunities Fund Common Shares,Stock,True,2026-05-08,,,e1639731530faf41ec51
-NMCO.V,NYSE,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",Stock,True,2026-09-04,,,9f2edde93ce01fa5a4ce
+NMCO.R,NYSE,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",Stock,True,2026-09-10,,,7356186e053c2b0f2cea
+NMCO.V,NYSE,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",Stock,False,2026-09-04,2026-09-10,Missing from current NYSE source snapshot; reason unavailable,9f2edde93ce01fa5a4ce
 NMG,NYSE,Nouveau Monde Graphite Inc. Common Shares,Stock,True,2026-05-08,,,702934985ead708445ca
 NMI,NYSE,"Nuveen Municipal Income Fund, Inc. Common Stock",Stock,True,2026-05-08,,,eada02b5fc0b9f15991c
 NMM,NYSE,Navios Maritime Partners LP Common Units Representing Limited Partner Interests,Stock,True,2026-05-08,,,914fc77af5b5f49b19b7
