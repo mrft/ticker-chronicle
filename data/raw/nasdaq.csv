@@ -2045,6 +2045,7 @@ NASDAQ,GELS,Gelteq Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,GEME,Pacific North of South EM Equity Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GEMG,Leverage Shares 2X Long GEMI Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GEMI,"Gemini Space Station, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GEMQ,Goldman Sachs Data Enhanced Emerging Markets Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GEN,Gen Digital Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GENB,"Generate Biomedicines, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GENK,"GEN Restaurant Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3596,7 +3597,10 @@ NASDAQ,OCCIN,"OFS Credit Company, Inc. - 5.25% Series E Term Preferred Stock Due
 NASDAQ,OCFC,OceanFirst Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCG,Oriental Culture Holding LTD - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCGN,"Ocugen, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OCLT,OceanLight Acquisition Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OCLTR,OceanLight Acquisition Corporation - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCLTU,OceanLight Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OCLTW,OceanLight Acquisition Corporation - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCS,Oculis Holding AG - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCSAW,Oculis Holding AG - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OCSL,Oaktree Specialty Lending Corporation - Closed End Fund,Stock,,nasdaq_trader_symbol_directory

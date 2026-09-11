@@ -141,6 +141,7 @@ GROY,AMEX,Gold Royalty Corp. Common Shares,Stock,True,2026-05-08,,,9cec16762960a
 GROY.W,AMEX,Gold Royalty Corp. Warrants,Stock,True,2026-05-08,,,030aeb460e5f1794da19
 GTE,AMEX,Gran Tierra Energy Inc. Common Stock,Stock,True,2026-05-08,,,6d40dd45a72a6ab73d13
 HCWC,AMEX,Healthy Choice Wellness Corp. Class A Common Stock,Stock,True,2026-05-08,,,a00ba59682f763d7e230
+HLSQ,AMEX,Tessera Defense and Homeland Security Inc. Common Stock,Stock,True,2026-09-11,,,c8e217e762c2aef69bdf
 HSLV,AMEX,Highlander Silver Corp. Common Shares,Stock,True,2026-05-08,,,cfc888952decdbc41d1a
 HYLN,AMEX,Hyliion Holdings Corp. Class A Common Stock,Stock,True,2026-05-08,,,c8d1ea920ef8da52386a
 IAF,AMEX,"abrdn Australia Equity Fund, Inc. Common Stock",Stock,True,2026-05-08,,,73fd4da40716a50fd34b
@@ -243,7 +244,7 @@ PCG$H,AMEX,Pacific Gas & Electric Co. 4.50% 1st Preferred Stock,Stock,True,2026-
 PCG$I,AMEX,Pacific Gas & Electric Co. 4.36% 1st Preferred Stock,Stock,True,2026-05-08,,,231ea417057e20a9a121
 PED,AMEX,Pedevco Corp. Common Stock,Stock,True,2026-05-08,,,a162f20de33b70aca017
 PHGE,AMEX,BiomX Inc. COmmon Stock,Stock,False,2026-05-08,2026-09-09,Listing metadata changed,71fd7b776e04c7268e42
-PHGE,AMEX,BiomX Inc. Common Stock,Stock,True,2026-09-09,,,71fd7b776e04c7268e42
+PHGE,AMEX,BiomX Inc. Common Stock,Stock,False,2026-09-09,2026-09-11,Missing from current AMEX source snapshot; reason unavailable,71fd7b776e04c7268e42
 PHXE$,AMEX,"Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares",Stock,True,2026-05-08,,,4bf4918fdcdac78d2bd8
 PLAG,AMEX,Planet Green Holdings Corp. Common Stock,Stock,True,2026-05-08,,,f8a30382706fd86991ec
 PLG,AMEX,Platinum Group Metals Ltd. Ordinary Shares (Canada),Stock,True,2026-05-08,,,a3fda65f8ad91bb138d4
@@ -2546,6 +2547,7 @@ GELS,NASDAQ,Gelteq Limited - Ordinary Shares,Stock,True,2026-05-08,,,87e919a8486
 GEME,NASDAQ,Pacific North of South EM Equity Active ETF,ETF,True,2026-05-08,,,cad952adf926380a1af9
 GEMG,NASDAQ,Leverage Shares 2X Long GEMI Daily ETF,ETF,True,2026-05-08,,,134f5c23d4ad13dbde50
 GEMI,NASDAQ,"Gemini Space Station, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,b2bb5446381d5a3c0a38
+GEMQ,NASDAQ,Goldman Sachs Data Enhanced Emerging Markets Equity ETF,ETF,True,2026-09-11,,,5e63d5ab8a92fc4659a7
 GEN,NASDAQ,Gen Digital Inc. - Common Stock,Stock,True,2026-05-08,,,3dcdef974747e259d965
 GENB,NASDAQ,"Generate Biomedicines, Inc. - Common Stock",Stock,True,2026-05-08,,,a5d00e03153218bbcb85
 GENK,NASDAQ,"GEN Restaurant Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1652dea508fad5087ca6
@@ -4209,7 +4211,10 @@ OCCIN,NASDAQ,"OFS Credit Company, Inc. - 5.25% Series E Term Preferred Stock Due
 OCFC,NASDAQ,OceanFirst Financial Corp. - Common Stock,Stock,True,2026-05-08,,,52d8994363d1d5044ca8
 OCG,NASDAQ,Oriental Culture Holding LTD - Ordinary Shares,Stock,True,2026-05-08,,,e9dff292415f3384ce87
 OCGN,NASDAQ,"Ocugen, Inc. - Common Stock",Stock,True,2026-05-08,,,88d80fd6549401ecc141
+OCLT,NASDAQ,OceanLight Acquisition Corporation - Ordinary Shares,Stock,True,2026-09-11,,,f079f317eae85c67beae
+OCLTR,NASDAQ,OceanLight Acquisition Corporation - Rights,Stock,True,2026-09-11,,,315f5e94259ac557a776
 OCLTU,NASDAQ,OceanLight Acquisition Corporation - Units,Stock,True,2026-08-07,,,397ea873475c9dac44fa
+OCLTW,NASDAQ,OceanLight Acquisition Corporation - Warrants,Stock,True,2026-09-11,,,112b12ee5cd1a7069a9c
 OCS,NASDAQ,Oculis Holding AG - Ordinary shares,Stock,True,2026-05-08,,,7e58c421064f6e89fb6a
 OCSAW,NASDAQ,Oculis Holding AG - Warrants,Stock,True,2026-05-08,,,6405cc9c61d6fe6f30d2
 OCSL,NASDAQ,Oaktree Specialty Lending Corporation - Closed End Fund,Stock,True,2026-05-08,,,d8aba94821d05bbdefca
