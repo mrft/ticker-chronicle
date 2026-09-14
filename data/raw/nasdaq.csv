@@ -140,6 +140,8 @@ NASDAQ,AESPW,Aeon Acquisition I Corp. - Warrants,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,AEVA,"Aeva Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AEYE,"AudioEye, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AFCG,Advanced Flower Capital Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AFDM,First Trust Active Factor International ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AFEM,First Trust Active Factor Emerging Markets ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AFJK,"Aimei Health Technology Co., Ltd - Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AFJKR,"Aimei Health Technology Co., Ltd - Right",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AFJKU,"Aimei Health Technology Co., Ltd - Unit",Stock,,nasdaq_trader_symbol_directory
@@ -445,7 +447,6 @@ NASDAQ,ASTLW,Algoma Steel Group Inc. - Warrant,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,ASTS,"AST SpaceMobile, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASUR,Asure Software Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASYS,"Amtech Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ATAI,AtaiBeckley Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATAT,Atour Lifestyle Holdings Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATC,GraniteShares Autocallable COIN ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ATCX,Atlas Critical Minerals Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2772,7 +2773,6 @@ NASDAQ,KFIIR,K&F Growth Acquisition Corp. II - Rights,Stock,,nasdaq_trader_symbo
 NASDAQ,KFIIU,K&F Growth Acquisition Corp. II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KG,"Kestrel Group, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KGEI,Kolibri Global Energy Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KHC,The Kraft Heinz Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KIDS,OrthoPediatrics Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KIDZ,KIDZ AI Inc. - Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KIDZW,KIDZ AI Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -3414,6 +3414,7 @@ NASDAQ,NEXR,Nexera Technologies Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbo
 NASDAQ,NEXRW,Nexera Technologies Ltd - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NEXT,NextDecade Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NFE,New Fortress Energy Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NFEGP,New Fortress Energy Inc. - Series A Mandatorily Convertible Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NFLX,"Netflix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NFRX,Harrison Street Infrastructure Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NFTY,First Trust India Nifty 50 Equal Weight ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4247,8 +4248,6 @@ NASDAQ,RFAIU,RF Acquisition Corp II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RFAM,RF Acquisition Corp III - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RFAMR,RF Acquisition Corp III - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RFAMU,RF Acquisition Corp III - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RFDI,First Trust RiverFront Dynamic Developed International ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,RFEM,First Trust RiverFront Dynamic Emerging Markets ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RFIL,"RF Industries, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RGC,Regencell Bioscience Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RGCO,RGC Resources Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory

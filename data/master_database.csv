@@ -46,6 +46,7 @@ BRN,AMEX,"Barnwell Industries, Inc. Common Stock",Stock,True,2026-05-08,,,71ead4
 BTG,AMEX,B2Gold Corp Common shares (Canada),Stock,True,2026-05-08,,,35719ae6f090576b6181
 BUDA,AMEX,"Buda Juice, Inc. Common Stock",Stock,True,2026-05-08,,,dd0e8395088696113861
 BURU,AMEX,"Nuburu, Inc. Common Stock",Stock,False,2026-05-08,2026-07-20,Missing from current AMEX source snapshot; reason unavailable,f112e2e567cae8e817a9
+BURU,AMEX,"Nuburu, Inc. Common Stock",Stock,True,2026-09-14,,,f112e2e567cae8e817a9
 CANF,AMEX,"Can-Fite Biopharma Ltd American Depositary Shares, each representing two (2) Ordinary Shares",Stock,True,2026-05-08,,,41dec4de64ef55650bd0
 CATX,AMEX,"Perspective Therapeutics, Inc. Common Stock",Stock,True,2026-05-08,,,7aa0c87c3ccd59772c24
 CCEL,AMEX,"Cryo-Cell International, Inc. Common Stock",Stock,True,2026-05-08,,,8633846bdf9828d2bdb7
@@ -496,6 +497,8 @@ AEVA,NASDAQ,"Aeva Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,0f2
 AEYE,NASDAQ,"AudioEye, Inc. - Common Stock",Stock,True,2026-05-08,,,619b7872bfc83aeb53f9
 AFBI,NASDAQ,"Affinity Bancshares, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-03,Missing from current NASDAQ source snapshot; reason unavailable,e39cceb99cecd19aedfc
 AFCG,NASDAQ,Advanced Flower Capital Inc. - Common Stock,Stock,True,2026-05-08,,,cd0a3b5aa03c1d3482cd
+AFDM,NASDAQ,First Trust Active Factor International ETF,ETF,True,2026-09-14,,,072fbb67074d8878bf20
+AFEM,NASDAQ,First Trust Active Factor Emerging Markets ETF,ETF,True,2026-09-14,,,0669f4b1a2c22070c19d
 AFJK,NASDAQ,"Aimei Health Technology Co., Ltd - Ordinary Share",Stock,True,2026-05-08,,,16dedcbf165486de09cc
 AFJKR,NASDAQ,"Aimei Health Technology Co., Ltd - Right",Stock,True,2026-05-08,,,5ad9cd12a5b4ef196d4e
 AFJKU,NASDAQ,"Aimei Health Technology Co., Ltd - Unit",Stock,True,2026-05-08,,,59afb1ab4bc480d10e65
@@ -832,7 +835,7 @@ ASTLW,NASDAQ,Algoma Steel Group Inc. - Warrant,Stock,True,2026-05-08,,,a34963a66
 ASTS,NASDAQ,"AST SpaceMobile, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,dd972b1d2cd4ac78a56b
 ASUR,NASDAQ,Asure Software Inc - Common Stock,Stock,True,2026-05-08,,,ba1e7306a7fdfb25eea6
 ASYS,NASDAQ,"Amtech Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,8eb45340d485de13cea5
-ATAI,NASDAQ,AtaiBeckley Inc. - Common Stock,Stock,True,2026-05-08,,,0b10e52b66a9485d07cc
+ATAI,NASDAQ,AtaiBeckley Inc. - Common Stock,Stock,False,2026-05-08,2026-09-14,Missing from current NASDAQ source snapshot; reason unavailable,0b10e52b66a9485d07cc
 ATAT,NASDAQ,Atour Lifestyle Holdings Limited - American Depositary Shares,Stock,True,2026-05-08,,,f7a6684d592a34f2ffed
 ATC,NASDAQ,GraniteShares Autocallable COIN ETF,ETF,True,2026-05-12,,,817a261fa9826fbb31e8
 ATCX,NASDAQ,Atlas Critical Minerals Corporation - Common Stock,Stock,True,2026-05-08,,,86ae7f7e94113c5cdc37
@@ -3316,7 +3319,7 @@ KFIIR,NASDAQ,K&F Growth Acquisition Corp. II - Rights,Stock,True,2026-05-08,,,73
 KFIIU,NASDAQ,K&F Growth Acquisition Corp. II - Unit,Stock,True,2026-05-08,,,d0e406561020ee1b5b96
 KG,NASDAQ,"Kestrel Group, Ltd. - Common Stock",Stock,True,2026-05-08,,,451cf5ee7a9b160de0f0
 KGEI,NASDAQ,Kolibri Global Energy Inc. - Common stock,Stock,True,2026-05-08,,,6f5cdff12c424a257dee
-KHC,NASDAQ,The Kraft Heinz Company - Common Stock,Stock,True,2026-05-08,,,c947b7f1f291fa8eee64
+KHC,NASDAQ,The Kraft Heinz Company - Common Stock,Stock,False,2026-05-08,2026-09-14,Missing from current NASDAQ source snapshot; reason unavailable,c947b7f1f291fa8eee64
 KIDS,NASDAQ,OrthoPediatrics Corp. - Common Stock,Stock,True,2026-05-08,,,e23a2f779dfdac172012
 KIDZ,NASDAQ,"Classover Holdings, Inc. - Class B Common Stock",Stock,False,2026-05-08,2026-06-03,Listing metadata changed,4cf1fa984640e6bf3b6f
 KIDZ,NASDAQ,KIDZ AI Inc. - Class B Common Stock,Stock,True,2026-06-03,,,9153493e9396163233ca
@@ -4014,6 +4017,7 @@ NEXRW,NASDAQ,Nexera Technologies Ltd - Warrant,Stock,True,2026-05-08,,,bc9e814ae
 NEXT,NASDAQ,NextDecade Corporation - Common Stock,Stock,True,2026-05-08,,,698249f9af2a74737da2
 NFBK,NASDAQ,"Northfield Bancorp, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-21,Missing from current NASDAQ source snapshot; reason unavailable,c6d19b8894111d3dcf2f
 NFE,NASDAQ,New Fortress Energy Inc. - Class A Common Stock,Stock,True,2026-05-08,,,b50c4ec0d479b3f74ddd
+NFEGP,NASDAQ,New Fortress Energy Inc. - Series A Mandatorily Convertible Preferred Stock,Stock,True,2026-09-14,,,a6ecc0307294444deed6
 NFLX,NASDAQ,"Netflix, Inc. - Common Stock",Stock,True,2026-05-08,,,75bb697251ad7534ba0b
 NFRX,NASDAQ,Harrison Street Infrastructure Active ETF,ETF,True,2026-05-08,,,6bc4e313ad00406738c1
 NFTY,NASDAQ,First Trust India Nifty 50 Equal Weight ETF,ETF,True,2026-05-08,,,3dad3dcb32330bee03c2
@@ -4895,8 +4899,8 @@ RFAIU,NASDAQ,RF Acquisition Corp II - Unit,Stock,True,2026-05-08,,,e148c88000d8c
 RFAM,NASDAQ,RF Acquisition Corp III - Ordinary Shares,Stock,True,2026-05-08,,,dda27a8e310d5b01d58d
 RFAMR,NASDAQ,RF Acquisition Corp III - Rights,Stock,True,2026-05-08,,,39da2510ccd97f203bbe
 RFAMU,NASDAQ,RF Acquisition Corp III - Units,Stock,True,2026-05-08,,,55ff3df3486716f66686
-RFDI,NASDAQ,First Trust RiverFront Dynamic Developed International ETF,ETF,True,2026-05-08,,,e814cf54b7ceb22df51b
-RFEM,NASDAQ,First Trust RiverFront Dynamic Emerging Markets ETF,ETF,True,2026-05-08,,,9d3ffafe261e0eecab0a
+RFDI,NASDAQ,First Trust RiverFront Dynamic Developed International ETF,ETF,False,2026-05-08,2026-09-14,Missing from current NASDAQ source snapshot; reason unavailable,e814cf54b7ceb22df51b
+RFEM,NASDAQ,First Trust RiverFront Dynamic Emerging Markets ETF,ETF,False,2026-05-08,2026-09-14,Missing from current NASDAQ source snapshot; reason unavailable,9d3ffafe261e0eecab0a
 RFIL,NASDAQ,"RF Industries, Ltd. - Common Stock",Stock,True,2026-05-08,,,2a42a0c4cf72a9eeb32d
 RGC,NASDAQ,Regencell Bioscience Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,0cd8bc106ca11abc80a0
 RGCO,NASDAQ,RGC Resources Inc. - Common Stock,Stock,True,2026-05-08,,,daa958109cfa36add262
@@ -7532,7 +7536,7 @@ GFF,NYSE,Griffon Corporation Common Stock,Stock,True,2026-05-08,,,8e6ae91bbf3547
 GFI,NYSE,Gold Fields Limited American Depositary Shares,Stock,True,2026-05-08,,,b3b81c8ebfc4902d6acc
 GFL,NYSE,"GFL Environmental Inc. Subordinate voting shares, no par value",Stock,True,2026-05-08,,,afcce4a5ee701fef33af
 GFR,NYSE,Greenfire Resources Ltd. Common Shares,Stock,True,2026-05-08,,,128a642d764db8a83e57
-GFR.R,NYSE,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",Stock,True,2026-08-25,,,0e9025f49b43809cca9e
+GFR.R,NYSE,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",Stock,False,2026-08-25,2026-09-14,Missing from current NYSE source snapshot; reason unavailable,0e9025f49b43809cca9e
 GFR.V,NYSE,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",Stock,False,2026-08-14,2026-08-25,Missing from current NYSE source snapshot; reason unavailable,c5c2aef98666c3793f33
 GGB,NYSE,Gerdau S.A. Common Stock,Stock,True,2026-05-08,,,8722cf6e2ff3460073fd
 GGG,NYSE,Graco Inc. Common Stock,Stock,True,2026-05-08,,,1a2e6857292152a7bc3d
@@ -7883,6 +7887,7 @@ KFS,NYSE,"Kingsway Financial Services, Inc. Common Stock (DE)",Stock,False,2026-
 KFY,NYSE,Korn Ferry Common Stock,Stock,True,2026-05-08,,,5f5a61f5045e2e68c874
 KGC,NYSE,Kinross Gold Corporation Common Stock,Stock,True,2026-05-08,,,f59f74f7c12922738a97
 KGS,NYSE,"Kodiak Gas Services, Inc. Common Stock",Stock,True,2026-05-08,,,6cf61d0c282a2249b453
+KHC,NYSE,The Kraft Heinz Company Common Stock,Stock,True,2026-09-14,,,e8a2aa76c534af23aa5c
 KIM,NYSE,Kimco Realty Corporation (HC) Common Stock,Stock,True,2026-05-08,,,0f7d21ad78d46d2a01f0
 KIM$L,NYSE,"Kimco Realty Corporation Class L Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.125% Class L Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",Stock,True,2026-05-08,,,dc98e6104ebafd7c708b
 KIM$M,NYSE,"Kimco Realty Corporation Class M Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.25% Class M Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",Stock,True,2026-05-08,,,2559eff0f15b1d2608b2
@@ -9023,7 +9028,8 @@ TEN,NYSE,Tsakos Energy Navigation Ltd Common Shares,Stock,True,2026-05-08,,,6795
 TEN$E,NYSE,"Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",Stock,True,2026-05-08,,,8b3ebf8a431dcaaf182a
 TEN$F,NYSE,"Tsakos Energy Navigation Ltd Series F Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",Stock,True,2026-05-08,,,9216633d06c37cba9f27
 TEO,NYSE,Telecom Argentina SA,Stock,True,2026-05-08,,,b7d4f8d53a902eb65efc
-TEVA,NYSE,Teva Pharmaceutical Industries Limited American Depositary Shares,Stock,True,2026-05-08,,,5e4ab0c60d538b125c29
+TEVA,NYSE,Teva Pharmaceutical Industries Limited American Depositary Shares,Stock,False,2026-05-08,2026-09-14,Listing metadata changed,5e4ab0c60d538b125c29
+TEVA,NYSE,Teva Pharmaceutical Industries Limited Ordinary Shares,Stock,True,2026-09-14,,,bf75cf0834f795db09ca
 TEX,NYSE,Terex Corporation Common Stock,Stock,True,2026-05-08,,,1fa88adda03e6eeceaa3
 TFC,NYSE,Truist Financial Corporation Common Stock,Stock,True,2026-05-08,,,96d900b60237173fb26f
 TFC$I,NYSE,Truist Financial Corporation Depositary Shares,Stock,True,2026-05-08,,,0bb7fbc36c02ac127aa1

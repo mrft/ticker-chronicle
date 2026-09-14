@@ -1138,7 +1138,6 @@ NYSE,GFF,Griffon Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GFI,Gold Fields Limited American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,GFL,"GFL Environmental Inc. Subordinate voting shares, no par value",Stock,,nasdaq_trader_symbol_directory
 NYSE,GFR,Greenfire Resources Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,GFR.R,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 NYSE,GGB,Gerdau S.A. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GGG,Graco Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GGT,"Gabelli Multi-Media Trust, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1478,6 +1477,7 @@ NYSE,KFRC,"Kforce, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,KFY,Korn Ferry Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KGC,Kinross Gold Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KGS,"Kodiak Gas Services, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,KHC,The Kraft Heinz Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KIM,Kimco Realty Corporation (HC) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KIM$L,"Kimco Realty Corporation Class L Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.125% Class L Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,KIM$M,"Kimco Realty Corporation Class M Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.25% Class M Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",Stock,,nasdaq_trader_symbol_directory
@@ -2564,7 +2564,7 @@ NYSE,TEN,Tsakos Energy Navigation Ltd Common Shares,Stock,,nasdaq_trader_symbol_
 NYSE,TEN$E,"Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",Stock,,nasdaq_trader_symbol_directory
 NYSE,TEN$F,"Tsakos Energy Navigation Ltd Series F Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",Stock,,nasdaq_trader_symbol_directory
 NYSE,TEO,Telecom Argentina SA,Stock,,nasdaq_trader_symbol_directory
-NYSE,TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,TEVA,Teva Pharmaceutical Industries Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,TEX,Terex Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TFC,Truist Financial Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TFC$I,Truist Financial Corporation Depositary Shares,Stock,,nasdaq_trader_symbol_directory
