@@ -4134,6 +4134,7 @@ NUCL,NASDAQ,Eagle Nuclear Energy Corp. - Common stock,Stock,True,2026-05-08,,,c5
 NUCLW,NASDAQ,Eagle Nuclear Energy Corp. - Warrants,Stock,True,2026-05-08,,,f16d34351046c81b3541
 NUG,NASDAQ,Leverage Shares 2X Long NU Daily ETF,ETF,True,2026-05-08,,,8a2ceee9908c14aa5aa5
 NUGY,NASDAQ,GraniteShares YieldBOOST Gold Miners ETF,ETF,True,2026-05-08,,,76a3c391fc79e7a8c6e9
+NUIB,NASDAQ,Nuveen Impact Bond ETF,ETF,True,2026-09-15,,,f8d3763db7722f541681
 NUIF,NASDAQ,Nuveen US Infrastructure ETF,ETF,True,2026-06-18,,,f6235b303af7d048ba5b
 NUR,NASDAQ,Nuran Wireless Inc. - Common Shares,Stock,True,2026-08-17,,,4e202024dff770ac45d4
 NUSB,NASDAQ,Nuveen Ultra Short Income ETF,ETF,True,2026-05-08,,,0e6d00e395bf018f193a
@@ -4958,7 +4959,9 @@ RMSGW,NASDAQ,Real Messenger Corporation - Warrants,Stock,True,2026-05-08,,,b4fb4
 RMTI,NASDAQ,"Rockwell Medical, Inc. - Common Stock",Stock,True,2026-05-08,,,113ba508ea4966f41296
 RNA,NASDAQ,"Atrium Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,538ec890e2e0bb3478fa
 RNAC,NASDAQ,"Cartesian Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,3f9c86c0b5f8aa990a82
+RNAQ,NASDAQ,Rainier Acquisition Corporation - Class A Ordinary Shares,Stock,True,2026-09-15,,,423cfa6450a276d6786d
 RNAQU,NASDAQ,Rainier Acquisition Corporation - Units,Stock,True,2026-08-28,,,22e50628867e8216f3b8
+RNAQW,NASDAQ,Rainier Acquisition Corporation - Warrants,Stock,True,2026-09-15,,,76be595e2c0b355a2005
 RNAZ,NASDAQ,"TransCode Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,9d87d554c571efc1ee4e
 RNEM,NASDAQ,Emerging Markets Equity Select ETF,ETF,True,2026-05-08,,,bd16a37d20dc7c043d66
 RNGT,NASDAQ,Range Capital Acquisition Corp II - Class A Ordinary Shares,Stock,True,2026-05-08,,,496235aa103ab720353b
@@ -6255,6 +6258,7 @@ XTERU,NASDAQ,Karman Line Acquisition Corp. - Units,Stock,True,2026-08-18,,,a85f1
 XTERW,NASDAQ,Karman Line Acquisition Corp. - Warrants,Stock,True,2026-08-28,,,0eda74a45b0eb645fe6f
 XTIA,NASDAQ,"XTI Aerospace, Inc. Common Stock - Common Stock",Stock,True,2026-05-08,,,beacf6126bc864c586ab
 XTLB,NASDAQ,XTL Biopharmaceuticals Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,88ce26e95572b8654a73
+XUSM,NASDAQ,MarketDesk International Momentum ETF,ETF,True,2026-09-15,,,ec8a7f66e8ea365874a9
 XWEL,NASDAQ,"XWELL, Inc. - Common Stock",Stock,True,2026-05-08,,,d25d51e4fafc630614f5
 XWIN,NASDAQ,"XMAX, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-18,Missing from current NASDAQ source snapshot; reason unavailable,bd000c9990e597856a26
 XXII,NASDAQ,"22nd Century Group, Inc - Common Stock",Stock,True,2026-05-08,,,f45a5eb592c429858784
@@ -6381,7 +6385,7 @@ ACCO,NYSE,Acco Brands Corporation Common Stock,Stock,True,2026-05-08,,,faa347900
 ACEL,NYSE,"Accel Entertainment, Inc.",Stock,True,2026-05-08,,,9eed8f06276f7f70e4a9
 ACH,NYSE,"Accendra Health, Inc. Common Stock",Stock,True,2026-05-08,,,8e9d0564021b3f76ff19
 ACHR,NYSE,Archer Aviation Inc. Class A Common Stock,Stock,True,2026-05-08,,,f2a68d5b2a61d4199acd
-ACHR.W,NYSE,"Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",Stock,True,2026-05-08,,,587bfa8ad2a90e4513e3
+ACHR.W,NYSE,"Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",Stock,False,2026-05-08,2026-09-15,Missing from current NYSE source snapshot; reason unavailable,587bfa8ad2a90e4513e3
 ACI,NYSE,"Albertsons Companies, Inc. Class A Common Stock",Stock,True,2026-05-08,,,9eed8a9025c975c70697
 ACLO,NYSE,TCW AAA CLO ETF,ETF,True,2026-05-08,,,97d4dcba9854709e17fb
 ACM,NYSE,AECOM Common Stock,Stock,True,2026-05-08,,,8dae4f9f6078de9440ea

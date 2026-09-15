@@ -3526,6 +3526,7 @@ NASDAQ,NUCL,Eagle Nuclear Energy Corp. - Common stock,Stock,,nasdaq_trader_symbo
 NASDAQ,NUCLW,Eagle Nuclear Energy Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUG,Leverage Shares 2X Long NU Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUGY,GraniteShares YieldBOOST Gold Miners ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,NUIB,Nuveen Impact Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUIF,Nuveen US Infrastructure ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUR,Nuran Wireless Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUSB,Nuveen Ultra Short Income ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4305,7 +4306,9 @@ NASDAQ,RMSGW,Real Messenger Corporation - Warrants,Stock,,nasdaq_trader_symbol_d
 NASDAQ,RMTI,"Rockwell Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNA,"Atrium Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNAC,"Cartesian Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RNAQ,Rainier Acquisition Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNAQU,Rainier Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RNAQW,Rainier Acquisition Corporation - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNAZ,"TransCode Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNEM,Emerging Markets Equity Select ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RNGT,Range Capital Acquisition Corp II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -5511,6 +5514,7 @@ NASDAQ,XTERU,Karman Line Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_d
 NASDAQ,XTERW,Karman Line Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XTIA,"XTI Aerospace, Inc. Common Stock - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XTLB,XTL Biopharmaceuticals Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XUSM,MarketDesk International Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XWEL,"XWELL, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XXII,"22nd Century Group, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XXX,CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF,ETF,,nasdaq_trader_symbol_directory
