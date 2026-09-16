@@ -315,7 +315,7 @@ TOPS,AMEX,"TOP Ships, Inc. Common Stock",Stock,True,2026-05-08,,,9d8b0583b154ebc
 TOVX,AMEX,"Theriva Biologics, Inc. Common Stock",Stock,True,2026-05-08,,,97c4fa5b8c6d7c87ed70
 TP,AMEX,Ticketplus Ltd. Ordinary Shares,Stock,True,2026-08-07,,,bdca25e2fd379d6723e9
 TPET,AMEX,Trio Petroleum Corp. Common Stock,Stock,True,2026-05-08,,,4bb3bf8053bdf3dc2f71
-TRT,AMEX,Trio-Tech International Common Stock,Stock,True,2026-05-08,,,a2502c2d0b0e5da4540a
+TRT,AMEX,Trio-Tech International Common Stock,Stock,False,2026-05-08,2026-09-16,Missing from current AMEX source snapshot; reason unavailable,a2502c2d0b0e5da4540a
 TRX,AMEX,TRX Gold Corporation Common Stock,Stock,True,2026-05-08,,,f8d884da0f7f7722b3c7
 UAC,AMEX,United Acquisition Corp. I Class A Ordinary Shares,Stock,True,2026-05-08,,,ba2f029cc4bd60b2e953
 UAC.U,AMEX,"United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",Stock,True,2026-05-08,,,bc4b45fe8aa7fe85d190
@@ -543,6 +543,7 @@ AHMA,NASDAQ,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,
 AIA,NASDAQ,iShares Asia 50 ETF,ETF,True,2026-05-08,,,56950b70451097607f26
 AIAI,NASDAQ,AIAI Holdings Corporation - Class A common stock,Stock,True,2026-05-14,,,8f1bac2325eb03d31d9c
 AIBZ,NASDAQ,Bitzero Holdings Inc. - Common Shares,Stock,True,2026-06-09,,,2c32d272c695375827cf
+AICH,NASDAQ,China AI ETF,ETF,True,2026-09-16,,,ebd9b782c9994d4302dd
 AIDX,NASDAQ,"20/20 Biolabs, Inc. - Common Stock",Stock,True,2026-05-08,,,9491a96d323fb1612e9f
 AIFA,NASDAQ,"All In FutureTech Alliance, Inc. - Common Stock",Stock,True,2026-05-27,,,cf089b2a41ee4787dcc6
 AIFC,NASDAQ,AI Financial Corporation - Common Stock,Stock,True,2026-05-08,,,d814890cabc376e8f386
@@ -1242,6 +1243,7 @@ BSJV,NASDAQ,Invesco BulletShares 2031 High Yield Corporate Bond ETF,ETF,True,202
 BSJW,NASDAQ,Invesco BulletShares 2032 High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,2fad050a5b24aaf0cb0e
 BSJX,NASDAQ,Invesco BulletShares 2033 High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,75e3dda47ca6cee085e3
 BSJY,NASDAQ,Invesco BulletShares 2034 High Yield Corporate Bond ETF,ETF,True,2026-06-10,,,26f9837f74cd82eaf421
+BSMA,NASDAQ,Invesco BulletShares 2036 Municipal Bond ETF,ETF,True,2026-09-16,,,5b21e588297117225186
 BSMQ,NASDAQ,Invesco BulletShares 2026 Municipal Bond ETF,ETF,True,2026-05-08,,,bb4a9a122c82b21d1220
 BSMR,NASDAQ,Invesco BulletShares 2027 Municipal Bond ETF,ETF,True,2026-05-08,,,bd6d1ae45bcacb8579c2
 BSMS,NASDAQ,Invesco BulletShares 2028 Municipal Bond ETF,ETF,True,2026-05-08,,,1053a6fa43b6841861ec
@@ -2264,7 +2266,7 @@ FDUS,NASDAQ,Fidus Investment Corporation - Closed End Fund,Stock,True,2026-05-08
 FEAM,NASDAQ,"5E Advanced Materials, Inc. - Common Stock",Stock,True,2026-05-08,,,8ebfe446df71c8c9a6c8
 FEAT,NASDAQ,YieldMax Dorsey Wright Featured 5 Income ETF,ETF,False,2026-05-08,2026-06-16,Missing from current NASDAQ source snapshot; reason unavailable,beee55e79dee9123e82b
 FEBO,NASDAQ,Fenbo Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,ca9e1260b5751982fcf1
-FEED,NASDAQ,"ENvue Medical, Inc. - Common Stock",Stock,True,2026-05-08,,,2e3541998b8ffccb2a66
+FEED,NASDAQ,"ENvue Medical, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-16,Missing from current NASDAQ source snapshot; reason unavailable,2e3541998b8ffccb2a66
 FEIM,NASDAQ,"Frequency Electronics, Inc. - Common Stock",Stock,True,2026-05-08,,,7ad186201281ad833d89
 FELE,NASDAQ,"Franklin Electric Co., Inc. - Common Stock",Stock,True,2026-05-08,,,fb49d359ed6b85424624
 FEM,NASDAQ,First Trust Emerging Markets AlphaDEX Fund,ETF,True,2026-05-08,,,80e36afb70c7ef5f9d05
@@ -3156,6 +3158,7 @@ IPXG,NASDAQ,Inection Point Acquisition Corp. VII - Class A Ordinary Shares,Stock
 IPXGU,NASDAQ,Inection Point Acquisition Corp. VII - Unit,Stock,True,2026-08-28,,,5aeb34e402ee4d7a1b30
 IPXGW,NASDAQ,Inection Point Acquisition Corp. VII - Warrant,Stock,True,2026-08-28,,,f9e23d77b865afe44270
 IQ,NASDAQ,"iQIYI, Inc. - American Depositary Shares",Stock,True,2026-05-08,,,856a12b4252607ce9c7a
+IQGR,NASDAQ,Astoria International Quality Growth Kings ETF,ETF,True,2026-09-16,,,0bba08b2aa3955f4d5a7
 IQMX,NASDAQ,IQM Quantum Computers Oyj - American Depositary Shares,Stock,True,2026-07-02,,,4de15686b8e0f38a0caf
 IQMXW,NASDAQ,IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares,Stock,True,2026-07-02,,,e447162a51cc1e437108
 IQQ,NASDAQ,iShares Nasdaq 100 ETF,ETF,True,2026-07-09,,,1aaff9ed7e21c2cc40cb
@@ -3245,6 +3248,7 @@ JFU,NASDAQ,9F Inc. - American Depositary Shares,Stock,True,2026-05-08,,,0999de0e
 JG,NASDAQ,Aurora Mobile Limited - American Depositary Shares,Stock,True,2026-05-08,,,d3a43badc1400d8d35e3
 JGLO,NASDAQ,JPMorgan Global Select Equity ETF,ETF,True,2026-05-08,,,4835d047fb1eaa86dfc9
 JHAI,NASDAQ,Janus Henderson Global Artificial Intelligence ETF,ETF,True,2026-05-08,,,4cb79dca8bc8237ad719
+JINT,NASDAQ,Janus Henderson International Core Alpha ETF,ETF,True,2026-09-16,,,a54c5353d1d4177846df
 JIVE,NASDAQ,JPMorgan International Value ETF,ETF,True,2026-05-08,,,a4057429950692d96957
 JJSF,NASDAQ,J & J Snack Foods Corp. - Common Stock,Stock,True,2026-05-08,,,81445ab9a41318fd970f
 JKHY,NASDAQ,"Jack Henry & Associates, Inc. - Common Stock",Stock,True,2026-05-08,,,1fedf87be114442f5d8b
@@ -3314,9 +3318,12 @@ KEYY,NASDAQ,Keystone Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026
 KEYYU,NASDAQ,Keystone Acquisition Corp. - Unit,Stock,True,2026-06-03,,,a021fe2cc59defd1a903
 KEYYW,NASDAQ,Keystone Acquisition Corp. - Warrants,Stock,True,2026-06-22,,,ca11900c3ecfaa57bd13
 KFFB,NASDAQ,Kentucky First Federal Bancorp - Common Stock,Stock,True,2026-05-08,,,ebc518147d3bce9ea00b
-KFII,NASDAQ,K&F Growth Acquisition Corp. II - Class A Ordinary shares,Stock,True,2026-05-08,,,c32d79d27b6f3ff9e697
-KFIIR,NASDAQ,K&F Growth Acquisition Corp. II - Rights,Stock,True,2026-05-08,,,732e75c0a1d3ce2c83b7
-KFIIU,NASDAQ,K&F Growth Acquisition Corp. II - Unit,Stock,True,2026-05-08,,,d0e406561020ee1b5b96
+KFII,NASDAQ,K&F Growth Acquisition Corp. II - Class A Ordinary shares,Stock,False,2026-05-08,2026-09-16,Listing metadata changed,c32d79d27b6f3ff9e697
+KFII,NASDAQ,K - Class A Ordinary shares,Stock,True,2026-09-16,,,683b0ee6b85ef48a0ef7
+KFIIR,NASDAQ,K&F Growth Acquisition Corp. II - Rights,Stock,False,2026-05-08,2026-09-16,Listing metadata changed,732e75c0a1d3ce2c83b7
+KFIIR,NASDAQ,K - Rights,Stock,True,2026-09-16,,,feaf9695afb228d090e2
+KFIIU,NASDAQ,K&F Growth Acquisition Corp. II - Unit,Stock,False,2026-05-08,2026-09-16,Listing metadata changed,d0e406561020ee1b5b96
+KFIIU,NASDAQ,K - Unit,Stock,True,2026-09-16,,,4a3cce67e5a574868f14
 KG,NASDAQ,"Kestrel Group, Ltd. - Common Stock",Stock,True,2026-05-08,,,451cf5ee7a9b160de0f0
 KGEI,NASDAQ,Kolibri Global Energy Inc. - Common stock,Stock,True,2026-05-08,,,6f5cdff12c424a257dee
 KHC,NASDAQ,The Kraft Heinz Company - Common Stock,Stock,False,2026-05-08,2026-09-14,Missing from current NASDAQ source snapshot; reason unavailable,c947b7f1f291fa8eee64
@@ -5299,7 +5306,7 @@ SNTI,NASDAQ,"Senti Biosciences Holdings, Inc. - Common Stock",Stock,True,2026-05
 SNWV,NASDAQ,"SANUWAVE Health, Inc. - Common Stock",Stock,True,2026-05-08,,,812fe65fa19a0f6e2c4c
 SNY,NASDAQ,Sanofi - American Depositary Shares,Stock,True,2026-05-08,,,1cc884bff9c7f5a02555
 SNYR,NASDAQ,Synergy CHC Corp. - Common Stock,Stock,True,2026-05-08,,,bc0d11e6a86a0d2f9d33
-SOBR,NASDAQ,"SOBR Safe, Inc. - Common Stock",Stock,True,2026-05-08,,,d2cb769d3e3751f6b9a0
+SOBR,NASDAQ,"SOBR Safe, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-16,Missing from current NASDAQ source snapshot; reason unavailable,d2cb769d3e3751f6b9a0
 SOCA,NASDAQ,Solarius Capital Acquisition Corp. - Class A Ordinary Share,Stock,True,2026-05-08,,,8d082a8e996b61cbfb0e
 SOCAU,NASDAQ,Solarius Capital Acquisition Corp. - Units,Stock,True,2026-05-08,,,f98b7d3c84935bdad341
 SOCAW,NASDAQ,Solarius Capital Acquisition Corp. - Warrant,Stock,True,2026-05-08,,,8b553d71eda4ca473753
@@ -5703,6 +5710,7 @@ TROW,NASDAQ,"T. Rowe Price Group, Inc. - Common Stock",Stock,True,2026-05-08,,,8
 TRS,NASDAQ,TriMas Corporation - Common Stock,Stock,True,2026-05-08,,,2a1f49858747cb59d68f
 TRSG,NASDAQ,Tungray Technologies Inc - Class A Ordinary Shares,Stock,True,2026-05-08,,,f89dd6fd4d3430d92ea0
 TRST,NASDAQ,TrustCo Bank Corp NY - Common Stock,Stock,True,2026-05-08,,,5b6824bab665f1b9062f
+TRT,NASDAQ,Trio-Tech International - Common Stock,Stock,True,2026-09-16,,,fcd7ebcb192bdc6067b2
 TRUC,NASDAQ,VanEck Communication Services TruSector ETF,ETF,True,2026-05-08,,,330dbd84907d1f60c4be
 TRUD,NASDAQ,VanEck Consumer Discretionary TruSector ETF,ETF,True,2026-05-08,,,cab9d1dc1b6c9ce4ecff
 TRUF,NASDAQ,VanEck Financials TruSector ETF,ETF,True,2026-05-08,,,23600c15bcdd80d13ef7
@@ -6078,6 +6086,7 @@ WBD,NASDAQ,"Warner Bros. Discovery, Inc. - Series A Common Stock",Stock,True,202
 WBTN,NASDAQ,WEBTOON Entertainment Inc. - Common stock,Stock,True,2026-05-08,,,b2fae5c9a90431633963
 WBUY,NASDAQ,WEBUY GLOBAL LTD. - Class A Ordinary Shares,Stock,True,2026-05-08,,,7baf98c240e74c0b7ed9
 WCBR,NASDAQ,WisdomTree Cybersecurity Fund,ETF,True,2026-05-08,,,76c3741771250604e5fa
+WCCB,NASDAQ,West Coast Community Bancorp - Common Stock,Stock,True,2026-09-16,,,752a9942d03a1d60f35d
 WCLD,NASDAQ,WisdomTree Cloud Computing Fund,ETF,True,2026-05-08,,,a31e42c273a471a4ee71
 WCT,NASDAQ,Wellchange Holdings Company Limited - Class A Ordinary shares,Stock,True,2026-05-08,,,dd4bf6bf35cbff9d2e5d
 WDAF,NASDAQ,WisdomTree Asia Defense Fund,ETF,True,2026-05-08,,,d8eb34f6f2159e414d40
@@ -6570,6 +6579,7 @@ ASB,NYSE,Associated Banc-Corp Common Stock,Stock,True,2026-05-08,,,7fd41728d6132
 ASB$E,NYSE,"Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series E",Stock,True,2026-05-08,,,241951b1920c5bef4ccb
 ASB$F,NYSE,"Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated Banc-Corp 5.625% Non-Cumulative Perpetual Preferred Stock, Series F",Stock,True,2026-05-08,,,63327fba1868336f2bd7
 ASBA,NYSE,Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033,Stock,True,2026-05-08,,,644e052584564e87e12b
+ASBH,NYSE,"American Savings Bank, N.A. Common Stock",Stock,True,2026-09-16,,,dee84f9378ba04147246
 ASC,NYSE,Ardmore Shipping Corporation Common Stock,Stock,True,2026-05-08,,,b931f5527dc623611087
 ASG,NYSE,"Liberty All-Star Growth Fund, Inc.",Stock,True,2026-05-08,,,0d6eb68c5ca161196e1d
 ASGI,NYSE,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,1106101233ded60df50d

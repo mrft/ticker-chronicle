@@ -180,6 +180,7 @@ NASDAQ,AHMA,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,
 NASDAQ,AIA,iShares Asia 50 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AIAI,AIAI Holdings Corporation - Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIBZ,Bitzero Holdings Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AICH,China AI ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AIDX,"20/20 Biolabs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIFA,"All In FutureTech Alliance, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIFC,AI Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -829,6 +830,7 @@ NASDAQ,BSJV,Invesco BulletShares 2031 High Yield Corporate Bond ETF,ETF,,nasdaq_
 NASDAQ,BSJW,Invesco BulletShares 2032 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSJX,Invesco BulletShares 2033 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSJY,Invesco BulletShares 2034 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BSMA,Invesco BulletShares 2036 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSMQ,Invesco BulletShares 2026 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSMR,Invesco BulletShares 2027 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSMS,Invesco BulletShares 2028 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1779,7 +1781,6 @@ NASDAQ,FDTX,Fidelity Disruptive Technology ETF,ETF,,nasdaq_trader_symbol_directo
 NASDAQ,FDUS,Fidus Investment Corporation - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FEAM,"5E Advanced Materials, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FEBO,Fenbo Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FEED,"ENvue Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FEIM,"Frequency Electronics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FELE,"Franklin Electric Co., Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FEM,First Trust Emerging Markets AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
@@ -2617,6 +2618,7 @@ NASDAQ,IPXG,Inection Point Acquisition Corp. VII - Class A Ordinary Shares,Stock
 NASDAQ,IPXGU,Inection Point Acquisition Corp. VII - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPXGW,Inection Point Acquisition Corp. VII - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQ,"iQIYI, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IQGR,Astoria International Quality Growth Kings ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IQMX,IQM Quantum Computers Oyj - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQMXW,IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQQ,iShares Nasdaq 100 ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2700,6 +2702,7 @@ NASDAQ,JFU,9F Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,JG,Aurora Mobile Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JGLO,JPMorgan Global Select Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JHAI,Janus Henderson Global Artificial Intelligence ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,JINT,Janus Henderson International Core Alpha ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JIVE,JPMorgan International Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JJSF,J & J Snack Foods Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JKHY,"Jack Henry & Associates, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2768,9 +2771,9 @@ NASDAQ,KEYY,Keystone Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_t
 NASDAQ,KEYYU,Keystone Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KEYYW,Keystone Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KFFB,Kentucky First Federal Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KFII,K&F Growth Acquisition Corp. II - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KFIIR,K&F Growth Acquisition Corp. II - Rights,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KFIIU,K&F Growth Acquisition Corp. II - Unit,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KFII,K - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KFIIR,K - Rights,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,KFIIU,K - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KG,"Kestrel Group, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KGEI,Kolibri Global Energy Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KIDS,OrthoPediatrics Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4623,7 +4626,6 @@ NASDAQ,SNTI,"Senti Biosciences Holdings, Inc. - Common Stock",Stock,,nasdaq_trad
 NASDAQ,SNWV,"SANUWAVE Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNY,Sanofi - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNYR,Synergy CHC Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SOBR,"SOBR Safe, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SOCA,Solarius Capital Acquisition Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SOCAU,Solarius Capital Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SOCAW,Solarius Capital Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -4996,6 +4998,7 @@ NASDAQ,TROW,"T. Rowe Price Group, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,TRS,TriMas Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRSG,Tungray Technologies Inc - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRST,TrustCo Bank Corp NY - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TRT,Trio-Tech International - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRUC,VanEck Communication Services TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRUD,VanEck Consumer Discretionary TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRUF,VanEck Financials TruSector ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5349,6 +5352,7 @@ NASDAQ,WBD,"Warner Bros. Discovery, Inc. - Series A Common Stock",Stock,,nasdaq_
 NASDAQ,WBTN,WEBTOON Entertainment Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WBUY,WEBUY GLOBAL LTD. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WCBR,WisdomTree Cybersecurity Fund,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,WCCB,West Coast Community Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WCLD,WisdomTree Cloud Computing Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WCT,Wellchange Holdings Company Limited - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WDAF,WisdomTree Asia Defense Fund,ETF,,nasdaq_trader_symbol_directory
