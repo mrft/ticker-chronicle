@@ -714,7 +714,7 @@ ANSCW,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Warrant,S
 ANTA,NASDAQ,Antalpha Platform Holding Company - Class A Ordinary Shares,Stock,True,2026-05-08,,,552e2029796e5e7ddb35
 ANTX,NASDAQ,"AN2 Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,02eb331e80c987e6729a
 ANV,NASDAQ,GraniteShares Autocallable NVDA ETF,ETF,True,2026-05-08,,,20ddb1ed049edda99782
-ANY,NASDAQ,Sphere 3D Corp. - Common Shares,Stock,True,2026-05-08,,,e151b6ff01613408654b
+ANY,NASDAQ,Sphere 3D Corp. - Common Shares,Stock,False,2026-05-08,2026-09-17,Other delisting reason: Details unavailable (source: FMP Delisted API),e151b6ff01613408654b
 AOHY,NASDAQ,Angel Oak High Yield Opportunities ETF,ETF,True,2026-05-08,,,942ee2d7ff9d1395f78a
 AOSL,NASDAQ,Alpha and Omega Semiconductor Limited - Common Shares,Stock,True,2026-05-08,,,620112836d2051321308
 AOTG,NASDAQ,AOT Growth and Innovation ETF,ETF,True,2026-05-08,,,b443584bae67912b66ff
@@ -1361,6 +1361,8 @@ CASS,NASDAQ,"Cass Information Systems, Inc - Common Stock",Stock,True,2026-05-08
 CAST,NASDAQ,"FreeCast, Inc. - Class A common stock",Stock,True,2026-05-08,,,319fbde7f7119d4bc53f
 CASY,NASDAQ,"Caseys General Stores, Inc. - Common Stock",Stock,True,2026-05-08,,,302127c6db83a856e2d5
 CATH,NASDAQ,Global X S&P 500 Catholic Values ETF,ETF,True,2026-05-08,,,099d9da39bc8fd9385ad
+CATL,NASDAQ,Catalyst Acquisition Corp. - Class A Ordinary Share,Stock,True,2026-09-17,,,314975c9c66aa823d56d
+CATLR,NASDAQ,Catalyst Acquisition Corp. - Rights,Stock,True,2026-09-17,,,63da2393ce1248f5be6c
 CATLU,NASDAQ,Catalyst Acquisition Corp. - Units,Stock,True,2026-07-28,,,15faebe3840842536e62
 CATY,NASDAQ,Cathay General Bancorp - Common Stock,Stock,True,2026-05-08,,,1ffa0b970282a8900f9b
 CBAT,NASDAQ,"CBAK Energy Technology, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-25,Listing metadata changed,2fc850b4f9e9b5e88d64
@@ -1913,6 +1915,7 @@ DRDBW,NASDAQ,Roman DBDR Acquisition Corp. II - Warrants,Stock,True,2026-05-08,,,
 DRH,NASDAQ,Diamondrock Hospitality Company - Common Stock,Stock,True,2026-05-08,,,39767e5a9c31a1ebcaf5
 DRIO,NASDAQ,DarioHealth Corp. - Common Stock,Stock,True,2026-05-08,,,9fa4a0b9027bbf332e46
 DRIV,NASDAQ,Global X Autonomous & Electric Vehicles ETF,ETF,True,2026-05-08,,,2078e490318acae59345
+DRK,NASDAQ,DarkHorse Technologies Inc. - Common Shares,Stock,True,2026-09-17,,,d503cdfbd509f5bcfeb2
 DRMA,NASDAQ,"Dermata Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,c985e214c98ddffca475
 DRMAW,NASDAQ,"Dermata Therapeutics, Inc. - Warrant",Stock,False,2026-05-08,2026-08-18,Missing from current NASDAQ source snapshot; reason unavailable,ba425194886e75aca29b
 DRNZ,NASDAQ,REX Drone ETF,ETF,True,2026-05-08,,,f227cc6c140468492709
@@ -3319,11 +3322,14 @@ KEYYU,NASDAQ,Keystone Acquisition Corp. - Unit,Stock,True,2026-06-03,,,a021fe2cc
 KEYYW,NASDAQ,Keystone Acquisition Corp. - Warrants,Stock,True,2026-06-22,,,ca11900c3ecfaa57bd13
 KFFB,NASDAQ,Kentucky First Federal Bancorp - Common Stock,Stock,True,2026-05-08,,,ebc518147d3bce9ea00b
 KFII,NASDAQ,K&F Growth Acquisition Corp. II - Class A Ordinary shares,Stock,False,2026-05-08,2026-09-16,Listing metadata changed,c32d79d27b6f3ff9e697
-KFII,NASDAQ,K - Class A Ordinary shares,Stock,True,2026-09-16,,,683b0ee6b85ef48a0ef7
+KFII,NASDAQ,K - Class A Ordinary shares,Stock,False,2026-09-16,2026-09-17,Listing metadata changed,683b0ee6b85ef48a0ef7
+KFII,NASDAQ,K&F Growth Acquisition Corp. II - Class A Ordinary shares,Stock,True,2026-09-17,,,c32d79d27b6f3ff9e697
 KFIIR,NASDAQ,K&F Growth Acquisition Corp. II - Rights,Stock,False,2026-05-08,2026-09-16,Listing metadata changed,732e75c0a1d3ce2c83b7
-KFIIR,NASDAQ,K - Rights,Stock,True,2026-09-16,,,feaf9695afb228d090e2
+KFIIR,NASDAQ,K - Rights,Stock,False,2026-09-16,2026-09-17,Listing metadata changed,feaf9695afb228d090e2
+KFIIR,NASDAQ,K&F Growth Acquisition Corp. II - Rights,Stock,True,2026-09-17,,,732e75c0a1d3ce2c83b7
 KFIIU,NASDAQ,K&F Growth Acquisition Corp. II - Unit,Stock,False,2026-05-08,2026-09-16,Listing metadata changed,d0e406561020ee1b5b96
-KFIIU,NASDAQ,K - Unit,Stock,True,2026-09-16,,,4a3cce67e5a574868f14
+KFIIU,NASDAQ,K - Unit,Stock,False,2026-09-16,2026-09-17,Listing metadata changed,4a3cce67e5a574868f14
+KFIIU,NASDAQ,K&F Growth Acquisition Corp. II - Unit,Stock,True,2026-09-17,,,d0e406561020ee1b5b96
 KG,NASDAQ,"Kestrel Group, Ltd. - Common Stock",Stock,True,2026-05-08,,,451cf5ee7a9b160de0f0
 KGEI,NASDAQ,Kolibri Global Energy Inc. - Common stock,Stock,True,2026-05-08,,,6f5cdff12c424a257dee
 KHC,NASDAQ,The Kraft Heinz Company - Common Stock,Stock,False,2026-05-08,2026-09-14,Missing from current NASDAQ source snapshot; reason unavailable,c947b7f1f291fa8eee64
@@ -3387,7 +3393,7 @@ KSPI,NASDAQ,Joint Stock Company Kaspi.kz - American Depository Shares,Stock,True
 KTCC,NASDAQ,Key Tronic Corporation - Common Stock,Stock,True,2026-05-08,,,742f7682743f1ebb6a4e
 KTOS,NASDAQ,"Kratos Defense & Security Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,279e64b42b954fa5bb33
 KTTA,NASDAQ,Pasithea Therapeutics Corp. - Common Stock,Stock,True,2026-05-08,,,d2992b48251e34a468f5
-KTTAW,NASDAQ,Pasithea Therapeutics Corp. - Warrant,Stock,True,2026-05-08,,,1fe0ddba6fcf82cf9268
+KTTAW,NASDAQ,Pasithea Therapeutics Corp. - Warrant,Stock,False,2026-05-08,2026-09-17,Missing from current NASDAQ source snapshot; reason unavailable,1fe0ddba6fcf82cf9268
 KTWO,NASDAQ,K2 Capital Acquisition Corporation - Class A Ordinary Share,Stock,True,2026-05-08,,,ecf04eff252a551e9f2d
 KTWOR,NASDAQ,K2 Capital Acquisition Corporation - Rights,Stock,True,2026-05-08,,,78146bebe2266dd46b68
 KTWOU,NASDAQ,K2 Capital Acquisition Corporation - Units,Stock,True,2026-05-08,,,4fb37045199ddf7cba12
@@ -3879,7 +3885,9 @@ MSTP,NASDAQ,GraniteShares 2x Long MSTR Daily ETF,ETF,True,2026-05-08,,,45c04dc2f
 MSTR,NASDAQ,Strategy Inc - Class A Common Stock,Stock,True,2026-05-08,,,37ff738d4fd1d0e4c60d
 MSTX,NASDAQ,Defiance Daily Target 2x Long MSTR ETF,ETF,True,2026-05-08,,,8095fe1912c75eeba9e1
 MSW,NASDAQ,Ming Shing Group Holdings Limited - Ordinary Shares,Stock,False,2026-05-08,2026-07-09,Missing from current NASDAQ source snapshot; reason unavailable,71a7dea87a013964383f
+MTAK,NASDAQ,Market Technology Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-09-17,,,cbde3b23b7ec0e35efab
 MTAKU,NASDAQ,Market Technology Acquisition Corp - Unit,Stock,True,2026-07-24,,,80fe4954dd2422f08c96
+MTAKW,NASDAQ,Market Technology Acquisition Corp - Warrants,Stock,True,2026-09-17,,,3575bdee97a94c5bb2bb
 MTC,NASDAQ,"MMTec, Inc. - Common Shares",Stock,True,2026-05-08,,,3ba33aa5a680ad16b051
 MTCH,NASDAQ,"Match Group, Inc. - Common Stock",Stock,True,2026-05-08,,,14e70b5cf07a417c4af7
 MTEK,NASDAQ,Maris-Tech Ltd. - ordinary shares,Stock,True,2026-05-08,,,a9da93a2baeee15d5171
@@ -4940,7 +4948,7 @@ RIME,NASDAQ,"Algorhythm Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,1
 RING,NASDAQ,iShares MSCI Global Gold Miners ETF,ETF,True,2026-05-08,,,390c44659f380989683a
 RINT,NASDAQ,Russell Investments International Developed Equity ETF,ETF,True,2026-05-08,,,1e91888644148c9c2bf1
 RIOT,NASDAQ,"Riot Platforms, Inc. - Common Stock",Stock,True,2026-05-08,,,bd6b55eb5ccf97dfb891
-RITR,NASDAQ,Reitar Logtech Holdings Limited - Ordinary shares,Stock,True,2026-05-08,,,dcfca599d136057db5cf
+RITR,NASDAQ,Reitar Logtech Holdings Limited - Ordinary shares,Stock,False,2026-05-08,2026-09-17,Missing from current NASDAQ source snapshot; reason unavailable,dcfca599d136057db5cf
 RIVN,NASDAQ,"Rivian Automotive, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,ea8418d369f3203b9c41
 RJET,NASDAQ,Republic Airways Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,887b9f985529c778d849
 RKDA,NASDAQ,"Arcadia Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,0516ead56f9f697ebcbe
@@ -5559,6 +5567,7 @@ TDCL,NASDAQ,GraniteShares 2x Long TDC Daily ETF,ETF,True,2026-07-14,,,83b53c9d38
 TDI,NASDAQ,Touchstone Dynamic International ETF,ETF,True,2026-05-08,,,238fa1580e6eb1ff1a13
 TDIC,NASDAQ,Dreamland Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,38d72180f1b50bcde11f
 TDIV,NASDAQ,First Trust NASDAQ Technology Dividend Index Fund,ETF,True,2026-05-08,,,0ecd82132a47a7c41459
+TDNA,NASDAQ,T. Rowe Price Biotech ETF,ETF,True,2026-09-17,,,0a22d98f8af3badeb0a9
 TDOG,NASDAQ,21shares Dogecoin ETF,ETF,True,2026-05-08,,,688755123885daf75fee
 TDOT,NASDAQ,21shares Polkadot ETF,ETF,False,2026-05-08,2026-08-28,Listing metadata changed,519474d6c02d7888a54e
 TDOT,NASDAQ,21shares Polkadot Staking ETF,ETF,True,2026-08-28,,,d26170c328f42e5f28a3
@@ -5622,7 +5631,9 @@ TKLF,NASDAQ,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",Stock,True,
 TKNO,NASDAQ,"Alpha Teknova, Inc. - Common Stock",Stock,True,2026-05-08,,,3f2d3f38fe62ecb13f77
 TKNS,NASDAQ,21Shares Active Crypto ETF,ETF,True,2026-05-14,,,2057e99454c177ccfddd
 TLA,NASDAQ,GraniteShares Autocallable TSLA ETF,ETF,True,2026-05-08,,,216d69bfae76e87d7251
+TLAC,NASDAQ,Three Lions Acquisition Corp. - Ordinary Shares,Stock,True,2026-09-17,,,82897d6ec40d37095da1
 TLACU,NASDAQ,Three Lions Acquisition Corp. - Units,Stock,True,2026-09-01,,,e803aa859f1abd4ef033
+TLACW,NASDAQ,Three Lions Acquisition Corp. - Warrants,Stock,True,2026-09-17,,,2286e513f031cb45a78a
 TLF,NASDAQ,"Tandy Leather Factory, Inc. - common stock",Stock,True,2026-05-08,,,c305ba52567d8b740bc0
 TLG,NASDAQ,Touchstone Large Company Growth ETF,ETF,True,2026-05-08,,,d29751ce9435a13f8251
 TLIH,NASDAQ,Ten-League International Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,e82a5d4a38d61f05b933
@@ -5646,6 +5657,7 @@ TMCWW,NASDAQ,TMC the metals company Inc. - Warrant,Stock,False,2026-05-08,2026-0
 TMDX,NASDAQ,"TransMedics Group, Inc. - Common Stock",Stock,True,2026-05-08,,,d557f0be8c2ab529a023
 TMED,NASDAQ,T. Rowe Price Health Care ETF,ETF,True,2026-05-08,,,0a22cead50a662cd1db3
 TMET,NASDAQ,iShares Transition-Enabling Metals ETF,ETF,False,2026-05-08,2026-05-29,Missing from current NASDAQ source snapshot; reason unavailable,25515727c52e4c88d8ae
+TMID,NASDAQ,T. Rowe Price Mid Cap Equity Research ETF,ETF,True,2026-09-17,,,caf490fff09577540e99
 TMNL,NASDAQ,T. Rowe Price Long Municipal Income ETF,ETF,True,2026-05-08,,,6e1965e05cc5337f7f4a
 TMNS,NASDAQ,T. Rowe Price Short Municipal Income ETF,ETF,True,2026-05-08,,,3747993b6918660830bb
 TMS,NASDAQ,Teamshares Inc. - Common Stock,Stock,True,2026-06-23,,,81b455ddcd9bcaa74a7d
@@ -5731,6 +5743,7 @@ TSBK,NASDAQ,"Timberland Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,8e
 TSCM,NASDAQ,TimesSquare Quality Mid Cap Growth ETF,ETF,True,2026-05-08,,,3cb0574a3573c1c481a5
 TSCO,NASDAQ,Tractor Supply Company - Common Stock,Stock,True,2026-05-08,,,c870bd527ef083f29fc1
 TSDD,NASDAQ,GraniteShares 2x Short TSLA Daily ETF,ETF,True,2026-05-08,,,0d2f6d67b30a5ae77aa3
+TSEE,NASDAQ,T. Rowe Price Small Cap ETF,ETF,True,2026-09-17,,,62702f325c322cdf6856
 TSEL,NASDAQ,Touchstone Sands Capital US Select Growth ETF,ETF,True,2026-05-08,,,c24c944b905b8b00f2e4
 TSEM,NASDAQ,Tower Semiconductor Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,f0e1261a88e84fdc1432
 TSHA,NASDAQ,"Taysha Gene Therapies, Inc. - Common Stock",Stock,True,2026-05-08,,,b0bc811b221406af643d
@@ -7749,6 +7762,7 @@ HVT.A,NYSE,"Haverty Furniture Companies, Inc. Common Stock",Stock,True,2026-05-0
 HWM,NYSE,Howmet Aerospace Inc. Common Stock,Stock,True,2026-05-08,,,6c9c73699ad068d9c791
 HXL,NYSE,Hexcel Corporation Common Stock,Stock,True,2026-05-08,,,7f07b9f446ebf81c7de6
 HY,NYSE,"Hyster-Yale, Inc. Class A common stock",Stock,True,2026-05-08,,,8e94d76d59376affbeef
+HYAC.U,NYSE,"Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Stock,True,2026-09-17,,,6bbbdc62dbf8a644bbf1
 HYBX,NYSE,TCW High Yield Bond ETF,ETF,True,2026-05-08,,,299ff76e79584ef79cfc
 HYI,NYSE,Western Asset High Yield Opportunity Fund Inc. Common Stock,Stock,True,2026-05-08,,,96f4bf0cc72b112357bb
 HYT,NYSE,"Blackrock Corporate High Yield Fund, Inc. Common Stock",Stock,True,2026-05-08,,,38c76fc25b4c026532a0
