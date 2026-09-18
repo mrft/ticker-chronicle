@@ -1663,6 +1663,7 @@ NASDAQ,ETHA,iShares Ethereum Trust ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ETHB,iShares Staked Ethereum Trust ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ETON,"Eton Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ETOR,eToro Group Ltd. - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ETRA,"Electra Therapeutics, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ETS,Elite Express Holding Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EU,enCore Energy Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EUDA,Euda Health Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1993,8 +1994,8 @@ NASDAQ,FWACR,Futurewave Acquisition Corporation - Rights,Stock,,nasdaq_trader_sy
 NASDAQ,FWACU,Futurewave Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWACW,Futurewave Acquisition Corporation - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWDI,"Forward Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FWONA,Liberty Media Corporation - Series A Liberty Formula One Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FWONK,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FWONA,Liberty Media Corporation - Series A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FWONK,Liberty Media Corporation - Series C Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWRD,Forward Air Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FWRG,"First Watch Restaurant Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FXAC,FortuneX Acquisition Corporation - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
@@ -2885,6 +2886,7 @@ NASDAQ,LDRX,SGI Enhanced Market Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LDSF,First Trust Low Duration Strategic Focus ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LE,"Lands' End, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LECO,"Lincoln Electric Holdings, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LEDRU,Leader's Advantage Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LEDS,SemiLEDS Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LEE,"Lee Enterprises, Incorporated - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LEGH,Legacy Housing Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3632,6 +3634,7 @@ NASDAQ,OGI,Organigram Global Inc. - Common Shares,Stock,,nasdaq_trader_symbol_di
 NASDAQ,OHAC,Oceanhawk Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OHACR,Oceanhawk Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OHACU,Oceanhawk Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OIG,Orion180 Insurance Group Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OIM,OneIM Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OIMAU,OneIM Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OIMAW,OneIM Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -4627,7 +4630,6 @@ NASDAQ,SNTG,Sentage Holdings Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader
 NASDAQ,SNTI,"Senti Biosciences Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNWV,"SANUWAVE Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SNY,Sanofi - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SNYR,Synergy CHC Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SOCA,Solarius Capital Acquisition Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SOCAU,Solarius Capital Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SOCAW,Solarius Capital Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -5486,7 +5488,9 @@ NASDAQ,XFOR,"X4 Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,XGN,Exagen Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XHG,XChange TEC.INC - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XHLD,"TEN Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XIII,Churchill Capital Corp XIII - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XIIIU,Churchill Capital Corp XIII - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XIIIW,Churchill Capital Corp XIII - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XLAB,Exascale Labs Holdings Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XLABW,Exascale Labs Holdings Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XLO,"Xilio Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory

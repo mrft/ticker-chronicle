@@ -141,8 +141,9 @@ GRO,AMEX,Brazil Potash Corp. Common Shares,Stock,True,2026-05-08,,,e44f23b2c2c6f
 GROY,AMEX,Gold Royalty Corp. Common Shares,Stock,True,2026-05-08,,,9cec16762960a8793e0e
 GROY.W,AMEX,Gold Royalty Corp. Warrants,Stock,True,2026-05-08,,,030aeb460e5f1794da19
 GTE,AMEX,Gran Tierra Energy Inc. Common Stock,Stock,True,2026-05-08,,,6d40dd45a72a6ab73d13
-HCWC,AMEX,Healthy Choice Wellness Corp. Class A Common Stock,Stock,True,2026-05-08,,,a00ba59682f763d7e230
+HCWC,AMEX,Healthy Choice Wellness Corp. Class A Common Stock,Stock,False,2026-05-08,2026-09-18,Other delisting reason: Details unavailable (source: FMP Delisted API),a00ba59682f763d7e230
 HLSQ,AMEX,Tessera Defense and Homeland Security Inc. Common Stock,Stock,True,2026-09-11,,,c8e217e762c2aef69bdf
+HOST,AMEX,Host Digital Inc. Class A Common Stock,Stock,True,2026-09-18,,,8bfc0ab0d8c9bcf991c7
 HSLV,AMEX,Highlander Silver Corp. Common Shares,Stock,True,2026-05-08,,,cfc888952decdbc41d1a
 HYLN,AMEX,Hyliion Holdings Corp. Class A Common Stock,Stock,True,2026-05-08,,,c8d1ea920ef8da52386a
 IAF,AMEX,"abrdn Australia Equity Fund, Inc. Common Stock",Stock,True,2026-05-08,,,73fd4da40716a50fd34b
@@ -2141,6 +2142,7 @@ ETHA,NASDAQ,iShares Ethereum Trust ETF,ETF,True,2026-05-08,,,cb732f24bd8fc66c730
 ETHB,NASDAQ,iShares Staked Ethereum Trust ETF,ETF,True,2026-05-08,,,3a1e9d02dd841704dd20
 ETON,NASDAQ,"Eton Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,b1210327e86a60e79ebe
 ETOR,NASDAQ,eToro Group Ltd. - Class A Common Shares,Stock,True,2026-05-08,,,9379f0818a41e913577f
+ETRA,NASDAQ,"Electra Therapeutics, Inc. - Common stock",Stock,True,2026-09-18,,,d53a65d948c47586ab81
 ETRL,NASDAQ,GraniteShares 2x Long ETOR Daily ETF,ETF,False,2026-05-08,2026-06-22,Missing from current NASDAQ source snapshot; reason unavailable,0a2802d32ecdd6cdd794
 ETS,NASDAQ,Elite Express Holding Inc. - Class A Common Stock,Stock,True,2026-05-08,,,1c53335bdb724c5f83e6
 EU,NASDAQ,enCore Energy Corp. - Common Stock,Stock,True,2026-05-08,,,ede9427c8857ec8558b1
@@ -2496,8 +2498,10 @@ FWACR,NASDAQ,Futurewave Acquisition Corporation - Rights,Stock,True,2026-07-31,,
 FWACU,NASDAQ,Futurewave Acquisition Corporation - Units,Stock,True,2026-06-25,,,bdb188e6f760a5a8122e
 FWACW,NASDAQ,Futurewave Acquisition Corporation - Warrants,Stock,True,2026-07-31,,,8e994353af8cd123cc23
 FWDI,NASDAQ,"Forward Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,b02244be4e14099b0018
-FWONA,NASDAQ,Liberty Media Corporation - Series A Liberty Formula One Common Stock,Stock,True,2026-05-08,,,d57127a9f7ba36cee15c
-FWONK,NASDAQ,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Stock,True,2026-05-08,,,2af5e5652f41b29d4c7c
+FWONA,NASDAQ,Liberty Media Corporation - Series A Liberty Formula One Common Stock,Stock,False,2026-05-08,2026-09-18,Listing metadata changed,d57127a9f7ba36cee15c
+FWONA,NASDAQ,Liberty Media Corporation - Series A Common Stock,Stock,True,2026-09-18,,,e53f269630f4bed539ba
+FWONK,NASDAQ,Liberty Media Corporation - Series C Liberty Formula One Common Stock,Stock,False,2026-05-08,2026-09-18,Listing metadata changed,2af5e5652f41b29d4c7c
+FWONK,NASDAQ,Liberty Media Corporation - Series C Common Stock,Stock,True,2026-09-18,,,f84161c56feab2c75f74
 FWRD,NASDAQ,Forward Air Corporation - Common Stock,Stock,True,2026-05-08,,,ffc690ada07cd0b55a0b
 FWRG,NASDAQ,"First Watch Restaurant Group, Inc. - Common Stock",Stock,True,2026-05-08,,,32814793b313881d3a01
 FXAC,NASDAQ,FortuneX Acquisition Corporation - Ordinary shares,Stock,True,2026-07-07,,,e7f3705a305bad230e36
@@ -3456,6 +3460,7 @@ LDRX,NASDAQ,SGI Enhanced Market Leaders ETF,ETF,True,2026-05-08,,,088d5cc188840d
 LDSF,NASDAQ,First Trust Low Duration Strategic Focus ETF,ETF,True,2026-05-08,,,7c31d470c1d9f68235f9
 LE,NASDAQ,"Lands' End, Inc. - Common Stock",Stock,True,2026-05-08,,,3e94db048a1922bd194d
 LECO,NASDAQ,"Lincoln Electric Holdings, Inc. - Common Shares",Stock,True,2026-05-08,,,f0a1a4f0adc212b2fe97
+LEDRU,NASDAQ,Leader's Advantage Acquisition Corp. - Units,Stock,True,2026-09-18,,,4b58d621798e42c0d401
 LEDS,NASDAQ,SemiLEDS Corporation - Common Stock,Stock,True,2026-05-08,,,6406bd07ac64e817a118
 LEE,NASDAQ,"Lee Enterprises, Incorporated - Common Stock",Stock,True,2026-05-08,,,bdaa16a2f2c0c5869c76
 LEGH,NASDAQ,Legacy Housing Corporation - Common Stock,Stock,True,2026-05-08,,,814837eb2ee3ae6c6331
@@ -4260,6 +4265,7 @@ OGI,NASDAQ,Organigram Global Inc. - Common Shares,Stock,True,2026-05-08,,,293f1e
 OHAC,NASDAQ,Oceanhawk Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-06-05,,,f4e07045c7eea08a622d
 OHACR,NASDAQ,Oceanhawk Acquisition Corp. - Rights,Stock,True,2026-06-05,,,260b911a3b841cea944b
 OHACU,NASDAQ,Oceanhawk Acquisition Corp. - Units,Stock,True,2026-05-21,,,cb2dacd54b871d13767a
+OIG,NASDAQ,Orion180 Insurance Group Inc. - Class A Common Stock,Stock,True,2026-09-18,,,980f6b140c91a0708b6e
 OIM,NASDAQ,OneIM Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,400d7c7f09d4b947f89a
 OIMAU,NASDAQ,OneIM Acquisition Corp. - Units,Stock,True,2026-05-08,,,47a3a95c6abd3c6dd09f
 OIMAW,NASDAQ,OneIM Acquisition Corp. - Warrant,Stock,True,2026-05-08,,,443dafea75b7ad73986a
@@ -5313,7 +5319,7 @@ SNTG,NASDAQ,Sentage Holdings Inc. - Class A Ordinary Shares,Stock,True,2026-05-0
 SNTI,NASDAQ,"Senti Biosciences Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,eae7ebb37b12c47c760c
 SNWV,NASDAQ,"SANUWAVE Health, Inc. - Common Stock",Stock,True,2026-05-08,,,812fe65fa19a0f6e2c4c
 SNY,NASDAQ,Sanofi - American Depositary Shares,Stock,True,2026-05-08,,,1cc884bff9c7f5a02555
-SNYR,NASDAQ,Synergy CHC Corp. - Common Stock,Stock,True,2026-05-08,,,bc0d11e6a86a0d2f9d33
+SNYR,NASDAQ,Synergy CHC Corp. - Common Stock,Stock,False,2026-05-08,2026-09-18,Missing from current NASDAQ source snapshot; reason unavailable,bc0d11e6a86a0d2f9d33
 SOBR,NASDAQ,"SOBR Safe, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-16,Missing from current NASDAQ source snapshot; reason unavailable,d2cb769d3e3751f6b9a0
 SOCA,NASDAQ,Solarius Capital Acquisition Corp. - Class A Ordinary Share,Stock,True,2026-05-08,,,8d082a8e996b61cbfb0e
 SOCAU,NASDAQ,Solarius Capital Acquisition Corp. - Units,Stock,True,2026-05-08,,,f98b7d3c84935bdad341
@@ -6236,7 +6242,9 @@ XFOR,NASDAQ,"X4 Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,54
 XGN,NASDAQ,Exagen Inc. - Common Stock,Stock,True,2026-05-08,,,bb928abf294be5854cdc
 XHG,NASDAQ,XChange TEC.INC - American Depositary Shares,Stock,True,2026-05-08,,,b7c03bc9dd1c9d46c31c
 XHLD,NASDAQ,"TEN Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,1ad185287ace2163b18c
+XIII,NASDAQ,Churchill Capital Corp XIII - Class A Ordinary Shares,Stock,True,2026-09-18,,,1b0372d90fea04da185b
 XIIIU,NASDAQ,Churchill Capital Corp XIII - Units,Stock,True,2026-07-31,,,663ae5653e28116476db
+XIIIW,NASDAQ,Churchill Capital Corp XIII - Warrants,Stock,True,2026-09-18,,,ad0795be5188ee726532
 XLAB,NASDAQ,Exascale Labs Holdings Inc. - Class A Common Stock,Stock,True,2026-08-28,,,d2f641dc8fc377e7b8c4
 XLABW,NASDAQ,Exascale Labs Holdings Inc. - Warrant,Stock,True,2026-08-28,,,796b002242e70bdd389b
 XLO,NASDAQ,"Xilio Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,1d0ed649ca26f7c71d48
@@ -6596,6 +6604,7 @@ ASBH,NYSE,"American Savings Bank, N.A. Common Stock",Stock,True,2026-09-16,,,dee
 ASC,NYSE,Ardmore Shipping Corporation Common Stock,Stock,True,2026-05-08,,,b931f5527dc623611087
 ASG,NYSE,"Liberty All-Star Growth Fund, Inc.",Stock,True,2026-05-08,,,0d6eb68c5ca161196e1d
 ASGI,NYSE,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,1106101233ded60df50d
+ASGI.V,NYSE,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",Stock,True,2026-09-18,,,aac905d61c97f4dded62
 ASH,NYSE,Ashland Inc. Common Stock,Stock,True,2026-05-08,,,72c6a0a141585f7fe111
 ASIC,NYSE,Ategrity Specialty Insurance Company Holdings Common Stock,Stock,True,2026-05-08,,,4b01ea837235ccc3cd3e
 ASIX,NYSE,AdvanSix Inc. Common Stock,Stock,True,2026-05-08,,,9074b6c41f3b8002cfef
@@ -8802,7 +8811,7 @@ SAN,NYSE,"Banco Santander, S.A. Sponsored ADR (Spain)",Stock,True,2026-05-08,,,9
 SAP,NYSE,SAP SE ADS,Stock,True,2026-05-08,,,1e4fdf6f0f18644e53a3
 SAR,NYSE,Saratoga Investment Corp New,Stock,True,2026-05-08,,,88f164030c8107e292ec
 SARO,NYSE,"StandardAero, Inc. Common Stock",Stock,True,2026-05-08,,,e8c6f2909532e24462b6
-SAT,NYSE,Saratoga Investment Corp 6.00% Notes due 2027,Stock,True,2026-05-08,,,ad134990cc8556f65bb0
+SAT,NYSE,Saratoga Investment Corp 6.00% Notes due 2027,Stock,False,2026-05-08,2026-09-18,Missing from current NYSE source snapshot; reason unavailable,ad134990cc8556f65bb0
 SAV,NYSE,Saratoga Investment Corp 7.50% Notes due 2031,Stock,True,2026-05-08,,,c9bba3b209580d925118
 SAX,NYSE,Saratoga Investment Corp 8.00% Notes due 2031,Stock,True,2026-08-28,,,3cecc17df4f7e36cb3e9
 SAY,NYSE,Saratoga Investment Corp 8.125% Notes due 2027,Stock,True,2026-05-08,,,d0d51bfd4fbcead6a1eb
