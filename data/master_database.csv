@@ -7089,7 +7089,7 @@ CRL,NYSE,"Charles River Laboratories International, Inc. Common Stock",Stock,Tru
 CRM,NYSE,"Salesforce, Inc. Common Stock",Stock,True,2026-05-08,,,cca32c271d6775fc3155
 CRS,NYSE,Carpenter Technology Corporation Common Stock,Stock,True,2026-05-08,,,7db11b28305aa8e6ab72
 CRT,NYSE,Cross Timbers Royalty Trust Common Stock,Stock,True,2026-05-08,,,2fa8f2959d62cbd64b6b
-CSAN,NYSE,Cosan S.A. ADS,Stock,True,2026-05-08,,,9da13f7183e2985ffe29
+CSAN,NYSE,Cosan S.A. ADS,Stock,False,2026-05-08,2026-09-21,Missing from current NYSE source snapshot; reason unavailable,9da13f7183e2985ffe29
 CSL,NYSE,Carlisle Companies Incorporated Common Stock,Stock,True,2026-05-08,,,39343fac491e7e2cfaa9
 CSQR,NYSE,"Csquare, Inc. Common Stock",Stock,True,2026-07-16,,,ba63d098da4c22b65d42
 CSR,NYSE,D/B/A Centerspace Common Stock,Stock,True,2026-05-08,,,35833e19dbe1861d987d
