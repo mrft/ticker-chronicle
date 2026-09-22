@@ -789,9 +789,7 @@ NASDAQ,BRLSW,Borealis Foods Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRLT,"Brilliant Earth Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRNX,BrenX Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRNY,Burney U.S. Factor Rotation ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,BRR,"ProCap Financial, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRRR,Coinshares Bitcoin ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,BRRWW,"ProCap Financial, Inc. - Warrant.",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRTM,B&R Technology Merger Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRTMU,B&R Technology Merger Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRTMW,B&R Technology Merger Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -1658,6 +1656,7 @@ NASDAQ,ESOA,Energy Services of America Corporation - Common Stock,Stock,,nasdaq_
 NASDAQ,ESPO,VanEck Video Gaming and eSports ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ESQ,"Esquire Financial Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ESTA,Establishment Labs Holdings Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ESYN,EnerSyn Global Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ETEC,iShares Breakthrough Environmental Solutions ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ETHA,iShares Ethereum Trust ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ETHB,iShares Staked Ethereum Trust ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2398,7 +2397,6 @@ NASDAQ,HWBK,"Hawthorn Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,HWC,Hancock Whitney Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HWCPZ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HWGV,Hotchkis & Wiley Global Value Fund,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,HWH,HWH International Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HWIV,Hotchkis & Wiley International Value Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HWKN,"Hawkins, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HWO,Hotchkis & Wiley Opportunities Fund,ETF,,nasdaq_trader_symbol_directory
@@ -2910,7 +2908,6 @@ NASDAQ,LFTO,"Liftoff Mobile, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_di
 NASDAQ,LFUS,"Littelfuse, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LFVN,Lifevantage Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LFWD,Lifeward Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LGCF,Themes US Cash Flow Champions ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LGCL,Lucas GC Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LGDS,JPMorgan Fundamental Data Science Large Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LGHL,Lion Group Holding Ltd. - American Depositary Share,Stock,,nasdaq_trader_symbol_directory
@@ -3431,9 +3428,6 @@ NASDAQ,NFXS,Direxion Daily NFLX Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NGEN,NervGen Pharma Corp. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NGHT,Nicholas Bitcoin and Treasuries AfterDark ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NGNE,Neurogene Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NHIC,NewHold Investment Corp III - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NHICU,NewHold Investment Corp III - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NHICW,NewHold Investment Corp III - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHIV,NewHold Investment Corp IV - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHIVU,NewHold Investment Corp IV - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHIVW,NewHold Investment Corp IV - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -3560,6 +3554,8 @@ NASDAQ,NVTS,Navitas Semiconductor Corporation - Common Stock,Stock,,nasdaq_trade
 NASDAQ,NVX,NOVONIX Limited - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVYY,GraniteShares YieldBOOST NVDA ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NWBI,"Northwest Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NWCL,newcleo plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NWCLW,newcleo plc - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NWE,"NorthWestern Energy Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NWFL,Norwood Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NWGL,CL Workshop Group Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4128,6 +4124,7 @@ NASDAQ,QQLV,Invesco QQQ Low Volatility ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQMG,Invesco ESG NASDAQ 100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQQ,"Invesco QQQ Trust, Series 1",ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQQA,ProShares Nasdaq-100 Dorsey Wright Momentum ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QQQB,VistaShares Shield Nasdaq 100 Enhanced Protection ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQQE,Direxion NASDAQ-100 Equal Weighted Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQQG,Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQQH,NEOS Nasdaq-100 Hedged Equity Income ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4588,7 +4585,6 @@ NASDAQ,SLVR,Sprott Silver Miners & Physical Silver ETF,ETF,,nasdaq_trader_symbol
 NASDAQ,SLXN,Silexion Therapeutics Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLXNW,Silexion Therapeutics Corp - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SMBC,"Southern Missouri Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SMCF,Themes US Small Cap Cash Flow Champions ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMCI,"Super Micro Computer, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SMCIP,"Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SMCL,GraniteShares 2x Long SMCI Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4778,6 +4774,8 @@ NASDAQ,SVCC,Stellar V Capital Corp. - Class A Ordinary Shares,Stock,,nasdaq_trad
 NASDAQ,SVCCU,Stellar V Capital Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVCCW,Stellar V Capital Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVCO,"Silvaco Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SVIA,"Silvia, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SVIAW,"Silvia, Inc. - Warrant.",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVIV,Spring Valley Acquisition Corp. IV - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVIVU,Spring Valley Acquisition Corp. IV - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVIVW,Spring Valley Acquisition Corp. IV - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -5291,6 +5289,7 @@ NASDAQ,VOLT,Tema Electrification ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VONE,Vanguard Russell 1000 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VONG,Vanguard Russell 1000 Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VONV,Vanguard Russell 1000 Value ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,VOOB,VistaShares Shield S&P 500 Enhanced Protection ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VOR,Vor Biopharma Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VOTE,TCW Transform 500 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VOXR,Vox Royalty Corp. - common stock,Stock,,nasdaq_trader_symbol_directory

@@ -1203,9 +1203,9 @@ BRLT,NASDAQ,"Brilliant Earth Group, Inc. - Class A Common Stock",Stock,True,2026
 BRNS,NASDAQ,Barinthus Biotherapeutics plc - American Depositary Shares,Stock,False,2026-05-08,2026-09-09,Missing from current NASDAQ source snapshot; reason unavailable,8287e236463bd0c8648e
 BRNX,NASDAQ,BrenX Ltd. - Ordinary Shares,Stock,True,2026-08-14,,,9b380c397f5107219fa5
 BRNY,NASDAQ,Burney U.S. Factor Rotation ETF,ETF,True,2026-05-08,,,e7d87d4ce5a82a8bb8c9
-BRR,NASDAQ,"ProCap Financial, Inc. - Common Stock",Stock,True,2026-05-08,,,8b9e20db60c83130605d
+BRR,NASDAQ,"ProCap Financial, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-22,Missing from current NASDAQ source snapshot; reason unavailable,8b9e20db60c83130605d
 BRRR,NASDAQ,Coinshares Bitcoin ETF,ETF,True,2026-05-08,,,da025216be30b9ae553e
-BRRWW,NASDAQ,"ProCap Financial, Inc. - Warrant.",Stock,True,2026-05-08,,,1306a94b792cfdeb1cc2
+BRRWW,NASDAQ,"ProCap Financial, Inc. - Warrant.",Stock,False,2026-05-08,2026-09-22,Missing from current NASDAQ source snapshot; reason unavailable,1306a94b792cfdeb1cc2
 BRTM,NASDAQ,B&R Technology Merger Corp. - Class A Ordinary Shares,Stock,True,2026-09-10,,,6b6ee5badee76239944e
 BRTMU,NASDAQ,B&R Technology Merger Corp. - Units,Stock,True,2026-07-21,,,74aeeb7809cfeefec1e5
 BRTMW,NASDAQ,B&R Technology Merger Corp. - Warrants,Stock,True,2026-09-10,,,b033216d4db74cd176b9
@@ -2137,6 +2137,7 @@ ESPO,NASDAQ,VanEck Video Gaming and eSports ETF,ETF,True,2026-05-08,,,fbd85ffe67
 ESPR,NASDAQ,"Esperion Therapeutics, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-14,Missing from current NASDAQ source snapshot; reason unavailable,e902cff8a58e804ace2a
 ESQ,NASDAQ,"Esquire Financial Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,c3bd0f001df913707acc
 ESTA,NASDAQ,Establishment Labs Holdings Inc. - Common Shares,Stock,True,2026-05-08,,,32070a9e3a86403497e9
+ESYN,NASDAQ,EnerSyn Global Inc. - Common Stock,Stock,True,2026-09-22,,,5c5fc34aabf8fe3cae5a
 ETEC,NASDAQ,iShares Breakthrough Environmental Solutions ETF,ETF,True,2026-05-08,,,444e988b1eed12f9152e
 ETHA,NASDAQ,iShares Ethereum Trust ETF,ETF,True,2026-05-08,,,cb732f24bd8fc66c730a
 ETHB,NASDAQ,iShares Staked Ethereum Trust ETF,ETF,True,2026-05-08,,,3a1e9d02dd841704dd20
@@ -2932,7 +2933,7 @@ HWBK,NASDAQ,"Hawthorn Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,e
 HWC,NASDAQ,Hancock Whitney Corporation - Common Stock,Stock,True,2026-05-08,,,9da890be79282ba97377
 HWCPZ,NASDAQ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,Stock,True,2026-05-08,,,4b7d91920525f8db32e5
 HWGV,NASDAQ,Hotchkis & Wiley Global Value Fund,ETF,True,2026-08-28,,,839741f9182e60d5fcac
-HWH,NASDAQ,HWH International Inc. - Common Stock,Stock,True,2026-05-08,,,e725118e9f2f019e9539
+HWH,NASDAQ,HWH International Inc. - Common Stock,Stock,False,2026-05-08,2026-09-22,Missing from current NASDAQ source snapshot; reason unavailable,e725118e9f2f019e9539
 HWIV,NASDAQ,Hotchkis & Wiley International Value Fund,ETF,True,2026-07-22,,,4996873c85c6333a77ab
 HWKN,NASDAQ,"Hawkins, Inc. - Common Stock",Stock,True,2026-05-08,,,5a529505b41a136761aa
 HWO,NASDAQ,Hotchkis & Wiley Opportunities Fund,ETF,True,2026-07-22,,,b6a58f0e3b448f600b12
@@ -3485,7 +3486,7 @@ LFUS,NASDAQ,"Littelfuse, Inc. - Common Stock",Stock,True,2026-05-08,,,8fd676cde4
 LFVN,NASDAQ,Lifevantage Corporation - Common Stock,Stock,True,2026-05-08,,,b8c9128f5308f1156cf0
 LFWD,NASDAQ,Lifeward Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,73cb2e433570b007e140
 LGCB,NASDAQ,Linkage Global Inc - Class A Ordinary Shares,Stock,False,2026-05-08,2026-05-18,Missing from current NASDAQ source snapshot; reason unavailable,627b3794d2e8a7eaab50
-LGCF,NASDAQ,Themes US Cash Flow Champions ETF,ETF,True,2026-05-08,,,178f2607f3c522719319
+LGCF,NASDAQ,Themes US Cash Flow Champions ETF,ETF,False,2026-05-08,2026-09-22,Missing from current NASDAQ source snapshot; reason unavailable,178f2607f3c522719319
 LGCL,NASDAQ,Lucas GC Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,de33c3aabf673a8d56d7
 LGDS,NASDAQ,JPMorgan Fundamental Data Science Large Growth ETF,ETF,True,2026-07-13,,,09fba342d6b1dc71674c
 LGHL,NASDAQ,Lion Group Holding Ltd. - American Depositary Share,Stock,True,2026-05-08,,,2eb971a9b879e398e0a1
@@ -4046,9 +4047,9 @@ NFXS,NASDAQ,Direxion Daily NFLX Bear 1X ETF,ETF,True,2026-05-08,,,2fcfa93be08fb8
 NGEN,NASDAQ,NervGen Pharma Corp. - Common stock,Stock,True,2026-05-08,,,20e2ac6d341c7549e257
 NGHT,NASDAQ,Nicholas Bitcoin and Treasuries AfterDark ETF,ETF,True,2026-05-08,,,95287f4386cf2c9ccd68
 NGNE,NASDAQ,Neurogene Inc. - Common Stock,Stock,True,2026-05-08,,,f8314265d32fa68e4591
-NHIC,NASDAQ,NewHold Investment Corp III - Class A Ordinary shares,Stock,True,2026-05-08,,,c09292007704f26fd00d
-NHICU,NASDAQ,NewHold Investment Corp III - Units,Stock,True,2026-05-08,,,148d076664b84dc9bb8d
-NHICW,NASDAQ,NewHold Investment Corp III - Warrants,Stock,True,2026-05-08,,,b4e2027107a793e26123
+NHIC,NASDAQ,NewHold Investment Corp III - Class A Ordinary shares,Stock,False,2026-05-08,2026-09-22,Missing from current NASDAQ source snapshot; reason unavailable,c09292007704f26fd00d
+NHICU,NASDAQ,NewHold Investment Corp III - Units,Stock,False,2026-05-08,2026-09-22,Missing from current NASDAQ source snapshot; reason unavailable,148d076664b84dc9bb8d
+NHICW,NASDAQ,NewHold Investment Corp III - Warrants,Stock,False,2026-05-08,2026-09-22,Missing from current NASDAQ source snapshot; reason unavailable,b4e2027107a793e26123
 NHIV,NASDAQ,NewHold Investment Corp IV - Class A Ordinary Shares,Stock,True,2026-06-08,,,83104ed1b4b7cd33d1fc
 NHIVU,NASDAQ,NewHold Investment Corp IV - Units,Stock,True,2026-05-08,,,6446708c631ecfd4d595
 NHIVW,NASDAQ,NewHold Investment Corp IV - Warrants,Stock,True,2026-06-08,,,618f70da04aabb0640a4
@@ -4185,6 +4186,8 @@ NVVE,NASDAQ,Nuvve Holding Corp. - Common Stock,Stock,False,2026-05-08,2026-07-24
 NVX,NASDAQ,NOVONIX Limited - American Depository Shares,Stock,True,2026-05-08,,,6d1e9dc2378deada8734
 NVYY,NASDAQ,GraniteShares YieldBOOST NVDA ETF,ETF,True,2026-05-08,,,255502704600ff3dfb57
 NWBI,NASDAQ,"Northwest Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,29dcd32c108e1bad4813
+NWCL,NASDAQ,newcleo plc - Ordinary Shares,Stock,True,2026-09-22,,,d9193390095890a4bc56
+NWCLW,NASDAQ,newcleo plc - Warrants,Stock,True,2026-09-22,,,6ab3c2a7ab6e01ada393
 NWE,NASDAQ,"NorthWestern Energy Group, Inc. - Common Stock",Stock,True,2026-05-08,,,535ee405e5572e3be5d0
 NWFL,NASDAQ,Norwood Financial Corp. - Common Stock,Stock,True,2026-05-08,,,b9effbdb2b049db9bf82
 NWGL,NASDAQ,CL Workshop Group Limited - American Depositary Shares,Stock,True,2026-05-08,,,e46ae293b4fcf54785ea
@@ -4780,6 +4783,7 @@ QQLV,NASDAQ,Invesco QQQ Low Volatility ETF,ETF,True,2026-05-08,,,726d82df33b70f9
 QQMG,NASDAQ,Invesco ESG NASDAQ 100 ETF,ETF,True,2026-05-08,,,8be88470ca5b8ec9e1a0
 QQQ,NASDAQ,"Invesco QQQ Trust, Series 1",ETF,True,2026-05-08,,,4220721d9fd4d6208c51
 QQQA,NASDAQ,ProShares Nasdaq-100 Dorsey Wright Momentum ETF,ETF,True,2026-05-08,,,600345c4c5ca616ed982
+QQQB,NASDAQ,VistaShares Shield Nasdaq 100 Enhanced Protection ETF,ETF,True,2026-09-22,,,6aa250bbd03f4a5d91b4
 QQQE,NASDAQ,Direxion NASDAQ-100 Equal Weighted Index ETF,ETF,True,2026-05-08,,,707e411357568aeff7a5
 QQQG,NASDAQ,Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF,ETF,True,2026-05-08,,,e41ed30d6d1f9722a0d9
 QQQH,NASDAQ,NEOS Nasdaq-100 Hedged Equity Income ETF,ETF,True,2026-05-08,,,8100151cfd609ccb1a95
@@ -5274,7 +5278,7 @@ SLVR,NASDAQ,Sprott Silver Miners & Physical Silver ETF,ETF,True,2026-05-08,,,b89
 SLXN,NASDAQ,Silexion Therapeutics Corp - Ordinary Shares,Stock,True,2026-05-08,,,9b310be339a189824078
 SLXNW,NASDAQ,Silexion Therapeutics Corp - Warrant,Stock,True,2026-05-08,,,67a4fd9029021d386260
 SMBC,NASDAQ,"Southern Missouri Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,efbd5af4ace3830e743d
-SMCF,NASDAQ,Themes US Small Cap Cash Flow Champions ETF,ETF,True,2026-05-08,,,3c7dbc285e2ee3e9a254
+SMCF,NASDAQ,Themes US Small Cap Cash Flow Champions ETF,ETF,False,2026-05-08,2026-09-22,Missing from current NASDAQ source snapshot; reason unavailable,3c7dbc285e2ee3e9a254
 SMCI,NASDAQ,"Super Micro Computer, Inc. - Common Stock",Stock,True,2026-05-08,,,866966112cbae18de61e
 SMCIP,NASDAQ,"Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",Stock,True,2026-06-16,,,2d774115d681cb1fb5ea
 SMCL,NASDAQ,GraniteShares 2x Long SMCI Daily ETF,ETF,True,2026-05-08,,,21f7c57a018077b13563
@@ -5483,6 +5487,8 @@ SVCC,NASDAQ,Stellar V Capital Corp. - Class A Ordinary Shares,Stock,True,2026-05
 SVCCU,NASDAQ,Stellar V Capital Corp. - Unit,Stock,True,2026-05-08,,,37bf5bb141315dcfc394
 SVCCW,NASDAQ,Stellar V Capital Corp. - Warrant,Stock,True,2026-05-08,,,51cbe9e43f331f0a40c9
 SVCO,NASDAQ,"Silvaco Group, Inc. - Common Stock",Stock,True,2026-05-08,,,2e847735c9921034b278
+SVIA,NASDAQ,"Silvia, Inc. - Common Stock",Stock,True,2026-09-22,,,b0e6649fcdae310f5be2
+SVIAW,NASDAQ,"Silvia, Inc. - Warrant.",Stock,True,2026-09-22,,,97923dadecbbfad8e9b6
 SVIV,NASDAQ,Spring Valley Acquisition Corp. IV - Class A Ordinary Shares,Stock,True,2026-05-08,,,f3de8672c7213202e2db
 SVIVU,NASDAQ,Spring Valley Acquisition Corp. IV - Units,Stock,True,2026-05-08,,,67027c13c05313e724bb
 SVIVW,NASDAQ,Spring Valley Acquisition Corp. IV - Warrants,Stock,True,2026-05-08,,,8041bd11aeb6ad31da83
@@ -6030,6 +6036,7 @@ VOLT,NASDAQ,Tema Electrification ETF,ETF,True,2026-05-08,,,25ef2da340f725fb939a
 VONE,NASDAQ,Vanguard Russell 1000 ETF,ETF,True,2026-05-08,,,849ee71018ec5c2aa892
 VONG,NASDAQ,Vanguard Russell 1000 Growth ETF,ETF,True,2026-05-08,,,ab3df4e5010adb884b7f
 VONV,NASDAQ,Vanguard Russell 1000 Value ETF,ETF,True,2026-05-08,,,56d66b5c712ab0d6a9c0
+VOOB,NASDAQ,VistaShares Shield S&P 500 Enhanced Protection ETF,ETF,True,2026-09-22,,,edac2f61a7385402a5b1
 VOR,NASDAQ,Vor Biopharma Inc. - Common Stock,Stock,True,2026-05-08,,,bf0e0af6d63c6b0365d1
 VOTE,NASDAQ,TCW Transform 500 ETF,ETF,True,2026-05-08,,,58a764139f7a027b9187
 VOXR,NASDAQ,Vox Royalty Corp. - common stock,Stock,True,2026-05-08,,,82aa54fc7eb784c2d0d2
