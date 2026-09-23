@@ -1065,6 +1065,7 @@ NASDAQ,CHEF,"The Chefs' Warehouse, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,CHGA,Change Agents Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHGX,Stance Sustainable Beta ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CHI,Calamos Convertible Opportunities and Income Fund - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CHIP,REX AI Chipmaking ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CHKP,Check Point Software Technologies Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHMG,Chemung Financial Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHNR,"China Natural Resources, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
@@ -2582,7 +2583,7 @@ NASDAQ,INTW,GraniteShares 2x Long INTC Daily ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,INTZ,Intrusion Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INV,"Innventure, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INVA,"Innoviva, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,INVE,"Identiv, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,INVE,"INVE Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INVZ,Innoviz Technologies Ltd. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IOND,Ionic Digital Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IONL,GraniteShares 2x Long IONQ Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2976,6 +2977,7 @@ NASDAQ,LOT,Lotus Technology Inc. - American Depositary Shares,Stock,,nasdaq_trad
 NASDAQ,LOTI,Liberty One Tactical Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LOTWW,Lotus Technology Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LOVE,The Lovesac Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LOVIU,Live Oak Acquisition Corp. VI - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPAA,Launch One Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPAAU,Launch One Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPAAW,Launch One Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -3319,6 +3321,7 @@ NASDAQ,MYCL,State Street My2032 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,MYCM,State Street My2033 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYCN,State Street My2034 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYCO,State Street My2035 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,MYCP,State Street My2036 Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYFW,"First Western Financial, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MYGN,"Myriad Genetics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MYHA,State Street My2027 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3326,12 +3329,14 @@ NASDAQ,MYHB,State Street My2028 High Yield Corporate Bond ETF,ETF,,nasdaq_trader
 NASDAQ,MYHC,State Street My2029 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYHD,State Street My2030 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYHE,State Street My2031 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,MYHF,State Street My2032 High Yield Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYMF,State Street My2026 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYMG,State Street My2027 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYMH,State Street My2028 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYMI,State Street My2029 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYMJ,State Street My2030 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYMK,State Street My2031 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,MYML,State Street My2032 Municipal Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MYPS,"PLAYSTUDIOS, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MYRG,"MYR Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MYSE,"Myseum.AI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3915,7 +3920,6 @@ NASDAQ,PLTD,Direxion Daily PLTR Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PLTG,Leverage Shares 2X Long PLTR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PLTK,Playtika Holding Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLTR,Palantir Technologies Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PLTS,Platinum Analytics Cayman Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLTU,Direxion Daily PLTR Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PLTZ,Defiance Daily Target 2x Short PLTR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PLUG,"Plug Power, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4120,6 +4124,7 @@ NASDAQ,QQA,Invesco QQQ Income Advantage ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQDN,ProShares UltraShort QQQ Mega,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQEW,First Trust Nasdaq-100 Select Equal Weight ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQHG,Invesco QQQ Hedged Advantage ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QQI,Invesco Nasdaq International Innovators 100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQLV,Invesco QQQ Low Volatility ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQMG,Invesco ESG NASDAQ 100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQQ,"Invesco QQQ Trust, Series 1",ETF,,nasdaq_trader_symbol_directory
@@ -5082,9 +5087,11 @@ NASDAQ,TWLV,Twelve Seas Investment Company III - Class A Ordinary Shares,Stock,,
 NASDAQ,TWLVR,Twelve Seas Investment Company III - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TWLVU,Twelve Seas Investment Company III - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TWST,Twist Bioscience Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TXCA,Northern Trust California Intermediate Tax-Exempt Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TXG,"10x Genomics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TXMD,"TherapeuticsMD, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TXN,Texas Instruments Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TXNY,Northern Trust New York Intermediate Tax-Exempt Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TXRH,"Texas Roadhouse, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TXUE,Thornburg International Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TXUG,Thornburg International Growth Fund ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5275,6 +5282,8 @@ NASDAQ,VMAR,Vision Marine Technologies Inc. - Common Shares,Stock,,nasdaq_trader
 NASDAQ,VMBS,Vanguard Mortgage-Backed Securities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VMD,"Viemed Healthcare, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VMET,Versamet Royalties Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VMHY,VictoryShares Municipal High Yield ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,VMSD,VictoryShares Short-Duration Municipal ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VNCE,Vince Holding Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VNDA,Vanda Pharmaceuticals Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VNET,"VNET Group, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory

@@ -1501,6 +1501,7 @@ CHEF,NASDAQ,"The Chefs' Warehouse, Inc. - Common Stock",Stock,True,2026-05-08,,,
 CHGA,NASDAQ,Change Agents Corporation - Common Stock,Stock,True,2026-07-22,,,44ce28330da4e2ea774e
 CHGX,NASDAQ,Stance Sustainable Beta ETF,ETF,True,2026-05-08,,,e96234ea49cbef70b4d7
 CHI,NASDAQ,Calamos Convertible Opportunities and Income Fund - Closed End Fund,Stock,True,2026-05-08,,,de7edbe2c009cf27b6fc
+CHIP,NASDAQ,REX AI Chipmaking ETF,ETF,True,2026-09-23,,,8331d22661a346be0f27
 CHKP,NASDAQ,Check Point Software Technologies Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,1965d5cfa7211794ace8
 CHMG,NASDAQ,Chemung Financial Corp - Common Stock,Stock,True,2026-05-08,,,e2efc7f0cff4e2d51be0
 CHNR,NASDAQ,"China Natural Resources, Inc. - Common Shares",Stock,True,2026-05-08,,,3bd50607a5f19465aa84
@@ -3123,7 +3124,8 @@ INTW,NASDAQ,GraniteShares 2x Long INTC Daily ETF,ETF,True,2026-05-08,,,597d5841f
 INTZ,NASDAQ,Intrusion Inc. - Common Stock,Stock,True,2026-05-08,,,b71874c3363773e18e61
 INV,NASDAQ,"Innventure, Inc. - Common Stock",Stock,True,2026-05-08,,,9b37e5ea52f3ea580057
 INVA,NASDAQ,"Innoviva, Inc. - Common Stock",Stock,True,2026-05-08,,,5333fc31d1e19437ddc4
-INVE,NASDAQ,"Identiv, Inc. - Common Stock",Stock,True,2026-05-08,,,283adc9a38d533b67641
+INVE,NASDAQ,"Identiv, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-23,Listing metadata changed,283adc9a38d533b67641
+INVE,NASDAQ,"INVE Technologies, Inc. - Common Stock",Stock,True,2026-09-23,,,1633e5ea938a0dfee36f
 INVZ,NASDAQ,Innoviz Technologies Ltd. - Ordinary shares,Stock,True,2026-05-08,,,53bdbe9292178be6595c
 IOND,NASDAQ,Ionic Digital Inc. - Class A Common Stock,Stock,True,2026-07-28,,,5497a17b5d37c6fd763b
 IONL,NASDAQ,GraniteShares 2x Long IONQ Daily ETF,ETF,True,2026-05-08,,,7acff02000b5570256db
@@ -3567,6 +3569,7 @@ LOT,NASDAQ,Lotus Technology Inc. - American Depositary Shares,Stock,True,2026-05
 LOTI,NASDAQ,Liberty One Tactical Income ETF,ETF,True,2026-05-08,,,ce472ede53ad4fb5e71c
 LOTWW,NASDAQ,Lotus Technology Inc. - Warrants,Stock,True,2026-05-08,,,4438c11a30380b79d4f8
 LOVE,NASDAQ,The Lovesac Company - Common Stock,Stock,True,2026-05-08,,,9a7dac7ed6d6b26329d9
+LOVIU,NASDAQ,Live Oak Acquisition Corp. VI - Units,Stock,True,2026-09-23,,,d110baed049445d0c063
 LPAA,NASDAQ,Launch One Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,79bcc75e066b570df8ea
 LPAAU,NASDAQ,Launch One Acquisition Corp. - Unit,Stock,True,2026-05-08,,,f769758493d4b98e2f10
 LPAAW,NASDAQ,Launch One Acquisition Corp. - Warrant,Stock,True,2026-05-08,,,0c90294a3dcbfa013a2f
@@ -3934,6 +3937,7 @@ MYCL,NASDAQ,State Street My2032 Corporate Bond ETF,ETF,True,2026-05-08,,,054bc1c
 MYCM,NASDAQ,State Street My2033 Corporate Bond ETF,ETF,True,2026-05-08,,,bcb68c83db0ccce8e929
 MYCN,NASDAQ,State Street My2034 Corporate Bond ETF,ETF,True,2026-05-08,,,d6c5b09e3e8194e3ba74
 MYCO,NASDAQ,State Street My2035 Corporate Bond ETF,ETF,True,2026-05-08,,,7f25763012e358784621
+MYCP,NASDAQ,State Street My2036 Corporate Bond ETF,ETF,True,2026-09-23,,,8db606a25292c8a0b0b0
 MYFW,NASDAQ,"First Western Financial, Inc. - Common Stock",Stock,True,2026-05-08,,,cf948dfdf149acfc6423
 MYGN,NASDAQ,"Myriad Genetics, Inc. - Common Stock",Stock,True,2026-05-08,,,9ac5de6c38032936de96
 MYHA,NASDAQ,State Street My2027 High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,6071329dcc87ad08b783
@@ -3941,12 +3945,14 @@ MYHB,NASDAQ,State Street My2028 High Yield Corporate Bond ETF,ETF,True,2026-05-0
 MYHC,NASDAQ,State Street My2029 High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,c025066714563df30041
 MYHD,NASDAQ,State Street My2030 High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,b6415d9c0935ffc15b18
 MYHE,NASDAQ,State Street My2031 High Yield Corporate Bond ETF,ETF,True,2026-05-08,,,087323fc0a4eadf7ab99
+MYHF,NASDAQ,State Street My2032 High Yield Corporate Bond ETF,ETF,True,2026-09-23,,,6ff73a5c0a8528a4ce07
 MYMF,NASDAQ,State Street My2026 Municipal Bond ETF,ETF,True,2026-05-08,,,98e218af0a8cdae1293a
 MYMG,NASDAQ,State Street My2027 Municipal Bond ETF,ETF,True,2026-05-08,,,455f4b4a4c13f6ba8c6d
 MYMH,NASDAQ,State Street My2028 Municipal Bond ETF,ETF,True,2026-05-08,,,cb8428368632570ffe41
 MYMI,NASDAQ,State Street My2029 Municipal Bond ETF,ETF,True,2026-05-08,,,9eb9dff3252f796eabfb
 MYMJ,NASDAQ,State Street My2030 Municipal Bond ETF,ETF,True,2026-05-08,,,09c0c582bda97ce44cc1
 MYMK,NASDAQ,State Street My2031 Municipal Bond ETF,ETF,True,2026-05-08,,,8a5f7885365a545414cd
+MYML,NASDAQ,State Street My2032 Municipal Bond ETF,ETF,True,2026-09-23,,,0eb8e9f370f4b3ee2d1e
 MYPS,NASDAQ,"PLAYSTUDIOS, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,e505a10a41d714f9fea7
 MYPSW,NASDAQ,"PLAYSTUDIOS, Inc. - Warrant",Stock,False,2026-05-08,2026-06-18,Missing from current NASDAQ source snapshot; reason unavailable,0a038cf0b7f071f2a37d
 MYRG,NASDAQ,"MYR Group, Inc. - Common Stock",Stock,True,2026-05-08,,,d49d7d0f69aa225d5827
@@ -4566,7 +4572,7 @@ PLTD,NASDAQ,Direxion Daily PLTR Bear 1X ETF,ETF,True,2026-05-08,,,1a4bc07393f548
 PLTG,NASDAQ,Leverage Shares 2X Long PLTR Daily ETF,ETF,True,2026-05-08,,,5353ee5688be7ec1a1c2
 PLTK,NASDAQ,Playtika Holding Corp. - Common Stock,Stock,True,2026-05-08,,,e1e6fe91828132d93e15
 PLTR,NASDAQ,Palantir Technologies Inc. - Class A Common Stock,Stock,True,2026-05-08,,,df067e5a2f339c1fdc2a
-PLTS,NASDAQ,Platinum Analytics Cayman Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,8a5a562329989497b9fb
+PLTS,NASDAQ,Platinum Analytics Cayman Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-09-23,Missing from current NASDAQ source snapshot; reason unavailable,8a5a562329989497b9fb
 PLTU,NASDAQ,Direxion Daily PLTR Bull 2X ETF,ETF,True,2026-05-08,,,70815ee50caa8374dcfc
 PLTZ,NASDAQ,Defiance Daily Target 2x Short PLTR ETF,ETF,True,2026-05-08,,,9b24e84402d835fe7612
 PLUG,NASDAQ,"Plug Power, Inc. - Common Stock",Stock,True,2026-05-08,,,9c0e63f2af16691363d7
@@ -4779,6 +4785,7 @@ QQA,NASDAQ,Invesco QQQ Income Advantage ETF,ETF,True,2026-05-08,,,4b421e2d058f0a
 QQDN,NASDAQ,ProShares UltraShort QQQ Mega,ETF,True,2026-05-08,,,39a7c1bc9218e4d05393
 QQEW,NASDAQ,First Trust Nasdaq-100 Select Equal Weight ETF,ETF,True,2026-05-08,,,d44713fc8ffc6eb0c063
 QQHG,NASDAQ,Invesco QQQ Hedged Advantage ETF,ETF,True,2026-05-08,,,c190800be32e8be41ff3
+QQI,NASDAQ,Invesco Nasdaq International Innovators 100 ETF,ETF,True,2026-09-23,,,88b47ea975c4e228f1e5
 QQLV,NASDAQ,Invesco QQQ Low Volatility ETF,ETF,True,2026-05-08,,,726d82df33b70f9f255d
 QQMG,NASDAQ,Invesco ESG NASDAQ 100 ETF,ETF,True,2026-05-08,,,8be88470ca5b8ec9e1a0
 QQQ,NASDAQ,"Invesco QQQ Trust, Series 1",ETF,True,2026-05-08,,,4220721d9fd4d6208c51
@@ -5816,9 +5823,11 @@ TWLV,NASDAQ,Twelve Seas Investment Company III - Class A Ordinary Shares,Stock,T
 TWLVR,NASDAQ,Twelve Seas Investment Company III - Rights,Stock,True,2026-05-08,,,4aa338bbd77805c2526f
 TWLVU,NASDAQ,Twelve Seas Investment Company III - Units,Stock,True,2026-05-08,,,04485cac6d10262813db
 TWST,NASDAQ,Twist Bioscience Corporation - Common Stock,Stock,True,2026-05-08,,,46d6ab5db16fa6b08972
+TXCA,NASDAQ,Northern Trust California Intermediate Tax-Exempt Bond ETF,ETF,True,2026-09-23,,,eaae3b8c97da9f86b20f
 TXG,NASDAQ,"10x Genomics, Inc. - Common Stock",Stock,True,2026-05-08,,,ae5136332814760a441a
 TXMD,NASDAQ,"TherapeuticsMD, Inc. - Common Stock",Stock,True,2026-05-08,,,9561c7db8b6c9f8baa6d
 TXN,NASDAQ,Texas Instruments Incorporated - Common Stock,Stock,True,2026-05-08,,,3807f9d8c7e52861add8
+TXNY,NASDAQ,Northern Trust New York Intermediate Tax-Exempt Bond ETF,ETF,True,2026-09-23,,,1fec251bbfecb9196eb0
 TXRH,NASDAQ,"Texas Roadhouse, Inc. - Common Stock",Stock,True,2026-05-08,,,8f6ac8cdd4b02f698f48
 TXUE,NASDAQ,Thornburg International Equity ETF,ETF,True,2026-05-08,,,c6f7d2542ff485d0c786
 TXUG,NASDAQ,Thornburg International Growth Fund ETF,ETF,True,2026-05-08,,,7e9d5ef20b247bcfc4b8
@@ -6022,6 +6031,8 @@ VMAR,NASDAQ,Vision Marine Technologies Inc. - Common Shares,Stock,True,2026-05-0
 VMBS,NASDAQ,Vanguard Mortgage-Backed Securities ETF,ETF,True,2026-05-08,,,c769b72dcf7294d06f80
 VMD,NASDAQ,"Viemed Healthcare, Inc. - Common Shares",Stock,True,2026-05-08,,,1451644319207f52c77c
 VMET,NASDAQ,Versamet Royalties Corporation - Common Stock,Stock,True,2026-05-08,,,569d92cd52bf4a1c7a0a
+VMHY,NASDAQ,VictoryShares Municipal High Yield ETF,ETF,True,2026-09-23,,,da34c5bb8cd16ba4fa83
+VMSD,NASDAQ,VictoryShares Short-Duration Municipal ETF,ETF,True,2026-09-23,,,4c33cbc6eb184c958845
 VNCE,NASDAQ,Vince Holding Corp. - Common Stock,Stock,True,2026-05-08,,,52d3a8a0b921f08f9ccf
 VNDA,NASDAQ,Vanda Pharmaceuticals Inc. - Common Stock,Stock,True,2026-05-08,,,54391706bf0e0f81399a
 VNET,NASDAQ,"VNET Group, Inc. - American Depositary Shares",Stock,True,2026-05-08,,,5b10ba4f034d97a9a4d6
@@ -8732,7 +8743,7 @@ RITM$E,NYSE,Rithm Capital Corp. 8.75% Series E Fixed-Rate Cumulative Redeemable 
 RITM$F,NYSE,Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,d6dcffa9252ddad29ffe
 RIV,NYSE,"RiverNorth Opportunities Fund, Inc. Common Stock",Stock,True,2026-05-08,,,75a6d4efd7c31d65910e
 RIV$A,NYSE,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",Stock,True,2026-05-08,,,64f67422c02b11c49697
-RIV.R,NYSE,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",Stock,True,2026-09-04,,,ab85b4e69009070eec65
+RIV.R,NYSE,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",Stock,False,2026-09-04,2026-09-23,Missing from current NYSE source snapshot; reason unavailable,ab85b4e69009070eec65
 RIV.V,NYSE,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",Stock,False,2026-08-28,2026-09-04,Missing from current NYSE source snapshot; reason unavailable,5b8cabae1dd715035b32
 RJF,NYSE,"Raymond James Financial, Inc. Common Stock",Stock,True,2026-05-08,,,fb656d7eaadc11c477b2
 RKT,NYSE,"Rocket Companies, Inc. Class A Common Stock",Stock,True,2026-05-08,,,adc4e920f2f9fbc0e185
