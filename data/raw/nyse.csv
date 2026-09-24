@@ -213,7 +213,7 @@ NYSE,ASBH,"American Savings Bank, N.A. Common Stock",Stock,,nasdaq_trader_symbol
 NYSE,ASC,Ardmore Shipping Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ASG,"Liberty All-Star Growth Fund, Inc.",Stock,,nasdaq_trader_symbol_directory
 NYSE,ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,ASGI.V,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
+NYSE,ASGI.R,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 NYSE,ASH,Ashland Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ASIC,Ategrity Specialty Insurance Company Holdings Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ASIX,AdvanSix Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -304,6 +304,7 @@ NYSE,BBY,"Best Buy Co., Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BC,Brunswick Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BC$C,Brunswick Corporation 6.375% Notes due 2049,Stock,,nasdaq_trader_symbol_directory
 NYSE,BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
+NYSE,BCAT.V,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,BCC,"Boise Cascade, L.L.C. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BCE,"BCE, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BCEM,Baron Emerging Markets Select ETF,ETF,,nasdaq_trader_symbol_directory

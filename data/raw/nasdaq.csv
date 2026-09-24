@@ -1440,7 +1440,6 @@ NASDAQ,DNUT,"Krispy Kreme, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_dire
 NASDAQ,DOCU,"DocuSign, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DOGZ,Dogness (International) Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DOMH,Dominari Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DOMO,"Domo, Inc. - Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DOO,BRP Inc. - Common Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DORM,"Dorman Products, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DOX,Amdocs Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1840,7 +1839,10 @@ NASDAQ,FIVN,"Five9, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIXD,First Trust Smith Opportunistic Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FIYY,GraniteShares YieldBOOST 20Y Treasuries ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FIZZ,National Beverage Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FJDI,ARC Group Securities Acquisition I - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FJDIR,ARC Group Securities Acquisition I - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FJDIU,ARC Group Securities Acquisition I - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FJDIW,ARC Group Securities Acquisition I - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FJP,First Trust Japan AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FKU,First Trust United Kingdom AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FKWL,Franklin Wireless Corp. - common stock,Stock,,nasdaq_trader_symbol_directory
@@ -2379,6 +2381,7 @@ NASDAQ,HUBC,Hub Cyber Security Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbo
 NASDAQ,HUBCW,Hub Cyber Security Ltd. - Warrant expiring 2/27/28,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HUBCZ,Hub Cyber Security Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HUBG,"Hub Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HUCK,"Huckleberry.ai, Inc. - Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HUDI,"Huadi International Group Co., Ltd. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HUHU,HUHUTECH International Group Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HUIZ,Huize Holding Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2388,9 +2391,6 @@ NASDAQ,HURC,"Hurco Companies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,HURN,Huron Consulting Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HUT,Hut 8 Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HUTG,Leverage Shares 2X Long HUT Daily ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,HVII,Hennessy Capital Investment Corp. VII - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HVIIR,Hennessy Capital Investment Corp. VII - Rights,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HVIIU,Hennessy Capital Investment Corp. VII - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HVMC,Highview Merger Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HVMCU,Highview Merger Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HVMCW,Highview Merger Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -2400,6 +2400,7 @@ NASDAQ,HWCPZ,Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060,Sto
 NASDAQ,HWGV,Hotchkis & Wiley Global Value Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HWIV,Hotchkis & Wiley International Value Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HWKN,"Hawkins, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HWMV,Hotchkis & Wiley Mid-Cap Value Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HWO,Hotchkis & Wiley Opportunities Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HWSM,Hotchkis & Wiley SMID Cap Diversified Value Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HXHX,Haoxin Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3672,6 +3673,7 @@ NASDAQ,ONCY,Oncolytics Biotech Inc. - Common Stock,Stock,,nasdaq_trader_symbol_d
 NASDAQ,ONDG,Leverage Shares 2X Long ONDS Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ONDS,Ondas Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ONEG,OneConstruction Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ONEN,ONE Nuclear Energy Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ONEQ,Fidelity Nasdaq Composite Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ONEW,OneWater Marine Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ONFO,Onfolio Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4843,7 +4845,6 @@ NASDAQ,TBCVU,"Thunder Bridge Capital Partners V, Ltd. - Units",Stock,,nasdaq_tra
 NASDAQ,TBIL,F/m US Treasury 3 Month Bill Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TBLA,Taboola.com Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBLD,Thornburg Income Builder Opportunities Trust - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,TBPH,"Theravance Biopharma, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TC,Token Cat Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TCAN,21Shares Canton Network ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TCBI,"Texas Capital Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4974,6 +4975,7 @@ NASDAQ,TNYA,"Tenaya Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TONX,TON Strategy Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TOP,TOP Financial Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TORK,KraneShares Actuator ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TORO,Toro Corp. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TOUR,Tuniu Corporation - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TOWN,Towne Bank - Common Stock,Stock,,nasdaq_trader_symbol_directory

@@ -1902,7 +1902,7 @@ DNUT,NASDAQ,"Krispy Kreme, Inc. - Common Stock",Stock,True,2026-05-08,,,43b8294b
 DOCU,NASDAQ,"DocuSign, Inc. - Common Stock",Stock,True,2026-05-08,,,e6ffc9fc8b1354f9966c
 DOGZ,NASDAQ,Dogness (International) Corporation - Class A Common Stock,Stock,True,2026-05-08,,,ae342f7f6e49032d0750
 DOMH,NASDAQ,Dominari Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,e9650b30baa97567e715
-DOMO,NASDAQ,"Domo, Inc. - Class B Common Stock",Stock,True,2026-05-08,,,f4f0c44e9219778a3ca8
+DOMO,NASDAQ,"Domo, Inc. - Class B Common Stock",Stock,False,2026-05-08,2026-09-24,Missing from current NASDAQ source snapshot; reason unavailable,f4f0c44e9219778a3ca8
 DOO,NASDAQ,BRP Inc. - Common Subordinate Voting Shares,Stock,True,2026-05-08,,,8319063f466f63d9defb
 DORM,NASDAQ,"Dorman Products, Inc. - Common Stock",Stock,True,2026-05-08,,,f7384780008cc290b9ce
 DOX,NASDAQ,Amdocs Limited - Ordinary Shares,Stock,True,2026-05-08,,,fa3469d5126bfb388653
@@ -2341,7 +2341,10 @@ FIVY,NASDAQ,YieldMax Dorsey Wright Hybrid 5 Income ETF,ETF,False,2026-05-08,2026
 FIXD,NASDAQ,First Trust Smith Opportunistic Fixed Income ETF,ETF,True,2026-05-08,,,d357c98af57a16247990
 FIYY,NASDAQ,GraniteShares YieldBOOST 20Y Treasuries ETF,ETF,True,2026-05-08,,,d01115d7524f22d91227
 FIZZ,NASDAQ,National Beverage Corp. - Common Stock,Stock,True,2026-05-08,,,419fbe988656b4078be9
+FJDI,NASDAQ,ARC Group Securities Acquisition I - Class A Ordinary Shares,Stock,True,2026-09-24,,,a4de71cc6baf4c1fee77
+FJDIR,NASDAQ,ARC Group Securities Acquisition I - Rights,Stock,True,2026-09-24,,,3c13a901948ce80154fe
 FJDIU,NASDAQ,ARC Group Securities Acquisition I - Units,Stock,True,2026-08-04,,,ded91971b5cc866a3cf4
+FJDIW,NASDAQ,ARC Group Securities Acquisition I - Warrants,Stock,True,2026-09-24,,,0beeeb178ce56353ecac
 FJP,NASDAQ,First Trust Japan AlphaDEX Fund,ETF,True,2026-05-08,,,9d01af9e2ba4dbd6cb44
 FKU,NASDAQ,First Trust United Kingdom AlphaDEX Fund,ETF,True,2026-05-08,,,9dabd1b61c209cf5be06
 FKWL,NASDAQ,Franklin Wireless Corp. - common stock,Stock,True,2026-05-08,,,d07ca221be440018b51d
@@ -2913,6 +2916,7 @@ HUBC,NASDAQ,Hub Cyber Security Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,84
 HUBCW,NASDAQ,Hub Cyber Security Ltd. - Warrant expiring 2/27/28,Stock,True,2026-05-08,,,a1147926140ea3120987
 HUBCZ,NASDAQ,Hub Cyber Security Ltd. - Warrant,Stock,True,2026-05-08,,,dcb1ceca78d106ce80a6
 HUBG,NASDAQ,"Hub Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,90a5ad5778a69462e261
+HUCK,NASDAQ,"Huckleberry.ai, Inc. - Class B Common Stock",Stock,True,2026-09-24,,,97688974a8655075ee85
 HUDI,NASDAQ,"Huadi International Group Co., Ltd. - Ordinary Shares",Stock,True,2026-05-08,,,4a303561f0c8e572a16e
 HUHU,NASDAQ,HUHUTECH International Group Inc. - Ordinary Shares,Stock,True,2026-05-08,,,2cacc7d704aa4649caf3
 HUIZ,NASDAQ,Huize Holding Limited - American Depositary Shares,Stock,True,2026-05-08,,,1de2583900d6a3c9fa0c
@@ -2923,9 +2927,9 @@ HURC,NASDAQ,"Hurco Companies, Inc. - Common Stock",Stock,True,2026-05-08,,,995cf
 HURN,NASDAQ,Huron Consulting Group Inc. - Common Stock,Stock,True,2026-05-08,,,a343c115cfd554431a94
 HUT,NASDAQ,Hut 8 Corp. - Common Stock,Stock,True,2026-05-08,,,7f7256e00a7ac216d315
 HUTG,NASDAQ,Leverage Shares 2X Long HUT Daily ETF,ETF,True,2026-05-08,,,a0ad8032abf0f5966125
-HVII,NASDAQ,Hennessy Capital Investment Corp. VII - Ordinary Shares,Stock,True,2026-05-08,,,0d8a86494c26e66f3c7e
-HVIIR,NASDAQ,Hennessy Capital Investment Corp. VII - Rights,Stock,True,2026-05-08,,,e055e2126b3601a14b22
-HVIIU,NASDAQ,Hennessy Capital Investment Corp. VII - Unit,Stock,True,2026-05-08,,,946187a4bb1741539978
+HVII,NASDAQ,Hennessy Capital Investment Corp. VII - Ordinary Shares,Stock,False,2026-05-08,2026-09-24,Missing from current NASDAQ source snapshot; reason unavailable,0d8a86494c26e66f3c7e
+HVIIR,NASDAQ,Hennessy Capital Investment Corp. VII - Rights,Stock,False,2026-05-08,2026-09-24,Missing from current NASDAQ source snapshot; reason unavailable,e055e2126b3601a14b22
+HVIIU,NASDAQ,Hennessy Capital Investment Corp. VII - Unit,Stock,False,2026-05-08,2026-09-24,Missing from current NASDAQ source snapshot; reason unavailable,946187a4bb1741539978
 HVMC,NASDAQ,Highview Merger Corp. - Class A Ordinary Share,Stock,True,2026-05-08,,,cc632bd52082a5cb3f68
 HVMCU,NASDAQ,Highview Merger Corp. - Units,Stock,True,2026-05-08,,,85f53721b1bc6fce1c28
 HVMCW,NASDAQ,Highview Merger Corp. - Warrants,Stock,True,2026-05-08,,,b2a1100bd53b03136a7e
@@ -2937,6 +2941,7 @@ HWGV,NASDAQ,Hotchkis & Wiley Global Value Fund,ETF,True,2026-08-28,,,839741f9182
 HWH,NASDAQ,HWH International Inc. - Common Stock,Stock,False,2026-05-08,2026-09-22,Missing from current NASDAQ source snapshot; reason unavailable,e725118e9f2f019e9539
 HWIV,NASDAQ,Hotchkis & Wiley International Value Fund,ETF,True,2026-07-22,,,4996873c85c6333a77ab
 HWKN,NASDAQ,"Hawkins, Inc. - Common Stock",Stock,True,2026-05-08,,,5a529505b41a136761aa
+HWMV,NASDAQ,Hotchkis & Wiley Mid-Cap Value Fund,ETF,True,2026-09-24,,,d045a6814a26c72a1f68
 HWO,NASDAQ,Hotchkis & Wiley Opportunities Fund,ETF,True,2026-07-22,,,b6a58f0e3b448f600b12
 HWSM,NASDAQ,Hotchkis & Wiley SMID Cap Diversified Value Fund,ETF,True,2026-05-08,,,35f3e901fb7b554b4b80
 HXHX,NASDAQ,Haoxin Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,b89aaab4fad1b694674b
@@ -4312,6 +4317,7 @@ ONCY,NASDAQ,Oncolytics Biotech Inc. - Common Stock,Stock,True,2026-05-08,,,d3230
 ONDG,NASDAQ,Leverage Shares 2X Long ONDS Daily ETF,ETF,True,2026-05-08,,,5187a3b5ef7fb45e4e16
 ONDS,NASDAQ,Ondas Inc - Common Stock,Stock,True,2026-05-08,,,28e3c518fde4781a4550
 ONEG,NASDAQ,OneConstruction Group Limited - Ordinary Shares,Stock,True,2026-05-08,,,eae15f8855deb2f4e90c
+ONEN,NASDAQ,ONE Nuclear Energy Inc. - Common Stock,Stock,True,2026-09-24,,,d59e3b8edc88e5a22b63
 ONEQ,NASDAQ,Fidelity Nasdaq Composite Index ETF,ETF,True,2026-05-08,,,d8fa1cfbf410a059c5d6
 ONEW,NASDAQ,OneWater Marine Inc. - Class A Common Stock,Stock,True,2026-05-08,,,e79c48505d663d9debb6
 ONFO,NASDAQ,Onfolio Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,088864692b1d01a81f4d
@@ -5563,7 +5569,7 @@ TBIL,NASDAQ,F/m US Treasury 3 Month Bill Fund,ETF,True,2026-05-08,,,1932aca36eca
 TBLA,NASDAQ,Taboola.com Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,ea9400e7476fbdf6eb44
 TBLAW,NASDAQ,Taboola.com Ltd. - Warrant,Stock,False,2026-05-08,2026-06-30,Missing from current NASDAQ source snapshot; reason unavailable,a76fd2c2c4655faf2526
 TBLD,NASDAQ,Thornburg Income Builder Opportunities Trust - Closed End Fund,Stock,True,2026-05-08,,,67888cc2b2cf8fc88c88
-TBPH,NASDAQ,"Theravance Biopharma, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,f3bb8d4bf3e6eeb4c5f7
+TBPH,NASDAQ,"Theravance Biopharma, Inc. - Ordinary Shares",Stock,False,2026-05-08,2026-09-24,Missing from current NASDAQ source snapshot; reason unavailable,f3bb8d4bf3e6eeb4c5f7
 TBRG,NASDAQ,"TruBridge, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-10,Other delisting reason: Details unavailable (source: FMP Delisted API),0d9412552b2468f73ecb
 TC,NASDAQ,Token Cat Limited - American Depositary Shares,Stock,True,2026-05-08,,,04c5e8c14a3df1a4746d
 TCAN,NASDAQ,21Shares Canton Network ETF,ETF,True,2026-05-08,,,b3958830b6a18e49daa6
@@ -5703,6 +5709,7 @@ TOIIW,NASDAQ,"The Oncology Institute, Inc. - Warrant",Stock,False,2026-05-08,202
 TOMZ,NASDAQ,"TOMI Environmental Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,5c11432e7ed90072c70f
 TONX,NASDAQ,TON Strategy Company - Common Stock,Stock,True,2026-05-08,,,59465dd2d5512c38c8cd
 TOP,NASDAQ,TOP Financial Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,56b1ecc0b3f3a346f612
+TORK,NASDAQ,KraneShares Actuator ETF,ETF,True,2026-09-24,,,703c086075a0dab50e90
 TORO,NASDAQ,Toro Corp. - Common stock,Stock,True,2026-05-08,,,a5e25472487b3e3cfc19
 TOUR,NASDAQ,Tuniu Corporation - American Depositary Shares,Stock,True,2026-05-08,,,ae082cc531f891d14797
 TOWN,NASDAQ,Towne Bank - Common Stock,Stock,True,2026-05-08,,,d4ce833865a8e19f261f
@@ -6622,7 +6629,8 @@ ASBH,NYSE,"American Savings Bank, N.A. Common Stock",Stock,True,2026-09-16,,,dee
 ASC,NYSE,Ardmore Shipping Corporation Common Stock,Stock,True,2026-05-08,,,b931f5527dc623611087
 ASG,NYSE,"Liberty All-Star Growth Fund, Inc.",Stock,True,2026-05-08,,,0d6eb68c5ca161196e1d
 ASGI,NYSE,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,1106101233ded60df50d
-ASGI.V,NYSE,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",Stock,True,2026-09-18,,,aac905d61c97f4dded62
+ASGI.R,NYSE,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",Stock,True,2026-09-24,,,88f9e55b70b325436826
+ASGI.V,NYSE,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",Stock,False,2026-09-18,2026-09-24,Missing from current NYSE source snapshot; reason unavailable,aac905d61c97f4dded62
 ASH,NYSE,Ashland Inc. Common Stock,Stock,True,2026-05-08,,,72c6a0a141585f7fe111
 ASIC,NYSE,Ategrity Specialty Insurance Company Holdings Common Stock,Stock,True,2026-05-08,,,4b01ea837235ccc3cd3e
 ASIX,NYSE,AdvanSix Inc. Common Stock,Stock,True,2026-05-08,,,9074b6c41f3b8002cfef
@@ -6720,6 +6728,7 @@ BBY,NYSE,"Best Buy Co., Inc. Common Stock",Stock,True,2026-05-08,,,06f015fc99ca5
 BC,NYSE,Brunswick Corporation Common Stock,Stock,True,2026-05-08,,,b19025bc3507556fc9c8
 BC$C,NYSE,Brunswick Corporation 6.375% Notes due 2049,Stock,True,2026-05-08,,,4e8cf64c660e5b572ba9
 BCAT,NYSE,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,a554cf3fa5b150a34098
+BCAT.V,NYSE,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",Stock,True,2026-09-24,,,18e53c0a989c3bbbfcef
 BCC,NYSE,"Boise Cascade, L.L.C. Common Stock",Stock,True,2026-05-08,,,ac7847ac5b0a0d7b91dd
 BCE,NYSE,"BCE, Inc. Common Stock",Stock,True,2026-05-08,,,fc1e9cc75936d3c516a1
 BCEM,NYSE,Baron Emerging Markets Select ETF,ETF,True,2026-05-08,,,c512acad1dc9875b9a52
