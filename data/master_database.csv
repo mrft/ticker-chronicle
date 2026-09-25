@@ -465,6 +465,7 @@ ADIL,NASDAQ,"Adial Pharmaceuticals, Inc - Common Stock",Stock,True,2026-05-08,,,
 ADMA,NASDAQ,ADMA Biologics Inc - Common Stock,Stock,True,2026-05-08,,,348f6713dae45f40ed90
 ADP,NASDAQ,"Automatic Data Processing, Inc. - Common Stock",Stock,True,2026-05-08,,,aece0254f0e97e429266
 ADPT,NASDAQ,Adaptive Biotechnologies Corporation - Common Stock,Stock,True,2026-05-08,,,98dfb6bc4be92646e4c3
+ADRX,NASDAQ,"ADARx Pharmaceuticals, Inc. - Common stock",Stock,True,2026-09-25,,,ca262627bd696089ddcc
 ADSE,NASDAQ,ADS-TEC ENERGY PLC - Ordinary Shares,Stock,True,2026-05-08,,,bf12b518485a6f51d8c3
 ADSEW,NASDAQ,ADS-TEC ENERGY PLC - Warrant,Stock,True,2026-05-08,,,f85bf43d79d304aeead3
 ADSK,NASDAQ,"Autodesk, Inc. - Common Stock",Stock,True,2026-05-08,,,7cdda6505a0cc32b53f2
@@ -1204,6 +1205,7 @@ BRNS,NASDAQ,Barinthus Biotherapeutics plc - American Depositary Shares,Stock,Fal
 BRNX,NASDAQ,BrenX Ltd. - Ordinary Shares,Stock,True,2026-08-14,,,9b380c397f5107219fa5
 BRNY,NASDAQ,Burney U.S. Factor Rotation ETF,ETF,True,2026-05-08,,,e7d87d4ce5a82a8bb8c9
 BRR,NASDAQ,"ProCap Financial, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-22,Missing from current NASDAQ source snapshot; reason unavailable,8b9e20db60c83130605d
+BRRKU,NASDAQ,Bluerock Acquisition Corp. II - Units,Stock,True,2026-09-25,,,7e01030c5ce7c9aa8261
 BRRR,NASDAQ,Coinshares Bitcoin ETF,ETF,True,2026-05-08,,,da025216be30b9ae553e
 BRRWW,NASDAQ,"ProCap Financial, Inc. - Warrant.",Stock,False,2026-05-08,2026-09-22,Missing from current NASDAQ source snapshot; reason unavailable,1306a94b792cfdeb1cc2
 BRTM,NASDAQ,B&R Technology Merger Corp. - Class A Ordinary Shares,Stock,True,2026-09-10,,,6b6ee5badee76239944e
@@ -3287,7 +3289,7 @@ JSM,NASDAQ,"Navient Corporation - 6% Senior Notes due December 15, 2043",Stock,T
 JSMD,NASDAQ,Janus Henderson Small/Mid Cap Growth Alpha ETF,ETF,True,2026-05-08,,,3544c4c414c3b5ba6d25
 JSML,NASDAQ,Janus Henderson Small Cap Growth Alpha ETF,ETF,True,2026-05-08,,,6b288c9b45f36da7ba9c
 JSPR,NASDAQ,"Jasper Therapeutics, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,7fdef26ab3093809571b
-JSPRW,NASDAQ,"Jasper Therapeutics, Inc. - Warrant",Stock,True,2026-05-08,,,1fa2718982b5a95be998
+JSPRW,NASDAQ,"Jasper Therapeutics, Inc. - Warrant",Stock,False,2026-05-08,2026-09-25,Missing from current NASDAQ source snapshot; reason unavailable,1fa2718982b5a95be998
 JTAI,NASDAQ,Jet.AI Inc. - Common Stock,Stock,True,2026-05-08,,,adc197c894b20efbfb4c
 JTEK,NASDAQ,JPMorgan U.S. Tech Leaders ETF,ETF,True,2026-05-08,,,da1d6f2c2cc4c38637a2
 JTTT,NASDAQ,JATT III Acquisition Corp - Ordinary Shares,Stock,True,2026-08-26,,,5e6573aab04ff27c4ec7
@@ -3362,7 +3364,7 @@ KLRA,NASDAQ,"Kailera Therapeutics, Inc. - Common stock",Stock,True,2026-05-08,,,
 KLRS,NASDAQ,"Kalaris Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,0ea8e3e0826f3b61f0dd
 KLTR,NASDAQ,"Kaltura, Inc. - Common Stock",Stock,True,2026-05-08,,,717a179d848ecc4c725b
 KLXE,NASDAQ,"KLX Energy Services Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,db466f5c3f8f5fdcf4ef
-KLXER,NASDAQ,"KLX Energy Services Holdings, Inc. - Rights",Stock,True,2026-08-24,,,d19b4c27457f1730d203
+KLXER,NASDAQ,"KLX Energy Services Holdings, Inc. - Rights",Stock,False,2026-08-24,2026-09-25,Missing from current NASDAQ source snapshot; reason unavailable,d19b4c27457f1730d203
 KMB,NASDAQ,Kimberly-Clark Corporation - Common Stock,Stock,True,2026-05-08,,,6fabc531f4ca8def6e6f
 KMDA,NASDAQ,Kamada Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,0021b074300af7583fa0
 KMLI,NASDAQ,KraneShares 2x Long MELI Daily ETF,ETF,True,2026-05-08,,,423bbbcdb3ee279a8d3b
@@ -4453,6 +4455,7 @@ PAYP,NASDAQ,PayPay Corporation - American Depository Shares,Stock,True,2026-05-0
 PAYS,NASDAQ,"Paysign, Inc. - Common Stock",Stock,True,2026-05-08,,,c46582d0b7460b0248e1
 PAYX,NASDAQ,"Paychex, Inc. - Common Stock",Stock,True,2026-05-08,,,7c7e2added74afdd567e
 PBAM,NASDAQ,"Private Bancorp of America, Inc. - Common Stock",Stock,True,2026-07-30,,,4b4e0099912587c4f169
+PBCS,NASDAQ,Portfolio Building Block World Consumer Staples ETF,ETF,True,2026-09-25,,,91f074944789face6834
 PBEU,NASDAQ,Portfolio Building Block European Banks Index ETF,ETF,True,2026-05-08,,,416cdc4b364b7e0ee082
 PBFS,NASDAQ,"Pioneer Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,ba94f2b286a39a60fcd3
 PBHC,NASDAQ,"Pathfinder Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,ff28498c60b01c03e4c8
@@ -4465,6 +4468,8 @@ PBPH,NASDAQ,Portfolio Building Block World Pharma and Biotech Index ETF,ETF,True
 PBQQ,NASDAQ,PGIM Laddered Nasdaq-100 Buffer 12 ETF,ETF,True,2026-05-08,,,7bcc497a1bf712d3be66
 PBRG,NASDAQ,Leverage Shares 2X Long PBR Daily ETF,ETF,True,2026-05-08,,,f285e3c02d67ec3ddbc2
 PBSC,NASDAQ,Pacer Barings Secured Credit Flex ETF,ETF,True,2026-06-23,,,b337377439f457a1c786
+PBUB,NASDAQ,Portfolio Building Block US Banks ETF,ETF,True,2026-09-25,,,4296f5ab6bb2b828e823
+PBWN,NASDAQ,Portfolio Building Block World Ex US Industrials ETF,ETF,True,2026-09-25,,,3a197b62fcb2a0f46284
 PBYI,NASDAQ,Puma Biotechnology Inc - Common Stock,Stock,True,2026-05-08,,,aa046bd27b3b16e095e9
 PC,NASDAQ,Premium Catering (Holdings) Limited - Ordinary Shares,Stock,True,2026-05-08,,,876b39cb9aa927057333
 PCAP,NASDAQ,ProCap Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-08,,,d2ebd09a58e257f1837b
@@ -8603,6 +8608,8 @@ PMT$C,NYSE,PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemab
 PMTU,NYSE,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,Stock,True,2026-05-08,,,0873829a2b529fed67a3
 PMTV,NYSE,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,Stock,True,2026-05-08,,,6199ba839bb9804efbf4
 PMTW,NYSE,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,Stock,True,2026-05-08,,,6199ba839bb9804efbf4
+PNAQ,NYSE,Pinnacle Acquisition Corporation Class A Ordinary Shares,Stock,True,2026-09-25,,,e596734d2655b6600a7d
+PNAQ.R,NYSE,"Pinnacle Acquisition Corporation Rights, each right entitling the holder to receive one-eighth (1/8) of one Class A ordinary share",Stock,True,2026-09-25,,,a1f3ebdcdc0d56508127
 PNAQ.U,NYSE,"Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",Stock,True,2026-08-07,,,3de1c2d3e73c0637fe79
 PNC,NYSE,"PNC Financial Services Group, Inc. (The) Common Stock",Stock,True,2026-05-08,,,32384ad4e5e6984b59ff
 PNFP,NYSE,"Pinnacle Financial Partners, Inc. Common stock",Stock,True,2026-05-08,,,128bbfbf9e7d49a6edc4
