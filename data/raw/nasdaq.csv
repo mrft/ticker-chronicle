@@ -1807,6 +1807,8 @@ NASDAQ,FFIV,"F5, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFUT,Fidelity Managed Futures ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FGBI,"First Guaranty Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGBIP,"First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FGC,FG Communities Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FGCPP,FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGI,FGI Industries Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGII,FG Imperii Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGIIU,FG Imperii Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
@@ -1814,8 +1816,6 @@ NASDAQ,FGIIW,FG Imperii Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol
 NASDAQ,FGIWW,FGI Industries Ltd. - warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGL,Founder Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGM,First Trust Germany AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,FGNX,FG Nexus Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FGNXP,FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGSI,FT Vest Growth Strength & Target Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FHB,"First Hawaiian, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FHTX,Foghorn Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2152,6 +2152,7 @@ NASDAQ,GOSS,"Gossamer Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_dire
 NASDAQ,GOU,GraniteShares 2x Long GOOGL Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GOVI,Invesco Equal Weight 0-30 Year Treasury ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GOVX,"GeoVax Labs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GOW,GOWell Energy Technology - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GP,GreenPower Motor Company Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GPAC,General Purpose Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GPACU,General Purpose Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
@@ -2600,9 +2601,6 @@ NASDAQ,IOVA,"Iovance Biotherapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_
 NASDAQ,IOYY,GraniteShares YieldBOOST IONQ ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IPAR,"Interparfums, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPDN,"Professional Diversity Network, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IPEX,Inflection Point Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IPEXR,Inflection Point Acquisition Corp. - Right,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IPEXU,Inflection Point Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPFX,Inflection Point Acquisition Corp. VI - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPFXU,Inflection Point Acquisition Corp. VI - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPFXW,Inflection Point Acquisition Corp. VI - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -3842,7 +3840,6 @@ NASDAQ,PDLB,"Ponce Financial Group, Inc. - Common Stock",Stock,,nasdaq_trader_sy
 NASDAQ,PDP,Invesco Dorsey Wright Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PDSB,PDS Biotechnology Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PDYN,Palladyne AI Corp. - Common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PDYNW,Palladyne AI Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PEBK,"Peoples Bancorp of North Carolina, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PEBO,Peoples Bancorp Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PECE,Peace Acquisition Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4911,6 +4908,7 @@ NASDAQ,THFF,First Financial Corporation - Common Stock,Stock,,nasdaq_trader_symb
 NASDAQ,THH,TryHard Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THMZ,Lazard Equity Megatrends ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,THRM,Gentherm Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,THRMV,Gentherm Inc - Gentherm Inc Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THRV,Prospera Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,THRY,"Thryv Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THYM,T. Rowe Price High Income Municipal ETF,ETF,,nasdaq_trader_symbol_directory

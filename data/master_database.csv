@@ -2300,6 +2300,8 @@ FFIV,NASDAQ,"F5, Inc. - Common Stock",Stock,True,2026-05-08,,,a549b1b06913e92b65
 FFUT,NASDAQ,Fidelity Managed Futures ETF,ETF,True,2026-05-08,,,9756dbee0b367e087921
 FGBI,NASDAQ,"First Guaranty Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,398ddfbbc5b9a8fcd9b8
 FGBIP,NASDAQ,"First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,23bc948f0d7e8dfa6795
+FGC,NASDAQ,FG Communities Holdings Inc. - Common Stock,Stock,True,2026-09-28,,,e6a77d523212b2ecbe79
+FGCPP,NASDAQ,FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock,Stock,True,2026-09-28,,,b343f201cd9df2bfcfbc
 FGI,NASDAQ,FGI Industries Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,eac1e549977221600ba8
 FGII,NASDAQ,FG Imperii Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,4a5eae14c3670baa41ad
 FGIIU,NASDAQ,FG Imperii Acquisition Corp. - Units,Stock,True,2026-05-08,,,58f66ba0cc4bbed00703
@@ -2310,8 +2312,8 @@ FGM,NASDAQ,First Trust Germany AlphaDEX Fund,ETF,True,2026-05-08,,,670a342e63178
 FGMC,NASDAQ,FG Merger II Corp. - Common stock,Stock,False,2026-05-08,2026-07-20,Missing from current NASDAQ source snapshot; reason unavailable,e3b4f174a29d7236ec96
 FGMCR,NASDAQ,FG Merger II Corp. - Rights,Stock,False,2026-05-08,2026-07-20,Missing from current NASDAQ source snapshot; reason unavailable,b826a2ff3fac0ba44491
 FGMCU,NASDAQ,FG Merger II Corp. - Unit,Stock,False,2026-05-08,2026-07-20,Missing from current NASDAQ source snapshot; reason unavailable,e766879f644c1566a94a
-FGNX,NASDAQ,FG Nexus Inc. - Common Stock,Stock,True,2026-05-08,,,279424fd09d99de58b98
-FGNXP,NASDAQ,FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock,Stock,True,2026-05-08,,,a72c95bdc1f86841e31b
+FGNX,NASDAQ,FG Nexus Inc. - Common Stock,Stock,False,2026-05-08,2026-09-28,Other delisting reason: Details unavailable (source: FMP Delisted API),279424fd09d99de58b98
+FGNXP,NASDAQ,FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock,Stock,False,2026-05-08,2026-09-28,Other delisting reason: Details unavailable (source: FMP Delisted API),a72c95bdc1f86841e31b
 FGSI,NASDAQ,FT Vest Growth Strength & Target Income ETF,ETF,True,2026-05-08,,,ba81fcf9ce7ee9a25865
 FHB,NASDAQ,"First Hawaiian, Inc. - Common Stock",Stock,True,2026-05-08,,,81b7e5e14cd122677171
 FHTX,NASDAQ,Foghorn Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,57fd5c614a5befb1e186
@@ -2674,6 +2676,7 @@ GOSS,NASDAQ,"Gossamer Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,a08a71f9
 GOU,NASDAQ,GraniteShares 2x Long GOOGL Daily ETF,ETF,True,2026-05-08,,,0dc6c75156b6228d102c
 GOVI,NASDAQ,Invesco Equal Weight 0-30 Year Treasury ETF,ETF,True,2026-05-08,,,3c17f4f5ec83377fba6f
 GOVX,NASDAQ,"GeoVax Labs, Inc. - Common Stock",Stock,True,2026-05-08,,,755b7984171233a8fca6
+GOW,NASDAQ,GOWell Energy Technology - Ordinary shares,Stock,True,2026-09-28,,,4c2d4cb085fd1c3b7c25
 GP,NASDAQ,GreenPower Motor Company Inc. - Common Shares,Stock,True,2026-05-08,,,3667f15f75c1c20fb798
 GPAC,NASDAQ,General Purpose Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,301ac861632ac26c0558
 GPACU,NASDAQ,General Purpose Acquisition Corp. - Units,Stock,True,2026-05-08,,,fff5454f7458d486ee55
@@ -3149,9 +3152,9 @@ IPCX,NASDAQ,Inflection Point Acquisition Corp. III - Class A ordinary shares,Sto
 IPCXR,NASDAQ,Inflection Point Acquisition Corp. III - Rights,Stock,False,2026-05-08,2026-08-17,Missing from current NASDAQ source snapshot; reason unavailable,a38222ba3ca4ff3106f0
 IPCXU,NASDAQ,Inflection Point Acquisition Corp. III - Units,Stock,False,2026-05-08,2026-08-17,Missing from current NASDAQ source snapshot; reason unavailable,866fe2d949a81806917d
 IPDN,NASDAQ,"Professional Diversity Network, Inc. - Common Stock",Stock,True,2026-05-08,,,1b33eb41ea23a308c51a
-IPEX,NASDAQ,Inflection Point Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,96f80ccde4bb0bf73e7b
-IPEXR,NASDAQ,Inflection Point Acquisition Corp. - Right,Stock,True,2026-05-08,,,93de508a3d5fe23e1a0f
-IPEXU,NASDAQ,Inflection Point Acquisition Corp. - Unit,Stock,True,2026-05-08,,,6b04f08dff747491eed3
+IPEX,NASDAQ,Inflection Point Acquisition Corp. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-09-28,Missing from current NASDAQ source snapshot; reason unavailable,96f80ccde4bb0bf73e7b
+IPEXR,NASDAQ,Inflection Point Acquisition Corp. - Right,Stock,False,2026-05-08,2026-09-28,Missing from current NASDAQ source snapshot; reason unavailable,93de508a3d5fe23e1a0f
+IPEXU,NASDAQ,Inflection Point Acquisition Corp. - Unit,Stock,False,2026-05-08,2026-09-28,Missing from current NASDAQ source snapshot; reason unavailable,6b04f08dff747491eed3
 IPFX,NASDAQ,Inflection Point Acquisition Corp. VI - Class A Ordinary Shares,Stock,True,2026-05-18,,,5a9712deb2042121e5a9
 IPFXU,NASDAQ,Inflection Point Acquisition Corp. VI - Units,Stock,True,2026-05-08,,,e76ace5906d180642b69
 IPFXW,NASDAQ,Inflection Point Acquisition Corp. VI - Warrant,Stock,True,2026-05-18,,,654fd18f574c27fb35e4
@@ -4500,7 +4503,7 @@ PDLB,NASDAQ,"Ponce Financial Group, Inc. - Common Stock",Stock,True,2026-05-08,,
 PDP,NASDAQ,Invesco Dorsey Wright Momentum ETF,ETF,True,2026-05-08,,,f30461613f4a4978eb38
 PDSB,NASDAQ,PDS Biotechnology Corporation - Common Stock,Stock,True,2026-05-08,,,5f73cfc57bbfbc3c1729
 PDYN,NASDAQ,Palladyne AI Corp. - Common stock,Stock,True,2026-05-08,,,79f318ac99ddca0d4b52
-PDYNW,NASDAQ,Palladyne AI Corp. - Warrant,Stock,True,2026-05-08,,,532b7112abd336154336
+PDYNW,NASDAQ,Palladyne AI Corp. - Warrant,Stock,False,2026-05-08,2026-09-28,Missing from current NASDAQ source snapshot; reason unavailable,532b7112abd336154336
 PEBK,NASDAQ,"Peoples Bancorp of North Carolina, Inc. - Common Stock",Stock,True,2026-05-08,,,94cd005226d1843bd620
 PEBO,NASDAQ,Peoples Bancorp Inc. - Common Stock,Stock,True,2026-05-08,,,63028230b2e2bae59075
 PECE,NASDAQ,Peace Acquisition Corp - Ordinary Shares,Stock,True,2026-06-04,,,a2a95627a1919ba0b984
@@ -5641,6 +5644,7 @@ THFF,NASDAQ,First Financial Corporation - Common Stock,Stock,True,2026-05-08,,,d
 THH,NASDAQ,TryHard Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,110e3afad9b16b66def2
 THMZ,NASDAQ,Lazard Equity Megatrends ETF,ETF,True,2026-05-08,,,09d87a1a2bfffb33d485
 THRM,NASDAQ,Gentherm Inc - Common Stock,Stock,True,2026-05-08,,,40280286d0e67aef850b
+THRMV,NASDAQ,Gentherm Inc - Gentherm Inc Common Stock When-Issued,Stock,True,2026-09-28,,,5f67f1cc75ad8c206901
 THRV,NASDAQ,Prospera Income ETF,ETF,True,2026-05-08,,,361c123215c229f24e50
 THRY,NASDAQ,"Thryv Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,aa9237fa21c8171d62d8
 THYM,NASDAQ,T. Rowe Price High Income Municipal ETF,ETF,True,2026-05-08,,,4bf79c17df9e4f338f08
@@ -8024,6 +8028,7 @@ LB,NYSE,LandBridge Company LLC Class A Shares Representing Limited Liability Com
 LBRT,NYSE,Liberty Energy Inc. Class A common stock,Stock,True,2026-05-08,,,e8c918afb0fd984fa4e4
 LC,NYSE,LendingClub Corporation Common Stock,Stock,False,2026-05-08,2026-06-22,Other delisting reason: Details unavailable (source: FMP Delisted API),8f3acefbe83c182b9ce4
 LCII,NYSE,LCI Industries,Stock,True,2026-05-08,,,07fb844bebcab1ea6c9b
+LCIV,NYSE,Logan Capital International ETF,ETF,True,2026-09-28,,,e1702bdb727daf102df7
 LCLN,NYSE,"Lincoln International, Inc. Class A Common Stock",Stock,True,2026-05-20,,,a3ab1f0eba2f7802c684
 LDI,NYSE,"loanDepot, Inc. Class A Common Stock",Stock,True,2026-05-08,,,73a4ba6d6dff241e922b
 LDOS,NYSE,"Leidos Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,6f144aeb2f39668b7c1d
@@ -8859,9 +8864,9 @@ SBR,NYSE,Sabine Royalty Trust Common Stock,Stock,True,2026-05-08,,,02234dcb3e65b
 SBS,NYSE,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares),Stock,True,2026-05-08,,,e853227da43a4fd2b14c
 SBSI,NYSE,"Southside Bancshares, Inc. Common Stock",Stock,True,2026-05-08,,,9dad4bdd4a2fb889b81f
 SBSW,NYSE,D/B/A Sibanye-Stillwater Limited ADS,Stock,True,2026-05-08,,,af62ef9f1e49a303b652
-SBXD,NYSE,SilverBox Corp IV Class A Ordinary Shares,Stock,True,2026-05-08,,,79c4f2eed0dd8bfb89da
-SBXD.U,NYSE,"SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Stock,True,2026-05-08,,,bc4286e54eafadb94ee9
-SBXD.W,NYSE,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",Stock,True,2026-05-08,,,d75c6e8344c32065c7c6
+SBXD,NYSE,SilverBox Corp IV Class A Ordinary Shares,Stock,False,2026-05-08,2026-09-28,Missing from current NYSE source snapshot; reason unavailable,79c4f2eed0dd8bfb89da
+SBXD.U,NYSE,"SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Stock,False,2026-05-08,2026-09-28,Missing from current NYSE source snapshot; reason unavailable,bc4286e54eafadb94ee9
+SBXD.W,NYSE,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",Stock,False,2026-05-08,2026-09-28,Missing from current NYSE source snapshot; reason unavailable,d75c6e8344c32065c7c6
 SBXE,NYSE,SilverBox Corp V Class A Ordinary Shares,Stock,True,2026-05-08,,,de6603034cf0009ced3c
 SBXE.U,NYSE,"SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",Stock,True,2026-05-08,,,339b7b7443fda485d93e
 SBXE.W,NYSE,"SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",Stock,True,2026-05-08,,,fc932e572ffe8c5392df
@@ -9206,9 +9211,9 @@ TWLO,NYSE,Twilio Inc. Class A Common Stock,Stock,True,2026-05-08,,,b231d0097b6f4
 TWN,NYSE,"Taiwan Fund, Inc. (The) Common Stock",Stock,True,2026-05-08,,,c96c95f78e556cd302b0
 TWO,NYSE,Two Harbors Investment Corp,Stock,False,2026-05-08,2026-08-03,Missing from current NYSE source snapshot; reason unavailable,c81f00411baa31444237
 TWO,NYSE,Two Harbors Investment Corp,Stock,False,2026-08-04,2026-08-25,Missing from current NYSE source snapshot; reason unavailable,c81f00411baa31444237
-TWO$A,NYSE,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),Stock,True,2026-05-08,,,5865b22ce825a68a62c3
-TWO$B,NYSE,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,238c79d6949224b7bb5c
-TWO$C,NYSE,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,088bd9bfa7bb611d600a
+TWO$A,NYSE,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),Stock,False,2026-05-08,2026-09-28,Missing from current NYSE source snapshot; reason unavailable,5865b22ce825a68a62c3
+TWO$B,NYSE,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,False,2026-05-08,2026-09-28,Missing from current NYSE source snapshot; reason unavailable,238c79d6949224b7bb5c
+TWO$C,NYSE,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,False,2026-05-08,2026-09-28,Missing from current NYSE source snapshot; reason unavailable,088bd9bfa7bb611d600a
 TWOD,NYSE,Two Harbors Investments Corp 9.375% Senior Notes due 2030,Stock,True,2026-05-08,,,a86bd7d774a4bd54bfb3
 TX,NYSE,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",Stock,True,2026-05-08,,,dfc10c0be42443b19913
 TXNM,NYSE,"TXNM Energy, Inc. Common Stock",Stock,True,2026-05-08,,,848c27cc2c04b3f8bd8e

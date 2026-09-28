@@ -1543,6 +1543,7 @@ NYSE,LAZ,"Lazard, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,Stock,,nasdaq_trader_symbol_directory
 NYSE,LBRT,Liberty Energy Inc. Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LCII,LCI Industries,Stock,,nasdaq_trader_symbol_directory
+NYSE,LCIV,Logan Capital International ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,LCLN,"Lincoln International, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LDI,"loanDepot, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LDOS,"Leidos Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2336,9 +2337,6 @@ NYSE,SBR,Sabine Royalty Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SBS,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares),Stock,,nasdaq_trader_symbol_directory
 NYSE,SBSI,"Southside Bancshares, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SBSW,D/B/A Sibanye-Stillwater Limited ADS,Stock,,nasdaq_trader_symbol_directory
-NYSE,SBXD,SilverBox Corp IV Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,SBXD.U,"SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
-NYSE,SBXD.W,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NYSE,SBXE,SilverBox Corp V Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,SBXE.U,"SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
 NYSE,SBXE.W,"SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
@@ -2664,9 +2662,6 @@ NYSE,TVE,Tennessee Valley Authority,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWI,"Titan International, Inc. (DE) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TWLO,Twilio Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWN,"Taiwan Fund, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),Stock,,nasdaq_trader_symbol_directory
-NYSE,TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWOD,Two Harbors Investments Corp 9.375% Senior Notes due 2030,Stock,,nasdaq_trader_symbol_directory
 NYSE,TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",Stock,,nasdaq_trader_symbol_directory
 NYSE,TXNM,"TXNM Energy, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
