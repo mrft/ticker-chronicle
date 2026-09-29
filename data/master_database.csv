@@ -3012,6 +3012,7 @@ ICHR,NASDAQ,Ichor Holdings - Ordinary Shares,Stock,True,2026-05-08,,,73a10d3d450
 ICLN,NASDAQ,iShares Global Clean Energy ETF,ETF,True,2026-05-08,,,bbd913ed55a2037b563d
 ICLR,NASDAQ,ICON plc - Ordinary Shares,Stock,True,2026-05-08,,,792c1c79205cc39f5fa0
 ICMB,NASDAQ,"Investcorp Credit Management BDC, Inc. - Common Stock",Stock,True,2026-05-08,,,79efde510dae9bf928b7
+ICMO,NASDAQ,Symmetry Panoramic International Country Momentum ETF,ETF,True,2026-09-29,,,ef00334731c18a0f2f81
 ICON,NASDAQ,Icon Energy Corp. - Common stock,Stock,True,2026-05-08,,,a4cceb4ccee07f2410b7
 ICOP,NASDAQ,iShares Copper and Metals Mining ETF,ETF,True,2026-05-08,,,8ff55f26936532514a5b
 ICU,NASDAQ,SeaStar Medical Holding Corporation - Common Stock,Stock,True,2026-05-08,,,71b4b40855efe00fd893
@@ -3923,6 +3924,7 @@ MUD,NASDAQ,Direxion Daily MU Bear 1X ETF,ETF,True,2026-05-08,,,ff5db3190185b18b8
 MULL,NASDAQ,GraniteShares 2x Long MU Daily ETF,ETF,True,2026-05-08,,,f050899de475e0372b29
 MULT,NASDAQ,Franklin Multisector Income ETF,ETF,True,2026-05-08,,,d31e74c71dd065282030
 MUU,NASDAQ,Direxion Daily MU Bull 2X ETF,ETF,True,2026-05-08,,,b12352e89b72abe15ce2
+MUY,NASDAQ,YieldMax MU Option Income Strategy ETF,ETF,True,2026-09-29,,,50eb09559418eec97e14
 MUYY,NASDAQ,GraniteShares YieldBOOST MU ETF,ETF,True,2026-05-08,,,a4b2e09335f0cc38e0f6
 MUZE,NASDAQ,Muzero Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-08,,,97bc288e4e570b9e1a86
 MUZEU,NASDAQ,Muzero Acquisition Corp - Unit,Stock,True,2026-05-08,,,8e4b43cee7475fd76f51
@@ -4971,7 +4973,7 @@ RIGL,NASDAQ,"Rigel Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,
 RILY,NASDAQ,"BRC Group Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,80471eb00ddee51fce0c
 RILYG,NASDAQ,"BRC Group Holdings, Inc. - 5.00% Senior Notes due 2026",Stock,True,2026-05-08,,,0752c2ebdbd2aab6c64f
 RILYL,NASDAQ,"BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,dacf8bc50aeb74d0b498
-RILYN,NASDAQ,"BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",Stock,True,2026-05-08,,,2a84c4f22385f965e816
+RILYN,NASDAQ,"BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",Stock,False,2026-05-08,2026-09-29,Missing from current NASDAQ source snapshot; reason unavailable,2a84c4f22385f965e816
 RILYP,NASDAQ,"BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,4c86dc325f56de2aef6e
 RILYT,NASDAQ,"BRC Group Holdings, Inc. - 6.00% Senior Notes Due 2028",Stock,True,2026-05-08,,,750401bbe36b682180e6
 RILYZ,NASDAQ,"BRC Group Holdings, Inc. - 5.25% Senior Notes due 2028",Stock,True,2026-05-08,,,84025d0a7aaf65f43ea5
@@ -5084,6 +5086,7 @@ RYET,NASDAQ,Ruanyun Edai Technology Inc. - Ordinary shares,Stock,True,2026-05-08
 RYM,NASDAQ,"RYTHM, Inc. - Common Stock",Stock,True,2026-05-08,,,c92f0900d290490e4c75
 RYOJ,NASDAQ,"rYojbaba Co., Ltd. - Common Shares",Stock,True,2026-05-08,,,32ea9f9a8ddb3f0403cb
 RYTM,NASDAQ,"Rhythm Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,2eff2ba776c73c39d555
+RZAI,NASDAQ,Roze AI Inc. - Common Shares,Stock,True,2026-09-29,,,911f6bc550e876e1a44a
 RZLT,NASDAQ,"Rezolute, Inc. - Common Stock (NV)",Stock,True,2026-05-08,,,20e1548e0dbea9c1aa00
 RZLV,NASDAQ,Rezolve AI PLC - Ordinary Shares,Stock,True,2026-05-08,,,8418ce59cac983fa9db3
 RZLVW,NASDAQ,Rezolve AI PLC - Warrants,Stock,True,2026-05-08,,,ab22f304db9c363436e2
@@ -5719,7 +5722,8 @@ TOMZ,NASDAQ,"TOMI Environmental Solutions, Inc. - Common Stock",Stock,True,2026-
 TONX,NASDAQ,TON Strategy Company - Common Stock,Stock,True,2026-05-08,,,59465dd2d5512c38c8cd
 TOP,NASDAQ,TOP Financial Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,56b1ecc0b3f3a346f612
 TORK,NASDAQ,KraneShares Actuator ETF,ETF,True,2026-09-24,,,703c086075a0dab50e90
-TORO,NASDAQ,Toro Corp. - Common stock,Stock,True,2026-05-08,,,a5e25472487b3e3cfc19
+TORO,NASDAQ,Toro Corp. - Common stock,Stock,False,2026-05-08,2026-09-29,Listing metadata changed,a5e25472487b3e3cfc19
+TORO,NASDAQ,Toro Corp. - Common Shares,Stock,True,2026-09-29,,,ee20e4d59ef703212aa6
 TOUR,NASDAQ,Tuniu Corporation - American Depositary Shares,Stock,True,2026-05-08,,,ae082cc531f891d14797
 TOWN,NASDAQ,Towne Bank - Common Stock,Stock,True,2026-05-08,,,d4ce833865a8e19f261f
 TOYO,NASDAQ,"TOYO Co., Ltd - Ordinary Shares",Stock,True,2026-05-08,,,d51194e799dbbefa5912
@@ -7579,7 +7583,7 @@ GAP,NYSE,"Gap, Inc. (The) Common Stock",Stock,True,2026-05-08,,,36ee15666b6d56e4
 GATX,NYSE,GATX Corporation Common Stock,Stock,True,2026-05-08,,,2ad77cb91e7ddf587cbb
 GBAB,NYSE,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,0cc161923e07f2eb2bcc
 GBCI,NYSE,"Glacier Bancorp, Inc. Common Stock",Stock,True,2026-05-08,,,fd81f398b417af41b3d0
-GBTG,NYSE,"Global Business Travel Group, Inc. Class A Common Stock",Stock,True,2026-05-08,,,cc71eed865c42cb4d9a9
+GBTG,NYSE,"Global Business Travel Group, Inc. Class A Common Stock",Stock,False,2026-05-08,2026-09-29,Missing from current NYSE source snapshot; reason unavailable,cc71eed865c42cb4d9a9
 GBX,NYSE,"Greenbrier Companies, Inc. (The) Common Stock",Stock,True,2026-05-08,,,ad557d216f88b7fcc6f2
 GCO,NYSE,Genesco Inc. Common Stock,Stock,True,2026-05-08,,,ea04955b7bef44152b52
 GCPB,NYSE,Goldman Sachs Core Plus Bond ETF,ETF,True,2026-08-10,,,d6d19f6b768190b7ba71
@@ -7860,7 +7864,7 @@ INSW,NYSE,"International Seaways, Inc. Common Stock",Stock,True,2026-05-08,,,9fa
 INVH,NYSE,Invitation Homes Inc. Common Stock,Stock,True,2026-05-08,,,af5f34b306b900034da4
 INVX,NYSE,"Innovex International, Inc. Common Stock",Stock,True,2026-05-08,,,316220ccef80ec9ee033
 IONQ,NYSE,"IonQ, Inc. Common Stock",Stock,True,2026-05-08,,,117e5f2508b60480ab47
-IONQ.W,NYSE,"IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,536bafcfa37f61b2b6da
+IONQ.W,NYSE,"IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share",Stock,False,2026-05-08,2026-09-29,Missing from current NYSE source snapshot; reason unavailable,536bafcfa37f61b2b6da
 IOT,NYSE,Samsara Inc. Class A Common Stock,Stock,True,2026-05-08,,,a0228f96885034e1283f
 IP,NYSE,International Paper Company Common Stock,Stock,True,2026-05-08,,,69b390e43b65a2f92f3e
 IPB,NYSE,"Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-1",ETF,True,2026-05-08,,,5af4e660dc11e9bbdc60
@@ -8028,7 +8032,7 @@ LB,NYSE,LandBridge Company LLC Class A Shares Representing Limited Liability Com
 LBRT,NYSE,Liberty Energy Inc. Class A common stock,Stock,True,2026-05-08,,,e8c918afb0fd984fa4e4
 LC,NYSE,LendingClub Corporation Common Stock,Stock,False,2026-05-08,2026-06-22,Other delisting reason: Details unavailable (source: FMP Delisted API),8f3acefbe83c182b9ce4
 LCII,NYSE,LCI Industries,Stock,True,2026-05-08,,,07fb844bebcab1ea6c9b
-LCIV,NYSE,Logan Capital International ETF,ETF,True,2026-09-28,,,e1702bdb727daf102df7
+LCIV,NYSE,Logan Capital International ETF,ETF,False,2026-09-28,2026-09-29,Missing from current NYSE source snapshot; reason unavailable,e1702bdb727daf102df7
 LCLN,NYSE,"Lincoln International, Inc. Class A Common Stock",Stock,True,2026-05-20,,,a3ab1f0eba2f7802c684
 LDI,NYSE,"loanDepot, Inc. Class A Common Stock",Stock,True,2026-05-08,,,73a4ba6d6dff241e922b
 LDOS,NYSE,"Leidos Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,6f144aeb2f39668b7c1d

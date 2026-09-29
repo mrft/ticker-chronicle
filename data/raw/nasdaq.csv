@@ -2468,6 +2468,7 @@ NASDAQ,ICHR,Ichor Holdings - Ordinary Shares,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,ICLN,iShares Global Clean Energy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ICLR,ICON plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ICMB,"Investcorp Credit Management BDC, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ICMO,Symmetry Panoramic International Country Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ICON,Icon Energy Corp. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ICOP,iShares Copper and Metals Mining ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ICU,SeaStar Medical Holding Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3297,6 +3298,7 @@ NASDAQ,MUD,Direxion Daily MU Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MULL,GraniteShares 2x Long MU Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MULT,Franklin Multisector Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MUU,Direxion Daily MU Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,MUY,YieldMax MU Option Income Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MUYY,GraniteShares YieldBOOST MU ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MUZE,Muzero Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MUZEU,Muzero Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -4285,7 +4287,6 @@ NASDAQ,RIGL,"Rigel Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_sy
 NASDAQ,RILY,"BRC Group Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RILYG,"BRC Group Holdings, Inc. - 5.00% Senior Notes due 2026",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RILYL,"BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RILYN,"BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RILYP,"BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RILYT,"BRC Group Holdings, Inc. - 6.00% Senior Notes Due 2028",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RILYZ,"BRC Group Holdings, Inc. - 5.25% Senior Notes due 2028",Stock,,nasdaq_trader_symbol_directory
@@ -4391,6 +4392,7 @@ NASDAQ,RYET,Ruanyun Edai Technology Inc. - Ordinary shares,Stock,,nasdaq_trader_
 NASDAQ,RYM,"RYTHM, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RYOJ,"rYojbaba Co., Ltd. - Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RYTM,"Rhythm Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RZAI,Roze AI Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RZLT,"Rezolute, Inc. - Common Stock (NV)",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RZLV,Rezolve AI PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RZLVW,Rezolve AI PLC - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -4977,7 +4979,7 @@ NASDAQ,TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",Stock,,nasdaq_tr
 NASDAQ,TONX,TON Strategy Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TOP,TOP Financial Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TORK,KraneShares Actuator ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,TORO,Toro Corp. - Common stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TORO,Toro Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TOUR,Tuniu Corporation - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TOWN,Towne Bank - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TOYO,"TOYO Co., Ltd - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory

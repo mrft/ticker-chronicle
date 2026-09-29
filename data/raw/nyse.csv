@@ -1110,7 +1110,6 @@ NYSE,GAP,"Gap, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GATX,GATX Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,GBCI,"Glacier Bancorp, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,GBTG,"Global Business Travel Group, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GBX,"Greenbrier Companies, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GCO,Genesco Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GCPB,Goldman Sachs Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1383,7 +1382,6 @@ NYSE,INSW,"International Seaways, Inc. Common Stock",Stock,,nasdaq_trader_symbol
 NYSE,INVH,Invitation Homes Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,INVX,"Innovex International, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,IONQ,"IonQ, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,IONQ.W,"IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,IOT,Samsara Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,IP,International Paper Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,IPB,"Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-1",ETF,,nasdaq_trader_symbol_directory
@@ -1543,7 +1541,6 @@ NYSE,LAZ,"Lazard, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,Stock,,nasdaq_trader_symbol_directory
 NYSE,LBRT,Liberty Energy Inc. Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LCII,LCI Industries,Stock,,nasdaq_trader_symbol_directory
-NYSE,LCIV,Logan Capital International ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,LCLN,"Lincoln International, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LDI,"loanDepot, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LDOS,"Leidos Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
