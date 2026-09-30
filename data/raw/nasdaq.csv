@@ -52,6 +52,7 @@ NASDAQ,ACB,Aurora Cannabis Inc. - Common Shares,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,ACBE,Pacer Metaurus Enhanced Core Income Autocallable ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ACBH,Pacer Metaurus High Income Autocallable ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ACCL,Acco Group Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ACCV,Accelevation Holdings Corp. - Class A ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACDC,ProFrac Holding Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACEP,ARS Core Equity Portfolio ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ACET,"Adicet Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -215,7 +216,6 @@ NASDAQ,AIRTP,"Air T, Inc. - Trust Preferred Securities",Stock,,nasdaq_trader_sym
 NASDAQ,AISP,"Airship AI Holdings, Inc - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AISPW,"Airship AI Holdings, Inc - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIX,Defiance US 100 Tech AI Moat ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,AIXC,"AIxCrypto Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIXI,XIAO-I Corporation - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AKAM,"Akamai Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AKAN,Akanda Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -731,9 +731,9 @@ NASDAQ,BMRC,Bank of Marin Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,BMRN,BioMarin Pharmaceutical Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNAI,Brand Engagement Network Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BNAIW,Brand Engagement Network Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BNC,CEA Industries Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BNCWW,CEA Industries Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BNCWZ,CEA Industries Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BNC,BNB Standard Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BNCWW,BNB Standard Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BNCWZ,BNB Standard Corporation - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BND,Vanguard Total Bond Market ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BNDP,Vanguard Core-Plus Bond Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BNDW,Vanguard Total World Bond ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1609,6 +1609,7 @@ NASDAQ,ENDW,Cambria Endowment Style ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ENGN,enGene Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENGNW,enGene Therapeutics Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENGS,Energys Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ENHE,iShares Enhanced Emerging Markets Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ENHI,iShares Enhanced International Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ENHU,iShares Enhanced Large Cap Core Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ENLT,Enlight Renewable Energy Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1804,6 +1805,7 @@ NASDAQ,FFAI,Faraday Future Intelligent Electric Inc. - Class A Common Stock,Stoc
 NASDAQ,FFBC,First Financial Bancorp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFIN,"First Financial Bankshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFIV,"F5, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FFR,FF EAI Robotics Ecosystem Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFUT,Fidelity Managed Futures ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FGBI,"First Guaranty Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGBIP,"First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory

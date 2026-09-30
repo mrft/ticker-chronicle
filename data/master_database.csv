@@ -10,7 +10,7 @@ AIM,AMEX,AIM ImmunoTech Inc. Common Stock,Stock,True,2026-05-08,,,53ee31882bd6ff
 AIRI,AMEX,Air Industries Group Common Stock,Stock,True,2026-05-08,,,60be9067337b7c02f563
 AMBO,AMEX,Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),Stock,True,2026-05-08,,,3ee594b79cb398ce29fc
 AMS,AMEX,American Shared Hospital Services Common Stock,Stock,True,2026-05-08,,,954834ea62291c3960aa
-AMZE,AMEX,"Amaze Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,cba5aeed6b3e4fc0c2c4
+AMZE,AMEX,"Amaze Holdings, Inc. Common Stock",Stock,False,2026-05-08,2026-09-30,Missing from current AMEX source snapshot; reason unavailable,cba5aeed6b3e4fc0c2c4
 APT,AMEX,"Alpha Pro Tech, Ltd. Common Stock",Stock,True,2026-05-08,,,37ae130a73a008c9c797
 APUS,AMEX,"Apimeds Pharmaceuticals US, Inc. Common Stock",Stock,True,2026-05-08,,,7485f0b3e9113c2ab972
 AREN,AMEX,"The Arena Group Holdings, Inc. Common Stock",Stock,False,2026-05-08,2026-08-31,Missing from current AMEX source snapshot; reason unavailable,464a2e39cd09934ef224
@@ -408,6 +408,7 @@ ACB,NASDAQ,Aurora Cannabis Inc. - Common Shares,Stock,True,2026-05-08,,,e7ae3db1
 ACBE,NASDAQ,Pacer Metaurus Enhanced Core Income Autocallable ETF,ETF,True,2026-09-10,,,049b2ab2c371b3282b6b
 ACBH,NASDAQ,Pacer Metaurus High Income Autocallable ETF,ETF,True,2026-09-10,,,b90a8ad45470d2eea951
 ACCL,NASDAQ,Acco Group Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,2962a45312549832e3d6
+ACCV,NASDAQ,Accelevation Holdings Corp. - Class A ordinary shares,Stock,True,2026-09-30,,,60f969a578636cf4232a
 ACDC,NASDAQ,ProFrac Holding Corp. - Class A Common Stock,Stock,True,2026-05-08,,,e80dad631b6d9d37074e
 ACEP,NASDAQ,ARS Core Equity Portfolio ETF,ETF,True,2026-05-08,,,231bd8c716f89f7ddaeb
 ACET,NASDAQ,"Adicet Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,83055d7ba32d1236ffa2
@@ -580,7 +581,7 @@ AIRTP,NASDAQ,"Air T, Inc. - Trust Preferred Securities",Stock,True,2026-05-08,,,
 AISP,NASDAQ,"Airship AI Holdings, Inc - Class A Common Stock",Stock,True,2026-05-08,,,15ec9b683af4e74553c4
 AISPW,NASDAQ,"Airship AI Holdings, Inc - Warrants",Stock,True,2026-05-08,,,cfc43913d1ba75e120ec
 AIX,NASDAQ,Defiance US 100 Tech AI Moat ETF,ETF,True,2026-06-25,,,748d8dfdfe526b2de1c7
-AIXC,NASDAQ,"AIxCrypto Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,3d63778098feb54de505
+AIXC,NASDAQ,"AIxCrypto Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-30,Missing from current NASDAQ source snapshot; reason unavailable,3d63778098feb54de505
 AIXI,NASDAQ,XIAO-I Corporation - American Depositary Shares,Stock,True,2026-05-08,,,ec71461b964049cf8616
 AKAM,NASDAQ,"Akamai Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,f51ce6efc1fc28e6581e
 AKAN,NASDAQ,Akanda Corp. - Common Shares,Stock,True,2026-05-08,,,7e430d138e4acf04ea3b
@@ -1140,9 +1141,12 @@ BMRN,NASDAQ,BioMarin Pharmaceutical Inc. - Common Stock,Stock,True,2026-05-08,,,
 BNAI,NASDAQ,Brand Engagement Network Inc. - Common Stock,Stock,True,2026-05-08,,,d44165c9547bb5d8cefd
 BNAIW,NASDAQ,Brand Engagement Network Inc. - Warrant,Stock,True,2026-05-08,,,3a98503a5ef25503c79b
 BNBX,NASDAQ,BNB Plus Corp. - Common Stock,Stock,False,2026-05-08,2026-07-14,Missing from current NASDAQ source snapshot; reason unavailable,b941ee3f33c70486bf76
-BNC,NASDAQ,CEA Industries Inc. - Common Stock,Stock,True,2026-05-08,,,c0cf9c8367c2b73422aa
-BNCWW,NASDAQ,CEA Industries Inc. - Warrant,Stock,True,2026-05-08,,,98b385c1cbab027576cb
-BNCWZ,NASDAQ,CEA Industries Inc. - Warrants,Stock,True,2026-05-08,,,74ea1cec4a475b565b00
+BNC,NASDAQ,CEA Industries Inc. - Common Stock,Stock,False,2026-05-08,2026-09-30,Listing metadata changed,c0cf9c8367c2b73422aa
+BNC,NASDAQ,BNB Standard Corporation - Common Stock,Stock,True,2026-09-30,,,3cdb6fd4db1df7b89fb6
+BNCWW,NASDAQ,CEA Industries Inc. - Warrant,Stock,False,2026-05-08,2026-09-30,Listing metadata changed,98b385c1cbab027576cb
+BNCWW,NASDAQ,BNB Standard Corporation - Warrant,Stock,True,2026-09-30,,,55ff8c5e41a4007392d7
+BNCWZ,NASDAQ,CEA Industries Inc. - Warrants,Stock,False,2026-05-08,2026-09-30,Listing metadata changed,74ea1cec4a475b565b00
+BNCWZ,NASDAQ,BNB Standard Corporation - Warrants,Stock,True,2026-09-30,,,9ad4cef83444c0512f8a
 BND,NASDAQ,Vanguard Total Bond Market ETF,ETF,True,2026-05-08,,,cc2d78702b3e606d90d2
 BNDP,NASDAQ,Vanguard Core-Plus Bond Index ETF,ETF,True,2026-05-08,,,f5a09d57d71c621e94ee
 BNDW,NASDAQ,Vanguard Total World Bond ETF,ETF,True,2026-05-08,,,8495e26b3bc56a1af102
@@ -2089,6 +2093,7 @@ ENDW,NASDAQ,Cambria Endowment Style ETF,ETF,True,2026-05-08,,,072c0e24e153926fbe
 ENGN,NASDAQ,enGene Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,d3d1c94afdb7b73bc7f4
 ENGNW,NASDAQ,enGene Therapeutics Inc. - Warrants,Stock,True,2026-05-08,,,d5305437c09216b688ee
 ENGS,NASDAQ,Energys Group Limited - Ordinary Shares,Stock,True,2026-05-08,,,0b77f4e85e5efb2c638c
+ENHE,NASDAQ,iShares Enhanced Emerging Markets Active ETF,ETF,True,2026-09-30,,,f624eb03841b32bf0c83
 ENHI,NASDAQ,iShares Enhanced International Active ETF,ETF,True,2026-05-08,,,e8cefca9a5746e1216ce
 ENHU,NASDAQ,iShares Enhanced Large Cap Core Active ETF,ETF,True,2026-05-08,,,3b87dfa8f187eb1a69ec
 ENLT,NASDAQ,Enlight Renewable Energy Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,0e7216f0d80a19d59d2a
@@ -2297,6 +2302,7 @@ FFBC,NASDAQ,First Financial Bancorp. - Common Stock,Stock,True,2026-05-08,,,58dd
 FFIC,NASDAQ,Flushing Financial Corporation - Common Stock,Stock,False,2026-05-08,2026-06-02,Missing from current NASDAQ source snapshot; reason unavailable,fd2a62b188a4d1f29ba1
 FFIN,NASDAQ,"First Financial Bankshares, Inc. - Common Stock",Stock,True,2026-05-08,,,75bc84d4c05fcc5f9e81
 FFIV,NASDAQ,"F5, Inc. - Common Stock",Stock,True,2026-05-08,,,a549b1b06913e92b659b
+FFR,NASDAQ,FF EAI Robotics Ecosystem Inc. - Common Stock,Stock,True,2026-09-30,,,733a6df2793643eb9b16
 FFUT,NASDAQ,Fidelity Managed Futures ETF,ETF,True,2026-05-08,,,9756dbee0b367e087921
 FGBI,NASDAQ,"First Guaranty Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,398ddfbbc5b9a8fcd9b8
 FGBIP,NASDAQ,"First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,23bc948f0d7e8dfa6795
@@ -7195,7 +7201,7 @@ DB,NYSE,Deutsche Bank AG Common Stock,Stock,True,2026-05-08,,,df2e2fece741d3bf11
 DBD,NYSE,Diebold Nixdorf Incorporated Common stock,Stock,True,2026-05-08,,,bf9a75e7666569a9b5f9
 DBI,NYSE,Designer Brands Inc. Class A Common Stock,Stock,True,2026-05-08,,,33c042eaaa05a288a493
 DBL,NYSE,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,be72809cfc95bb13e28e
-DBRG,NYSE,"DigitalBridge Group, Inc.",Stock,True,2026-05-08,,,8f99dee9a5fcf6442289
+DBRG,NYSE,"DigitalBridge Group, Inc.",Stock,False,2026-05-08,2026-09-30,Missing from current NYSE source snapshot; reason unavailable,8f99dee9a5fcf6442289
 DBRG$H,NYSE,"DigitalBridge Group, Inc. 7.125% Series H",Stock,True,2026-05-08,,,ca2e8c5063cd78746f44
 DBRG$I,NYSE,"DigitalBridge Group, Inc. 7.15% Series I",Stock,True,2026-05-08,,,bae8cf4e75c52b6b6ca2
 DBRG$J,NYSE,"DigitalBridge Group, Inc. 7.125% Series J",Stock,True,2026-05-08,,,d1432f83a05f232688c8
@@ -7605,7 +7611,7 @@ GEF.B,NYSE,"Greif, Inc. Corporation Class B Common Stock",Stock,True,2026-05-08,
 GEL,NYSE,"Genesis Energy, L.P. Common Units",Stock,True,2026-05-08,,,76e8c066bdcd6365c085
 GENI,NYSE,Genius Sports Limited Ordinary Shares,Stock,True,2026-05-08,,,620bd8e91562d7ed5b23
 GEO,NYSE,Geo Group Inc (The) REIT,Stock,True,2026-05-08,,,65bba4f79b97897b66ee
-GETY,NYSE,"Getty Images Holdings, Inc. Class A Common Stock",Stock,True,2026-05-08,,,5d1ae385b366bcee4ac8
+GETY,NYSE,"Getty Images Holdings, Inc. Class A Common Stock",Stock,False,2026-05-08,2026-09-30,Missing from current NYSE source snapshot; reason unavailable,5d1ae385b366bcee4ac8
 GEV,NYSE,GE Vernova Inc. Common Stock,Stock,True,2026-05-08,,,fc9a6bd83840d4b5a945
 GF,NYSE,"New Germany Fund, Inc. (The) Common Stock",Stock,True,2026-05-08,,,4243ca45f6436a884cfe
 GFF,NYSE,Griffon Corporation Common Stock,Stock,True,2026-05-08,,,8e6ae91bbf35479f2435
@@ -7885,6 +7891,7 @@ ITGR,NYSE,Integer Holdings Corporation Common Stock,Stock,True,2026-05-08,,,b921
 ITT,NYSE,ITT Inc. Common Stock,Stock,True,2026-05-08,,,87a1dee03139ba00d364
 ITUB,NYSE,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),Stock,True,2026-05-08,,,21ead62f416643511ba5
 ITW,NYSE,Illinois Tool Works Inc. Common Stock,Stock,True,2026-05-08,,,efb9f9c866076cd10d7d
+IVAI,NYSE,Ives Ultra AI Opportunities Inc. Common Stock,Stock,True,2026-09-30,,,bfbfce31a6bff55f895a
 IVR,NYSE,INVESCO MORTGAGE CAPITAL INC Common Stock,Stock,True,2026-05-08,,,5bca1a5410c382242a89
 IVR$C,NYSE,"INVESCO MORTGAGE CAPITAL INC 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, Liquation Preference $25.00 per Share",Stock,True,2026-05-08,,,a3419e3551fd25a986ea
 IVT,NYSE,InvenTrust Properties Corp. Common Stock,Stock,True,2026-05-08,,,c6645f3bf9bcd89b5bd7
@@ -8033,6 +8040,7 @@ LBRT,NYSE,Liberty Energy Inc. Class A common stock,Stock,True,2026-05-08,,,e8c91
 LC,NYSE,LendingClub Corporation Common Stock,Stock,False,2026-05-08,2026-06-22,Other delisting reason: Details unavailable (source: FMP Delisted API),8f3acefbe83c182b9ce4
 LCII,NYSE,LCI Industries,Stock,True,2026-05-08,,,07fb844bebcab1ea6c9b
 LCIV,NYSE,Logan Capital International ETF,ETF,False,2026-09-28,2026-09-29,Missing from current NYSE source snapshot; reason unavailable,e1702bdb727daf102df7
+LCIV,NYSE,Logan Capital International ETF,ETF,True,2026-09-30,,,e1702bdb727daf102df7
 LCLN,NYSE,"Lincoln International, Inc. Class A Common Stock",Stock,True,2026-05-20,,,a3ab1f0eba2f7802c684
 LDI,NYSE,"loanDepot, Inc. Class A Common Stock",Stock,True,2026-05-08,,,73a4ba6d6dff241e922b
 LDOS,NYSE,"Leidos Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,6f144aeb2f39668b7c1d

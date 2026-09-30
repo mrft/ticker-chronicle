@@ -742,7 +742,6 @@ NYSE,DB,Deutsche Bank AG Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DBD,Diebold Nixdorf Incorporated Common stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DBI,Designer Brands Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DBL,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,DBRG,"DigitalBridge Group, Inc.",Stock,,nasdaq_trader_symbol_directory
 NYSE,DBRG$H,"DigitalBridge Group, Inc. 7.125% Series H",Stock,,nasdaq_trader_symbol_directory
 NYSE,DBRG$I,"DigitalBridge Group, Inc. 7.15% Series I",Stock,,nasdaq_trader_symbol_directory
 NYSE,DBRG$J,"DigitalBridge Group, Inc. 7.125% Series J",Stock,,nasdaq_trader_symbol_directory
@@ -1131,7 +1130,6 @@ NYSE,GEF.B,"Greif, Inc. Corporation Class B Common Stock",Stock,,nasdaq_trader_s
 NYSE,GEL,"Genesis Energy, L.P. Common Units",Stock,,nasdaq_trader_symbol_directory
 NYSE,GENI,Genius Sports Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,GEO,Geo Group Inc (The) REIT,Stock,,nasdaq_trader_symbol_directory
-NYSE,GETY,"Getty Images Holdings, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GEV,GE Vernova Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GF,"New Germany Fund, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GFF,Griffon Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1401,6 +1399,7 @@ NYSE,ITGR,Integer Holdings Corporation Common Stock,Stock,,nasdaq_trader_symbol_
 NYSE,ITT,ITT Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),Stock,,nasdaq_trader_symbol_directory
 NYSE,ITW,Illinois Tool Works Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,IVAI,Ives Ultra AI Opportunities Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,IVR$C,"INVESCO MORTGAGE CAPITAL INC 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, Liquation Preference $25.00 per Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,IVT,InvenTrust Properties Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1541,6 +1540,7 @@ NYSE,LAZ,"Lazard, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,Stock,,nasdaq_trader_symbol_directory
 NYSE,LBRT,Liberty Energy Inc. Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LCII,LCI Industries,Stock,,nasdaq_trader_symbol_directory
+NYSE,LCIV,Logan Capital International ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,LCLN,"Lincoln International, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LDI,"loanDepot, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LDOS,"Leidos Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
