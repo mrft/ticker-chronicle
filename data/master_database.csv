@@ -1532,6 +1532,7 @@ CHSN,NASDAQ,Chanson International Holding - Class A Ordinary Shares,Stock,True,2
 CHTR,NASDAQ,"Charter Communications, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,a96dd76ec9bd21891bdd
 CHTRP,NASDAQ,"Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock",Stock,True,2026-08-20,,,b4fe3c736ec177dc7534
 CHW,NASDAQ,Calamos Global Dynamic Income Fund - Closed End Fund,Stock,True,2026-05-08,,,ec167736ce2a8bd5f6ad
+CHWM,NASDAQ,Chilwa Minerals Limited - American Depository Shares,Stock,True,2026-10-01,,,410bc0b6254b3deee919
 CHY,NASDAQ,Calamos Convertible and High Income Fund - Closed End Fund,Stock,True,2026-05-08,,,5d49e34a60d16408a09d
 CHYM,NASDAQ,"Chime Financial, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,dfa8f17910248a9064ba
 CIBR,NASDAQ,First Trust NASDAQ Cybersecurity ETF,ETF,True,2026-05-08,,,3da38036dc36aac422a5
@@ -2825,7 +2826,8 @@ HDSN,NASDAQ,"Hudson Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,d
 HEAL,NASDAQ,Global X HealthTech ETF,ETF,True,2026-05-08,,,bf35a83a7ee5675ea41f
 HECO,NASDAQ,State Street Galaxy Hedged Digital Asset Ecosystem ETF,ETF,True,2026-05-08,,,93bc10aa3231e17392de
 HELE,NASDAQ,Helen of Troy Limited - Common Stock,Stock,True,2026-05-08,,,e1479262b8c4686ec558
-HELP,NASDAQ,Cybin Inc. - Common Stock,Stock,True,2026-05-08,,,465bed1daa8f1e36892a
+HELP,NASDAQ,Cybin Inc. - Common Stock,Stock,False,2026-05-08,2026-10-01,Listing metadata changed,465bed1daa8f1e36892a
+HELP,NASDAQ,Helus Pharma Inc. - Common Stock,Stock,True,2026-10-01,,,8af08da4c62ddbcf09bb
 HEPS,NASDAQ,D-Market Electronic Services & Trading - American Depositary Shares,Stock,True,2026-05-08,,,1833cd007b42b1928173
 HEQQ,NASDAQ,JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF,ETF,True,2026-05-08,,,84b11ad4aa72a4b8e81c
 HERD,NASDAQ,Pacer Cash Cows Fund of Funds ETF,ETF,True,2026-05-08,,,b3c13fa087e240a9f814
@@ -3825,6 +3827,7 @@ MLKN,NASDAQ,"MillerKnoll, Inc. - Common Stock",Stock,True,2026-05-08,,,3d208bb58
 MLTX,NASDAQ,MoonLake Immunotherapeutics - Class A Ordinary Shares,Stock,True,2026-05-08,,,999fbb7896e517b66953
 MLYS,NASDAQ,"Mineralys Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,67a318b4f1b225af5dbe
 MMED,NASDAQ,"MiniMed Group, Inc. - Common Stock",Stock,True,2026-05-08,,,9f12984478ab0a661119
+MMEDV,NASDAQ,"MiniMed Group, Inc. - Common Stock When Issued",Stock,True,2026-10-01,,,19ab2b4e1186a6ac9040
 MMLP,NASDAQ,Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests,Stock,True,2026-05-08,,,658898d79c27eb26abeb
 MMSI,NASDAQ,"Merit Medical Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,0e2754fb4e66f41fcf52
 MMTX,NASDAQ,Miluna Acquisition Corp - Class A Ordinary Shares,Stock,True,2026-05-08,,,a78f8515a1100ddfbdff
@@ -4164,7 +4167,7 @@ NTLA,NASDAQ,"Intellia Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,
 NTNX,NASDAQ,"Nutanix, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1bf8e0d158fbff61987e
 NTRA,NASDAQ,"Natera, Inc. - Common Stock",Stock,True,2026-05-08,,,15c87d37531d80d6c8d7
 NTRB,NASDAQ,Nutriband Inc. - Common Stock,Stock,True,2026-05-08,,,5c25dca2cfc4add84c14
-NTRBW,NASDAQ,Nutriband Inc. - Warrant,Stock,True,2026-05-08,,,f00845edac48ededb888
+NTRBW,NASDAQ,Nutriband Inc. - Warrant,Stock,False,2026-05-08,2026-10-01,Missing from current NASDAQ source snapshot; reason unavailable,f00845edac48ededb888
 NTRP,NASDAQ,"NextTrip, Inc. - Common Stock",Stock,True,2026-05-08,,,cbb735a7fc49488d7179
 NTRS,NASDAQ,Northern Trust Corporation - Common Stock,Stock,True,2026-05-08,,,6456d85e745ded535e6c
 NTRSO,NASDAQ,"Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,faeed4d6f74e1dcb8e30
@@ -4348,6 +4351,7 @@ OPENW,NASDAQ,"Opendoor Technologies Inc - Series K Warrants, each whole warrant 
 OPENZ,NASDAQ,"Opendoor Technologies Inc - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",Stock,True,2026-05-08,,,59601d8d2639b8bfc9f7
 OPI,NASDAQ,Office Properties Income Trust - Common shares of beneficial interest,Stock,True,2026-06-18,,,b0f199a449ed60363c34
 OPK,NASDAQ,"Opko Health, Inc. - Common Stock",Stock,True,2026-05-08,,,ecef345672a5a1b9328f
+OPNW,NASDAQ,"OpenWorld, Inc. - Common Stock",Stock,True,2026-10-01,,,165d5fb5e63ba583b9ad
 OPPJ,NASDAQ,WisdomTree Japan Opportunities Fund,ETF,True,2026-05-08,,,2bafe00ccbbfd196a20e
 OPRA,NASDAQ,Opera Limited - American Depositary Shares,Stock,True,2026-05-08,,,0fc71d7059eab5026dfe
 OPRT,NASDAQ,Oportun Financial Corporation - common stock,Stock,True,2026-05-08,,,7e72e243144fc7ba8045
@@ -5606,6 +5610,7 @@ TDAC,NASDAQ,Translational Development Acquisition Corp. - Ordinary Shares,Stock,
 TDACU,NASDAQ,Translational Development Acquisition Corp. - Units,Stock,True,2026-05-08,,,3230ed21e7e785c78898
 TDACW,NASDAQ,Translational Development Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,dea495fb2f2caf378e3f
 TDCL,NASDAQ,GraniteShares 2x Long TDC Daily ETF,ETF,True,2026-07-14,,,83b53c9d387a095d5cbe
+TDEM,NASDAQ,T. Rowe Price Dynamic Emerging Markets Bond ETF,ETF,True,2026-10-01,,,b049b3bfd9129709afbe
 TDI,NASDAQ,Touchstone Dynamic International ETF,ETF,True,2026-05-08,,,238fa1580e6eb1ff1a13
 TDIC,NASDAQ,Dreamland Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,38d72180f1b50bcde11f
 TDIV,NASDAQ,First Trust NASDAQ Technology Dividend Index Fund,ETF,True,2026-05-08,,,0ecd82132a47a7c41459
@@ -6085,7 +6090,7 @@ VRDN,NASDAQ,"Viridian Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,
 VREX,NASDAQ,Varex Imaging Corporation - Common Stock,Stock,True,2026-05-08,,,0a43b16472ad7ff0dbf0
 VRIG,NASDAQ,Invesco Variable Rate Investment Grade ETF,ETF,True,2026-05-08,,,23b44ec612597d695751
 VRM,NASDAQ,"Vroom, Inc. - Common Stock",Stock,True,2026-05-08,,,a30fbcfa2851b030846c
-VRME,NASDAQ,"VerifyMe, Inc. - Common Stock",Stock,True,2026-05-08,,,c54bfeb22e5de7ca2d74
+VRME,NASDAQ,"VerifyMe, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-01,Other delisting reason: Details unavailable (source: FMP Delisted API),c54bfeb22e5de7ca2d74
 VRNS,NASDAQ,"Varonis Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,9fc404fcf61f5716e1d3
 VRRM,NASDAQ,Verra Mobility Corporation - Class A Common Stock,Stock,True,2026-05-08,,,e5677353c0fa5645760f
 VRSK,NASDAQ,"Verisk Analytics, Inc. - Common Stock",Stock,True,2026-05-08,,,c51bb63a076f2d79dbb0
@@ -6324,7 +6329,8 @@ XRXDW,NASDAQ,Xerox Holdings Corporation - Warrants,Stock,True,2026-05-08,,,30f93
 XSLL,NASDAQ,Xsolla SPAC 1 - Class A Ordinary Shares,Stock,True,2026-05-08,,,9b0513aae20a1627d931
 XSLLU,NASDAQ,Xsolla SPAC 1 - Units,Stock,True,2026-05-08,,,25686bc6da466239a576
 XSLLW,NASDAQ,Xsolla SPAC 1 - Warrants,Stock,True,2026-05-08,,,69f7edfaefa8cf8e1b89
-XSPC,NASDAQ,VegaShares SpaceX & Beyond Earth ETF,ETF,True,2026-06-16,,,b83e259f3ed71e0a7b88
+XSPC,NASDAQ,VegaShares SpaceX & Beyond Earth ETF,ETF,False,2026-06-16,2026-10-01,Listing metadata changed,b83e259f3ed71e0a7b88
+XSPC,NASDAQ,VegaShares Space & AI ETF,ETF,True,2026-10-01,,,183486d4cc4e8803acfa
 XSPI,NASDAQ,NEOS Boosted S&P 500 High Income ETF,ETF,True,2026-05-08,,,afd8f6483d39a5f06c27
 XT,NASDAQ,iShares Future Exponential Technologies ETF,ETF,True,2026-05-08,,,951d797de7c3f5779c56
 XTER,NASDAQ,Karman Line Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-08-28,,,c036637949a34f4d42f7
@@ -8105,7 +8111,7 @@ LZM.W,NYSE,Lifezone Metals Limited Warrants,Stock,True,2026-05-08,,,90d1cf136242
 M,NYSE,Macy's Inc Common Stock,Stock,True,2026-05-08,,,645be6db374e04a6c5ea
 MA,NYSE,Mastercard Incorporated Common Stock,Stock,True,2026-05-08,,,7b9a5345fd25fea5c63e
 MAA,NYSE,"Mid-America Apartment Communities, Inc. Common Stock",Stock,True,2026-05-08,,,d75a063c87182d994c30
-MAA$I,NYSE,"Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,ed9188ab8bc0fe9568d7
+MAA$I,NYSE,"Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock",Stock,False,2026-05-08,2026-10-01,Missing from current NYSE source snapshot; reason unavailable,ed9188ab8bc0fe9568d7
 MAC,NYSE,Macerich Company (The) Common Stock,Stock,True,2026-05-08,,,610ca4606f9b7307318d
 MAGN,NYSE,Magnera Corporation Common Stock,Stock,True,2026-05-08,,,32d5e50ce13fa465edd1
 MAIN,NYSE,Main Street Capital Corporation Common Stock,Stock,True,2026-05-08,,,1e3050c633e5a3494bd8
@@ -8357,7 +8363,7 @@ NLOP,NYSE,Net Lease Office Properties Common Shares of Beneficial Interest,Stock
 NLY,NYSE,Annaly Capital Management Inc. Common Stock,Stock,True,2026-05-08,,,b3ba9569f54f86134f87
 NLY$F,NYSE,Annaly Capital Management Inc 6.95% Series F,Stock,True,2026-05-08,,,49a4d175f1cee7fcd1d4
 NLY$G,NYSE,Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,e2276ec02f5f44ea9a07
-NLY$I,NYSE,Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,b2b5bac6ba2535e33e9d
+NLY$I,NYSE,Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,False,2026-05-08,2026-10-01,Missing from current NYSE source snapshot; reason unavailable,b2b5bac6ba2535e33e9d
 NLY$J,NYSE,Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,dbb7f37b7bda354cbd21
 NMAI,NYSE,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,da563bf47022487eba13
 NMAX,NYSE,"Newsmax, Inc. Class B Common Stock",Stock,True,2026-05-08,,,d6f75e95c0e53fbbe032
@@ -8638,6 +8644,7 @@ PNNT,NYSE,PennantPark Investment Corporation Common Stock,Stock,True,2026-05-08,
 PNR,NYSE,Pentair plc. Ordinary Share,Stock,True,2026-05-08,,,9f293f11e8933a261595
 PNW,NYSE,Pinnacle West Capital Corporation Common Stock,Stock,True,2026-05-08,,,7c625abded3f4f040da8
 POR,NYSE,Portland General Electric Co Common Stock,Stock,True,2026-05-08,,,d5c8bf426d348eb8cbc9
+PORT.U,NYSE,"Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Stock,True,2026-10-01,,,a5a62034fb3c3b285319
 POST,NYSE,"Post Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,54f1980c4933e6bfdc55
 PPG,NYSE,"PPG Industries, Inc. Common Stock",Stock,True,2026-05-08,,,547ccf2e0b99a92bd60a
 PPL,NYSE,PPL Corporation Common Stock,Stock,True,2026-05-08,,,cbab12fb228be2a11f77
@@ -9289,6 +9296,7 @@ UTZ,NYSE,Utz Brands Inc Class A Common Stock,Stock,True,2026-05-08,,,46b175c1f1b
 UVE,NYSE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,Stock,True,2026-05-08,,,a36f36d820ecd58e3a60
 UVV,NYSE,Universal Corporation Common Stock,Stock,True,2026-05-08,,,f878af8cded5bf545aa1
 UWMC,NYSE,UWM Holdings Corporation Class A Common Stock,Stock,True,2026-05-08,,,91c6ad82caa5c9658e4b
+UWMC.V,NYSE,"UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",Stock,True,2026-10-01,,,30b351906c36813c85ad
 UZD,NYSE,"Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069",Stock,True,2026-05-08,,,0e91ef01847cabfb6261
 UZE,NYSE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock,True,2026-05-08,,,3580807f3510e8f51780
 UZF,NYSE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock,True,2026-05-08,,,3580807f3510e8f51780
@@ -9366,6 +9374,7 @@ VTS,NYSE,"Vitesse Energy, Inc. Common Stock",Stock,True,2026-05-08,,,2c65348f375
 VVR,NYSE,Invesco Senior Income Trust Common Stock (DE),Stock,True,2026-05-08,,,6cd21c6db9d8ff5042a0
 VVV,NYSE,Valvoline Inc. Common Stock,Stock,True,2026-05-08,,,8ff50ad20c892a4201fb
 VVX,NYSE,"V2X, Inc. Common Stock",Stock,True,2026-05-08,,,13720bab094e3a07d5d5
+VYLR,NYSE,Vylor Inc. Common Stock,Stock,True,2026-10-01,,,048de117ee29c6dee28d
 VYX,NYSE,NCR Voyix Corporation Common Stock,Stock,True,2026-05-08,,,82a64c38d7b15f62f9c7
 VZ,NYSE,Verizon Communications Inc. Common Stock,Stock,True,2026-05-08,,,2241d960685578c5872b
 W,NYSE,Wayfair Inc. Class A Common Stock,Stock,True,2026-05-08,,,3673f45233d9971c8545

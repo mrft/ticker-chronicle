@@ -1091,6 +1091,7 @@ NASDAQ,CHSN,Chanson International Holding - Class A Ordinary Shares,Stock,,nasda
 NASDAQ,CHTR,"Charter Communications, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHTRP,"Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHW,Calamos Global Dynamic Income Fund - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CHWM,Chilwa Minerals Limited - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHY,Calamos Convertible and High Income Fund - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CHYM,"Chime Financial, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CIBR,First Trust NASDAQ Cybersecurity ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2293,7 +2294,7 @@ NASDAQ,HDSN,"Hudson Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symb
 NASDAQ,HEAL,Global X HealthTech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HECO,State Street Galaxy Hedged Digital Asset Ecosystem ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HELE,Helen of Troy Limited - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HELP,Cybin Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HELP,Helus Pharma Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HEPS,D-Market Electronic Services & Trading - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HEQQ,JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HERD,Pacer Cash Cows Fund of Funds ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3200,6 +3201,7 @@ NASDAQ,MLKN,"MillerKnoll, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direc
 NASDAQ,MLTX,MoonLake Immunotherapeutics - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MLYS,"Mineralys Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MMED,"MiniMed Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MMEDV,"MiniMed Group, Inc. - Common Stock When Issued",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MMLP,Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MMSI,"Merit Medical Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MMTX,Miluna Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3521,7 +3523,6 @@ NASDAQ,NTLA,"Intellia Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_sy
 NASDAQ,NTNX,"Nutanix, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NTRA,"Natera, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NTRB,Nutriband Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NTRBW,Nutriband Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NTRP,"NextTrip, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NTRS,Northern Trust Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NTRSO,"Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3693,6 +3694,7 @@ NASDAQ,OPENW,"Opendoor Technologies Inc - Series K Warrants, each whole warrant 
 NASDAQ,OPENZ,"Opendoor Technologies Inc - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPI,Office Properties Income Trust - Common shares of beneficial interest,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPK,"Opko Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OPNW,"OpenWorld, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPPJ,WisdomTree Japan Opportunities Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OPRA,Opera Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPRT,Oportun Financial Corporation - common stock,Stock,,nasdaq_trader_symbol_directory
@@ -4867,6 +4869,7 @@ NASDAQ,TDAC,Translational Development Acquisition Corp. - Ordinary Shares,Stock,
 NASDAQ,TDACU,Translational Development Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TDACW,Translational Development Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TDCL,GraniteShares 2x Long TDC Daily ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,TDEM,T. Rowe Price Dynamic Emerging Markets Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TDI,Touchstone Dynamic International ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TDIC,Dreamland Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TDIV,First Trust NASDAQ Technology Dividend Index Fund,ETF,,nasdaq_trader_symbol_directory
@@ -5317,7 +5320,6 @@ NASDAQ,VRDN,"Viridian Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_sy
 NASDAQ,VREX,Varex Imaging Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VRIG,Invesco Variable Rate Investment Grade ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VRM,"Vroom, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,VRME,"VerifyMe, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VRNS,"Varonis Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VRRM,Verra Mobility Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VRSK,"Verisk Analytics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5536,7 +5538,7 @@ NASDAQ,XRXDW,Xerox Holdings Corporation - Warrants,Stock,,nasdaq_trader_symbol_d
 NASDAQ,XSLL,Xsolla SPAC 1 - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XSLLU,Xsolla SPAC 1 - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XSLLW,Xsolla SPAC 1 - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,XSPC,VegaShares SpaceX & Beyond Earth ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,XSPC,VegaShares Space & AI ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XSPI,NEOS Boosted S&P 500 High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XT,iShares Future Exponential Technologies ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XTER,Karman Line Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory

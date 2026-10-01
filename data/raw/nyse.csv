@@ -1604,7 +1604,6 @@ NYSE,LZM.W,Lifezone Metals Limited Warrants,Stock,,nasdaq_trader_symbol_director
 NYSE,M,Macy's Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MA,Mastercard Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MAA,"Mid-America Apartment Communities, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,MAA$I,"Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MAC,Macerich Company (The) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MAGN,Magnera Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MAIN,Main Street Capital Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1841,7 +1840,6 @@ NYSE,NLOP,Net Lease Office Properties Common Shares of Beneficial Interest,Stock
 NYSE,NLY,Annaly Capital Management Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NLY$F,Annaly Capital Management Inc 6.95% Series F,Stock,,nasdaq_trader_symbol_directory
 NYSE,NLY$G,Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,NLY$I,Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NLY$J,Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,NMAX,"Newsmax, Inc. Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2109,6 +2107,7 @@ NYSE,PNNT,PennantPark Investment Corporation Common Stock,Stock,,nasdaq_trader_s
 NYSE,PNR,Pentair plc. Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NYSE,PNW,Pinnacle West Capital Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,POR,Portland General Electric Co Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,PORT.U,"Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
 NYSE,POST,"Post Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PPG,"PPG Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PPL,PPL Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2720,6 +2719,7 @@ NYSE,UTZ,Utz Brands Inc Class A Common Stock,Stock,,nasdaq_trader_symbol_directo
 NYSE,UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,UVV,Universal Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,UWMC,UWM Holdings Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,UWMC.V,"UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,UZD,"Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069",Stock,,nasdaq_trader_symbol_directory
 NYSE,UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock,,nasdaq_trader_symbol_directory
 NYSE,UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock,,nasdaq_trader_symbol_directory
@@ -2794,6 +2794,7 @@ NYSE,VTS,"Vitesse Energy, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directo
 NYSE,VVR,Invesco Senior Income Trust Common Stock (DE),Stock,,nasdaq_trader_symbol_directory
 NYSE,VVV,Valvoline Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VVX,"V2X, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,VYLR,Vylor Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VYX,NCR Voyix Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VZ,Verizon Communications Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,W,Wayfair Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
