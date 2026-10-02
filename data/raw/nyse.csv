@@ -837,6 +837,7 @@ NYSE,DVA,DaVita Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DVN,Devon Energy Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DX,"Dynex Capital, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,DX$C,"Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,DX$D,"Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,DXC,DXC Technology Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DXYZ,Destiny Tech100 Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DY,"Dycom Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2725,9 +2726,6 @@ NYSE,UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock
 NYSE,UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock,,nasdaq_trader_symbol_directory
 NYSE,V,Visa Inc.,Stock,,nasdaq_trader_symbol_directory
 NYSE,VAC,Marriott Vacations Worldwide Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,VACI,Viking Acquisition Corp. I Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,VACI.U,"Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",Stock,,nasdaq_trader_symbol_directory
-NYSE,VACI.W,Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NYSE,VAL,Valaris Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,VAL.W,Valaris Limited Warrants,Stock,,nasdaq_trader_symbol_directory
 NYSE,VALE,VALE S.A. American Depositary Shares Each Representing one common share,Stock,,nasdaq_trader_symbol_directory

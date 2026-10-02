@@ -221,6 +221,8 @@ NNVC,AMEX,"NanoViricides, Inc. Common Stock",Stock,True,2026-05-08,,,af1d5d36555
 NRO,AMEX,Neuberger Real Estate Securities Income Fund Inc. Common Stock,Stock,True,2026-05-08,,,770cb0598ac80f6644f6
 NRXS,AMEX,"Neuraxis, Inc. Common Stock",Stock,True,2026-05-08,,,ebe0ef0b11e9ace04e27
 NSRX,AMEX,Nasus Pharma Ltd. Ordinary Shares,Stock,True,2026-05-08,,,9b17cc939e413fcb9dbc
+NSTR,AMEX,"NorthStar Earth & Space Enterprises, Inc. Common Shares",Stock,True,2026-10-02,,,604248b708070320ead0
+NSTR.W,AMEX,"NorthStar Earth & Space Enterprises, Inc. Warrants",Stock,True,2026-10-02,,,93cd959a6631eb6c0f34
 NTIP,AMEX,"Network-1 Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,49596a6b82a129e6fc3d
 NVA,AMEX,Nova Minerals Corp Common Stock,Stock,True,2026-06-17,,,f3e0bd1f18851a9d2ad0
 NVA.W,AMEX,Nova Minerals Corp Warrants to Purchase Common Stock,Stock,True,2026-06-17,,,ecaed44d990f56323ad1
@@ -1627,9 +1629,9 @@ COHU,NASDAQ,"Cohu, Inc. - Common Stock",Stock,True,2026-05-08,,,de89b91091dda431
 COIG,NASDAQ,Leverage Shares 2X Long COIN Daily ETF,ETF,True,2026-05-08,,,f86844af60064c98764f
 COIN,NASDAQ,"Coinbase Global, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1b486a261a86872df08d
 COKE,NASDAQ,"Coca-Cola Consolidated, Inc. - Common Stock",Stock,True,2026-05-08,,,d1e888235b6d94d5bfa8
-COLA,NASDAQ,Columbus Acquisition Corp - Ordinary Shares,Stock,True,2026-05-08,,,b310d705abbdb65e04ef
-COLAR,NASDAQ,Columbus Acquisition Corp - Rights,Stock,True,2026-05-08,,,ab8f94396cead7fe8482
-COLAU,NASDAQ,Columbus Acquisition Corp - Unit,Stock,True,2026-05-08,,,daad45792f0d49770602
+COLA,NASDAQ,Columbus Acquisition Corp - Ordinary Shares,Stock,False,2026-05-08,2026-10-02,Missing from current NASDAQ source snapshot; reason unavailable,b310d705abbdb65e04ef
+COLAR,NASDAQ,Columbus Acquisition Corp - Rights,Stock,False,2026-05-08,2026-10-02,Missing from current NASDAQ source snapshot; reason unavailable,ab8f94396cead7fe8482
+COLAU,NASDAQ,Columbus Acquisition Corp - Unit,Stock,False,2026-05-08,2026-10-02,Missing from current NASDAQ source snapshot; reason unavailable,daad45792f0d49770602
 COLB,NASDAQ,"Columbia Banking System, Inc. - Common Stock",Stock,True,2026-05-08,,,96bdfb758d44016d052d
 COLL,NASDAQ,"Collegium Pharmaceutical, Inc. - Common Stock",Stock,True,2026-05-08,,,506b7087296214388e8b
 COLM,NASDAQ,Columbia Sportswear Company - Common Stock,Stock,True,2026-05-08,,,f8c61e279249d18374b9
@@ -2443,7 +2445,7 @@ FRWD,NASDAQ,Nomura Transformational Technologies ETF,ETF,True,2026-05-08,,,fdb7b
 FSBC,NASDAQ,Five Star Bancorp - Common Stock,Stock,True,2026-05-08,,,e306cb29dadf98c21070
 FSBW,NASDAQ,"FS Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,cd4c9ec2da6a05711477
 FSCS,NASDAQ,First Trust SMID Capital Strength ETF,ETF,True,2026-05-08,,,630c4bfcf27e8a580810
-FSEA,NASDAQ,"First Seacoast Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,7c3661670b495b37d65e
+FSEA,NASDAQ,"First Seacoast Bancorp, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-02,Missing from current NASDAQ source snapshot; reason unavailable,7c3661670b495b37d65e
 FSGS,NASDAQ,First Trust SMID Growth Strength ETF,ETF,True,2026-05-08,,,559337669ba627879977
 FSHP,NASDAQ,Flag Ship Acquisition Corp. - Ordinary Shares,Stock,True,2026-05-08,,,f5700f0b5b18767aae2e
 FSHPR,NASDAQ,Flag Ship Acquisition Corp. - Right,Stock,True,2026-05-08,,,101f69cf211a04fe6fcc
@@ -2588,7 +2590,7 @@ GEVG,NASDAQ,Leverage Shares 2X Long GEV Daily ETF,ETF,True,2026-05-08,,,fcfaa057
 GEVO,NASDAQ,"Gevo, Inc. - Common Stock",Stock,True,2026-05-08,,,c7d2593850b78dd18e6f
 GEW,NASDAQ,Cambria Global EW ETF,ETF,True,2026-05-08,,,640e1a016754abb14284
 GFAI,NASDAQ,"Guardforce AI Co., Limited - Ordinary Shares",Stock,True,2026-05-08,,,5b67e3283738e0300534
-GFAIW,NASDAQ,"Guardforce AI Co., Limited - Warrant",Stock,True,2026-05-08,,,3429df79180c9d817bd1
+GFAIW,NASDAQ,"Guardforce AI Co., Limited - Warrant",Stock,False,2026-05-08,2026-10-02,Missing from current NASDAQ source snapshot; reason unavailable,3429df79180c9d817bd1
 GFGF,NASDAQ,Guru Favorite Stocks ETF,ETF,True,2026-05-08,,,927ba1647265f15b86dc
 GFLW,NASDAQ,VictoryShares Free Cash Flow Growth ETF,ETF,True,2026-05-08,,,047c14b11dc80ab8b8bd
 GFS,NASDAQ,GlobalFoundries Inc. - Ordinary Share,Stock,True,2026-05-08,,,d35de98935b40fa9103b
@@ -4153,7 +4155,7 @@ NSLR,NASDAQ,Neostellar Capital Corp. - Closed End Fund,Stock,True,2026-07-01,,,1
 NSLRL,NASDAQ,Neostellar Capital Corp. - 6.00% Notes due 2026,Stock,True,2026-07-01,,,23adfda43750ef1b6f6b
 NSPR,NASDAQ,InspireMD Inc. - Common Stock,Stock,True,2026-05-08,,,75960896065ec77f276b
 NSSC,NASDAQ,"NAPCO Security Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,e33e9c63d6def64b492f
-NSTS,NASDAQ,"NSTS Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,455ca8f433da9e73b4cf
+NSTS,NASDAQ,"NSTS Bancorp, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-02,Missing from current NASDAQ source snapshot; reason unavailable,455ca8f433da9e73b4cf
 NSYS,NASDAQ,Nortech Systems Incorporated - Common Stock,Stock,True,2026-05-08,,,24399a59deda6d6994c4
 NTAL,NASDAQ,GraniteShares 2x Long NTAP Daily ETF,ETF,True,2026-07-14,,,17915d54cbae3c707075
 NTAP,NASDAQ,"NetApp, Inc. - Common Stock",Stock,True,2026-05-08,,,bbc20482cef99ffbd68e
@@ -4741,7 +4743,8 @@ PUL,NASDAQ,GraniteShares 2x Long P Daily ETF,ETF,True,2026-07-07,,,0bfdeb40fb1e4
 PULM,NASDAQ,"Pulmatrix, Inc. - Common Stock",Stock,True,2026-05-08,,,180d330e7a6bee774968
 PUR,NASDAQ,Defiance Daily Target 2X Long PURR ETF,ETF,True,2026-07-08,,,81a48c777eb1b6fa8dc7
 PURR,NASDAQ,Hyperliquid Strategies Inc - Common Stock,Stock,True,2026-05-08,,,059bb6b3f7058454a605
-PUSA,NASDAQ,Aureus Greenway Holdings Inc. - Common Stock,Stock,True,2026-05-18,,,52e1a9b10577e7785adc
+PUSA,NASDAQ,Aureus Greenway Holdings Inc. - Common Stock,Stock,False,2026-05-18,2026-10-02,Listing metadata changed,52e1a9b10577e7785adc
+PUSA,NASDAQ,Powerus Corporation - Common Stock,Stock,True,2026-10-02,,,3fc0df60e3b7d63d3bb8
 PVLA,NASDAQ,"Palvella Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,1865a13c7d3d3953dce5
 PWCM,NASDAQ,"PowerCompute, Inc. - Common Stock",Stock,True,2026-07-22,,,572356a30fb9c10a11bd
 PWP,NASDAQ,Perella Weinberg Partners - Class A Common Stock,Stock,True,2026-05-08,,,9a00eb986c019c598917
@@ -5114,6 +5117,7 @@ SAIC,NASDAQ,Science Applications International Corporation - Common Stock,Stock,
 SAIH,NASDAQ,SAIHEAT Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,8547210cebecd61c70f9
 SAIHW,NASDAQ,SAIHEAT Limited - Warrant,Stock,True,2026-05-08,,,3d9e57d2921cd8c25f23
 SAIL,NASDAQ,"SailPoint, Inc. - Common Stock",Stock,True,2026-05-08,,,0efc8701e6ebfb64c7a8
+SAIQ,NASDAQ,WISeSat.Space Holdings Corp. - Ordinary Shares,Stock,True,2026-10-02,,,dd8ae2b4b394298fd160
 SAMG,NASDAQ,Silvercrest Asset Management Group Inc. - Common Stock,Stock,True,2026-05-08,,,6a17d50b8ec3f04c75e0
 SANA,NASDAQ,"Sana Biotechnology, Inc. - Common Stock",Stock,True,2026-05-08,,,cae902820ceb801a63a8
 SANG,NASDAQ,Sangoma Technologies Corporation - Common Shares,Stock,True,2026-05-08,,,cf6dcea19b69735619bb
@@ -5658,7 +5662,7 @@ THFF,NASDAQ,First Financial Corporation - Common Stock,Stock,True,2026-05-08,,,d
 THH,NASDAQ,TryHard Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,110e3afad9b16b66def2
 THMZ,NASDAQ,Lazard Equity Megatrends ETF,ETF,True,2026-05-08,,,09d87a1a2bfffb33d485
 THRM,NASDAQ,Gentherm Inc - Common Stock,Stock,True,2026-05-08,,,40280286d0e67aef850b
-THRMV,NASDAQ,Gentherm Inc - Gentherm Inc Common Stock When-Issued,Stock,True,2026-09-28,,,5f67f1cc75ad8c206901
+THRMV,NASDAQ,Gentherm Inc - Gentherm Inc Common Stock When-Issued,Stock,False,2026-09-28,2026-10-02,Missing from current NASDAQ source snapshot; reason unavailable,5f67f1cc75ad8c206901
 THRV,NASDAQ,Prospera Income ETF,ETF,True,2026-05-08,,,361c123215c229f24e50
 THRY,NASDAQ,"Thryv Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,aa9237fa21c8171d62d8
 THYM,NASDAQ,T. Rowe Price High Income Municipal ETF,ETF,True,2026-05-08,,,4bf79c17df9e4f338f08
@@ -7306,6 +7310,7 @@ DVA,NYSE,DaVita Inc. Common Stock,Stock,True,2026-05-08,,,65fd5e96a304d9a28ea5
 DVN,NYSE,Devon Energy Corporation Common Stock,Stock,True,2026-05-08,,,b4cd0107a4bf684d71b6
 DX,NYSE,"Dynex Capital, Inc. Common Stock",Stock,True,2026-05-08,,,3da38040b5f15d00467e
 DX$C,NYSE,"Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,cd54853700e21a5cbd31
+DX$D,NYSE,"Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock",Stock,True,2026-10-02,,,2b856edd0ea1996ca21c
 DXC,NYSE,DXC Technology Company Common Stock,Stock,True,2026-05-08,,,1ad3a02df0b530263196
 DXYZ,NYSE,Destiny Tech100 Inc. Common Stock,Stock,True,2026-05-08,,,f6c3e321cc0a2dc63149
 DY,NYSE,"Dycom Industries, Inc. Common Stock",Stock,True,2026-05-08,,,becee2329f64d6bc98ae
@@ -9302,9 +9307,9 @@ UZE,NYSE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock
 UZF,NYSE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock,True,2026-05-08,,,3580807f3510e8f51780
 V,NYSE,Visa Inc.,Stock,True,2026-05-08,,,f2b589690e1138374366
 VAC,NYSE,Marriott Vacations Worldwide Corporation Common Stock,Stock,True,2026-05-08,,,f2c60b768f9d556244d0
-VACI,NYSE,Viking Acquisition Corp. I Class A Ordinary Shares,Stock,True,2026-05-08,,,fcad4be80839e4111780
-VACI.U,NYSE,"Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",Stock,True,2026-05-08,,,3f9f1d393fd0dd421d57
-VACI.W,NYSE,Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share,Stock,True,2026-05-08,,,4fc19db88c674cb8a66f
+VACI,NYSE,Viking Acquisition Corp. I Class A Ordinary Shares,Stock,False,2026-05-08,2026-10-02,Other delisting reason: Details unavailable (source: FMP Delisted API),fcad4be80839e4111780
+VACI.U,NYSE,"Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",Stock,False,2026-05-08,2026-10-02,Missing from current NYSE source snapshot; reason unavailable,3f9f1d393fd0dd421d57
+VACI.W,NYSE,Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share,Stock,False,2026-05-08,2026-10-02,Missing from current NYSE source snapshot; reason unavailable,4fc19db88c674cb8a66f
 VAL,NYSE,Valaris Limited Common Shares,Stock,True,2026-05-08,,,1473703712766152d673
 VAL.W,NYSE,Valaris Limited Warrants,Stock,True,2026-05-08,,,8bdbfef0978ae1131bea
 VALE,NYSE,VALE S.A. American Depositary Shares Each Representing one common share,Stock,True,2026-05-08,,,9c12a1b15538d6482074

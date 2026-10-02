@@ -1180,9 +1180,6 @@ NASDAQ,COHU,"Cohu, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,COIG,Leverage Shares 2X Long COIN Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,COIN,"Coinbase Global, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,COKE,"Coca-Cola Consolidated, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,COLA,Columbus Acquisition Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,COLAR,Columbus Acquisition Corp - Rights,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,COLAU,Columbus Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,COLB,"Columbia Banking System, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,COLL,"Collegium Pharmaceutical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,COLM,Columbia Sportswear Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1932,7 +1929,6 @@ NASDAQ,FRWD,Nomura Transformational Technologies ETF,ETF,,nasdaq_trader_symbol_d
 NASDAQ,FSBC,Five Star Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FSBW,"FS Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FSCS,First Trust SMID Capital Strength ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,FSEA,"First Seacoast Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FSGS,First Trust SMID Growth Strength ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FSHP,Flag Ship Acquisition Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FSHPR,Flag Ship Acquisition Corp. - Right,Stock,,nasdaq_trader_symbol_directory
@@ -2070,7 +2066,6 @@ NASDAQ,GEVG,Leverage Shares 2X Long GEV Daily ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,GEVO,"Gevo, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GEW,Cambria Global EW ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GFAI,"Guardforce AI Co., Limited - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GFAIW,"Guardforce AI Co., Limited - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GFGF,Guru Favorite Stocks ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GFLW,VictoryShares Free Cash Flow Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GFS,GlobalFoundries Inc. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
@@ -3509,7 +3504,6 @@ NASDAQ,NSLR,Neostellar Capital Corp. - Closed End Fund,Stock,,nasdaq_trader_symb
 NASDAQ,NSLRL,Neostellar Capital Corp. - 6.00% Notes due 2026,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSPR,InspireMD Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSSC,"NAPCO Security Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NSTS,"NSTS Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NSYS,Nortech Systems Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NTAL,GraniteShares 2x Long NTAP Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NTAP,"NetApp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4065,7 +4059,7 @@ NASDAQ,PUL,GraniteShares 2x Long P Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PULM,"Pulmatrix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PUR,Defiance Daily Target 2X Long PURR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PURR,Hyperliquid Strategies Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PUSA,Aureus Greenway Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PUSA,Powerus Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PVLA,"Palvella Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PWCM,"PowerCompute, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PWP,Perella Weinberg Partners - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4414,6 +4408,7 @@ NASDAQ,SAIC,Science Applications International Corporation - Common Stock,Stock,
 NASDAQ,SAIH,SAIHEAT Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAIHW,SAIHEAT Limited - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAIL,"SailPoint, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SAIQ,WISeSat.Space Holdings Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAMG,Silvercrest Asset Management Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SANA,"Sana Biotechnology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SANG,Sangoma Technologies Corporation - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4915,7 +4910,6 @@ NASDAQ,THFF,First Financial Corporation - Common Stock,Stock,,nasdaq_trader_symb
 NASDAQ,THH,TryHard Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THMZ,Lazard Equity Megatrends ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,THRM,Gentherm Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,THRMV,Gentherm Inc - Gentherm Inc Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THRV,Prospera Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,THRY,"Thryv Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,THYM,T. Rowe Price High Income Municipal ETF,ETF,,nasdaq_trader_symbol_directory
