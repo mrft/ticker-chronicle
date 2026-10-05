@@ -304,7 +304,7 @@ NYSE,BBY,"Best Buy Co., Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BC,Brunswick Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BC$C,Brunswick Corporation 6.375% Notes due 2049,Stock,,nasdaq_trader_symbol_directory
 NYSE,BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,BCAT.V,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
+NYSE,BCAT.R,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 NYSE,BCC,"Boise Cascade, L.L.C. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BCE,"BCE, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BCEM,Baron Emerging Markets Select ETF,ETF,,nasdaq_trader_symbol_directory
@@ -742,9 +742,6 @@ NYSE,DB,Deutsche Bank AG Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DBD,Diebold Nixdorf Incorporated Common stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DBI,Designer Brands Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DBL,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,DBRG$H,"DigitalBridge Group, Inc. 7.125% Series H",Stock,,nasdaq_trader_symbol_directory
-NYSE,DBRG$I,"DigitalBridge Group, Inc. 7.15% Series I",Stock,,nasdaq_trader_symbol_directory
-NYSE,DBRG$J,"DigitalBridge Group, Inc. 7.125% Series J",Stock,,nasdaq_trader_symbol_directory
 NYSE,DCBG,"Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes",Stock,,nasdaq_trader_symbol_directory
 NYSE,DCH,Dauch Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DCI,"Donaldson Company, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -754,8 +751,6 @@ NYSE,DCOM$,"Dime Commercial Bancshares, Inc. Preferred Stock, Series A",Stock,,n
 NYSE,DD,"DuPont de Nemours, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,DDD,3D Systems Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
-NYSE,DDS,"Dillard's, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,DDT,Dillard's Capital Trust I,Stock,,nasdaq_trader_symbol_directory
 NYSE,DE,Deere & Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,DEA,"Easterly Government Properties, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,DEC,Diversified Energy Company Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -946,8 +941,6 @@ NYSE,ESNT,Essent Group Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,ESRT,"Empire State Realty Trust, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ESS,"Essex Property Trust, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ESTC,Elastic N.V. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,ET,Energy Transfer LP Common Units,Stock,,nasdaq_trader_symbol_directory
-NYSE,ET$I,Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units,Stock,,nasdaq_trader_symbol_directory
 NYSE,ETB,Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,ETD,Ethan Allen Interiors Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
@@ -1228,7 +1221,6 @@ NYSE,GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,
 NYSE,GUT,Gabelli Utility Trust (The) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GUT$C,Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,GVA,Granite Construction Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,GWH,"ESS Tech, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GWRE,"Guidewire Software, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GWW,"W.W. Grainger, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GXO,"GXO Logistics, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2506,9 +2498,7 @@ NYSE,STXV,Strive 1000 Value ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,STZ,"Constellation Brands, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SU,Suncor Energy Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SUI,"Sun Communities, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,SUN,Sunoco LP Common Units representing limited partner interests,Stock,,nasdaq_trader_symbol_directory
 NYSE,SUNB,"Sunbelt Rentals Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,SUNC,"SunocoCorp LLC Common Units, representing limited liability company interests",Stock,,nasdaq_trader_symbol_directory
 NYSE,SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),Stock,,nasdaq_trader_symbol_directory
 NYSE,SVV,"Savers Value Village, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2659,7 +2649,6 @@ NYSE,TVE,Tennessee Valley Authority,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWI,"Titan International, Inc. (DE) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TWLO,Twilio Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TWN,"Taiwan Fund, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,TWOD,Two Harbors Investments Corp 9.375% Senior Notes due 2030,Stock,,nasdaq_trader_symbol_directory
 NYSE,TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",Stock,,nasdaq_trader_symbol_directory
 NYSE,TXNM,"TXNM Energy, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests",Stock,,nasdaq_trader_symbol_directory
@@ -2702,7 +2691,6 @@ NYSE,UP,Wheels Up Experience Inc. Class A Common Stock,Stock,,nasdaq_trader_symb
 NYSE,UPS,"United Parcel Service, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,URI,"United Rentals, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,USA,Liberty All-Star Equity Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,USAC,"USA Compression Partners, LP Common Units Representing Limited Partner Interests",Stock,,nasdaq_trader_symbol_directory
 NYSE,USB,U.S. Bancorp Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,USB$A,"U.S. Bancorp Depositary Shares, Each representing a 1/100th interest in a share of Series A Non-CumulativePerpetual Pfd Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,USB$H,U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B,Stock,,nasdaq_trader_symbol_directory

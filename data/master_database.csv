@@ -337,10 +337,11 @@ VFL,AMEX,abrdn National Municipal Income Fund Common Stock,Stock,False,2026-05-0
 VGZ,AMEX,Vista Gold Corp Common Stock,Stock,True,2026-05-08,,,c0b191741cad8ef4b637
 VIDA,AMEX,VIDA Global Inc. Class A Common Stock,Stock,False,2026-05-12,2026-05-14,Missing from current AMEX source snapshot; reason unavailable,066d7c83eac75c71abcf
 VIDA,AMEX,VIDA Global Inc. Class A Common Stock,Stock,True,2026-05-15,,,066d7c83eac75c71abcf
+VJET,AMEX,"Flyte Aviation, Inc. Common Stock",Stock,True,2026-10-05,,,03eb44b6c6473715bf1b
 VKI,AMEX,Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE),Stock,True,2026-05-08,,,98cd6551e950bda66ba3
 VNRX,AMEX,VolitionRX Limited Common Stock,Stock,True,2026-05-08,,,baceea05bc60fe1a56d8
 VNTG,AMEX,Vantage Corp Class A Ordinary Shares,Stock,True,2026-05-08,,,e0148e6d8093be8c04de
-VTAK,AMEX,"Catheter Precision, Inc. Common Stock",Stock,True,2026-05-08,,,54553c4b069f80437fa3
+VTAK,AMEX,"Catheter Precision, Inc. Common Stock",Stock,False,2026-05-08,2026-10-05,Missing from current AMEX source snapshot; reason unavailable,54553c4b069f80437fa3
 VZLA,AMEX,Vizsla Silver Corp. Common Shares,Stock,True,2026-05-08,,,01da2524c229d954e1fb
 WRN,AMEX,Western Copper and Gold Corporation Common Stock,Stock,True,2026-05-08,,,3c4ced41a4f005db4fd1
 WWR,AMEX,"Westwater Resources, Inc. Common Stock",Stock,True,2026-05-08,,,112b846b2d0a4f0a74b0
@@ -1919,7 +1920,7 @@ DOYU,NASDAQ,DouYu International Holdings Limited - American Depositary Shares,St
 DPRO,NASDAQ,Draganfly Inc. - Common Shares,Stock,True,2026-05-08,,,d995da68ff37b566e850
 DPU,NASDAQ,Top KingWin Ltd - Class A Ordinary Shares,Stock,True,2026-07-16,,,4ddc362701d5f8a60db3
 DPZ,NASDAQ,Domino's Pizza Inc - Common Stock,Stock,True,2026-05-08,,,11dd15a8601234affaee
-DRCT,NASDAQ,"Direct Digital Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,fab8ecd5d145b5e8cb6f
+DRCT,NASDAQ,"Direct Digital Holdings, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-10-05,Missing from current NASDAQ source snapshot; reason unavailable,fab8ecd5d145b5e8cb6f
 DRDB,NASDAQ,Roman DBDR Acquisition Corp. II - Ordinary shares,Stock,True,2026-05-08,,,50c3e0aa41d7526cf348
 DRDBU,NASDAQ,Roman DBDR Acquisition Corp. II - Unit,Stock,True,2026-05-08,,,61fed5760cd314a53229
 DRDBW,NASDAQ,Roman DBDR Acquisition Corp. II - Warrants,Stock,True,2026-05-08,,,205e95827147de61eead
@@ -3171,7 +3172,9 @@ IPFXU,NASDAQ,Inflection Point Acquisition Corp. VI - Units,Stock,True,2026-05-08
 IPFXW,NASDAQ,Inflection Point Acquisition Corp. VI - Warrant,Stock,True,2026-05-18,,,654fd18f574c27fb35e4
 IPGP,NASDAQ,IPG Photonics Corporation - Common Stock,Stock,True,2026-05-08,,,3b798ea042dc602d9e6c
 IPHA,NASDAQ,Innate Pharma S.A. - American Depositary Shares,Stock,True,2026-05-08,,,69ded971d9f2f9e78c97
+IPHX,NASDAQ,Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares,Stock,True,2026-10-05,,,903d8c6c060611a05b0f
 IPHXU,NASDAQ,Inflection Point Acquisition Corp. VIII - Unit,Stock,True,2026-08-28,,,b7f69c12f820cb4de698
+IPHXW,NASDAQ,Inflection Point Acquisition Corp. VIII - Warrant,Stock,True,2026-10-05,,,ccee8ae251b8745ba2f3
 IPKW,NASDAQ,Invesco International BuyBack Achievers ETF,ETF,True,2026-05-08,,,d380f4842181497c331a
 IPM,NASDAQ,Intelligent Protection Management Corp. - Common Stock,Stock,True,2026-05-08,,,ffa276cbe442058a8773
 IPOD,NASDAQ,Dune Acquisition Corporation II - Class A ordinary shares,Stock,False,2026-05-08,2026-05-27,Missing from current NASDAQ source snapshot; reason unavailable,1829ac493f4e3ea452f6
@@ -5090,6 +5093,7 @@ RVYL,NASDAQ,Ryvyl Inc. - Common Stock,Stock,False,2026-05-08,2026-05-13,Missing 
 RWAY,NASDAQ,Runway Growth Finance Corp. - Common Stock,Stock,True,2026-05-08,,,a23802a4b57ad8e5e3e1
 RWAYI,NASDAQ,Runway Growth Finance Corp. - 7.25% Notes due 2031,Stock,True,2026-05-08,,,da3972ef62399af298f9
 RWAYL,NASDAQ,Runway Growth Finance Corp. - 7.50% Notes due 2027,Stock,True,2026-05-08,,,431761ae8c85fc5fd1ba
+RWAYM,NASDAQ,Runway Growth Finance Corp. - 7.75% Notes Due 2031,Stock,True,2026-10-05,,,8e785e8b7ec7bcfed7d1
 RWIN,NASDAQ,Rayliant NxtGen Multifactor International Equity ETF,ETF,True,2026-05-08,,,ddfe1edbcce2edb019b0
 RXRX,NASDAQ,"Recursion Pharmaceuticals, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,6e6b032813628773e6ba
 RXST,NASDAQ,"RxSight, Inc. - Common Stock",Stock,True,2026-05-08,,,f327f604ba8274f4ccb0
@@ -5588,7 +5592,9 @@ TAXT,NASDAQ,Northern Trust Tax-Exempt Bond ETF,ETF,True,2026-05-08,,,20ca5d5afab
 TAYD,NASDAQ,"Taylor Devices, Inc. - Common Stock",Stock,True,2026-05-08,,,46cb97729f6f57820760
 TBBK,NASDAQ,"The Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,03de663580fdde82be48
 TBCH,NASDAQ,Turtle Beach Corporation - Common Stock,Stock,True,2026-05-08,,,9508538bfb7352aef28e
+TBCV,NASDAQ,"Thunder Bridge Capital Partners V, Ltd. - Class A Ordinary Shares",Stock,True,2026-10-05,,,f5661770734641279d29
 TBCVU,NASDAQ,"Thunder Bridge Capital Partners V, Ltd. - Units",Stock,True,2026-08-13,,,3a95e432bc242bd6d7bc
+TBCVW,NASDAQ,"Thunder Bridge Capital Partners V, Ltd. - Warrants",Stock,True,2026-10-05,,,4322057b39aae02fef06
 TBH,NASDAQ,"Brag House Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-01,Missing from current NASDAQ source snapshot; reason unavailable,b268a782cd25ff1ed7f9
 TBIL,NASDAQ,F/m US Treasury 3 Month Bill Fund,ETF,True,2026-05-08,,,1932aca36eca88650e76
 TBLA,NASDAQ,Taboola.com Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,ea9400e7476fbdf6eb44
@@ -6144,8 +6150,8 @@ WAFD,NASDAQ,"WaFd, Inc. - Common Stock",Stock,True,2026-05-08,,,a7aafef41dce29cd
 WAFDP,NASDAQ,"WaFd, Inc. - Depositary Shares",Stock,True,2026-05-08,,,b9a0f41d355e2194d4c1
 WAFU,NASDAQ,Wah Fu Education Group Limited - Ordinary Shares,Stock,True,2026-05-08,,,155f3e2f9c9bfe54e7f9
 WAI,NASDAQ,Top KingWin Ltd - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-16,Missing from current NASDAQ source snapshot; reason unavailable,4ddc362701d5f8a60db3
-WALD,NASDAQ,Waldencast plc - Class A Ordinary Share,Stock,True,2026-05-08,,,6b22e54f176528f000b3
-WALDW,NASDAQ,Waldencast plc - Warrant,Stock,True,2026-05-08,,,d323bc244c8391a826ba
+WALD,NASDAQ,Waldencast plc - Class A Ordinary Share,Stock,False,2026-05-08,2026-10-05,Missing from current NASDAQ source snapshot; reason unavailable,6b22e54f176528f000b3
+WALDW,NASDAQ,Waldencast plc - Warrant,Stock,False,2026-05-08,2026-10-05,Missing from current NASDAQ source snapshot; reason unavailable,d323bc244c8391a826ba
 WAMA,NASDAQ,WisdomTree US Adaptive Moving Average Fund,ETF,True,2026-05-08,,,4763c86868db8c428df5
 WARP,NASDAQ,VanEck Space ETF,ETF,True,2026-05-08,,,1231d9d36fbcc7c01e87
 WASH,NASDAQ,"Washington Trust Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,a3f2da47f14289bfbe15
@@ -6198,7 +6204,7 @@ WINA,NASDAQ,Winmark Corporation - Common Stock,Stock,True,2026-05-08,,,66b3c7334
 WING,NASDAQ,Wingstop Inc. - Common Stock,Stock,True,2026-05-08,,,22244d9163826b306b0b
 WISE,NASDAQ,Themes Generative Artificial Intelligence ETF,ETF,True,2026-05-08,,,c245a8fc55dc005f0ef4
 WIX,NASDAQ,Wix.com Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,5b13aa65ae83e8083efb
-WKEY,NASDAQ,WISeKey International Holding Ltd - American Depositary Shares,Stock,True,2026-05-08,,,858c0b031447c80eacee
+WKEY,NASDAQ,WISeKey International Holding Ltd - American Depositary Shares,Stock,False,2026-05-08,2026-10-05,Missing from current NASDAQ source snapshot; reason unavailable,858c0b031447c80eacee
 WKHS,NASDAQ,"Workhorse Group, Inc. - Common Stock",Stock,True,2026-05-08,,,70a71b06cd62065d5dcb
 WKSP,NASDAQ,"Worksport, Ltd. - Common Stock",Stock,True,2026-05-08,,,1416c024d5c1378d9b9f
 WLAC,NASDAQ,Willow Lane Acquisition Corp. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,cf1b17885e08e5162941
@@ -6223,6 +6229,7 @@ WOK,NASDAQ,WORK Medical Technology Group LTD - Class A Ordinary Shares,Stock,Tru
 WOOD,NASDAQ,iShares Global Timber & Forestry ETF,ETF,True,2026-05-08,,,d558726d03ecbf116887
 WOOF,NASDAQ,"Petco Health and Wellness Company, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,f187dd356ecc8cb48a32
 WPRT,NASDAQ,Westport Fuel Systems Inc - Common Shares,Stock,True,2026-05-08,,,ef33dbaed966fcf700aa
+WQEY,NASDAQ,WISeQey Corp - Ordinary Shares,Stock,True,2026-10-05,,,371005fb930fc6390058
 WRAP,NASDAQ,"Wrap Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,594d5089d45e7ebcf72b
 WRD,NASDAQ,WeRide Inc. - American Depositary Shares,Stock,True,2026-05-08,,,660cf62d72c6af0a75ed
 WRLD,NASDAQ,World Acceptance Corporation - Common Stock,Stock,True,2026-05-08,,,9aeeb800751c552d4257
@@ -6757,7 +6764,8 @@ BBY,NYSE,"Best Buy Co., Inc. Common Stock",Stock,True,2026-05-08,,,06f015fc99ca5
 BC,NYSE,Brunswick Corporation Common Stock,Stock,True,2026-05-08,,,b19025bc3507556fc9c8
 BC$C,NYSE,Brunswick Corporation 6.375% Notes due 2049,Stock,True,2026-05-08,,,4e8cf64c660e5b572ba9
 BCAT,NYSE,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,a554cf3fa5b150a34098
-BCAT.V,NYSE,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",Stock,True,2026-09-24,,,18e53c0a989c3bbbfcef
+BCAT.R,NYSE,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",Stock,True,2026-10-05,,,ca3a868b34c605dd19d2
+BCAT.V,NYSE,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",Stock,False,2026-09-24,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,18e53c0a989c3bbbfcef
 BCC,NYSE,"Boise Cascade, L.L.C. Common Stock",Stock,True,2026-05-08,,,ac7847ac5b0a0d7b91dd
 BCE,NYSE,"BCE, Inc. Common Stock",Stock,True,2026-05-08,,,fc1e9cc75936d3c516a1
 BCEM,NYSE,Baron Emerging Markets Select ETF,ETF,True,2026-05-08,,,c512acad1dc9875b9a52
@@ -7212,9 +7220,9 @@ DBD,NYSE,Diebold Nixdorf Incorporated Common stock,Stock,True,2026-05-08,,,bf9a7
 DBI,NYSE,Designer Brands Inc. Class A Common Stock,Stock,True,2026-05-08,,,33c042eaaa05a288a493
 DBL,NYSE,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,be72809cfc95bb13e28e
 DBRG,NYSE,"DigitalBridge Group, Inc.",Stock,False,2026-05-08,2026-09-30,Missing from current NYSE source snapshot; reason unavailable,8f99dee9a5fcf6442289
-DBRG$H,NYSE,"DigitalBridge Group, Inc. 7.125% Series H",Stock,True,2026-05-08,,,ca2e8c5063cd78746f44
-DBRG$I,NYSE,"DigitalBridge Group, Inc. 7.15% Series I",Stock,True,2026-05-08,,,bae8cf4e75c52b6b6ca2
-DBRG$J,NYSE,"DigitalBridge Group, Inc. 7.125% Series J",Stock,True,2026-05-08,,,d1432f83a05f232688c8
+DBRG$H,NYSE,"DigitalBridge Group, Inc. 7.125% Series H",Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,ca2e8c5063cd78746f44
+DBRG$I,NYSE,"DigitalBridge Group, Inc. 7.15% Series I",Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,bae8cf4e75c52b6b6ca2
+DBRG$J,NYSE,"DigitalBridge Group, Inc. 7.125% Series J",Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,d1432f83a05f232688c8
 DCBG,NYSE,"Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",Stock,False,2026-05-08,2026-06-02,Listing metadata changed,5a75810f6c8e8215b8dd
 DCBG,NYSE,"Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes",Stock,True,2026-06-02,,,2f7c58986c67d57cab08
 DCH,NYSE,Dauch Corporation Common Stock,Stock,True,2026-05-08,,,b7ea8cb1007f6cca00be
@@ -7227,8 +7235,8 @@ DCOM$,NYSE,"Dime Commercial Bancshares, Inc. Preferred Stock, Series A",Stock,Tr
 DD,NYSE,"DuPont de Nemours, Inc. Common Stock",Stock,True,2026-05-08,,,80a2ad6fc11f66adc72c
 DDD,NYSE,3D Systems Corporation Common Stock,Stock,True,2026-05-08,,,d504ce2b1a5c58851aeb
 DDL,NYSE,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),Stock,True,2026-05-08,,,70ee84a78c4d86be8e0d
-DDS,NYSE,"Dillard's, Inc. Common Stock",Stock,True,2026-05-08,,,0e843397478201dd71bc
-DDT,NYSE,Dillard's Capital Trust I,Stock,True,2026-05-08,,,1aed6ae85d123078a83a
+DDS,NYSE,"Dillard's, Inc. Common Stock",Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,0e843397478201dd71bc
+DDT,NYSE,Dillard's Capital Trust I,Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,1aed6ae85d123078a83a
 DE,NYSE,Deere & Company Common Stock,Stock,True,2026-05-08,,,28c2b6f561a0b44157c7
 DEA,NYSE,"Easterly Government Properties, Inc. Common Stock",Stock,True,2026-05-08,,,d7cee57e600ec8ed335a
 DEC,NYSE,Diversified Energy Company Common Stock,Stock,True,2026-05-08,,,87e7756de30dc9a47d83
@@ -7429,8 +7437,8 @@ ESNT,NYSE,Essent Group Ltd. Common Shares,Stock,True,2026-05-08,,,5b1d42db45954f
 ESRT,NYSE,"Empire State Realty Trust, Inc. Class A Common Stock",Stock,True,2026-05-08,,,2d031a01ec2d364751b0
 ESS,NYSE,"Essex Property Trust, Inc. Common Stock",Stock,True,2026-05-08,,,70194a41110da88ee8d0
 ESTC,NYSE,Elastic N.V. Ordinary Shares,Stock,True,2026-05-08,,,3206ea197ff04502b6f4
-ET,NYSE,Energy Transfer LP Common Units,Stock,True,2026-05-08,,,eb8a06dfc7ee85db1b09
-ET$I,NYSE,Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units,Stock,True,2026-05-08,,,ace27c11036db198f682
+ET,NYSE,Energy Transfer LP Common Units,Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,eb8a06dfc7ee85db1b09
+ET$I,NYSE,Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units,Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,ace27c11036db198f682
 ETB,NYSE,Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,04c62efb239ecc3d8850
 ETD,NYSE,Ethan Allen Interiors Inc. Common Stock,Stock,True,2026-05-08,,,399f54da0794a49a18cd
 ETG,NYSE,Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,a1932e5acff2ce69823c
@@ -7725,7 +7733,7 @@ GUG,NYSE,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,
 GUT,NYSE,Gabelli Utility Trust (The) Common Stock,Stock,True,2026-05-08,,,b0cb1a57bb99e5cb707a
 GUT$C,NYSE,Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares,Stock,True,2026-05-08,,,9c4e89c275e43793067d
 GVA,NYSE,Granite Construction Incorporated Common Stock,Stock,True,2026-05-08,,,7de1fac06321aae47347
-GWH,NYSE,"ESS Tech, Inc. Common Stock",Stock,True,2026-05-08,,,3da6adb65fa236b18d44
+GWH,NYSE,"ESS Tech, Inc. Common Stock",Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,3da6adb65fa236b18d44
 GWH.W,NYSE,"ESS Tech, Inc. Warrant",Stock,False,2026-05-08,2026-07-02,Missing from current NYSE source snapshot; reason unavailable,8494323a9b6c50f4bdcc
 GWRE,NYSE,"Guidewire Software, Inc. Common Stock",Stock,True,2026-05-08,,,66b074cfed21ea920f96
 GWW,NYSE,"W.W. Grainger, Inc. Common Stock",Stock,True,2026-05-08,,,f930757f64a098c3e23d
@@ -9072,9 +9080,9 @@ STXV,NYSE,Strive 1000 Value ETF,ETF,True,2026-05-08,,,555d375b2ca7cbf045d2
 STZ,NYSE,"Constellation Brands, Inc. Common Stock",Stock,True,2026-05-08,,,3b71b8773547d4dc360f
 SU,NYSE,Suncor Energy Inc. Common Stock,Stock,True,2026-05-08,,,faac7cd1c76d547082fe
 SUI,NYSE,"Sun Communities, Inc. Common Stock",Stock,True,2026-05-08,,,f162109951409036742a
-SUN,NYSE,Sunoco LP Common Units representing limited partner interests,Stock,True,2026-05-08,,,3e2d31db2b67e1d24717
+SUN,NYSE,Sunoco LP Common Units representing limited partner interests,Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,3e2d31db2b67e1d24717
 SUNB,NYSE,"Sunbelt Rentals Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,1ff8c293397ef399bc76
-SUNC,NYSE,"SunocoCorp LLC Common Units, representing limited liability company interests",Stock,True,2026-05-08,,,065f5b23c98f4890bde0
+SUNC,NYSE,"SunocoCorp LLC Common Units, representing limited liability company interests",Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,065f5b23c98f4890bde0
 SUPV,NYSE,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,Stock,True,2026-05-08,,,4181098dfc93e2e4ddf3
 SUZ,NYSE,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),Stock,True,2026-05-08,,,890fe6bd252f0e784def
 SVV,NYSE,"Savers Value Village, Inc. Common Stock",Stock,True,2026-05-08,,,6478cc9ae06e308ff1c4
@@ -9238,7 +9246,7 @@ TWO,NYSE,Two Harbors Investment Corp,Stock,False,2026-08-04,2026-08-25,Missing f
 TWO$A,NYSE,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),Stock,False,2026-05-08,2026-09-28,Missing from current NYSE source snapshot; reason unavailable,5865b22ce825a68a62c3
 TWO$B,NYSE,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,False,2026-05-08,2026-09-28,Missing from current NYSE source snapshot; reason unavailable,238c79d6949224b7bb5c
 TWO$C,NYSE,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Stock,False,2026-05-08,2026-09-28,Missing from current NYSE source snapshot; reason unavailable,088bd9bfa7bb611d600a
-TWOD,NYSE,Two Harbors Investments Corp 9.375% Senior Notes due 2030,Stock,True,2026-05-08,,,a86bd7d774a4bd54bfb3
+TWOD,NYSE,Two Harbors Investments Corp 9.375% Senior Notes due 2030,Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,a86bd7d774a4bd54bfb3
 TX,NYSE,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",Stock,True,2026-05-08,,,dfc10c0be42443b19913
 TXNM,NYSE,"TXNM Energy, Inc. Common Stock",Stock,True,2026-05-08,,,848c27cc2c04b3f8bd8e
 TXO,NYSE,"TXO Partners, L.P. Common Units Representing Limited Partner Interests",Stock,True,2026-05-08,,,275bcb94a4fb192e1ba4
@@ -9283,7 +9291,7 @@ UP,NYSE,Wheels Up Experience Inc. Class A Common Stock,Stock,True,2026-05-08,,,c
 UPS,NYSE,"United Parcel Service, Inc. Common Stock",Stock,True,2026-05-08,,,86af8e9b051225b97815
 URI,NYSE,"United Rentals, Inc. Common Stock",Stock,True,2026-05-08,,,b4685e1863337255e3b9
 USA,NYSE,Liberty All-Star Equity Fund Common Stock,Stock,True,2026-05-08,,,70ef991f69c92f2776f9
-USAC,NYSE,"USA Compression Partners, LP Common Units Representing Limited Partner Interests",Stock,True,2026-05-08,,,09785b1d00c88a1bf6ff
+USAC,NYSE,"USA Compression Partners, LP Common Units Representing Limited Partner Interests",Stock,False,2026-05-08,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,09785b1d00c88a1bf6ff
 USB,NYSE,U.S. Bancorp Common Stock,Stock,True,2026-05-08,,,b77a98afc48b0757a265
 USB$A,NYSE,"U.S. Bancorp Depositary Shares, Each representing a 1/100th interest in a share of Series A Non-CumulativePerpetual Pfd Stock",Stock,True,2026-05-08,,,aafcacf7c208d03b2857
 USB$H,NYSE,U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B,Stock,True,2026-05-08,,,ac9b32cc3daa0bf1f352

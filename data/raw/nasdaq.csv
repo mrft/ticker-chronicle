@@ -1447,7 +1447,6 @@ NASDAQ,DOYU,DouYu International Holdings Limited - American Depositary Shares,St
 NASDAQ,DPRO,Draganfly Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DPU,Top KingWin Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DPZ,Domino's Pizza Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DRCT,"Direct Digital Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DRDB,Roman DBDR Acquisition Corp. II - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DRDBU,Roman DBDR Acquisition Corp. II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DRDBW,Roman DBDR Acquisition Corp. II - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -2605,7 +2604,9 @@ NASDAQ,IPFXU,Inflection Point Acquisition Corp. VI - Units,Stock,,nasdaq_trader_
 NASDAQ,IPFXW,Inflection Point Acquisition Corp. VI - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPGP,IPG Photonics Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPHA,Innate Pharma S.A. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IPHX,Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPHXU,Inflection Point Acquisition Corp. VIII - Unit,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IPHXW,Inflection Point Acquisition Corp. VIII - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPKW,Invesco International BuyBack Achievers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IPM,Intelligent Protection Management Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPSC,"Century Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4381,6 +4382,7 @@ NASDAQ,RVSNW,Rail Vision Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RWAY,Runway Growth Finance Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RWAYI,Runway Growth Finance Corp. - 7.25% Notes due 2031,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RWAYL,Runway Growth Finance Corp. - 7.50% Notes due 2027,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RWAYM,Runway Growth Finance Corp. - 7.75% Notes Due 2031,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RWIN,Rayliant NxtGen Multifactor International Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RXRX,"Recursion Pharmaceuticals, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RXST,"RxSight, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4842,7 +4844,9 @@ NASDAQ,TAXT,Northern Trust Tax-Exempt Bond ETF,ETF,,nasdaq_trader_symbol_directo
 NASDAQ,TAYD,"Taylor Devices, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBBK,"The Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBCH,Turtle Beach Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TBCV,"Thunder Bridge Capital Partners V, Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBCVU,"Thunder Bridge Capital Partners V, Ltd. - Units",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TBCVW,"Thunder Bridge Capital Partners V, Ltd. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBIL,F/m US Treasury 3 Month Bill Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TBLA,Taboola.com Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TBLD,Thornburg Income Builder Opportunities Trust - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
@@ -5358,8 +5362,6 @@ NASDAQ,WABF,Western Asset Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WAFD,"WaFd, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WAFDP,"WaFd, Inc. - Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WAFU,Wah Fu Education Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WALD,Waldencast plc - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WALDW,Waldencast plc - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WAMA,WisdomTree US Adaptive Moving Average Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WARP,VanEck Space ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WASH,"Washington Trust Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5408,7 +5410,6 @@ NASDAQ,WINA,Winmark Corporation - Common Stock,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,WING,Wingstop Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WISE,Themes Generative Artificial Intelligence ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WIX,Wix.com Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WKEY,WISeKey International Holding Ltd - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WKHS,"Workhorse Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WKSP,"Worksport, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WLCO,Wilco 63 Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -5430,6 +5431,7 @@ NASDAQ,WOK,WORK Medical Technology Group LTD - Class A Ordinary Shares,Stock,,na
 NASDAQ,WOOD,iShares Global Timber & Forestry ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WOOF,"Petco Health and Wellness Company, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WPRT,Westport Fuel Systems Inc - Common Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,WQEY,WISeQey Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WRAP,"Wrap Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WRD,WeRide Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WRLD,World Acceptance Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
