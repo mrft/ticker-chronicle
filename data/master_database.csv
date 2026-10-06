@@ -1748,6 +1748,8 @@ CTAAU,NASDAQ,ClearThink 1 Acquisition Corp. - Units,Stock,True,2026-05-08,,,7a4a
 CTAS,NASDAQ,Cintas Corporation - Common Stock,Stock,True,2026-05-08,,,0f2402b86d06c1d69de5
 CTBI,NASDAQ,"Community Trust Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,c2221295d2ae8cccfaca
 CTEC,NASDAQ,Global X ClimateTech ETF,ETF,True,2026-05-08,,,b2da252df2fe4f41a5de
+CTGG,NASDAQ,Qwest Corporation - 6.500% Notes due 2051,Stock,True,2026-10-06,,,800d0e2a3d63a9962ec0
+CTHH,NASDAQ,Qwest Corporation - 6.750% Notes due 2052,Stock,True,2026-10-06,,,61297b18942d2be5a79b
 CTKB,NASDAQ,"Cytek Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,7217fecbc03ffd11992f
 CTLP,NASDAQ,"Cantaloupe, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-11,Missing from current NASDAQ source snapshot; reason unavailable,ca36e6098124c3daecf0
 CTMX,NASDAQ,"CytomX Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,4e3bf94af19ffddd9f0c
@@ -3495,7 +3497,7 @@ LEGN,NASDAQ,Legend Biotech Corporation - American Depositary Shares,Stock,True,2
 LEGR,NASDAQ,First Trust Indxx Innovative Transaction & Process ETF,ETF,True,2026-05-08,,,9592b5148ebc69cecfb9
 LEND,NASDAQ,SEI High Yield Bond & Alternative Credit ETF,ETF,True,2026-05-18,,,8bf2639480082b6dc839
 LENZ,NASDAQ,"LENZ Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,2fdb00fb2017097f1ac5
-LESL,NASDAQ,"Leslie's, Inc. - Common Stock",Stock,True,2026-05-08,,,e79eb0f2a034d32cc379
+LESL,NASDAQ,"Leslie's, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-06,Missing from current NASDAQ source snapshot; reason unavailable,e79eb0f2a034d32cc379
 LEXI,NASDAQ,Alexis Practical Tactical ETF,ETF,True,2026-05-08,,,0f88da859cb75218b23c
 LEXX,NASDAQ,Lexaria Bioscience Corp. - Common Stock,Stock,True,2026-05-08,,,8a42ea7ddc32b1c6e5ca
 LFAC,NASDAQ,Leapfrog Acquisition Corporation - Class A Ordinary Shares,Stock,True,2026-05-08,,,e6d02320de0378b7f9cd
@@ -3639,6 +3641,7 @@ LUCY,NASDAQ,"Innovative Eyewear, Inc. - Common Stock",Stock,True,2026-05-08,,,90
 LUCYW,NASDAQ,"Innovative Eyewear, Inc. - Warrants",Stock,True,2026-05-08,,,3ec4492b9864756b08a7
 LULG,NASDAQ,Leverage Shares 2X Long LULU Daily ETF,ETF,True,2026-05-08,,,ffeb1d526702e3db4597
 LULU,NASDAQ,lululemon athletica inc. - Common Stock,Stock,True,2026-05-08,,,3f59fe4a39a9a853984f
+LUMN,NASDAQ,"Lumen Technologies, Inc. - Common Stock",Stock,True,2026-10-06,,,3a78f391c384f7eea1eb
 LUNG,NASDAQ,Pulmonx Corporation - Common Stock,Stock,True,2026-05-08,,,25efe8ec82829bd955e3
 LUNR,NASDAQ,"Intuitive Machines, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,de5c12ed6fe65c4f9dbd
 LVDS,NASDAQ,JPMorgan Fundamental Data Science Large Value ETF,ETF,True,2026-05-08,,,0ad10ef099a0bea75eaf
@@ -4087,7 +4090,7 @@ NHIVU,NASDAQ,NewHold Investment Corp IV - Units,Stock,True,2026-05-08,,,6446708c
 NHIVW,NASDAQ,NewHold Investment Corp IV - Warrants,Stock,True,2026-06-08,,,618f70da04aabb0640a4
 NHP,NASDAQ,"National Healthcare Properties, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,299ca10fb56758ec16d6
 NHPAP,NASDAQ,"National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,False,2026-05-08,2026-09-04,Missing from current NASDAQ source snapshot; reason unavailable,2bb934213968a7c297de
-NHPBP,NASDAQ,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",Stock,True,2026-05-08,,,636b8c4e08d050ada7e5
+NHPBP,NASDAQ,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",Stock,False,2026-05-08,2026-10-06,Missing from current NASDAQ source snapshot; reason unavailable,636b8c4e08d050ada7e5
 NHTC,NASDAQ,Natural Health Trends Corp. - Common Stock,Stock,True,2026-05-08,,,92501bd87c982bfde906
 NICE,NASDAQ,NICE Ltd - American Depositary Shares each representing one Ordinary Share,Stock,True,2026-05-08,,,dcd647d9895ea1751464
 NICM,NASDAQ,Nicola Mining Inc. - American Depositary Shares,Stock,True,2026-05-08,,,7c57d275497239971de3
@@ -4470,6 +4473,7 @@ PATN,NASDAQ,Pacer Nasdaq International Patent Leaders ETF,ETF,True,2026-05-08,,,
 PAVM,NASDAQ,PAVmed Inc. - Common Stock,Stock,True,2026-05-08,,,f13726dc9f1ab9468889
 PAVS,NASDAQ,Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,36c5d929f116569f8fdb
 PAX,NASDAQ,Patria Investments Limited - Class A Common Shares,Stock,True,2026-05-08,,,6ab71b1519b30b6a24d5
+PAXGU,NASDAQ,Pine Tree Acquisition Corp. - Units,Stock,True,2026-10-06,,,a50023bfee526ea0440b
 PAYO,NASDAQ,Payoneer Global Inc. - Common Stock,Stock,True,2026-05-08,,,e2a8af5d15b9e4ba6b77
 PAYP,NASDAQ,PayPay Corporation - American Depository Shares,Stock,True,2026-05-08,,,1159487fb724694e844e
 PAYS,NASDAQ,"Paysign, Inc. - Common Stock",Stock,True,2026-05-08,,,c46582d0b7460b0248e1
@@ -4709,7 +4713,7 @@ PSET,NASDAQ,Principal Quality ETF,ETF,True,2026-05-08,,,607bb85e1907c58d5a4e
 PSHG,NASDAQ,Performance Shipping Inc. - Common Shares,Stock,True,2026-05-08,,,ca667170d5c13bf4a85c
 PSIG,NASDAQ,PS International Group Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,7780c1946a3bac717af1
 PSIX,NASDAQ,"Power Solutions International, Inc. - Common Stock",Stock,True,2026-05-08,,,971d58aa26f6bc80755a
-PSKY,NASDAQ,Paramount Skydance Corporation - Class B Common Stock,Stock,True,2026-05-08,,,900290b1df15978d95ba
+PSKY,NASDAQ,Paramount Skydance Corporation - Class B Common Stock,Stock,False,2026-05-08,2026-10-06,Other delisting reason: Details unavailable (source: FMP Delisted API),900290b1df15978d95ba
 PSL,NASDAQ,Invesco Dorsey Wright Consumer Staples Momentum ETF,ETF,True,2026-05-08,,,61a0c394420589de433c
 PSMT,NASDAQ,"PriceSmart, Inc. - Common Stock",Stock,True,2026-05-08,,,bbf45e020832961a99c2
 PSNL,NASDAQ,"Personalis, Inc. - Common Stock",Stock,True,2026-05-08,,,b502f1ea08bcb4c54282
@@ -4840,7 +4844,7 @@ QQXL,NASDAQ,ProShares Ultra QQQ Top 30,ETF,True,2026-05-08,,,e2435d2dae2135551c4
 QQXT,NASDAQ,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,ETF,True,2026-05-08,,,7a76e5fcb73e397bf832
 QRHC,NASDAQ,Quest Resource Holding Corporation - Common Stock,Stock,True,2026-05-08,,,c15c01ced5a1b8e17cbf
 QRMI,NASDAQ,Global X NASDAQ 100 Risk Managed Income ETF,ETF,True,2026-05-08,,,bbf4d6eeb920569db0e8
-QRVO,NASDAQ,"Qorvo, Inc. - Common Stock",Stock,True,2026-05-08,,,d922f2f86e13fd3dcd54
+QRVO,NASDAQ,"Qorvo, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-06,Missing from current NASDAQ source snapshot; reason unavailable,d922f2f86e13fd3dcd54
 QS,NASDAQ,QuantumScape Corporation - Common Stock,Stock,True,2026-05-08,,,63b84a334bd4fa8b85b8
 QSEA,NASDAQ,Quartzsea Acquisition Corporation - Ordinary Shares,Stock,True,2026-05-08,,,058214d08d90da563fb3
 QSEAR,NASDAQ,Quartzsea Acquisition Corporation - Rights,Stock,True,2026-05-08,,,2ad8cb5a80245ce69013
@@ -7171,8 +7175,8 @@ CTEST.O,NYSE,NYSE Test One Common Stock,Stock,True,2026-05-08,,,1775274fa7d55518
 CTEST.S,NYSE,NYSE Test Six Common Stock,Stock,True,2026-05-08,,,4c8a3be5a7b543b1640f
 CTEST.V,NYSE,NYSE Test One Common Stock,Stock,True,2026-05-08,,,1775274fa7d555189f3c
 CTEV,NYSE,Claritev Corporation Class A Common Stock,Stock,True,2026-05-08,,,1eb476ee97fb6f9c539d
-CTGG,NYSE,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),Stock,True,2026-06-17,,,4078613ca2dc71ae659c
-CTHH,NYSE,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),Stock,True,2026-06-17,,,6296573cdd763580e298
+CTGG,NYSE,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),Stock,False,2026-06-17,2026-10-06,Missing from current NYSE source snapshot; reason unavailable,4078613ca2dc71ae659c
+CTHH,NYSE,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),Stock,False,2026-06-17,2026-10-06,Missing from current NYSE source snapshot; reason unavailable,6296573cdd763580e298
 CTO,NYSE,"CTO Realty Growth, Inc. Common Stock",Stock,True,2026-05-08,,,da11b3c56f524ed0889e
 CTO$A,NYSE,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,cb7a0ea974163700351e
 CTOS,NYSE,"Custom Truck One Source, Inc. Common Stock",Stock,True,2026-05-08,,,dbf78ca95e7406dc697d
@@ -8103,7 +8107,7 @@ LTH,NYSE,"Life Time Group Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,7
 LTM,NYSE,"LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)",Stock,True,2026-05-08,,,ca08acfb28822d4a74c6
 LU,NYSE,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",Stock,True,2026-05-08,,,1f833020f018074e8cd7
 LUCK,NYSE,Lucky Strike Entertainment Corporation Class A Common Stock,Stock,True,2026-05-08,,,fb9da95b14a96b366f3f
-LUMN,NYSE,"Lumen Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,5f4ebc1f14de21aa46a1
+LUMN,NYSE,"Lumen Technologies, Inc. Common Stock",Stock,False,2026-05-08,2026-10-06,Missing from current NYSE source snapshot; reason unavailable,5f4ebc1f14de21aa46a1
 LUV,NYSE,Southwest Airlines Company Common Stock,Stock,True,2026-05-08,,,e35c3060480f09449436
 LUXE,NYSE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",Stock,True,2026-05-08,,,831b3acfe8873ad5ea3e
 LVS,NYSE,Las Vegas Sands Corp. Common Stock,Stock,True,2026-05-08,,,ac08893992b91fa3bac6
@@ -8964,6 +8968,7 @@ SKLZ,NYSE,Skillz Inc. Class A Common Stock,Stock,False,2026-05-08,2026-06-22,Oth
 SKM,NYSE,"SK Telecom Co., Ltd. Common Stock",Stock,True,2026-05-08,,,d07e488482c402dbbdb9
 SKT,NYSE,Tanger Inc. Common Stock,Stock,True,2026-05-08,,,8dea9d5e400fd0277412
 SKY,NYSE,"Champion Homes, Inc. Common Stock",Stock,True,2026-05-08,,,2f5f0fbe01b270999981
+SKYD,NYSE,Skydance Corporation Class B Common Stock,Stock,True,2026-10-06,,,89d5f931b60e655ce495
 SKYH,NYSE,Sky Harbour Group Corporation Class A Common Stock,Stock,True,2026-05-08,,,0aabe04dc4dc979e043e
 SKYH.W,NYSE,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,2eacef7bb697988b2868
 SLAI,NYSE,SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares),Stock,False,2026-05-08,2026-07-06,Listing metadata changed,27cb70a725ed1527b938
@@ -9309,7 +9314,7 @@ UTZ,NYSE,Utz Brands Inc Class A Common Stock,Stock,True,2026-05-08,,,46b175c1f1b
 UVE,NYSE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,Stock,True,2026-05-08,,,a36f36d820ecd58e3a60
 UVV,NYSE,Universal Corporation Common Stock,Stock,True,2026-05-08,,,f878af8cded5bf545aa1
 UWMC,NYSE,UWM Holdings Corporation Class A Common Stock,Stock,True,2026-05-08,,,91c6ad82caa5c9658e4b
-UWMC.V,NYSE,"UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",Stock,True,2026-10-01,,,30b351906c36813c85ad
+UWMC.V,NYSE,"UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",Stock,False,2026-10-01,2026-10-06,Missing from current NYSE source snapshot; reason unavailable,30b351906c36813c85ad
 UZD,NYSE,"Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069",Stock,True,2026-05-08,,,0e91ef01847cabfb6261
 UZE,NYSE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock,True,2026-05-08,,,3580807f3510e8f51780
 UZF,NYSE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock,True,2026-05-08,,,3580807f3510e8f51780

@@ -697,8 +697,6 @@ NYSE,CTEST.O,NYSE Test One Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CTEST.S,NYSE Test Six Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CTEST.V,NYSE Test One Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CTEV,Claritev Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,CTGG,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),Stock,,nasdaq_trader_symbol_directory
-NYSE,CTHH,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),Stock,,nasdaq_trader_symbol_directory
 NYSE,CTO,"CTO Realty Growth, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CTO$A,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CTOS,"Custom Truck One Source, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1576,7 +1574,6 @@ NYSE,LTH,"Life Time Group Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symb
 NYSE,LTM,"LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)",Stock,,nasdaq_trader_symbol_directory
 NYSE,LU,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,LUMN,"Lumen Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LUV,Southwest Airlines Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,LVS,Las Vegas Sands Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2387,6 +2384,7 @@ NYSE,SKIL,Skillsoft Corp. Class A Common Stock,Stock,,nasdaq_trader_symbol_direc
 NYSE,SKM,"SK Telecom Co., Ltd. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SKT,Tanger Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKY,"Champion Homes, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,SKYD,Skydance Corporation Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKYH,Sky Harbour Group Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,SLB,SLB Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2708,7 +2706,6 @@ NYSE,UTZ,Utz Brands Inc Class A Common Stock,Stock,,nasdaq_trader_symbol_directo
 NYSE,UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,UVV,Universal Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,UWMC,UWM Holdings Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,UWMC.V,"UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,UZD,"Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069",Stock,,nasdaq_trader_symbol_directory
 NYSE,UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock,,nasdaq_trader_symbol_directory
 NYSE,UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",Stock,,nasdaq_trader_symbol_directory

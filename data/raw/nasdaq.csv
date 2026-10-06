@@ -1290,6 +1290,8 @@ NASDAQ,CTAAU,ClearThink 1 Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_
 NASDAQ,CTAS,Cintas Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTBI,"Community Trust Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTEC,Global X ClimateTech ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,CTGG,Qwest Corporation - 6.500% Notes due 2051,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CTHH,Qwest Corporation - 6.750% Notes due 2052,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTKB,"Cytek Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTMX,"CytomX Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CTNM,"Contineum Therapeutics, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
@@ -2892,7 +2894,6 @@ NASDAQ,LEGN,Legend Biotech Corporation - American Depositary Shares,Stock,,nasda
 NASDAQ,LEGR,First Trust Indxx Innovative Transaction & Process ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LEND,SEI High Yield Bond & Alternative Credit ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LENZ,"LENZ Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LESL,"Leslie's, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LEXI,Alexis Practical Tactical ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LEXX,Lexaria Bioscience Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LFAC,Leapfrog Acquisition Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3018,6 +3019,7 @@ NASDAQ,LUCY,"Innovative Eyewear, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,LUCYW,"Innovative Eyewear, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LULG,Leverage Shares 2X Long LULU Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LULU,lululemon athletica inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LUMN,"Lumen Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LUNG,Pulmonx Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LUNR,"Intuitive Machines, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LVDS,JPMorgan Fundamental Data Science Large Value ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3438,7 +3440,6 @@ NASDAQ,NHIV,NewHold Investment Corp IV - Class A Ordinary Shares,Stock,,nasdaq_t
 NASDAQ,NHIVU,NewHold Investment Corp IV - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHIVW,NewHold Investment Corp IV - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHP,"National Healthcare Properties, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NHPBP,"National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHTC,Natural Health Trends Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NICE,NICE Ltd - American Depositary Shares each representing one Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NICM,Nicola Mining Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3792,6 +3793,7 @@ NASDAQ,PATN,Pacer Nasdaq International Patent Leaders ETF,ETF,,nasdaq_trader_sym
 NASDAQ,PAVM,PAVmed Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PAVS,Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PAX,Patria Investments Limited - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PAXGU,Pine Tree Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PAYO,Payoneer Global Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PAYP,PayPay Corporation - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PAYS,"Paysign, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4025,7 +4027,6 @@ NASDAQ,PSET,Principal Quality ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PSHG,Performance Shipping Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSIG,PS International Group Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSIX,"Power Solutions International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PSKY,Paramount Skydance Corporation - Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSL,Invesco Dorsey Wright Consumer Staples Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PSMT,"PriceSmart, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSNL,"Personalis, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4150,7 +4151,6 @@ NASDAQ,QQXL,ProShares Ultra QQQ Top 30,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QRHC,Quest Resource Holding Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QRMI,Global X NASDAQ 100 Risk Managed Income ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,QRVO,"Qorvo, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QS,QuantumScape Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QSEA,Quartzsea Acquisition Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QSEAR,Quartzsea Acquisition Corporation - Rights,Stock,,nasdaq_trader_symbol_directory
