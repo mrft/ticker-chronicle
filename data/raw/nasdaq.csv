@@ -380,7 +380,6 @@ NASDAQ,ARAI,Arrive AI Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARAY,Accuray Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARBB,ARB IOT Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARBE,Arbe Robotics Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ARBEW,Arbe Robotics Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARBK,Argo Blockchain plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARCB,ArcBest Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ARCC,Ares Capital Corporation - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
@@ -560,7 +559,8 @@ NASDAQ,BASV,Brown Advisory Sustainable Value ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,BATRA,"Atlanta Braves Holdings, Inc. - Series A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BATRK,"Atlanta Braves Holdings, Inc. - Series C Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBB,CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,BBBYW,"Neighborhood Intelligence, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BBCI,Bradbury Capital Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BBCIW,Bradbury Capital Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBCP,"Concrete Pumping Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBGI,"Beasley Broadcast Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBH,VanEck Biotech ETF,ETF,,nasdaq_trader_symbol_directory
@@ -696,7 +696,6 @@ NASDAQ,BL,"BlackLine, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLBD,Blue Bird Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLCR,iShares Large Cap Core Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BLDP,"Ballard Power Systems, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BLFS,"BioLife Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLIN,"Bridgeline Digital, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLIV,BeLive Holdings - ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLKB,"Blackbaud, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2511,8 +2510,6 @@ NASDAQ,IJT,iShares S&P SmallCap 600 Growth ETF,ETF,,nasdaq_trader_symbol_directo
 NASDAQ,IKT,"Inhibikase Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ILAG,Intelligent Living Application Group Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ILIT,iShares Lithium Miners and Producers ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,ILLR,Triller Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ILLRW,Triller Group Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ILLU,Illumination Acquisition Corp I - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ILLUU,Illumination Acquisition Corp I - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ILLUW,Illumination Acquisition Corp I - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -4585,7 +4582,6 @@ NASDAQ,SLN,Silence Therapeutics Plc - American Depository Share,Stock,,nasdaq_tr
 NASDAQ,SLNG,"Stabilis Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLNH,"Soluna Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLNHP,"Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SLP,"Simulations Plus, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SLRC,SLR Investment Corp. - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLS,"SELLAS Life Sciences Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4677,9 +4673,6 @@ NASDAQ,SPEGU,Silver Pegasus Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_
 NASDAQ,SPFI,"South Plains Financial, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SPHL,Springview Holdings Ltd - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SPIT,F/m Emerald Special Situations ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,SPKL,Spark I Acquisition Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SPKLU,Spark I Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SPKLW,Spark I Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SPOG,Leverage Shares 2X Long SPOT Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SPOK,"Spok Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SPPL,SIMPPLE LTD. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -5370,7 +5363,6 @@ NASDAQ,WATT,Energous Corporation - Common Stock,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,WAVE,Eco Wave Power Global AB (publ) - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WAY,Waystar Holding Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WB,Weibo Corporation - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WBD,"Warner Bros. Discovery, Inc. - Series A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WBTN,WEBTOON Entertainment Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WBUY,WEBUY GLOBAL LTD. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WCBR,WisdomTree Cybersecurity Fund,ETF,,nasdaq_trader_symbol_directory
@@ -5430,6 +5422,7 @@ NASDAQ,WNW,Meiwu Technology Company Limited - Ordinary Shares,Stock,,nasdaq_trad
 NASDAQ,WOK,WORK Medical Technology Group LTD - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WOOD,iShares Global Timber & Forestry ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WOOF,"Petco Health and Wellness Company, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,WORX,SCWorx Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WPRT,Westport Fuel Systems Inc - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WQEY,WISeQey Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WRAP,"Wrap Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory

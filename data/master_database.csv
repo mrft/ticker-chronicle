@@ -768,7 +768,7 @@ ARAI,NASDAQ,Arrive AI Inc. - Common Stock,Stock,True,2026-05-08,,,0aab3ac0a36f7a
 ARAY,NASDAQ,Accuray Incorporated - Common Stock,Stock,True,2026-05-08,,,d47c86f9b946edd06be5
 ARBB,NASDAQ,ARB IOT Group Limited - Ordinary Shares,Stock,True,2026-05-08,,,80e5f5dc4c4806061fa0
 ARBE,NASDAQ,Arbe Robotics Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,3bf59150236dfd03bbdc
-ARBEW,NASDAQ,Arbe Robotics Ltd. - Warrant,Stock,True,2026-05-08,,,19242b933deee7974b77
+ARBEW,NASDAQ,Arbe Robotics Ltd. - Warrant,Stock,False,2026-05-08,2026-10-07,Missing from current NASDAQ source snapshot; reason unavailable,19242b933deee7974b77
 ARBK,NASDAQ,Argo Blockchain plc - American Depositary Shares,Stock,True,2026-05-08,,,1b4d651ee9b9569f8bbf
 ARCB,NASDAQ,ArcBest Corporation - Common Stock,Stock,True,2026-05-08,,,e8294959013012cc6115
 ARCC,NASDAQ,Ares Capital Corporation - Closed End Fund,Stock,True,2026-05-08,,,7c09e10dcdc2e3b57ded
@@ -961,7 +961,9 @@ BAYAR,NASDAQ,Bayview Acquisition Corp - Right,Stock,False,2026-05-08,2026-07-07,
 BAYAU,NASDAQ,Bayview Acquisition Corp - Unit,Stock,False,2026-05-08,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,f9b935ab35e4e3ff1a50
 BBB,NASDAQ,CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF,ETF,True,2026-05-08,,,004806d58bc0c5b3ec04
 BBBYW,NASDAQ,Bed Bath - Warrant,Stock,False,2026-08-17,2026-08-18,Listing metadata changed,c34f9a36822b2b1ad7f6
-BBBYW,NASDAQ,"Neighborhood Intelligence, Inc. - Warrant",Stock,True,2026-08-18,,,7ee21ea79560b0187965
+BBBYW,NASDAQ,"Neighborhood Intelligence, Inc. - Warrant",Stock,False,2026-08-18,2026-10-07,Missing from current NASDAQ source snapshot; reason unavailable,7ee21ea79560b0187965
+BBCI,NASDAQ,Bradbury Capital Inc. - Ordinary Shares,Stock,True,2026-10-07,,,bb1340dfb23786418376
+BBCIW,NASDAQ,Bradbury Capital Inc. - Warrants,Stock,True,2026-10-07,,,7eab55ed22774438108f
 BBCP,NASDAQ,"Concrete Pumping Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,b7cf4ac725f087f69d91
 BBCQ,NASDAQ,Bleichroeder Acquisition Corp. II - Class A Ordinary Shares,Stock,False,2026-05-08,2026-08-28,Missing from current NASDAQ source snapshot; reason unavailable,26291b9dc8d6b2939b1b
 BBCQU,NASDAQ,Bleichroeder Acquisition Corp. II - Units,Stock,False,2026-05-08,2026-08-28,Missing from current NASDAQ source snapshot; reason unavailable,79c4fb821a540a25b9a4
@@ -1108,7 +1110,7 @@ BLBD,NASDAQ,Blue Bird Corporation - Common Stock,Stock,True,2026-05-08,,,1846d23
 BLCN,NASDAQ,Siren NexGen Economy ETF,ETF,False,2026-05-08,2026-07-15,Missing from current NASDAQ source snapshot; reason unavailable,d8a7c634ed37affd61ee
 BLCR,NASDAQ,iShares Large Cap Core Active ETF,ETF,True,2026-05-08,,,dbfe3b086c27af9f83c5
 BLDP,NASDAQ,"Ballard Power Systems, Inc. - Common Shares",Stock,True,2026-05-08,,,ec4a0306d8d705b41e05
-BLFS,NASDAQ,"BioLife Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,c5b9f28085196ff3438f
+BLFS,NASDAQ,"BioLife Solutions, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-07,Missing from current NASDAQ source snapshot; reason unavailable,c5b9f28085196ff3438f
 BLIN,NASDAQ,"Bridgeline Digital, Inc. - Common Stock",Stock,True,2026-05-08,,,71bed37f7c47128d5b36
 BLIV,NASDAQ,BeLive Holdings - ordinary shares,Stock,True,2026-05-08,,,50b36478d28a7e1bd13f
 BLKB,NASDAQ,"Blackbaud, Inc. - Common Stock",Stock,True,2026-05-08,,,5e940be0aadb40aa0be9
@@ -3072,8 +3074,8 @@ IJT,NASDAQ,iShares S&P SmallCap 600 Growth ETF,ETF,True,2026-05-08,,,b3fc1ebcdc2
 IKT,NASDAQ,"Inhibikase Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,1dcc9b18e9ab56737217
 ILAG,NASDAQ,Intelligent Living Application Group Inc. - Ordinary Shares,Stock,True,2026-05-08,,,96406104aa44d033697d
 ILIT,NASDAQ,iShares Lithium Miners and Producers ETF,ETF,True,2026-05-08,,,7bc33624ee5b50f1e757
-ILLR,NASDAQ,Triller Group Inc. - Common Stock,Stock,True,2026-05-08,,,142ec3ee6d0b78363db1
-ILLRW,NASDAQ,Triller Group Inc. - Warrant,Stock,True,2026-05-08,,,3787bf935a6f3d4b81f8
+ILLR,NASDAQ,Triller Group Inc. - Common Stock,Stock,False,2026-05-08,2026-10-07,Missing from current NASDAQ source snapshot; reason unavailable,142ec3ee6d0b78363db1
+ILLRW,NASDAQ,Triller Group Inc. - Warrant,Stock,False,2026-05-08,2026-10-07,Missing from current NASDAQ source snapshot; reason unavailable,3787bf935a6f3d4b81f8
 ILLU,NASDAQ,Illumination Acquisition Corp I - Class A Ordinary Shares,Stock,True,2026-05-08,,,96fdbc6845e2460f219a
 ILLUU,NASDAQ,Illumination Acquisition Corp I - Units,Stock,True,2026-05-08,,,71612402bf9a1bc8e745
 ILLUW,NASDAQ,Illumination Acquisition Corp I - Warrant,Stock,True,2026-05-08,,,47a5c4e4e01b50ac4de1
@@ -5314,7 +5316,7 @@ SLNG,NASDAQ,"Stabilis Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,e7
 SLNH,NASDAQ,"Soluna Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,b453929c2b50930d3523
 SLNHP,NASDAQ,"Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,2d6278450866d7860b86
 SLNO,NASDAQ,"Soleno Therapeutics, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-19,Missing from current NASDAQ source snapshot; reason unavailable,f882f7bd860167922099
-SLP,NASDAQ,"Simulations Plus, Inc. - Common Stock",Stock,True,2026-05-08,,,64c1588579aa202f11df
+SLP,NASDAQ,"Simulations Plus, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-07,Missing from current NASDAQ source snapshot; reason unavailable,64c1588579aa202f11df
 SLQD,NASDAQ,iShares 0-5 Year Investment Grade Corporate Bond ETF,ETF,True,2026-05-08,,,f0eff4da0072b3af0388
 SLRC,NASDAQ,SLR Investment Corp. - Closed End Fund,Stock,True,2026-05-08,,,7636e68349fd1d73ec36
 SLS,NASDAQ,"SELLAS Life Sciences Group, Inc. - Common Stock",Stock,True,2026-05-08,,,95fc4b471bf27fa2eeee
@@ -5413,9 +5415,9 @@ SPEGU,NASDAQ,Silver Pegasus Acquisition Corp - Unit,Stock,True,2026-05-08,,,2507
 SPFI,NASDAQ,"South Plains Financial, Inc. - Common Stock",Stock,True,2026-05-08,,,a7c9dab0415b5c5bd2a9
 SPHL,NASDAQ,Springview Holdings Ltd - Ordinary shares,Stock,True,2026-05-08,,,c9ef088ce4e1412fc24b
 SPIT,NASDAQ,F/m Emerald Special Situations ETF,ETF,True,2026-05-08,,,d0208cddfdc880a0d1f9
-SPKL,NASDAQ,Spark I Acquisition Corp. - Class A Ordinary Share,Stock,True,2026-05-08,,,fd39c661dbe62749472d
-SPKLU,NASDAQ,Spark I Acquisition Corp. - Unit,Stock,True,2026-05-08,,,203ce3418e00091d02b3
-SPKLW,NASDAQ,Spark I Acquisition Corp. - Warrant,Stock,True,2026-05-08,,,bca7d983dd286f3f1c38
+SPKL,NASDAQ,Spark I Acquisition Corp. - Class A Ordinary Share,Stock,False,2026-05-08,2026-10-07,Missing from current NASDAQ source snapshot; reason unavailable,fd39c661dbe62749472d
+SPKLU,NASDAQ,Spark I Acquisition Corp. - Unit,Stock,False,2026-05-08,2026-10-07,Missing from current NASDAQ source snapshot; reason unavailable,203ce3418e00091d02b3
+SPKLW,NASDAQ,Spark I Acquisition Corp. - Warrant,Stock,False,2026-05-08,2026-10-07,Missing from current NASDAQ source snapshot; reason unavailable,bca7d983dd286f3f1c38
 SPOG,NASDAQ,Leverage Shares 2X Long SPOT Daily ETF,ETF,True,2026-05-08,,,84a309a822d29c7960db
 SPOK,NASDAQ,"Spok Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,ea3caa40786d82c49194
 SPPL,NASDAQ,SIMPPLE LTD. - Ordinary Shares,Stock,True,2026-05-08,,,7966276194e19cb5a928
@@ -6164,7 +6166,7 @@ WATT,NASDAQ,Energous Corporation - Common Stock,Stock,True,2026-05-08,,,1b5c3f88
 WAVE,NASDAQ,Eco Wave Power Global AB (publ) - American Depositary Shares,Stock,True,2026-05-08,,,4661585f99f897ceaf8d
 WAY,NASDAQ,Waystar Holding Corp. - Common Stock,Stock,True,2026-05-08,,,c2985169b7ec0fac3b62
 WB,NASDAQ,Weibo Corporation - American Depositary Shares,Stock,True,2026-05-08,,,d70016f7f98a8fd542d3
-WBD,NASDAQ,"Warner Bros. Discovery, Inc. - Series A Common Stock",Stock,True,2026-05-08,,,6784aa459641939e7043
+WBD,NASDAQ,"Warner Bros. Discovery, Inc. - Series A Common Stock",Stock,False,2026-05-08,2026-10-07,Missing from current NASDAQ source snapshot; reason unavailable,6784aa459641939e7043
 WBTN,NASDAQ,WEBTOON Entertainment Inc. - Common stock,Stock,True,2026-05-08,,,b2fae5c9a90431633963
 WBUY,NASDAQ,WEBUY GLOBAL LTD. - Class A Ordinary Shares,Stock,True,2026-05-08,,,7baf98c240e74c0b7ed9
 WCBR,NASDAQ,WisdomTree Cybersecurity Fund,ETF,True,2026-05-08,,,76c3741771250604e5fa
@@ -6232,6 +6234,7 @@ WNW,NASDAQ,Meiwu Technology Company Limited - Ordinary Shares,Stock,True,2026-05
 WOK,NASDAQ,WORK Medical Technology Group LTD - Class A Ordinary Shares,Stock,True,2026-05-08,,,f6753848b54acc670cf7
 WOOD,NASDAQ,iShares Global Timber & Forestry ETF,ETF,True,2026-05-08,,,d558726d03ecbf116887
 WOOF,NASDAQ,"Petco Health and Wellness Company, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,f187dd356ecc8cb48a32
+WORX,NASDAQ,SCWorx Corp. - Common Stock,Stock,True,2026-10-07,,,0791281fa64459b6ad9c
 WPRT,NASDAQ,Westport Fuel Systems Inc - Common Shares,Stock,True,2026-05-08,,,ef33dbaed966fcf700aa
 WQEY,NASDAQ,WISeQey Corp - Ordinary Shares,Stock,True,2026-10-05,,,371005fb930fc6390058
 WRAP,NASDAQ,"Wrap Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,594d5089d45e7ebcf72b
@@ -8385,7 +8388,7 @@ NLY$J,NYSE,Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative 
 NMAI,NYSE,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,da563bf47022487eba13
 NMAX,NYSE,"Newsmax, Inc. Class B Common Stock",Stock,True,2026-05-08,,,d6f75e95c0e53fbbe032
 NMCO,NYSE,Nuveen Municipal Credit Opportunities Fund Common Shares,Stock,True,2026-05-08,,,e1639731530faf41ec51
-NMCO.R,NYSE,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",Stock,True,2026-09-10,,,7356186e053c2b0f2cea
+NMCO.R,NYSE,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",Stock,False,2026-09-10,2026-10-07,Missing from current NYSE source snapshot; reason unavailable,7356186e053c2b0f2cea
 NMCO.V,NYSE,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",Stock,False,2026-09-04,2026-09-10,Missing from current NYSE source snapshot; reason unavailable,9f2edde93ce01fa5a4ce
 NMG,NYSE,Nouveau Monde Graphite Inc. Common Shares,Stock,True,2026-05-08,,,702934985ead708445ca
 NMI,NYSE,"Nuveen Municipal Income Fund, Inc. Common Stock",Stock,True,2026-05-08,,,eada02b5fc0b9f15991c
