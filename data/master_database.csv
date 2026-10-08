@@ -5154,7 +5154,10 @@ SBUX,NASDAQ,Starbucks Corporation - Common Stock,Stock,True,2026-05-08,,,9852390
 SCA,NASDAQ,GraniteShares Autocallable SMCI ETF,ETF,True,2026-05-27,,,cda6d513de6070035960
 SCAG,NASDAQ,Scage Future - American Depositary Shares,Stock,True,2026-05-08,,,37f410f7b977c73dcf57
 SCAGW,NASDAQ,Scage Future - Warrants,Stock,True,2026-05-08,,,075d6678fe2bc92ea18d
+SCAT,NASDAQ,Southern Cross Acquisition II Corp. - Ordinary Shares,Stock,True,2026-10-08,,,22256e060be4b85c072e
+SCATR,NASDAQ,Southern Cross Acquisition II Corp. - Rights,Stock,True,2026-10-08,,,8c49a35b2713ea6aa5ea
 SCATU,NASDAQ,Southern Cross Acquisition II Corp. - Units,Stock,True,2026-08-26,,,313bc1db917d3790e247
+SCATW,NASDAQ,Southern Cross Acquisition II Corp. - Warrants,Stock,True,2026-10-08,,,50ad7b1ebf3e12b8dfc6
 SCDS,NASDAQ,JPMorgan Fundamental Data Science Small Core ETF,ETF,True,2026-05-08,,,312b4bece8ace8204cd2
 SCHL,NASDAQ,Scholastic Corporation - Common Stock,Stock,True,2026-05-08,,,8dee371ae70c699762b7
 SCII,NASDAQ,SC II Acquisition Corp. - Class A ordinary share,Stock,True,2026-05-08,,,e5489a25c6968b98e07f
@@ -5610,8 +5613,8 @@ TBPH,NASDAQ,"Theravance Biopharma, Inc. - Ordinary Shares",Stock,False,2026-05-0
 TBRG,NASDAQ,"TruBridge, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-10,Other delisting reason: Details unavailable (source: FMP Delisted API),0d9412552b2468f73ecb
 TC,NASDAQ,Token Cat Limited - American Depositary Shares,Stock,True,2026-05-08,,,04c5e8c14a3df1a4746d
 TCAN,NASDAQ,21Shares Canton Network ETF,ETF,True,2026-05-08,,,b3958830b6a18e49daa6
-TCBI,NASDAQ,"Texas Capital Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,4eef02a69d96d0f3de0e
-TCBIO,NASDAQ,"Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",Stock,True,2026-05-08,,,11ef8816d1a674d73ef0
+TCBI,NASDAQ,"Texas Capital Bancshares, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-08,Missing from current NASDAQ source snapshot; reason unavailable,4eef02a69d96d0f3de0e
+TCBIO,NASDAQ,"Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",Stock,False,2026-05-08,2026-10-08,Missing from current NASDAQ source snapshot; reason unavailable,11ef8816d1a674d73ef0
 TCBK,NASDAQ,TriCo Bancshares - Common Stock,Stock,True,2026-05-08,,,cc132239ac54233fc160
 TCBS,NASDAQ,"Texas Community Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,bf2d54df55dbbc027504
 TCGX,NASDAQ,TCGX Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-08-05,,,0d8f5985c2e098761274
