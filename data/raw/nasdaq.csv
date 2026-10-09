@@ -198,6 +198,7 @@ NASDAQ,AIMDW,"Ainos, Inc. - warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIMG,Defiance AI Magnificent 10 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AIMS,Acuitas Small Cap Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AINF,Defiance Inference AI Chip ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AIOK,AI OKTO CORP. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIOS,AIOS Tech Inc. - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIOT,"PowerFleet, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIP,"Arteris, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -592,6 +593,7 @@ NASDAQ,BCTX,BriaCell Therapeutics Corp. - Common Shares,Stock,,nasdaq_trader_sym
 NASDAQ,BCTXL,BriaCell Therapeutics Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCTXZ,BriaCell Therapeutics Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BCYC,Bicycle Therapeutics plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BDAI,"Biddance AI Systems, Inc. - Class A Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BDCI,BTC Development Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BDCIU,BTC Development Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BDCIW,BTC Development Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -1446,7 +1448,7 @@ NASDAQ,DORM,"Dorman Products, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,DOX,Amdocs Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DOYU,DouYu International Holdings Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DPRO,Draganfly Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DPU,Top KingWin Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,DPU,Nexpu Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DPZ,Domino's Pizza Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DRDB,Roman DBDR Acquisition Corp. II - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DRDBU,Roman DBDR Acquisition Corp. II - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -2313,7 +2315,6 @@ NASDAQ,HISF,First Trust High Income Strategic Focus ETF,ETF,,nasdaq_trader_symbo
 NASDAQ,HIT,"Health In Tech, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HITI,High Tide Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HIVE,HIVE Digital Technologies Ltd - Common Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HKIT,Hitek Global Inc. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HKPD,"Cellyan Biotechnology Co., Ltd - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HLAL,Wahed FTSE USA Shariah ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HLIT,Harmonic Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3046,7 +3047,6 @@ NASDAQ,MACIW,Melar Acquisition Corp. I - Warrant,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,MAGH,Magnitude International Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAKO,Mako Mining Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAMA,"Mama's Creations, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MAMK,MaxsMaking Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAMO,Massimo Group - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MANH,"Manhattan Associates, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAR,Marriott International - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3548,8 +3548,6 @@ NASDAQ,NVDS,Tradr 1.5X Short NVDA Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NVDU,Direxion Daily NVDA Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NVEC,NVE Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVMI,Nova Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NVNI,Nvni Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NVNIW,Nvni Group Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVNO,enVVeno Medical Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NVPS,PurePlay Nvidia Ecosystem Picks & Shovels Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NVTS,Navitas Semiconductor Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4360,6 +4358,7 @@ NASDAQ,RTACU,Renatus Tactical Acquisition Corp I - Unit,Stock,,nasdaq_trader_sym
 NASDAQ,RTACW,Renatus Tactical Acquisition Corp I - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTB,"RTB Digital, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTH,VanEck Retail ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,RTSN,"Retension Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTXG,Leverage Shares 2X Long RTX Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RTYY,GraniteShares YieldBoost RIOT ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RUBI,Rubico Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5027,6 +5026,7 @@ NASDAQ,TRUT,VanEck Technology TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRUU,VanEck Utilities TruSector ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TRVG,trivago N.V. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TRVI,"Trevi Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TRXB,"TRex Bio, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TSAT,Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TSBK,"Timberland Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TSCM,TimesSquare Quality Mid Cap Growth ETF,ETF,,nasdaq_trader_symbol_directory

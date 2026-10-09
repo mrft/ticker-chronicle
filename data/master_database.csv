@@ -566,6 +566,7 @@ AIMDW,NASDAQ,"Ainos, Inc. - warrants",Stock,True,2026-05-08,,,21d1cf22d6693a65dd
 AIMG,NASDAQ,Defiance AI Magnificent 10 ETF,ETF,True,2026-09-10,,,fb3946b65609721ac165
 AIMS,NASDAQ,Acuitas Small Cap Active ETF,ETF,True,2026-05-08,,,399ff65618bab8e09b20
 AINF,NASDAQ,Defiance Inference AI Chip ETF,ETF,True,2026-08-18,,,ff7ef904092762442b2e
+AIOK,NASDAQ,AI OKTO CORP. - Common Stock,Stock,True,2026-10-09,,,b6c602cba3218952cf2c
 AIOS,NASDAQ,AIOS Tech Inc. - Class A Common Shares,Stock,True,2026-05-08,,,995450d6d44c6a32e92b
 AIOT,NASDAQ,"PowerFleet, Inc. - Common Stock",Stock,True,2026-05-08,,,e41c1c01ece0241532a7
 AIP,NASDAQ,"Arteris, Inc. - Common Stock",Stock,True,2026-05-08,,,b96d313357211d6920a0
@@ -1002,6 +1003,7 @@ BCTX,NASDAQ,BriaCell Therapeutics Corp. - Common Shares,Stock,True,2026-05-08,,,
 BCTXL,NASDAQ,BriaCell Therapeutics Corp. - Warrants,Stock,True,2026-05-08,,,04f6b5bcda514f211dc0
 BCTXZ,NASDAQ,BriaCell Therapeutics Corp. - Warrant,Stock,True,2026-05-08,,,cd1ad4027eeda2c5da36
 BCYC,NASDAQ,Bicycle Therapeutics plc - American Depositary Shares,Stock,True,2026-05-08,,,cdde91e7c4a640755cb0
+BDAI,NASDAQ,"Biddance AI Systems, Inc. - Class A Ordinary Share",Stock,True,2026-10-09,,,603a4f48653867628a0a
 BDCI,NASDAQ,BTC Development Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,0a2c75f13d34c537f429
 BDCIU,NASDAQ,BTC Development Corp. - Unit,Stock,True,2026-05-08,,,cbb157ba42b250832bfe
 BDCIW,NASDAQ,BTC Development Corp. - Warrant,Stock,True,2026-05-08,,,de0d29a0405c20810e19
@@ -1922,7 +1924,8 @@ DORM,NASDAQ,"Dorman Products, Inc. - Common Stock",Stock,True,2026-05-08,,,f7384
 DOX,NASDAQ,Amdocs Limited - Ordinary Shares,Stock,True,2026-05-08,,,fa3469d5126bfb388653
 DOYU,NASDAQ,DouYu International Holdings Limited - American Depositary Shares,Stock,True,2026-05-08,,,03a284cf2acebb7fbc32
 DPRO,NASDAQ,Draganfly Inc. - Common Shares,Stock,True,2026-05-08,,,d995da68ff37b566e850
-DPU,NASDAQ,Top KingWin Ltd - Class A Ordinary Shares,Stock,True,2026-07-16,,,4ddc362701d5f8a60db3
+DPU,NASDAQ,Top KingWin Ltd - Class A Ordinary Shares,Stock,False,2026-07-16,2026-10-09,Listing metadata changed,4ddc362701d5f8a60db3
+DPU,NASDAQ,Nexpu Ltd. - Class A Ordinary Shares,Stock,True,2026-10-09,,,d215e74adab4d71f680f
 DPZ,NASDAQ,Domino's Pizza Inc - Common Stock,Stock,True,2026-05-08,,,11dd15a8601234affaee
 DRCT,NASDAQ,"Direct Digital Holdings, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-10-05,Missing from current NASDAQ source snapshot; reason unavailable,fab8ecd5d145b5e8cb6f
 DRDB,NASDAQ,Roman DBDR Acquisition Corp. II - Ordinary shares,Stock,True,2026-05-08,,,50c3e0aa41d7526cf348
@@ -2858,7 +2861,7 @@ HISF,NASDAQ,First Trust High Income Strategic Focus ETF,ETF,True,2026-05-08,,,31
 HIT,NASDAQ,"Health In Tech, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,827a45d3b9b249ef4735
 HITI,NASDAQ,High Tide Inc. - Common Shares,Stock,True,2026-05-08,,,a3d3f1877fedadf42fc7
 HIVE,NASDAQ,HIVE Digital Technologies Ltd - Common Shares,Stock,True,2026-05-08,,,02d2246be6c408937e39
-HKIT,NASDAQ,Hitek Global Inc. - Class A Ordinary Share,Stock,True,2026-05-08,,,3ef235957b5082230177
+HKIT,NASDAQ,Hitek Global Inc. - Class A Ordinary Share,Stock,False,2026-05-08,2026-10-09,Missing from current NASDAQ source snapshot; reason unavailable,3ef235957b5082230177
 HKPD,NASDAQ,"Cellyan Biotechnology Co., Ltd - Class A Ordinary Shares",Stock,True,2026-05-08,,,463216a3804977bb2521
 HLAL,NASDAQ,Wahed FTSE USA Shariah ETF,ETF,True,2026-05-08,,,df1c16d6ae04a2a00cc7
 HLIT,NASDAQ,Harmonic Inc. - Common Stock,Stock,True,2026-05-08,,,0d87ac87fdf3c1591f80
@@ -3673,7 +3676,7 @@ MACIW,NASDAQ,Melar Acquisition Corp. I - Warrant,Stock,True,2026-05-08,,,be5e7d5
 MAGH,NASDAQ,Magnitude International Ltd - Ordinary Shares,Stock,True,2026-05-08,,,1d1b06dd9bb374aff567
 MAKO,NASDAQ,Mako Mining Corp - Common Stock,Stock,True,2026-05-08,,,5e8c1ec7a0ecd8946200
 MAMA,NASDAQ,"Mama's Creations, Inc. - Common Stock",Stock,True,2026-05-08,,,cb6e2fcf961183bfab54
-MAMK,NASDAQ,MaxsMaking Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,3aa350aab6b820a83865
+MAMK,NASDAQ,MaxsMaking Inc. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-10-09,Missing from current NASDAQ source snapshot; reason unavailable,3aa350aab6b820a83865
 MAMO,NASDAQ,Massimo Group - Common Stock,Stock,True,2026-05-08,,,052b0135dc63a9a5ca44
 MANH,NASDAQ,"Manhattan Associates, Inc. - Common Stock",Stock,True,2026-05-08,,,45c62e0102b07709c073
 MAR,NASDAQ,Marriott International - Class A Common Stock,Stock,True,2026-05-08,,,a23ea087a329b6f9c119
@@ -4214,8 +4217,8 @@ NVDS,NASDAQ,Tradr 1.5X Short NVDA Daily ETF,ETF,True,2026-05-08,,,5b3ffc10c2598e
 NVDU,NASDAQ,Direxion Daily NVDA Bull 2X ETF,ETF,True,2026-05-08,,,6c4d1186468c9b76bdcb
 NVEC,NASDAQ,NVE Corporation - Common Stock,Stock,True,2026-05-08,,,979aed59c8c3c75403c5
 NVMI,NASDAQ,Nova Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,c376cb63eb57b2dbbf95
-NVNI,NASDAQ,Nvni Group Limited - Ordinary Shares,Stock,True,2026-05-08,,,d07fdc124e1e96d53155
-NVNIW,NASDAQ,Nvni Group Limited - Warrants,Stock,True,2026-05-08,,,73a232dad06d4e6c639a
+NVNI,NASDAQ,Nvni Group Limited - Ordinary Shares,Stock,False,2026-05-08,2026-10-09,Missing from current NASDAQ source snapshot; reason unavailable,d07fdc124e1e96d53155
+NVNIW,NASDAQ,Nvni Group Limited - Warrants,Stock,False,2026-05-08,2026-10-09,Missing from current NASDAQ source snapshot; reason unavailable,73a232dad06d4e6c639a
 NVNO,NASDAQ,enVVeno Medical Corporation - Common Stock,Stock,True,2026-05-08,,,d841ad091d602ad0823e
 NVPS,NASDAQ,PurePlay Nvidia Ecosystem Picks & Shovels Index ETF,ETF,True,2026-06-18,,,19136944e37f495be9ee
 NVTS,NASDAQ,Navitas Semiconductor Corporation - Common Stock,Stock,True,2026-05-08,,,90d42527383c38f5bb59
@@ -5076,6 +5079,7 @@ RTACU,NASDAQ,Renatus Tactical Acquisition Corp I - Unit,Stock,True,2026-05-08,,,
 RTACW,NASDAQ,Renatus Tactical Acquisition Corp I - Warrant,Stock,True,2026-05-08,,,c1c8c36ec65730d530ce
 RTB,NASDAQ,"RTB Digital, Inc. - Common Stock",Stock,True,2026-05-13,,,71d2f76de6b9fd50227b
 RTH,NASDAQ,VanEck Retail ETF,ETF,True,2026-05-08,,,25ba867522a4dab24130
+RTSN,NASDAQ,"Retension Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-10-09,,,aeb3a1ab4e271e00a987
 RTXG,NASDAQ,Leverage Shares 2X Long RTX Daily ETF,ETF,True,2026-05-08,,,3d0e27cfb2ecc1255ed0
 RTYY,NASDAQ,GraniteShares YieldBoost RIOT ETF,ETF,True,2026-05-08,,,ea53bad5dfc4d9ac8daf
 RUBI,NASDAQ,Rubico Inc. - Common Stock,Stock,True,2026-05-08,,,faef87f3c719f17de6c6
@@ -5807,6 +5811,7 @@ TRUT,NASDAQ,VanEck Technology TruSector ETF,ETF,True,2026-05-08,,,e00c99ce401236
 TRUU,NASDAQ,VanEck Utilities TruSector ETF,ETF,True,2026-07-08,,,2f0bda0f0e1a0a6115a1
 TRVG,NASDAQ,trivago N.V. - American Depositary Shares,Stock,True,2026-05-08,,,b83329123b7ed7cb6698
 TRVI,NASDAQ,"Trevi Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,68e7ce765e9e31a4297d
+TRXB,NASDAQ,"TRex Bio, Inc. - Common stock",Stock,True,2026-10-09,,,80bd2c706ac688e0b366
 TSAT,NASDAQ,Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares,Stock,True,2026-05-08,,,4aee22e062b32068160a
 TSBK,NASDAQ,"Timberland Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,8e45397fa156ddc612a5
 TSCM,NASDAQ,TimesSquare Quality Mid Cap Growth ETF,ETF,True,2026-05-08,,,3cb0574a3573c1c481a5
