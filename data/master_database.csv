@@ -3213,6 +3213,7 @@ IRHO,NASDAQ,Iron Horse Acquisitions II Corp. - Common Stock,Stock,True,2026-05-0
 IRHOR,NASDAQ,Iron Horse Acquisitions II Corp. - Rights,Stock,True,2026-05-08,,,bc37e3c63821cc692554
 IRHOU,NASDAQ,Iron Horse Acquisitions II Corp. - Units,Stock,True,2026-05-08,,,6ae420a647aea4b758a4
 IRIX,NASDAQ,IRIDEX Corporation - Common Stock,Stock,True,2026-05-08,,,ddace235a60c436f9bb7
+IRLA,NASDAQ,IRulya Therapeutics Inc. - Common Stock,Stock,True,2026-10-12,,,590e1f4062072fe38c1f
 IRMD,NASDAQ,iRadimed Corporation - Common Stock,Stock,True,2026-05-08,,,572d3fe29dd2851352f4
 IRON,NASDAQ,"Disc Medicine, Inc. - Common Stock",Stock,True,2026-05-08,,,17c3e76aa44559304828
 IRTC,NASDAQ,"iRhythm Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,8fc75a58589248523bb4
@@ -4812,7 +4813,7 @@ QMLS,NASDAQ,"QumulusAI, Inc. - Common Stock",Stock,True,2026-07-16,,,2e573793c1b
 QMMM,NASDAQ,QMMM Holdings Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-08-14,Missing from current NASDAQ source snapshot; reason unavailable,3de66dd79f4ad24b1e42
 QMOM,NASDAQ,Alpha Architect U.S. Quantitative Momentum ETF,ETF,True,2026-05-08,,,bba14e310381abb69794
 QNBC,NASDAQ,QNB Corp. - Common Stock,Stock,True,2026-08-20,,,b85234f4a8d93bbc43ac
-QNCX,NASDAQ,"Quince Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,98930c4fa884732ca20d
+QNCX,NASDAQ,"Quince Therapeutics, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-12,Other delisting reason: Details unavailable (source: FMP Delisted API),98930c4fa884732ca20d
 QNDX,NASDAQ,State Street SPDR Portfolio Nasdaq 100 ETF,ETF,True,2026-06-24,,,c29313f776cad68052e0
 QNME,NASDAQ,"Quanome Technologies, Inc. - Common Stock",Stock,True,2026-08-04,,,dc6363ae47326df85939
 QNRX,NASDAQ,"Quoin Pharmaceuticals, Ltd. - American Depositary Shares",Stock,True,2026-05-08,,,fc30cc7c7f116ac8ffaa
@@ -6162,7 +6163,8 @@ WABC,NASDAQ,Westamerica Bancorporation - Common Stock,Stock,True,2026-05-08,,,3f
 WABF,NASDAQ,Western Asset Bond ETF,ETF,True,2026-05-08,,,6fd01c08431cf21bf972
 WAFD,NASDAQ,"WaFd, Inc. - Common Stock",Stock,True,2026-05-08,,,a7aafef41dce29cd839c
 WAFDP,NASDAQ,"WaFd, Inc. - Depositary Shares",Stock,True,2026-05-08,,,b9a0f41d355e2194d4c1
-WAFU,NASDAQ,Wah Fu Education Group Limited - Ordinary Shares,Stock,True,2026-05-08,,,155f3e2f9c9bfe54e7f9
+WAFU,NASDAQ,Wah Fu Education Group Limited - Ordinary Shares,Stock,False,2026-05-08,2026-10-12,Listing metadata changed,155f3e2f9c9bfe54e7f9
+WAFU,NASDAQ,Wah Fu Education & Technology Group Ltd. - Ordinary Shares,Stock,True,2026-10-12,,,4afa7f43164bbf0d3d9b
 WAI,NASDAQ,Top KingWin Ltd - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-16,Missing from current NASDAQ source snapshot; reason unavailable,4ddc362701d5f8a60db3
 WALD,NASDAQ,Waldencast plc - Class A Ordinary Share,Stock,False,2026-05-08,2026-10-05,Missing from current NASDAQ source snapshot; reason unavailable,6b22e54f176528f000b3
 WALDW,NASDAQ,Waldencast plc - Warrant,Stock,False,2026-05-08,2026-10-05,Missing from current NASDAQ source snapshot; reason unavailable,d323bc244c8391a826ba
@@ -6345,9 +6347,11 @@ XQQI,NASDAQ,NEOS Boosted Nasdaq-100 High Income ETF,ETF,True,2026-05-08,,,1c0158
 XRAY,NASDAQ,DENTSPLY SIRONA Inc. - Common Stock,Stock,True,2026-05-08,,,d76e4d089c9cd4694a85
 XRPC,NASDAQ,Canary XRP ETF,ETF,True,2026-05-08,,,137dcb3ed287b4be5a95
 XRPI,NASDAQ,Volatility Shares Trust XRP ETF,ETF,True,2026-05-08,,,44e2a2773e2ec312b900
-XRPN,NASDAQ,Armada Acquisition Corp. II - Class A Ordinary Shares,Stock,True,2026-05-08,,,bf2704e19dc6f83ccd3d
-XRPNU,NASDAQ,Armada Acquisition Corp. II - Units,Stock,True,2026-05-08,,,33499bdb5d8c67a7babf
-XRPNW,NASDAQ,Armada Acquisition Corp. II - Warrant,Stock,True,2026-05-08,,,8f5e18ad77a2b7bde713
+XRPN,NASDAQ,Armada Acquisition Corp. II - Class A Ordinary Shares,Stock,False,2026-05-08,2026-10-12,Listing metadata changed,bf2704e19dc6f83ccd3d
+XRPN,NASDAQ,Evernorth Holdings Inc. - Class A Ordinary Shares,Stock,True,2026-10-12,,,ffee60f50a0cd9d915c8
+XRPNU,NASDAQ,Armada Acquisition Corp. II - Units,Stock,False,2026-05-08,2026-10-12,Missing from current NASDAQ source snapshot; reason unavailable,33499bdb5d8c67a7babf
+XRPNW,NASDAQ,Armada Acquisition Corp. II - Warrant,Stock,False,2026-05-08,2026-10-12,Listing metadata changed,8f5e18ad77a2b7bde713
+XRPNW,NASDAQ,Evernorth Holdings Inc. - Warrants,Stock,True,2026-10-12,,,30f251a4201bfd1e407c
 XRPT,NASDAQ,Volatility Shares Trust XRP 2X ETF,ETF,True,2026-05-08,,,2a352ea4f4c39edebe9a
 XRTX,NASDAQ,XORTX Therapeutics Inc. - Common Shares,Stock,True,2026-05-08,,,4d3ca06d2137d2de87e5
 XRX,NASDAQ,Xerox Holdings Corporation - Common Stock,Stock,True,2026-05-08,,,6ecc56205c9feb5f68d0

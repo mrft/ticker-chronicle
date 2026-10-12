@@ -2635,6 +2635,7 @@ NASDAQ,IRHO,Iron Horse Acquisitions II Corp. - Common Stock,Stock,,nasdaq_trader
 NASDAQ,IRHOR,Iron Horse Acquisitions II Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IRHOU,Iron Horse Acquisitions II Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IRIX,IRIDEX Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,IRLA,IRulya Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IRMD,iRadimed Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IRON,"Disc Medicine, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IRTC,"iRhythm Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4109,7 +4110,6 @@ NASDAQ,QMID,WisdomTree U.S. MidCap Quality Growth Fund,ETF,,nasdaq_trader_symbol
 NASDAQ,QMLS,"QumulusAI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QMOM,Alpha Architect U.S. Quantitative Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QNBC,QNB Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,QNCX,"Quince Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNDX,State Street SPDR Portfolio Nasdaq 100 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QNME,"Quanome Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QNRX,"Quoin Pharmaceuticals, Ltd. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -5355,7 +5355,7 @@ NASDAQ,WABC,Westamerica Bancorporation - Common Stock,Stock,,nasdaq_trader_symbo
 NASDAQ,WABF,Western Asset Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WAFD,"WaFd, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WAFDP,"WaFd, Inc. - Depositary Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WAFU,Wah Fu Education Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,WAFU,Wah Fu Education & Technology Group Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WAMA,WisdomTree US Adaptive Moving Average Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WARP,VanEck Space ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WASH,"Washington Trust Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5518,9 +5518,8 @@ NASDAQ,XQQI,NEOS Boosted Nasdaq-100 High Income ETF,ETF,,nasdaq_trader_symbol_di
 NASDAQ,XRAY,DENTSPLY SIRONA Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XRPC,Canary XRP ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XRPI,Volatility Shares Trust XRP ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,XRPN,Armada Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,XRPNU,Armada Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,XRPNW,Armada Acquisition Corp. II - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XRPN,Evernorth Holdings Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XRPNW,Evernorth Holdings Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XRPT,Volatility Shares Trust XRP 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XRTX,XORTX Therapeutics Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XRX,Xerox Holdings Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
