@@ -923,6 +923,7 @@ AXGN,NASDAQ,"Axogen, Inc. - Common Stock",Stock,True,2026-05-08,,,ff3fded572f0f1
 AXIN,NASDAQ,Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares,Stock,True,2026-05-08,,,9805bb678cf0d9e3c405
 AXINR,NASDAQ,Axiom Intelligence Acquisition Corp 1 - Right,Stock,True,2026-05-08,,,3480758c7468c34a2a61
 AXINU,NASDAQ,Axiom Intelligence Acquisition Corp 1 - Units,Stock,True,2026-05-08,,,75802ce0c154a7a1a38c
+AXNX,NASDAQ,Axonex AI Group Limited - Class A Ordinary Shares,Stock,True,2026-10-13,,,f2393b2e75ca02996b51
 AXON,NASDAQ,"Axon Enterprise, Inc. - Common Stock",Stock,True,2026-05-08,,,3faf876735d93c79c805
 AXPG,NASDAQ,Leverage Shares 2x Long AXP Daily ETF,ETF,False,2026-05-08,2026-07-29,Missing from current NASDAQ source snapshot; reason unavailable,2476d4494a24eb1481df
 AXSM,NASDAQ,"Axsome Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,b490c72815efb36e13bf
@@ -973,7 +974,7 @@ BBGI,NASDAQ,"Beasley Broadcast Group, Inc. - Class A Common Stock",Stock,True,20
 BBH,NASDAQ,VanEck Biotech ETF,ETF,True,2026-05-08,,,b140f2ca011414167b4e
 BBIO,NASDAQ,"BridgeBio Pharma, Inc. - Common Stock",Stock,True,2026-05-08,,,d4bf7bd6c96a0964788e
 BBLG,NASDAQ,Bone Biologics Corp - Common Stock,Stock,True,2026-05-08,,,7b027d38a374c53a630a
-BBLGW,NASDAQ,Bone Biologics Corp - warrants,Stock,True,2026-05-08,,,fa1f1061d24b49f92c5a
+BBLGW,NASDAQ,Bone Biologics Corp - warrants,Stock,False,2026-05-08,2026-10-13,Missing from current NASDAQ source snapshot; reason unavailable,fa1f1061d24b49f92c5a
 BBNX,NASDAQ,"Beta Bionics, Inc. - Common Stock",Stock,True,2026-05-08,,,86796c2e5d62fbd98364
 BBOT,NASDAQ,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,cc282863699f836b8d5d
 BBSI,NASDAQ,"Barrett Business Services, Inc. - Common Stock",Stock,True,2026-05-08,,,474d83bfbbc617ba2f52
@@ -2719,7 +2720,7 @@ GRDX,NASDAQ,GridAI Technologies Corp. - Common Stock,Stock,True,2026-05-08,,,a83
 GREE,NASDAQ,Greenidge Generation Holdings Inc. - Class A Common Stock,Stock,False,2026-05-08,2026-07-22,Listing metadata changed,e03e109139a1c96dd2dc
 GREE,NASDAQ,Vulcan Infrastructure and Power Inc. - Class A Common Stock,Stock,False,2026-07-22,2026-07-24,Missing from current NASDAQ source snapshot; reason unavailable,c5ad953504424012e796
 GREEL,NASDAQ,Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026,Stock,False,2026-05-08,2026-07-22,Listing metadata changed,a5ec24c4baa2857be328
-GREEL,NASDAQ,Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026,Stock,True,2026-07-22,,,55b99ad907b22eb07a92
+GREEL,NASDAQ,Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026,Stock,False,2026-07-22,2026-10-13,Missing from current NASDAQ source snapshot; reason unavailable,55b99ad907b22eb07a92
 GRFS,NASDAQ,"Grifols, S.A. - American Depositary Shares",Stock,True,2026-05-08,,,c881a9ac6e229884c23b
 GRI,NASDAQ,"GRI Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,45b3a2264909a21872f5
 GRID,NASDAQ,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,ETF,True,2026-05-08,,,56315b25185c471ccd95
@@ -3808,7 +3809,7 @@ MIDD,NASDAQ,The Middleby Corporation - Common Stock,Stock,True,2026-05-08,,,d051
 MIDDV,NASDAQ,Middleby Corp. - Common Stock Ex-Distribution When Issued,Stock,False,2026-06-26,2026-07-06,Listing metadata changed,0082b3f086dbcf36d736
 MIDDV,NASDAQ,The Middleby Corporation - Common Stock Ex-Distribution When Issued,Stock,False,2026-07-06,2026-07-07,Missing from current NASDAQ source snapshot; reason unavailable,a763c1c8dad98d32f143
 MILN,NASDAQ,Global X Millennial Consumer ETF,ETF,True,2026-05-08,,,5181b5dc995a84d7ceee
-MIMI,NASDAQ,Mint Incorporation Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,9619e31d5a3404dbd4dd
+MIMI,NASDAQ,Mint Incorporation Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-10-13,Other delisting reason: Details unavailable (source: FMP Delisted API),9619e31d5a3404dbd4dd
 MIND,NASDAQ,"MIND Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,d2e4036a931faff781fc
 MIRA,NASDAQ,"MIRA Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,1f605e090b0daac31739
 MIRM,NASDAQ,"Mirum Pharmaceuticals, Inc. - common stock",Stock,True,2026-05-08,,,cfc647e39f53afe83b89
@@ -5044,6 +5045,7 @@ RNGTW,NASDAQ,Range Capital Acquisition Corp II - Warrants,Stock,True,2026-05-08,
 RNIN,NASDAQ,Bushido Capital US SMID Cap Equity ETF,ETF,True,2026-05-08,,,3fbc79ee094ef9059dc5
 RNRG,NASDAQ,Global X Renewable Energy Producers ETF,ETF,True,2026-05-08,,,07e6b84073e4326331d0
 RNTX,NASDAQ,"Rein Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,befdbc8f144eb9b7c61f
+RNTZ,NASDAQ,Rantizo - Class A Ordinary Shares,Stock,True,2026-10-13,,,6c6807062d62b0f0a77a
 RNW,NASDAQ,ReNew Energy Global plc - Class A Shares,Stock,True,2026-05-08,,,5aaeb27ee53adb07c958
 RNWWW,NASDAQ,ReNew Energy Global plc - Warrant,Stock,False,2026-05-08,2026-08-24,Missing from current NASDAQ source snapshot; reason unavailable,c48d6bd79ff3ea951029
 RNXT,NASDAQ,"RenovoRx, Inc. - Common Stock",Stock,True,2026-05-08,,,e07766b3d8d135414eaa
@@ -5291,7 +5293,7 @@ SKDD,NASDAQ,GraniteShares 2x Short SK Hynix Daily ETF,ETF,True,2026-07-14,,,195b
 SKHY,NASDAQ,SK hynix Inc. - American Depositary Shares,Stock,True,2026-07-13,,,d0b805847341c22d0e12
 SKHYV,NASDAQ,SK hynix Inc. - American Depository Shares,Stock,False,2026-07-10,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,5d52cc059efe59775c85
 SKIN,NASDAQ,SkinHealth Systems Inc. - Class A Common Stock,Stock,True,2026-05-08,,,413da9f80912b1a4efaf
-SKK,NASDAQ,SKK Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,e6d732b9136c032b0f13
+SKK,NASDAQ,SKK Holdings Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-10-13,Other delisting reason: Details unavailable (source: FMP Delisted API),e6d732b9136c032b0f13
 SKOR,NASDAQ,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF,False,2026-05-08,2026-08-17,Listing metadata changed,d50356e268e0c605ef4f
 SKOR,NASDAQ,Northern Trust Credit-Scored US Corporate Bond ETF,ETF,True,2026-08-17,,,3b940f51aec57f34d831
 SKRE,NASDAQ,Tuttle Capital Daily 2X Inverse Regional Banks ETF,ETF,True,2026-05-08,,,f12240ea5aa4dc88d80e
@@ -5906,7 +5908,7 @@ UCFIW,NASDAQ,CN Healthy Food Tech Group Corp. - Warrant,Stock,True,2026-05-08,,,
 UCL,NASDAQ,uCloudlink Group Inc. - American Depositary Shares,Stock,True,2026-05-08,,,95ce951aca0a88c78514
 UCRD,NASDAQ,VictoryShares Corporate Bond ETF,ETF,True,2026-05-08,,,f69bea90c4c65ec20187
 UCTT,NASDAQ,"Ultra Clean Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,043fc1a4e6f2e34c06a0
-UCYB,NASDAQ,ProShares Ultra Nasdaq Cybersecurity,ETF,True,2026-05-08,,,b658fc0b61dae5411df5
+UCYB,NASDAQ,ProShares Ultra Nasdaq Cybersecurity,ETF,False,2026-05-08,2026-10-13,Missing from current NASDAQ source snapshot; reason unavailable,b658fc0b61dae5411df5
 UDMY,NASDAQ,"Udemy, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-12,Missing from current NASDAQ source snapshot; reason unavailable,91d19b80480b3aecf43f
 UECG,NASDAQ,Leverage Shares 2x Long UEC Daily ETF,ETF,True,2026-05-08,,,6c7166f53d2dc719cc8e
 UEIC,NASDAQ,Universal Electronics Inc. - Common Stock,Stock,True,2026-05-08,,,5e35abc06d6b0ac0b676
@@ -8488,7 +8490,7 @@ O,NYSE,Realty Income Corporation Common Stock,Stock,True,2026-05-08,,,c558c1a626
 OAK$A,NYSE,"Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units",Stock,True,2026-05-08,,,cd15759ca457d67a96fa
 OAK$B,NYSE,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units",Stock,True,2026-05-08,,,f722bfe020f7bbb62a48
 OBDC,NYSE,Blue Owl Capital Corporation Common Stock,Stock,True,2026-05-08,,,3502d5bd3b09df19356d
-OBK,NYSE,"Origin Bancorp, Inc. Common Stock",Stock,True,2026-05-08,,,e68786cc7604cd7f0235
+OBK,NYSE,"Origin Bancorp, Inc. Common Stock",Stock,False,2026-05-08,2026-10-13,Missing from current NYSE source snapshot; reason unavailable,e68786cc7604cd7f0235
 OC,NYSE,Owens Corning Inc Common Stock New,Stock,True,2026-05-08,,,edcf63cf04d1be12cbad
 OCAC,NYSE,Ocean Capital Acquisition Corporation Ordinary Shares,Stock,True,2026-08-03,,,50cbb6ebc2fe416a6324
 OCAC.R,NYSE,"Ocean Capital Acquisition Corporation Rights, each entitling the holder to receive one ordinary share",Stock,True,2026-08-03,,,95c32259d29a7a7d08c4
@@ -8984,6 +8986,7 @@ SKM,NYSE,"SK Telecom Co., Ltd. Common Stock",Stock,True,2026-05-08,,,d07e488482c
 SKT,NYSE,Tanger Inc. Common Stock,Stock,True,2026-05-08,,,8dea9d5e400fd0277412
 SKY,NYSE,"Champion Homes, Inc. Common Stock",Stock,True,2026-05-08,,,2f5f0fbe01b270999981
 SKYD,NYSE,Skydance Corporation Class B Common Stock,Stock,True,2026-10-06,,,89d5f931b60e655ce495
+SKYD.V,NYSE,Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued,Stock,True,2026-10-13,,,6f5a5888fe2807c6b8f6
 SKYH,NYSE,Sky Harbour Group Corporation Class A Common Stock,Stock,True,2026-05-08,,,0aabe04dc4dc979e043e
 SKYH.W,NYSE,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,2eacef7bb697988b2868
 SLAI,NYSE,SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares),Stock,False,2026-05-08,2026-07-06,Listing metadata changed,27cb70a725ed1527b938

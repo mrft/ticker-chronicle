@@ -1914,7 +1914,6 @@ NYSE,O,Realty Income Corporation Common Stock,Stock,,nasdaq_trader_symbol_direct
 NYSE,OAK$A,"Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units",Stock,,nasdaq_trader_symbol_directory
 NYSE,OAK$B,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units",Stock,,nasdaq_trader_symbol_directory
 NYSE,OBDC,Blue Owl Capital Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,OBK,"Origin Bancorp, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OC,Owens Corning Inc Common Stock New,Stock,,nasdaq_trader_symbol_directory
 NYSE,OCAC,Ocean Capital Acquisition Corporation Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,OCAC.R,"Ocean Capital Acquisition Corporation Rights, each entitling the holder to receive one ordinary share",Stock,,nasdaq_trader_symbol_directory
@@ -2384,6 +2383,7 @@ NYSE,SKM,"SK Telecom Co., Ltd. Common Stock",Stock,,nasdaq_trader_symbol_directo
 NYSE,SKT,Tanger Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKY,"Champion Homes, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SKYD,Skydance Corporation Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,SKYD.V,Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKYH,Sky Harbour Group Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,SLB,SLB Limited Common Shares,Stock,,nasdaq_trader_symbol_directory

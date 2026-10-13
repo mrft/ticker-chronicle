@@ -526,6 +526,7 @@ NASDAQ,AXGN,"Axogen, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AXIN,Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AXINR,Axiom Intelligence Acquisition Corp 1 - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AXINU,Axiom Intelligence Acquisition Corp 1 - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AXNX,Axonex AI Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AXON,"Axon Enterprise, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AXSM,"Axsome Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AXTI,AXT Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -567,7 +568,6 @@ NASDAQ,BBGI,"Beasley Broadcast Group, Inc. - Class A Common Stock",Stock,,nasdaq
 NASDAQ,BBH,VanEck Biotech ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BBIO,"BridgeBio Pharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBLG,Bone Biologics Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BBLGW,Bone Biologics Corp - warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBNX,"Beta Bionics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBOT,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBSI,"Barrett Business Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2175,7 +2175,6 @@ NASDAQ,GRAL,"GRAIL, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRAN,Grande Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRCE,"Grace Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRDX,GridAI Technologies Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GREEL,Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRFS,"Grifols, S.A. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRI,"GRI Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,ETF,,nasdaq_trader_symbol_directory
@@ -3167,7 +3166,6 @@ NASDAQ,MIACU,Meridian3 Industrials Acquisition Corp - Units,Stock,,nasdaq_trader
 NASDAQ,MIACW,Meridian3 Industrials Acquisition Corp - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIDD,The Middleby Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MILN,Global X Millennial Consumer ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,MIMI,Mint Incorporation Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIND,"MIND Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIRA,"MIRA Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MIRM,"Mirum Pharmaceuticals, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
@@ -4324,6 +4322,7 @@ NASDAQ,RNGTW,Range Capital Acquisition Corp II - Warrants,Stock,,nasdaq_trader_s
 NASDAQ,RNIN,Bushido Capital US SMID Cap Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RNRG,Global X Renewable Energy Producers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RNTX,"Rein Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RNTZ,Rantizo - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNW,ReNew Energy Global plc - Class A Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNXT,"RenovoRx, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ROAD,"Construction Partners, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4555,7 +4554,6 @@ NASDAQ,SJLD,SanJac Alpha Low Duration ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SKDD,GraniteShares 2x Short SK Hynix Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SKHY,SK hynix Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKIN,SkinHealth Systems Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SKK,SKK Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SKOR,Northern Trust Credit-Scored US Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SKUU,GraniteShares 2x Long SK Hynix Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5115,7 +5113,6 @@ NASDAQ,UCFIW,CN Healthy Food Tech Group Corp. - Warrant,Stock,,nasdaq_trader_sym
 NASDAQ,UCL,uCloudlink Group Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UCRD,VictoryShares Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UCTT,"Ultra Clean Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,UCYB,ProShares Ultra Nasdaq Cybersecurity,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UECG,Leverage Shares 2x Long UEC Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UEIC,Universal Electronics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UEVM,VictoryShares Emerging Markets Value Momentum ETF,ETF,,nasdaq_trader_symbol_directory
