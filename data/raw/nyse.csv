@@ -386,7 +386,6 @@ NYSE,BKD,Brookdale Senior Living Inc. Common Stock,Stock,,nasdaq_trader_symbol_d
 NYSE,BKE,"Buckle, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BKH,Black Hills Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BKKT,"Bakkt, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,BKKT.W,"Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share",Stock,,nasdaq_trader_symbol_directory
 NYSE,BKSY,BlackSky Technology Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BKT,BlackRock Income Trust Inc. (The),Stock,,nasdaq_trader_symbol_directory
 NYSE,BKU,"BankUnited, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -454,6 +453,7 @@ NYSE,BSAC,Banco Santander - Chile ADS,Stock,,nasdaq_trader_symbol_directory
 NYSE,BSBR,"Banco Santander Brasil SA American Depositary Shares, each representing one unit",Stock,,nasdaq_trader_symbol_directory
 NYSE,BSL,Blackstone Senior Floating Rate 2027 Term Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests",Stock,,nasdaq_trader_symbol_directory
+NYSE,BSRT,BSR Real Estate Investment Trust Units,Stock,,nasdaq_trader_symbol_directory
 NYSE,BST,BlackRock Science and Technology Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,BSTZ,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,BSX,Boston Scientific Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -528,7 +528,6 @@ NYSE,CCJ,Cameco Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CCK,"Crown Holdings, Inc.",Stock,,nasdaq_trader_symbol_directory
 NYSE,CCL,Carnival Corporation Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,CCM,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),Stock,,nasdaq_trader_symbol_directory
-NYSE,CCO,"Clear Channel Outdoor Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CCS,"Century Communities, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CCU,"Compania Cervecerias Unidas, S.A. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CCZ,Comcast Holdings ZONES,Stock,,nasdaq_trader_symbol_directory
@@ -1324,7 +1323,6 @@ NYSE,HYI,Western Asset High Yield Opportunity Fund Inc. Common Stock,Stock,,nasd
 NYSE,HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,HYTR,Counterpoint High Yield Trend ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,HZO,"MarineMax, Inc. (FL) Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,IAE,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,IAG,Iamgold Corporation Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,IBM,International Business Machines Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,IBN,ICICI Bank Limited Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1346,7 +1344,6 @@ NYSE,IGD,Voya Global Equity Dividend and Premium Opportunity Fund,Stock,,nasdaq_
 NYSE,IGI,Western Asset Investment Grade Opportunity Trust Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,IH,"iHuman Inc. American depositary shares, each representing five Class A ordinary shares",Stock,,nasdaq_trader_symbol_directory
-NYSE,IHD,Voya Emerging Markets High Income Dividend Equity Fund Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,IHG,Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share),Stock,,nasdaq_trader_symbol_directory
 NYSE,IHS,IHS Holding Limited Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,IIF,"Morgan Stanley India Investment Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1528,7 +1525,7 @@ NYSE,LANV,Lanvin Group Holdings Limited Ordinary Shares,Stock,,nasdaq_trader_sym
 NYSE,LAR,Lithium Argentina AG Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,LAW,"CS Disco, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LAZ,"Lazard, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,Stock,,nasdaq_trader_symbol_directory
+NYSE,LB,LandBridge Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LBRT,Liberty Energy Inc. Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LCII,LCI Industries,Stock,,nasdaq_trader_symbol_directory
 NYSE,LCIV,Logan Capital International ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1900,7 +1897,6 @@ NYSE,NWAX.W,"New America Acquisition I Corp. Warrants, each whole warrant is exe
 NYSE,NWG,"NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)",Stock,,nasdaq_trader_symbol_directory
 NYSE,NWN,Northwest Natural Holding Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NX,Quanex Building Products Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,NXDR,"Nextdoor Holdings, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,NXDT,NexPoint Diversified Real Estate Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),Stock,,nasdaq_trader_symbol_directory
 NYSE,NXE,Nexgen Energy Ltd. Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2109,7 +2105,6 @@ NYSE,PRH,"Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062",
 NYSE,PRI,"Primerica, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PRIF$D,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029",Stock,,nasdaq_trader_symbol_directory
 NYSE,PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,PRIF$L,"Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",Stock,,nasdaq_trader_symbol_directory
 NYSE,PRIM,Primoris Services Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PRKS,United Parks & Resorts Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PRLB,"Proto Labs, Inc. Common stock",Stock,,nasdaq_trader_symbol_directory
@@ -2383,7 +2378,7 @@ NYSE,SKM,"SK Telecom Co., Ltd. Common Stock",Stock,,nasdaq_trader_symbol_directo
 NYSE,SKT,Tanger Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKY,"Champion Homes, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,SKYD,Skydance Corporation Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,SKYD.V,Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
+NYSE,SKYD.W,Skydance Corporation Warrants to Purchase Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKYH,Sky Harbour Group Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,SLB,SLB Limited Common Shares,Stock,,nasdaq_trader_symbol_directory

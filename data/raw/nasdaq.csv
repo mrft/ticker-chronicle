@@ -64,6 +64,7 @@ NASDAQ,ACGL,Arch Capital Group Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_d
 NASDAQ,ACGLN,"Arch Capital Group Ltd. - Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACGLO,"Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACHC,"Acadia Healthcare Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ACHP,Global X Asia Semiconductor ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ACHV,"Achieve Life Sciences, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACIC,American Coastal Insurance Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACIU,AC Immune SA - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1383,6 +1384,7 @@ NASDAQ,DETX,"Liberty Defense Holdings, Ltd. - Common Shares",Stock,,nasdaq_trade
 NASDAQ,DFDV,DeFi Development Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DFDVW,DeFi Development Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DFGP,Dimensional Global Core Plus Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,DFGV,DFA Intermediate Government Fixed Income Portfolio: ETF Class Shares,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DFGX,Dimensional International Core Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DFLI,Dragonfly Energy Holdings Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DFLIW,Dragonfly Energy Holdings Corp - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -1602,7 +1604,6 @@ NASDAQ,EMIS,Emmis Acquisition Corp. - Class A Ordinary Share,Stock,,nasdaq_trade
 NASDAQ,EMISR,Emmis Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EML,Eastern Company (The) - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EMPD,Empery Digital Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,EMSC,Sophus Capital Emerging Market Small Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMXC,iShares MSCI Emerging Markets ex China ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMXF,iShares ESG Advanced MSCI EM ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ENDW,Cambria Endowment Style ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1860,6 +1861,7 @@ NASDAQ,FLN,First Trust Latin America AlphaDEX Fund,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,FLNA,"Filana Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FLNC,"Fluence Energy, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FLNT,"Fluent, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FLSC,Frazier Life Sciences Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FLUX,"Flux Power Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FLWS,"1-800-FLOWERS.COM, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FLX,BingEx Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3154,6 +3156,7 @@ NASDAQ,MGIH,Millennium Group International Holdings Limited - Ordinary Shares,St
 NASDAQ,MGN,Megan Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGNI,"Magnite, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGNX,"MacroGenics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MGOL,Leverage Shares MANGOS ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MGPI,"MGP Ingredients, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGRC,McGrath RentCorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGRT,Mega Fortune Company Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3565,6 +3568,7 @@ NASDAQ,NWSA,News Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,NWTG,"Newton Golf Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXAT,Nexus Advanced Technologies Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXATW,Nexus Advanced Technologies Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NXDR,"Nextdoor Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXGL,"NexGel, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXGLW,"NexGel, Inc - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXH,"Neighborhood Intelligence, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3850,6 +3854,7 @@ NASDAQ,PENN,"PENN Entertainment, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,PEP,"PepsiCo, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PEPG,PepGen Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PEPS,Parametric Equity Plus ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,PEPT,REX Peptide ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PERI,Perion Network Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PESI,"Perma-Fix Environmental Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PETS,"PetMed Express, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4093,9 +4098,6 @@ NASDAQ,QCOM,QUALCOMM Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,QCRH,"QCR Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QDEL,QuidelOrtho Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QDTY,YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,QETA,Quetta Acquisition Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,QETAR,Quetta Acquisition Corporation - Right,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,QETAU,Quetta Acquisition Corporation - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QEW,Invesco QQQ Equal Weight ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QFF,Qualivian Focus Fund ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QFIN,"Qfin Holdings, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -4357,6 +4359,7 @@ NASDAQ,RTACU,Renatus Tactical Acquisition Corp I - Unit,Stock,,nasdaq_trader_sym
 NASDAQ,RTACW,Renatus Tactical Acquisition Corp I - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTB,"RTB Digital, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTH,VanEck Retail ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,RTHY,F/m Long-Term Treasury Inflation-Protected Security (TIPS) ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RTSN,"Retension Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RTXG,Leverage Shares 2X Long RTX Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RTYY,GraniteShares YieldBoost RIOT ETF,ETF,,nasdaq_trader_symbol_directory
