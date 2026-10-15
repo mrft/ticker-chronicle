@@ -684,6 +684,7 @@ AMPGZ,NASDAQ,"Amplitech Group, Inc. - Series B Right",Stock,True,2026-05-08,,,2a
 AMPH,NASDAQ,"Amphastar Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,591d59ec1d1d73dde1af
 AMPL,NASDAQ,"Amplitude, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,4deb940a781d86cfb6d7
 AMRN,NASDAQ,Amarin Corporation plc - American Depositary Shares,Stock,True,2026-05-08,,,17ba7bb9344ad3787a6f
+AMRO,NASDAQ,Amaero Inc. - Common Stock,Stock,True,2026-10-15,,,bd5f67245e8dca84925a
 AMRX,NASDAQ,"Amneal Pharmaceuticals, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,3a234ab0d078e08ec208
 AMSC,NASDAQ,American Superconductor Corporation - Common Stock,Stock,True,2026-05-08,,,0795e44571eb29d2ed81
 AMSF,NASDAQ,"AMERISAFE, Inc. - Common Stock",Stock,True,2026-05-08,,,d504733bd71c89ebe574
@@ -1141,6 +1142,7 @@ BMEA,NASDAQ,"Biomea Fusion, Inc. - Common Stock",Stock,True,2026-05-08,,,b2b22da
 BMGL,NASDAQ,Basel Medical Group Ltd - ordinary shares,Stock,True,2026-05-08,,,59adac13fe4c611326d2
 BMHL,NASDAQ,Bluemount Holdings Limited - Class B Ordinary Shares,Stock,True,2026-05-08,,,a64411e02cf1b15ac9e7
 BMM,NASDAQ,Blue Moon Metals Inc. - Common Shares,Stock,True,2026-05-08,,,db366ae508c5ff2dbb0b
+BMMX,NASDAQ,Black Mammoth Metals Corporation - Common Shares,Stock,True,2026-10-15,,,81c9b54ef475d59024ed
 BMNG,NASDAQ,Leverage Shares 2X Long BMNR Daily ETF,ETF,True,2026-05-08,,,094dca36df55aa4f34d5
 BMOP,NASDAQ,BNY Mellon Municipal Opportunities ETF,ETF,True,2026-05-08,,,c09aa33f94e38fb8a9d9
 BMR,NASDAQ,Beamr Imaging Ltd. - Ordinary Share,Stock,True,2026-05-08,,,d0af0c22785299cea7cf
@@ -2994,6 +2996,7 @@ IACQ,NASDAQ,Irenic Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-0
 IACQU,NASDAQ,Irenic Acquisition Corp. - Unit,Stock,True,2026-05-08,,,27391b3d7c34caabbd5f
 IACQW,NASDAQ,Irenic Acquisition Corp. - Warrants,Stock,True,2026-06-18,,,faad39499cfac34690f0
 IALT,NASDAQ,iShares Systematic Alternatives Active ETF,ETF,True,2026-05-08,,,ab9f0fcca17805af0b1e
+IAM,NASDAQ,"Iambic Therapeutics, Inc. - Common Stock",Stock,True,2026-10-15,,,78e3ca3355d3266d0f97
 IART,NASDAQ,Integra LifeSciences Holdings Corporation - Common Stock,Stock,True,2026-05-08,,,13d2d4c876c98f2947c3
 IBAC,NASDAQ,IB Acquisition Corp. - Common Stock,Stock,True,2026-05-08,,,636fe0f14ffc8c6f90da
 IBACR,NASDAQ,IB Acquisition Corp. - Right,Stock,True,2026-05-08,,,e4ce8492613f4cbb9f20
@@ -6693,7 +6696,7 @@ ASBH,NYSE,"American Savings Bank, N.A. Common Stock",Stock,True,2026-09-16,,,dee
 ASC,NYSE,Ardmore Shipping Corporation Common Stock,Stock,True,2026-05-08,,,b931f5527dc623611087
 ASG,NYSE,"Liberty All-Star Growth Fund, Inc.",Stock,True,2026-05-08,,,0d6eb68c5ca161196e1d
 ASGI,NYSE,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,1106101233ded60df50d
-ASGI.R,NYSE,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",Stock,True,2026-09-24,,,88f9e55b70b325436826
+ASGI.R,NYSE,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",Stock,False,2026-09-24,2026-10-15,Missing from current NYSE source snapshot; reason unavailable,88f9e55b70b325436826
 ASGI.V,NYSE,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",Stock,False,2026-09-18,2026-09-24,Missing from current NYSE source snapshot; reason unavailable,aac905d61c97f4dded62
 ASH,NYSE,Ashland Inc. Common Stock,Stock,True,2026-05-08,,,72c6a0a141585f7fe111
 ASIC,NYSE,Ategrity Specialty Insurance Company Holdings Common Stock,Stock,True,2026-05-08,,,4b01ea837235ccc3cd3e
@@ -9028,7 +9031,7 @@ SNDR,NYSE,"Schneider National, Inc. Common Stock",Stock,True,2026-05-08,,,9e696f
 SNN,NYSE,"Smith & Nephew SNATS, Inc. Common Stock",Stock,True,2026-05-08,,,d5b0a438753556885fcb
 SNOW,NYSE,Snowflake Inc. Common Stock,Stock,True,2026-05-08,,,a0d2ca8579a47e2ca71c
 SNUS$H,NYSE,"Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H",Stock,True,2026-08-20,,,e7205a5d02261af9b1df
-SNUS$I,NYSE,"Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",Stock,True,2026-08-20,,,00fc0524d3c92b852bc6
+SNUS$I,NYSE,"Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",Stock,False,2026-08-20,2026-10-15,Missing from current NYSE source snapshot; reason unavailable,00fc0524d3c92b852bc6
 SNX,NYSE,TD SYNNEX Corporation Common Stock,Stock,True,2026-05-08,,,83e2db98c60f528d19ea
 SO,NYSE,Southern Company (The) Common Stock,Stock,True,2026-05-08,,,20fe38263d89f5f80c17
 SOBO,NYSE,South Bow Corporation Common Shares,Stock,True,2026-05-08,,,203929982b5224de3a68
