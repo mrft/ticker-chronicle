@@ -38,7 +38,6 @@ NYSE,ACR$C,ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumul
 NYSE,ACR$D,ACRES Commercial Realty Corp. 7.875% Series D Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ACRE,Ares Commercial Real Estate Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ACV,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,ACVA,ACV Auctions Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AD,"Array Digital Infrastructure, Inc. Common Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,ADC,Agree Realty Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -155,7 +154,7 @@ NYSE,AMRC,"Ameresco, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_dire
 NYSE,AMRZ,Amrize Ltd Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,AMT,American Tower Corporation (REIT) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AMTB,Amerant Bancorp Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,AMTD,"AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
+NYSE,AMTD,"AMTD IDEA Group American Depositary Shares, each representing three hundred sixty (360) Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,AMTM,"Amentum Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,AMWL,American Well Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,AMX,"America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares",Stock,,nasdaq_trader_symbol_directory
@@ -227,7 +226,6 @@ NYSE,ATH$E,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th
 NYSE,ATHM,"Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.",Stock,,nasdaq_trader_symbol_directory
 NYSE,ATHS,Athene Holding Ltd. 7.250% Fixed-Rate Reset Junior Subordinated Debentures due 2064,Stock,,nasdaq_trader_symbol_directory
 NYSE,ATI,ATI Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,ATKR,Atkore Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ATMU,Atmus Filtration Technologies Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ATO,Atmos Energy Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ATR,"AptarGroup, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory

@@ -1012,7 +1012,6 @@ NASDAQ,CDW,CDW Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CDXS,"Codexis, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CDZI,"Cadiz, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CDZIP,"Cadiz, Inc. - Depositary Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CECO,CECO Environmental Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CEFA,Global X S&P Catholic Values Developed ex-U.S. ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CEG,Constellation Energy Corporation - Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CELC,Celcuity Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1562,7 +1561,7 @@ NASDAQ,EFRA,iShares Environmental Infrastructure and Industrials ETF,ETF,,nasdaq
 NASDAQ,EFSC,Enterprise Financial Services Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EFSCP,"Enterprise Financial Services Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of 5% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EFSI,Eagle Financial Services Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,EFTY,"Etoiles Capital Group Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EFTY,"Etoiles Capital Group Co., Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EGAN,eGain Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EGBN,"Eagle Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EGGQ,NestYield Visionary ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2313,6 +2312,7 @@ NASDAQ,HIFS,Hingham Institution for Savings - Common Stock,Stock,,nasdaq_trader_
 NASDAQ,HIHO,Highway Holdings Limited - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HIMX,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HIMZ,Defiance Daily Target 2X Long HIMS ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,HINC,Hartford High Yield ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HIND,"Vyome Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HIS,Humilis US Focused Opportunities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HISF,First Trust High Income Strategic Focus ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2450,7 +2450,6 @@ NASDAQ,IBGM,iShares iBonds Dec 2056 Term Treasury ETF,ETF,,nasdaq_trader_symbol_
 NASDAQ,IBIO,"iBio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IBIT,iShares Bitcoin Trust ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IBKR,"Interactive Brokers Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IBOC,International Bancshares Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IBOT,VanEck Robotics ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IBRX,"ImmunityBio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IBTG,iShares iBonds Dec 2026 Term Treasury ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2884,6 +2883,7 @@ NASDAQ,LCFY,Locafy Limited - Ordinary Share,Stock,,nasdaq_trader_symbol_director
 NASDAQ,LCFYW,Locafy Limited - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LCID,"Lucid Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LCNB,LCNB Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LCU,Lion Copper Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LCUT,"Lifetime Brands, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LDEM,iShares ESG MSCI EM Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LDRX,SGI Enhanced Market Leaders ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3000,7 +3000,6 @@ NASDAQ,LQDT,"Liquidity Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,LRCX,Lam Research Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LRE,"Lead Real Estate Co., Ltd - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LRGE,ClearBridge Large Cap Growth Select ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,LRHC,La Rosa Holdings Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LRMR,"Larimar Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LRND,NYLIM U.S. Large Cap R&D Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LSAK,"Lesaka Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3202,7 +3201,6 @@ NASDAQ,MLKN,"MillerKnoll, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direc
 NASDAQ,MLTX,MoonLake Immunotherapeutics - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MLYS,"Mineralys Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MMED,"MiniMed Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MMEDV,"MiniMed Group, Inc. - Common Stock When Issued",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MMLP,Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MMSI,"Merit Medical Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MMTX,Miluna Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3442,7 +3440,7 @@ NASDAQ,NGNE,Neurogene Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHIV,NewHold Investment Corp IV - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHIVU,NewHold Investment Corp IV - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHIVW,NewHold Investment Corp IV - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NHP,"National Healthcare Properties, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NHP,"National Healthcare Properties, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NHTC,Natural Health Trends Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NICE,NICE Ltd - American Depositary Shares each representing one Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NICM,Nicola Mining Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4093,7 +4091,6 @@ NASDAQ,QBTZ,Defiance Daily Target 2x Short QBTS ETF,ETF,,nasdaq_trader_symbol_di
 NASDAQ,QBUF,Innovator Nasdaq-100 10 Buffer ETF Quarterly,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QBY,GraniteShares YieldBoost QBTS ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,QCLR,Global X NASDAQ 100 Collar 95-110 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QCLS,"Q/C Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QCMD,Direxion Daily QCOM Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QCML,GraniteShares 2x Long QCOM Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4474,7 +4471,6 @@ NASDAQ,SDSTW,Stardust Power Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SDTY,YieldMax S&P 500 0DTE Covered Call Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SEAT,Vivid Seats Inc. - Class A common stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SEATW,Vivid Seats Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SEDG,"SolarEdge Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SEED,Origin Agritech Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SEEM,SEI Select Emerging Markets Equity ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4709,6 +4705,7 @@ NASDAQ,SRET,Global X SuperDividend REIT ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SRPT,"Sarepta Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SRRK,Scholar Rock Holding Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SRTA,"Strata Critical Medical, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SRTM,Stratum Holdings Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SRTS,"Sensus Healthcare, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SRZN,"Surrozen, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SSAC,SPACSphere Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
