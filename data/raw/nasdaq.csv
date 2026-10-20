@@ -226,7 +226,6 @@ NASDAQ,AKTS,"Aktis Oncology, Inc. - Common stock",Stock,,nasdaq_trader_symbol_di
 NASDAQ,AKTX,Akari Therapeutics Plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALAB,"Astera Labs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALAR,Alarum Technologies Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ALBG,Leverage Shares 2X Long ALB Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ALCO,"Alico, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALDF,Aldel Financial II Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALDFU,Aldel Financial II Inc. - Units,Stock,,nasdaq_trader_symbol_directory
@@ -446,7 +445,6 @@ NASDAQ,ASTE,"Astec Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,ASTH,Astrana Health Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASTI,"Ascent Solar Technologies, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASTL,Algoma Steel Group Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ASTLW,Algoma Steel Group Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASTS,"AST SpaceMobile, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASUR,Asure Software Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASYS,"Amtech Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -711,7 +709,6 @@ NASDAQ,BLRK,Bluerock Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_t
 NASDAQ,BLRKU,Bluerock Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLRKW,Bluerock Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLRX,BioLineRx Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BLSG,Leverage Shares 2X Long BLSH Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BLSM,"BlossomHill Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLTE,"Belite Bio, Inc - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BLUW,Blue Water Acquisition Corp. III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1251,7 +1248,6 @@ NASDAQ,CRMG,Leverage Shares 2X Long CRM Daily ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,CRML,Critical Metals Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRMLW,Critical Metals Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRMT,"America's Car-Mart, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CRMU,Leverage Shares 2x Long CRML Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CRNC,Cerence Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRNT,Ceragon Networks Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CROB,Defiance China Robotics ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1767,7 +1763,6 @@ NASDAQ,FCNCP,"First Citizens BancShares, Inc. - Depositary Shares Each Represent
 NASDAQ,FCTE,SMI 3Fourteen Full-Cycle Trend ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FCUV,Focus Universal Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FCVT,First Trust SSI Strategic Convertible Securities ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,FCXG,Leverage Shares 2x Long FCX Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDBC,"Fidelity D & D Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FDCF,Fidelity Disruptive Communications ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDFF,Fidelity Disruptive Finance ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2057,7 +2052,6 @@ NASDAQ,GEGGL,"Great Elm Group, Inc. - 7.25% Notes due 2027",Stock,,nasdaq_trader
 NASDAQ,GEHC,GE HealthCare Technologies Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GELS,Gelteq Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GEME,Pacific North of South EM Equity Active ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,GEMG,Leverage Shares 2X Long GEMI Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GEMI,"Gemini Space Station, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GEMQ,Goldman Sachs Data Enhanced Emerging Markets Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GEN,Gen Digital Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2114,7 +2108,6 @@ NASDAQ,GLCR,GlacierShares Nasdaq Iceland ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GLDB,IDX Alternative FIAT ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GLDI,"ETRACS Gold Shares Covered Call ETNs due February 2, 2033",ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GLE,Global Engine Group Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GLGG,Leverage Shares 2X Long GLXY Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GLIBA,Liberty Capital Corporation - Series A GCI Group Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GLIBK,Liberty Capital Corporation - Series C GCI Group Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GLND,Greenland Energy Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3291,6 +3284,7 @@ NASDAQ,MTEK,Maris-Tech Ltd. - ordinary shares,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,MTEKW,Maris-Tech Ltd. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTEN,Mingteng International Corporation Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTEX,"Mannatech, Incorporated - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MTGG,MayTech Global Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MTLS,Materialise NV - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTRX,Matrix Service Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3404,7 +3398,6 @@ NASDAQ,NDRA,ENDRA Life Sciences Inc. - Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,NDSN,Nordson Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NECB,"NorthEast Community Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NEGG,"Newegg Commerce, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NEMG,Leverage Shares 2x Long NEM Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NEO,"NeoGenomics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NEOG,Neogen Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NEON,Neonode Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3532,7 +3525,6 @@ NASDAQ,NUAI,"New Era Energy & Digital, Inc. - Common Stock",Stock,,nasdaq_trader
 NASDAQ,NUAIW,"New Era Energy & Digital, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUCL,Eagle Nuclear Energy Corp. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NUCLW,Eagle Nuclear Energy Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NUG,Leverage Shares 2X Long NU Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUGY,GraniteShares YieldBOOST Gold Miners ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUIB,Nuveen Impact Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NUIF,Nuveen US Infrastructure ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3683,7 +3675,6 @@ NASDAQ,OPAD,Offerpad Solutions Inc. - Class A Common Stock,Stock,,nasdaq_trader_
 NASDAQ,OPAL,OPAL Fuels Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPBK,OP Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPCH,"Option Care Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OPEG,Leverage Shares 2X Long OPEN Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OPEN,Opendoor Technologies Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPENL,"Opendoor Technologies Inc - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPENW,"Opendoor Technologies Inc - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",Stock,,nasdaq_trader_symbol_directory
@@ -3810,7 +3801,6 @@ NASDAQ,PBMWW,Psyence Biomedical Ltd. - Warrant,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,PBOG,Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PBPH,Portfolio Building Block World Pharma and Biotech Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PBQQ,PGIM Laddered Nasdaq-100 Buffer 12 ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,PBRG,Leverage Shares 2X Long PBR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PBSC,Pacer Barings Secured Credit Flex ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PBUB,Portfolio Building Block US Banks ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PBWN,Portfolio Building Block World Ex US Industrials ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4024,7 +4014,6 @@ NASDAQ,PSCM,Invesco S&P SmallCap Materials ETF,ETF,,nasdaq_trader_symbol_directo
 NASDAQ,PSCT,Invesco S&P SmallCap Information Technology ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PSCU,Invesco S&P SmallCap Utilities & Communication Services ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PSEC,Prospect Capital Corporation - Closed End Fund,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PSET,Principal Quality ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PSHG,Performance Shipping Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSIG,PS International Group Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PSIX,"Power Solutions International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4418,6 +4407,7 @@ NASDAQ,SARK,Tradr 1X Short Innovation Daily ETF,ETF,,nasdaq_trader_symbol_direct
 NASDAQ,SATA,"Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SATL,Satellogic Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SATLW,Satellogic Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SATS,"Strive, Inc. - 15.00% Series A Perpetual SATS Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SBAC,SBA Communications Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SBC,SBC Medical Group Holdings Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SBCF,Seacoast Banking Corporation of Florida - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5118,7 +5108,6 @@ NASDAQ,UCFIW,CN Healthy Food Tech Group Corp. - Warrant,Stock,,nasdaq_trader_sym
 NASDAQ,UCL,uCloudlink Group Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UCRD,VictoryShares Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UCTT,"Ultra Clean Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,UECG,Leverage Shares 2x Long UEC Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UEIC,Universal Electronics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UEVM,VictoryShares Emerging Markets Value Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UFCS,"United Fire Group, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5203,7 +5192,6 @@ NASDAQ,UYSCU,UY Scuti Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,UZX,Linkage Global Inc - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VABK,Virginia National Bankshares Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VAI,Valor Energy Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,VALG,Leverage Shares 2X Long VALE Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VALN,Valneva SE - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VALU,"Value Line, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VANI,"Vivani Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory

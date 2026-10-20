@@ -293,7 +293,8 @@ SLND.W,AMEX,"Southland Holdings, Inc. Warrants",Stock,True,2026-05-08,,,8e3d399e
 SLSR,AMEX,Solaris Resources Inc. Common Shares,Stock,True,2026-05-08,,,bffe8e83ad5a8ebce334
 SMJF,AMEX,SMJ International Holdings Inc. Class A Ordinary Shares,Stock,True,2026-05-08,,,433cb35e27e3f8604ecd
 SNSC,AMEX,SunScout Holding Limited Class A Ordinary Shares,Stock,True,2026-08-12,,,166a8f322782296cf11c
-SOAR,AMEX,"Volato Group, Inc. Class A Common Stock",Stock,True,2026-05-08,,,95bba1602dc77e156914
+SOAR,AMEX,"Volato Group, Inc. Class A Common Stock",Stock,False,2026-05-08,2026-10-20,Listing metadata changed,95bba1602dc77e156914
+SOAR,AMEX,"SOAR AI, Inc. Class A Common Stock",Stock,True,2026-10-20,,,ec353bcb169d57364e97
 SRXH,AMEX,"SRX Health Solutions, Inc. Common Stock",Stock,False,2026-05-08,2026-06-29,Listing metadata changed,40d0e565a81f453bcfe7
 SRXH,AMEX,SRX Global Inc. Common Stock,Stock,True,2026-06-29,,,0a69ab7cb4c053e8028e
 STRW,AMEX,"Strawberry Fields REIT, Inc. Common Stock",Stock,True,2026-05-08,,,85af20f9a5dd88f1f61e
@@ -596,7 +597,7 @@ AKTS,NASDAQ,"Aktis Oncology, Inc. - Common stock",Stock,True,2026-05-08,,,9994d1
 AKTX,NASDAQ,Akari Therapeutics Plc - American Depositary Shares,Stock,True,2026-05-08,,,a16099df0e299f834c15
 ALAB,NASDAQ,"Astera Labs, Inc. - Common Stock",Stock,True,2026-05-08,,,ec6e11284d0a8b4d62cb
 ALAR,NASDAQ,Alarum Technologies Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,1487cf02cf29186272cb
-ALBG,NASDAQ,Leverage Shares 2X Long ALB Daily ETF,ETF,True,2026-05-08,,,3d65b80e383531d675dc
+ALBG,NASDAQ,Leverage Shares 2X Long ALB Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,3d65b80e383531d675dc
 ALBT,NASDAQ,Avalon GloboCare Corp. - Common Stock,Stock,False,2026-05-08,2026-07-22,Missing from current NASDAQ source snapshot; reason unavailable,a6ec15b1da487734b079
 ALCO,NASDAQ,"Alico, Inc. - Common Stock",Stock,True,2026-05-08,,,50f4d9c7e450c7d987ec
 ALCY,NASDAQ,Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares,Stock,False,2026-05-08,2026-05-14,Missing from current NASDAQ source snapshot; reason unavailable,2ca7350d66cf2cdeba20
@@ -842,7 +843,7 @@ ASTE,NASDAQ,"Astec Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,817d
 ASTH,NASDAQ,Astrana Health Inc. - Common Stock,Stock,True,2026-05-08,,,d6b1effaf77504344f56
 ASTI,NASDAQ,"Ascent Solar Technologies, Inc - Common Stock",Stock,True,2026-05-08,,,0367cdc54d69172b6b1f
 ASTL,NASDAQ,Algoma Steel Group Inc. - Common Shares,Stock,True,2026-05-08,,,ec920a91de6873c50cf4
-ASTLW,NASDAQ,Algoma Steel Group Inc. - Warrant,Stock,True,2026-05-08,,,a34963a66f151cb5ec8d
+ASTLW,NASDAQ,Algoma Steel Group Inc. - Warrant,Stock,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,a34963a66f151cb5ec8d
 ASTS,NASDAQ,"AST SpaceMobile, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,dd972b1d2cd4ac78a56b
 ASUR,NASDAQ,Asure Software Inc - Common Stock,Stock,True,2026-05-08,,,ba1e7306a7fdfb25eea6
 ASYS,NASDAQ,"Amtech Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,8eb45340d485de13cea5
@@ -1128,7 +1129,7 @@ BLRK,NASDAQ,Bluerock Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026
 BLRKU,NASDAQ,Bluerock Acquisition Corp. - Units,Stock,True,2026-05-08,,,b0adb2431122a91e0e14
 BLRKW,NASDAQ,Bluerock Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,4d3e4750b237541283dd
 BLRX,NASDAQ,BioLineRx Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,973a4343a8e90ee753db
-BLSG,NASDAQ,Leverage Shares 2X Long BLSH Daily ETF,ETF,True,2026-05-08,,,cf4117c82c7ae01ede10
+BLSG,NASDAQ,Leverage Shares 2X Long BLSH Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,cf4117c82c7ae01ede10
 BLSM,NASDAQ,"BlossomHill Therapeutics, Inc. - Common Stock",Stock,True,2026-08-07,,,29c0d4781e2d61618376
 BLTE,NASDAQ,"Belite Bio, Inc - American Depositary Shares",Stock,True,2026-05-08,,,9f3c56c2869a2f0a26b8
 BLUW,NASDAQ,Blue Water Acquisition Corp. III - Class A Ordinary Shares,Stock,True,2026-05-08,,,4ece4ffd3c2b8111b0a6
@@ -1712,7 +1713,7 @@ CRMG,NASDAQ,Leverage Shares 2X Long CRM Daily ETF,ETF,True,2026-05-08,,,d6cb4316
 CRML,NASDAQ,Critical Metals Corp. - Ordinary Shares,Stock,True,2026-05-08,,,3597844ec1257d362787
 CRMLW,NASDAQ,Critical Metals Corp. - Warrants,Stock,True,2026-05-08,,,661e93ae8285e92f2226
 CRMT,NASDAQ,"America's Car-Mart, Inc. - Common Stock",Stock,True,2026-05-08,,,055330cf5d79c302dfa0
-CRMU,NASDAQ,Leverage Shares 2x Long CRML Daily ETF,ETF,True,2026-05-08,,,cb644ec86ec09b4032f0
+CRMU,NASDAQ,Leverage Shares 2x Long CRML Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,cb644ec86ec09b4032f0
 CRNC,NASDAQ,Cerence Inc. - Common Stock,Stock,True,2026-05-08,,,4a74eaa5392ad0d1fbd5
 CRNT,NASDAQ,Ceragon Networks Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,44ca06acb4c5c010b37c
 CRNX,NASDAQ,"Crinetics Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-09-02,Missing from current NASDAQ source snapshot; reason unavailable,59ac99b12dc7bd66c0af
@@ -2276,7 +2277,7 @@ FCNCP,NASDAQ,"First Citizens BancShares, Inc. - Depositary Shares Each Represent
 FCTE,NASDAQ,SMI 3Fourteen Full-Cycle Trend ETF,ETF,True,2026-05-08,,,56aaefa994d612e6c1f8
 FCUV,NASDAQ,Focus Universal Inc. - Common Stock,Stock,True,2026-05-08,,,490178821d036377286d
 FCVT,NASDAQ,First Trust SSI Strategic Convertible Securities ETF,ETF,True,2026-05-08,,,c8848fb7b37e945f220a
-FCXG,NASDAQ,Leverage Shares 2x Long FCX Daily ETF,ETF,True,2026-05-08,,,8971f38f87f1945e3ae9
+FCXG,NASDAQ,Leverage Shares 2x Long FCX Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,8971f38f87f1945e3ae9
 FDBC,NASDAQ,"Fidelity D & D Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,15357772d6d7c221f788
 FDCF,NASDAQ,Fidelity Disruptive Communications ETF,ETF,True,2026-05-08,,,6b72b09e8f17c3be04f3
 FDFF,NASDAQ,Fidelity Disruptive Finance ETF,ETF,True,2026-05-08,,,aea64ee10e372f638f83
@@ -2592,7 +2593,7 @@ GEGGL,NASDAQ,"Great Elm Group, Inc. - 7.25% Notes due 2027",Stock,True,2026-05-0
 GEHC,NASDAQ,GE HealthCare Technologies Inc. - Common Stock,Stock,True,2026-05-08,,,88cba2483748b5305b4f
 GELS,NASDAQ,Gelteq Limited - Ordinary Shares,Stock,True,2026-05-08,,,87e919a84866a84f3816
 GEME,NASDAQ,Pacific North of South EM Equity Active ETF,ETF,True,2026-05-08,,,cad952adf926380a1af9
-GEMG,NASDAQ,Leverage Shares 2X Long GEMI Daily ETF,ETF,True,2026-05-08,,,134f5c23d4ad13dbde50
+GEMG,NASDAQ,Leverage Shares 2X Long GEMI Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,134f5c23d4ad13dbde50
 GEMI,NASDAQ,"Gemini Space Station, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,b2bb5446381d5a3c0a38
 GEMQ,NASDAQ,Goldman Sachs Data Enhanced Emerging Markets Equity ETF,ETF,True,2026-09-11,,,5e63d5ab8a92fc4659a7
 GEN,NASDAQ,Gen Digital Inc. - Common Stock,Stock,True,2026-05-08,,,3dcdef974747e259d965
@@ -2656,7 +2657,7 @@ GLDB,NASDAQ,IDX Alternative FIAT ETF,ETF,True,2026-05-08,,,ea514fc864ab29f97038
 GLDI,NASDAQ,"ETRACS Gold Shares Covered Call ETNs due February 2, 2033",ETF,True,2026-05-08,,,ede17e2c77ce81c1af42
 GLDY,NASDAQ,Defiance Gold Enhanced Options Income ETF,ETF,False,2026-05-08,2026-06-30,Missing from current NASDAQ source snapshot; reason unavailable,5650a3381ae9fb324174
 GLE,NASDAQ,Global Engine Group Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,0220776322c2e936099c
-GLGG,NASDAQ,Leverage Shares 2X Long GLXY Daily ETF,ETF,True,2026-05-08,,,baf423957a7aeb8f1c29
+GLGG,NASDAQ,Leverage Shares 2X Long GLXY Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,baf423957a7aeb8f1c29
 GLIBA,NASDAQ,"GCI Liberty, Inc. - Series A GCI Group Common Stock",Stock,False,2026-05-08,2026-05-26,Listing metadata changed,6ef9a819ac0b81ca8bb9
 GLIBA,NASDAQ,Liberty Capital Corporation - Series A GCI Group Common Stock,Stock,True,2026-05-26,,,6d0c9152fe8f9fd53fc2
 GLIBK,NASDAQ,"GCI Liberty, Inc. - Series C GCI Group Common Stock",Stock,False,2026-05-08,2026-05-26,Listing metadata changed,12de032a0f9ed8c43ca0
@@ -3950,6 +3951,7 @@ MTEK,NASDAQ,Maris-Tech Ltd. - ordinary shares,Stock,True,2026-05-08,,,a9da93a2ba
 MTEKW,NASDAQ,Maris-Tech Ltd. - Warrants,Stock,True,2026-05-08,,,064aace881162206c009
 MTEN,NASDAQ,Mingteng International Corporation Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,e4bef0425bd7fc833c20
 MTEX,NASDAQ,"Mannatech, Incorporated - Common Stock",Stock,True,2026-05-08,,,547c7960580b5d3a30ee
+MTGG,NASDAQ,MayTech Global Growth ETF,ETF,True,2026-10-20,,,587139f5236589f2ac0c
 MTLS,NASDAQ,Materialise NV - American Depositary Shares,Stock,True,2026-05-08,,,73fe9c52ad7264883428
 MTRX,NASDAQ,Matrix Service Company - Common Stock,Stock,True,2026-05-08,,,4c182197aa575afa570b
 MTSI,NASDAQ,"MACOM Technology Solutions Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,5e6b15a68d6c7e254d6a
@@ -4067,7 +4069,7 @@ NDRA,NASDAQ,ENDRA Life Sciences Inc. - Common Stock,Stock,True,2026-05-08,,,06b1
 NDSN,NASDAQ,Nordson Corporation - Common Stock,Stock,True,2026-05-08,,,e81d6cd369825a2bb428
 NECB,NASDAQ,"NorthEast Community Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,7f551950e8fc6b7f246f
 NEGG,NASDAQ,"Newegg Commerce, Inc. - Common Shares",Stock,True,2026-05-08,,,69b7e49a27f09c1107e1
-NEMG,NASDAQ,Leverage Shares 2x Long NEM Daily ETF,ETF,True,2026-05-08,,,98f6fe95d72f6baa3e76
+NEMG,NASDAQ,Leverage Shares 2x Long NEM Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,98f6fe95d72f6baa3e76
 NEO,NASDAQ,"NeoGenomics, Inc. - Common Stock",Stock,True,2026-05-08,,,2395b3011ab6399a3adf
 NEOG,NASDAQ,Neogen Corporation - Common Stock,Stock,True,2026-05-08,,,0443032c4a8bd3057e4c
 NEON,NASDAQ,Neonode Inc. - Common Stock,Stock,True,2026-05-08,,,eb553eb959b4e3b1f4af
@@ -4208,7 +4210,7 @@ NUAI,NASDAQ,"New Era Energy & Digital, Inc. - Common Stock",Stock,True,2026-05-0
 NUAIW,NASDAQ,"New Era Energy & Digital, Inc. - Warrants",Stock,True,2026-05-08,,,d6fb3512cce1c882bf6f
 NUCL,NASDAQ,Eagle Nuclear Energy Corp. - Common stock,Stock,True,2026-05-08,,,c59d4c22d0ab5d049be0
 NUCLW,NASDAQ,Eagle Nuclear Energy Corp. - Warrants,Stock,True,2026-05-08,,,f16d34351046c81b3541
-NUG,NASDAQ,Leverage Shares 2X Long NU Daily ETF,ETF,True,2026-05-08,,,8a2ceee9908c14aa5aa5
+NUG,NASDAQ,Leverage Shares 2X Long NU Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,8a2ceee9908c14aa5aa5
 NUGY,NASDAQ,GraniteShares YieldBOOST Gold Miners ETF,ETF,True,2026-05-08,,,76a3c391fc79e7a8c6e9
 NUIB,NASDAQ,Nuveen Impact Bond ETF,ETF,True,2026-09-15,,,f8d3763db7722f541681
 NUIF,NASDAQ,Nuveen US Infrastructure ETF,ETF,True,2026-06-18,,,f6235b303af7d048ba5b
@@ -4373,7 +4375,7 @@ OPAD,NASDAQ,Offerpad Solutions Inc. - Class A Common Stock,Stock,True,2026-08-31
 OPAL,NASDAQ,OPAL Fuels Inc. - Class A Common Stock,Stock,True,2026-05-08,,,d1bc23544e7fcacb4a34
 OPBK,NASDAQ,OP Bancorp - Common Stock,Stock,True,2026-05-08,,,4831865fb61cc2ac8610
 OPCH,NASDAQ,"Option Care Health, Inc. - Common Stock",Stock,True,2026-05-08,,,7feba12bc12e173fc88b
-OPEG,NASDAQ,Leverage Shares 2X Long OPEN Daily ETF,ETF,True,2026-05-08,,,1422d6832b252dfa96a4
+OPEG,NASDAQ,Leverage Shares 2X Long OPEN Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,1422d6832b252dfa96a4
 OPEN,NASDAQ,Opendoor Technologies Inc - Common Stock,Stock,True,2026-05-08,,,122707238879066c4fe8
 OPENL,NASDAQ,"Opendoor Technologies Inc - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",Stock,True,2026-05-08,,,e841381f3d3b1b3e857f
 OPENW,NASDAQ,"Opendoor Technologies Inc - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",Stock,True,2026-05-08,,,bb591744ab50130bd1f8
@@ -4511,7 +4513,7 @@ PBMWW,NASDAQ,Psyence Biomedical Ltd. - Warrant,Stock,True,2026-05-08,,,9eea21e54
 PBOG,NASDAQ,Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF,ETF,True,2026-05-08,,,2f513d7ad955bd9d53e8
 PBPH,NASDAQ,Portfolio Building Block World Pharma and Biotech Index ETF,ETF,True,2026-05-08,,,5127b7301719716f2dfa
 PBQQ,NASDAQ,PGIM Laddered Nasdaq-100 Buffer 12 ETF,ETF,True,2026-05-08,,,7bcc497a1bf712d3be66
-PBRG,NASDAQ,Leverage Shares 2X Long PBR Daily ETF,ETF,True,2026-05-08,,,f285e3c02d67ec3ddbc2
+PBRG,NASDAQ,Leverage Shares 2X Long PBR Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,f285e3c02d67ec3ddbc2
 PBSC,NASDAQ,Pacer Barings Secured Credit Flex ETF,ETF,True,2026-06-23,,,b337377439f457a1c786
 PBUB,NASDAQ,Portfolio Building Block US Banks ETF,ETF,True,2026-09-25,,,4296f5ab6bb2b828e823
 PBWN,NASDAQ,Portfolio Building Block World Ex US Industrials ETF,ETF,True,2026-09-25,,,3a197b62fcb2a0f46284
@@ -4731,7 +4733,7 @@ PSCM,NASDAQ,Invesco S&P SmallCap Materials ETF,ETF,True,2026-05-08,,,659d22e532a
 PSCT,NASDAQ,Invesco S&P SmallCap Information Technology ETF,ETF,True,2026-05-08,,,8f6c56ebc511d64a47db
 PSCU,NASDAQ,Invesco S&P SmallCap Utilities & Communication Services ETF,ETF,True,2026-05-08,,,ca1e1691e099ec5eecb3
 PSEC,NASDAQ,Prospect Capital Corporation - Closed End Fund,Stock,True,2026-05-08,,,75af2c903c3649d304e3
-PSET,NASDAQ,Principal Quality ETF,ETF,True,2026-05-08,,,607bb85e1907c58d5a4e
+PSET,NASDAQ,Principal Quality ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,607bb85e1907c58d5a4e
 PSHG,NASDAQ,Performance Shipping Inc. - Common Shares,Stock,True,2026-05-08,,,ca667170d5c13bf4a85c
 PSIG,NASDAQ,PS International Group Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,7780c1946a3bac717af1
 PSIX,NASDAQ,"Power Solutions International, Inc. - Common Stock",Stock,True,2026-05-08,,,971d58aa26f6bc80755a
@@ -5161,6 +5163,7 @@ SATG,NASDAQ,Leverage Shares 2X Long SATS Daily ETF,ETF,False,2026-05-08,2026-07-
 SATL,NASDAQ,Satellogic Inc. - Class A Common Stock,Stock,True,2026-05-08,,,562aba107736cf81cc7b
 SATLW,NASDAQ,Satellogic Inc. - Warrant,Stock,True,2026-05-08,,,a4c80a98321056fa38d5
 SATS,NASDAQ,EchoStar Corporation - Common stock,Stock,False,2026-05-08,2026-06-24,Missing from current NASDAQ source snapshot; reason unavailable,638a3878c55ca5111e3e
+SATS,NASDAQ,"Strive, Inc. - 15.00% Series A Perpetual SATS Preferred Stock",Stock,True,2026-10-20,,,0794ae88a3aeac7524e3
 SBAC,NASDAQ,SBA Communications Corporation - Class A Common Stock,Stock,True,2026-05-08,,,e278aebd9fb4056f8786
 SBC,NASDAQ,SBC Medical Group Holdings Incorporated - Common Stock,Stock,True,2026-05-08,,,46cb31820909901b9c44
 SBCF,NASDAQ,Seacoast Banking Corporation of Florida - Common Stock,Stock,True,2026-05-08,,,b6327a4df3ebfd05794f
@@ -5928,7 +5931,7 @@ UCRD,NASDAQ,VictoryShares Corporate Bond ETF,ETF,True,2026-05-08,,,f69bea90c4c65
 UCTT,NASDAQ,"Ultra Clean Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,043fc1a4e6f2e34c06a0
 UCYB,NASDAQ,ProShares Ultra Nasdaq Cybersecurity,ETF,False,2026-05-08,2026-10-13,Missing from current NASDAQ source snapshot; reason unavailable,b658fc0b61dae5411df5
 UDMY,NASDAQ,"Udemy, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-12,Missing from current NASDAQ source snapshot; reason unavailable,91d19b80480b3aecf43f
-UECG,NASDAQ,Leverage Shares 2x Long UEC Daily ETF,ETF,True,2026-05-08,,,6c7166f53d2dc719cc8e
+UECG,NASDAQ,Leverage Shares 2x Long UEC Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,6c7166f53d2dc719cc8e
 UEIC,NASDAQ,Universal Electronics Inc. - Common Stock,Stock,True,2026-05-08,,,5e35abc06d6b0ac0b676
 UEVM,NASDAQ,VictoryShares Emerging Markets Value Momentum ETF,ETF,True,2026-05-08,,,c4741edcd2d3fc31df14
 UFCS,NASDAQ,"United Fire Group, Inc - Common Stock",Stock,True,2026-05-08,,,51508cd55e7f2bc10f00
@@ -6022,7 +6025,7 @@ VACH,NASDAQ,Voyager Acquisition Corp - Class A Ordinary Shares,Stock,False,2026-
 VACHU,NASDAQ,Voyager Acquisition Corp - Unit,Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,51e233d04bbff61b81c5
 VACHW,NASDAQ,Voyager Acquisition Corp - Warrants,Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,57a5c6bcac1ecb65bfeb
 VAI,NASDAQ,Valor Energy Incorporated - Common Stock,Stock,True,2026-08-28,,,c0cd4ee60fed16f2f85b
-VALG,NASDAQ,Leverage Shares 2X Long VALE Daily ETF,ETF,True,2026-05-08,,,0aded5e39c1ca286fdf1
+VALG,NASDAQ,Leverage Shares 2X Long VALE Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,0aded5e39c1ca286fdf1
 VALN,NASDAQ,Valneva SE - American Depositary Shares,Stock,True,2026-05-08,,,f9063ee0738a7874e176
 VALU,NASDAQ,"Value Line, Inc. - Common Stock",Stock,True,2026-05-08,,,1e0087f061dbfd3f9c2a
 VANI,NASDAQ,"Vivani Medical, Inc. - Common Stock",Stock,True,2026-05-08,,,b3090e7b5a7195da7c85
@@ -6999,7 +7002,7 @@ BXP,NYSE,"BXP, Inc. Common Stock",Stock,True,2026-05-08,,,4b406caaacdb4f9452bc
 BXSL,NYSE,Blackstone Secured Lending Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,a3c7df9a8e8a4a380fad
 BY,NYSE,"Byline Bancorp, Inc. Common Stock",Stock,True,2026-05-08,,,9a4922599821d1f26a03
 BYD,NYSE,Boyd Gaming Corporation Common Stock,Stock,True,2026-05-08,,,46ae7fc20bf3a90cb165
-BZH,NYSE,"Beazer Homes USA, Inc. Common Stock",Stock,True,2026-05-08,,,15f7d94276e3e76baf41
+BZH,NYSE,"Beazer Homes USA, Inc. Common Stock",Stock,False,2026-05-08,2026-10-20,Missing from current NYSE source snapshot; reason unavailable,15f7d94276e3e76baf41
 C,NYSE,"Citigroup, Inc. Common Stock",Stock,True,2026-05-08,,,7d0bc4424e007c30f262
 C$N,NYSE,Citigroup Capital XIII 7.875% Fixed rate Floating Rate trust Preferred Securities (TruPS),Stock,True,2026-05-08,,,496f3379539de507495d
 C$R,NYSE,"Citigroup Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.250% Noncumulative Preferred Stock, Series II",Stock,True,2026-05-08,,,e2e5adac3b3ea7d73f0a
