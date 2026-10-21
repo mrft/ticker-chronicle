@@ -179,7 +179,9 @@ NASDAQ,AGZD,WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,ETF,,nasdaq
 NASDAQ,AHCO,AdaptHealth Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AHD,GraniteShares Autocallable HOOD ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AHG,Akso Health Group - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AHIC,Allspring Short-Term High Income Fund ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AHMA,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AHYM,Allspring High Yield Municipal Bond Fund ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AIA,iShares Asia 50 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AIAI,AIAI Holdings Corporation - Class A common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIBZ,Bitzero Holdings Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -445,6 +447,7 @@ NASDAQ,ASTE,"Astec Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,ASTH,Astrana Health Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASTI,"Ascent Solar Technologies, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASTL,Algoma Steel Group Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ASTM,Allspring Strategic Municipal Bond Fund ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ASTS,"AST SpaceMobile, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASUR,Asure Software Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASYS,"Amtech Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -856,7 +859,6 @@ NASDAQ,BTCS,BTCS Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTCT,BTC Digital Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTDL,GraniteShares 2x Long BTDR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BTDR,Bitdeer Technologies Group - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BTF,CoinShares Bitcoin and Ether ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BTGD,STKd 100% Bitcoin & 100% Gold ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BTLN,"Brightline Interactive, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTMD,Biote Corp. - Class A common stock,Stock,,nasdaq_trader_symbol_directory
@@ -1406,7 +1408,6 @@ NASDAQ,DHC,Diversified Healthcare Trust - Common Shares of Beneficial Interest,S
 NASDAQ,DHCNI,Diversified Healthcare Trust - 5.625% Senior Notes due 2042,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DHCNL,Diversified Healthcare Trust - 6.25% Senior Notes Due 2046,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DIBS,"1stdibs.com, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DIME,CoinShares Altcoins ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DINE,Simplify Tax Aware Diversified Income Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DIOD,Diodes Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DIVD,Altrius Global Dividend ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3950,7 +3951,7 @@ NASDAQ,POLA,"Polar Power, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direc
 NASDAQ,POLE,Andretti Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,POLEU,Andretti Acquisition Corp. II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,POLEW,Andretti Acquisition Corp. II - Warrant,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,POM,POMDOCTOR LIMITED - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,POM,POMDOCTOR LIMITED - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PONO,"Pono Capital Four, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PONOR,"Pono Capital Four, Inc. - Rights",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PONOU,"Pono Capital Four, Inc. - Units",Stock,,nasdaq_trader_symbol_directory
@@ -4921,6 +4922,7 @@ NASDAQ,TLA,GraniteShares Autocallable TSLA ETF,ETF,,nasdaq_trader_symbol_directo
 NASDAQ,TLAC,Three Lions Acquisition Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TLACU,Three Lions Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TLACW,Three Lions Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TLCE,Thrivent Large Cap Stock ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TLF,"Tandy Leather Factory, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TLG,Touchstone Large Company Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TLIH,Ten-League International Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -5029,6 +5031,7 @@ NASDAQ,TSEE,T. Rowe Price Small Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TSEL,Touchstone Sands Capital US Select Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TSEM,Tower Semiconductor Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TSHA,"Taysha Gene Therapies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,TSIE,Thrivent Securitized Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TSL,GraniteShares 1.25x Long TSLA Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,TSLA,"Tesla, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,TSLG,Leverage Shares 2X Long TSLA Daily ETF,ETF,,nasdaq_trader_symbol_directory

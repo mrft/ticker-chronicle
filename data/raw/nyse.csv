@@ -301,7 +301,6 @@ NYSE,BBY,"Best Buy Co., Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BC,Brunswick Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BC$C,Brunswick Corporation 6.375% Notes due 2049,Stock,,nasdaq_trader_symbol_directory
 NYSE,BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,BCAT.R,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",Stock,,nasdaq_trader_symbol_directory
 NYSE,BCC,"Boise Cascade, L.L.C. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BCE,"BCE, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BCEM,Baron Emerging Markets Select ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1347,6 +1346,7 @@ NYSE,IIIN,"Insteel Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_di
 NYSE,IIM,Invesco Value Municipal Income Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,IIPR,"Innovative Industrial Properties, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,IIPR$A,"Innovative Industrial Properties, Inc. 9.00% Series A Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,IIPR$B,"Innovative Industrial Properties, Inc. 9.25% Series B Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,IMAX,Imax Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,INFO,Harbor PanAgora Dynamic Large Cap Core ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,INFQ,"Infleqtion, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1718,6 +1718,8 @@ NYSE,MSCI,MSCI Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MSDL,Morgan Stanley Direct Lending Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,MSGK.V,Madison Square Garden Sports Corp. Class A Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
+NYSE,MSGR.V,MSG Rangers Corp. Class A Common Stock When-Issued,Stock,,nasdaq_trader_symbol_directory
 NYSE,MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),Stock,,nasdaq_trader_symbol_directory
 NYSE,MSI,"Motorola Solutions, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MSIF,"MSC Income Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory

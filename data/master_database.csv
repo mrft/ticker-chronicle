@@ -308,7 +308,8 @@ TGE.W,AMEX,"The Generation Essentials Group Warrants, each whole warrant exercis
 TGEN,AMEX,Tecogen Inc. Common Stock,Stock,True,2026-05-08,,,43910b9f9270efc93cbb
 THM,AMEX,"International Tower Hill Mines, Ltd. Ordinary Shares (Canada)",Stock,True,2026-05-08,,,b153e9f61ea5a64618b2
 TII,AMEX,Titan Mining Corporation Common Shares,Stock,True,2026-05-08,,,3cf62852e14b47d45169
-TMDE,AMEX,TMD Energy Limited Ordinary Shares,Stock,True,2026-05-08,,,2d739460372e29de8eb4
+TMDE,AMEX,TMD Energy Limited Ordinary Shares,Stock,False,2026-05-08,2026-10-21,Listing metadata changed,2d739460372e29de8eb4
+TMDE,AMEX,TMD Energy Limited Class A Ordinary Shares,Stock,True,2026-10-21,,,14f386416762e078d671
 TMP,AMEX,Tompkins Financial Corporation Common Stock,Stock,True,2026-05-08,,,f931e005f8fbe27c9074
 TMQ,AMEX,Trilogy Metals Inc. Common Stock,Stock,True,2026-05-08,,,d01f4bb0f3f89ca7d49b
 TONT,AMEX,Graf Global Corp. Class A ordinary shares,Stock,True,2026-07-27,,,e3d9ba8ae54875d77e09
@@ -548,7 +549,9 @@ AGZD,NASDAQ,WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,ETF,True,20
 AHCO,NASDAQ,AdaptHealth Corp. - Common Stock,Stock,True,2026-05-08,,,9ba601d42b137f27c154
 AHD,NASDAQ,GraniteShares Autocallable HOOD ETF,ETF,True,2026-05-19,,,be44c2a3887c869c12be
 AHG,NASDAQ,Akso Health Group - American Depositary Shares,Stock,True,2026-05-08,,,28940b9e91e36f6cf169
+AHIC,NASDAQ,Allspring Short-Term High Income Fund ETF,ETF,True,2026-10-21,,,3617ec1b08e3d2e6e3bc
 AHMA,NASDAQ,Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares,Stock,True,2026-05-08,,,7148680003d7049ed1f5
+AHYM,NASDAQ,Allspring High Yield Municipal Bond Fund ETF,ETF,True,2026-10-21,,,d5bc4285d8d29bee3d37
 AIA,NASDAQ,iShares Asia 50 ETF,ETF,True,2026-05-08,,,56950b70451097607f26
 AIAI,NASDAQ,AIAI Holdings Corporation - Class A common stock,Stock,True,2026-05-14,,,8f1bac2325eb03d31d9c
 AIBZ,NASDAQ,Bitzero Holdings Inc. - Common Shares,Stock,True,2026-06-09,,,2c32d272c695375827cf
@@ -844,6 +847,7 @@ ASTH,NASDAQ,Astrana Health Inc. - Common Stock,Stock,True,2026-05-08,,,d6b1effaf
 ASTI,NASDAQ,"Ascent Solar Technologies, Inc - Common Stock",Stock,True,2026-05-08,,,0367cdc54d69172b6b1f
 ASTL,NASDAQ,Algoma Steel Group Inc. - Common Shares,Stock,True,2026-05-08,,,ec920a91de6873c50cf4
 ASTLW,NASDAQ,Algoma Steel Group Inc. - Warrant,Stock,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,a34963a66f151cb5ec8d
+ASTM,NASDAQ,Allspring Strategic Municipal Bond Fund ETF,ETF,True,2026-10-21,,,77f83c24df7f066abe02
 ASTS,NASDAQ,"AST SpaceMobile, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,dd972b1d2cd4ac78a56b
 ASUR,NASDAQ,Asure Software Inc - Common Stock,Stock,True,2026-05-08,,,ba1e7306a7fdfb25eea6
 ASYS,NASDAQ,"Amtech Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,8eb45340d485de13cea5
@@ -1290,7 +1294,7 @@ BTCS,NASDAQ,BTCS Inc. - Common Stock,Stock,True,2026-05-08,,,33aa532d76e624a2b44
 BTCT,NASDAQ,BTC Digital Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,385f125e4828397821f1
 BTDL,NASDAQ,GraniteShares 2x Long BTDR Daily ETF,ETF,True,2026-07-14,,,b34dfbe0b32f1e918423
 BTDR,NASDAQ,Bitdeer Technologies Group - Ordinary Shares,Stock,True,2026-05-08,,,6f2e7ae268a47b7a719e
-BTF,NASDAQ,CoinShares Bitcoin and Ether ETF,ETF,True,2026-05-08,,,fabbbc8a83a5c56f8414
+BTF,NASDAQ,CoinShares Bitcoin and Ether ETF,ETF,False,2026-05-08,2026-10-21,Missing from current NASDAQ source snapshot; reason unavailable,fabbbc8a83a5c56f8414
 BTGD,NASDAQ,STKd 100% Bitcoin & 100% Gold ETF,ETF,True,2026-05-08,,,ca427d040bec8b3295d8
 BTLN,NASDAQ,"Brightline Interactive, Inc. - Common Stock",Stock,True,2026-08-20,,,30e3f2981da6f7436ffc
 BTM,NASDAQ,Bitcoin Depot Inc. - Class A Common Stock,Stock,False,2026-05-08,2026-05-26,Other delisting reason: Details unavailable (source: FMP Delisted API),9aa318784b7c35f877a5
@@ -1884,7 +1888,7 @@ DHC,NASDAQ,Diversified Healthcare Trust - Common Shares of Beneficial Interest,S
 DHCNI,NASDAQ,Diversified Healthcare Trust - 5.625% Senior Notes due 2042,Stock,True,2026-05-08,,,20803808e49e16d3d2f7
 DHCNL,NASDAQ,Diversified Healthcare Trust - 6.25% Senior Notes Due 2046,Stock,True,2026-05-08,,,1de93446337ab69af0df
 DIBS,NASDAQ,"1stdibs.com, Inc. - Common Stock",Stock,True,2026-05-08,,,94ce4b87a1326c9f9e34
-DIME,NASDAQ,CoinShares Altcoins ETF,ETF,True,2026-05-08,,,0c51f8544b746198813e
+DIME,NASDAQ,CoinShares Altcoins ETF,ETF,False,2026-05-08,2026-10-21,Missing from current NASDAQ source snapshot; reason unavailable,0c51f8544b746198813e
 DINE,NASDAQ,Simplify Tax Aware Diversified Income Strategy ETF,ETF,True,2026-05-08,,,300447740315687ce552
 DIOD,NASDAQ,Diodes Incorporated - Common Stock,Stock,True,2026-05-08,,,8037142d3880f7e9e089
 DIVD,NASDAQ,Altrius Global Dividend ETF,ETF,True,2026-05-08,,,bdce567892831849e58f
@@ -4668,7 +4672,8 @@ POLA,NASDAQ,"Polar Power, Inc. - Common Stock",Stock,True,2026-05-08,,,6e75b6ee0
 POLE,NASDAQ,Andretti Acquisition Corp. II - Class A Ordinary Shares,Stock,True,2026-05-08,,,37349af2f4dd33333ae0
 POLEU,NASDAQ,Andretti Acquisition Corp. II - Unit,Stock,True,2026-05-08,,,5371716b7a4ba465806c
 POLEW,NASDAQ,Andretti Acquisition Corp. II - Warrant,Stock,True,2026-05-08,,,55d6cdc43191d5be5080
-POM,NASDAQ,POMDOCTOR LIMITED - American Depositary Shares,Stock,True,2026-05-08,,,34808b1f5432f78e507f
+POM,NASDAQ,POMDOCTOR LIMITED - American Depositary Shares,Stock,False,2026-05-08,2026-10-21,Listing metadata changed,34808b1f5432f78e507f
+POM,NASDAQ,POMDOCTOR LIMITED - Class A Ordinary Shares,Stock,True,2026-10-21,,,ee55a5fb4c4e1e0b21e4
 PONO,NASDAQ,"Pono Capital Four, Inc. - Class A Ordinary Shares",Stock,True,2026-05-08,,,fb7937a452e0eab557b5
 PONOR,NASDAQ,"Pono Capital Four, Inc. - Rights",Stock,True,2026-05-08,,,9f4d30a2ca5a1b06ba30
 PONOU,NASDAQ,"Pono Capital Four, Inc. - Units",Stock,True,2026-05-08,,,84d53de8fe184051a728
@@ -5729,6 +5734,7 @@ TLA,NASDAQ,GraniteShares Autocallable TSLA ETF,ETF,True,2026-05-08,,,216d69bfae7
 TLAC,NASDAQ,Three Lions Acquisition Corp. - Ordinary Shares,Stock,True,2026-09-17,,,82897d6ec40d37095da1
 TLACU,NASDAQ,Three Lions Acquisition Corp. - Units,Stock,True,2026-09-01,,,e803aa859f1abd4ef033
 TLACW,NASDAQ,Three Lions Acquisition Corp. - Warrants,Stock,True,2026-09-17,,,2286e513f031cb45a78a
+TLCE,NASDAQ,Thrivent Large Cap Stock ETF,ETF,True,2026-10-21,,,ee30df57a024a0592381
 TLF,NASDAQ,"Tandy Leather Factory, Inc. - common stock",Stock,True,2026-05-08,,,c305ba52567d8b740bc0
 TLG,NASDAQ,Touchstone Large Company Growth ETF,ETF,True,2026-05-08,,,d29751ce9435a13f8251
 TLIH,NASDAQ,Ten-League International Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,e82a5d4a38d61f05b933
@@ -5845,6 +5851,7 @@ TSEE,NASDAQ,T. Rowe Price Small Cap ETF,ETF,True,2026-09-17,,,62702f325c322cdf68
 TSEL,NASDAQ,Touchstone Sands Capital US Select Growth ETF,ETF,True,2026-05-08,,,c24c944b905b8b00f2e4
 TSEM,NASDAQ,Tower Semiconductor Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,f0e1261a88e84fdc1432
 TSHA,NASDAQ,"Taysha Gene Therapies, Inc. - Common Stock",Stock,True,2026-05-08,,,b0bc811b221406af643d
+TSIE,NASDAQ,Thrivent Securitized Income ETF,ETF,True,2026-10-21,,,d2f7333a59f3e915b510
 TSL,NASDAQ,GraniteShares 1.25x Long TSLA Daily ETF,ETF,True,2026-05-08,,,0fdee2f8b963c235ce62
 TSLA,NASDAQ,"Tesla, Inc. - Common Stock",Stock,True,2026-05-08,,,789a4d21782bdd3eafdf
 TSLG,NASDAQ,Leverage Shares 2X Long TSLA Daily ETF,ETF,True,2026-05-08,,,e9fd1fd32e649e66ebb4
@@ -6807,7 +6814,7 @@ BBY,NYSE,"Best Buy Co., Inc. Common Stock",Stock,True,2026-05-08,,,06f015fc99ca5
 BC,NYSE,Brunswick Corporation Common Stock,Stock,True,2026-05-08,,,b19025bc3507556fc9c8
 BC$C,NYSE,Brunswick Corporation 6.375% Notes due 2049,Stock,True,2026-05-08,,,4e8cf64c660e5b572ba9
 BCAT,NYSE,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,a554cf3fa5b150a34098
-BCAT.R,NYSE,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",Stock,True,2026-10-05,,,ca3a868b34c605dd19d2
+BCAT.R,NYSE,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",Stock,False,2026-10-05,2026-10-21,Missing from current NYSE source snapshot; reason unavailable,ca3a868b34c605dd19d2
 BCAT.V,NYSE,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",Stock,False,2026-09-24,2026-10-05,Missing from current NYSE source snapshot; reason unavailable,18e53c0a989c3bbbfcef
 BCC,NYSE,"Boise Cascade, L.L.C. Common Stock",Stock,True,2026-05-08,,,ac7847ac5b0a0d7b91dd
 BCE,NYSE,"BCE, Inc. Common Stock",Stock,True,2026-05-08,,,fc1e9cc75936d3c516a1
@@ -7916,6 +7923,7 @@ IIIN,NYSE,"Insteel Industries, Inc. Common Stock",Stock,True,2026-05-08,,,99a08d
 IIM,NYSE,Invesco Value Municipal Income Trust Common Stock,Stock,True,2026-05-08,,,182fae858247b68fa7ab
 IIPR,NYSE,"Innovative Industrial Properties, Inc. Common Stock",Stock,True,2026-05-08,,,5822adb33344cb39b357
 IIPR$A,NYSE,"Innovative Industrial Properties, Inc. 9.00% Series A Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,27a5a669d1da14400e70
+IIPR$B,NYSE,"Innovative Industrial Properties, Inc. 9.25% Series B Cumulative Redeemable Preferred Stock",Stock,True,2026-10-21,,,342385c6938ec2f97fef
 IMAX,NYSE,Imax Corporation Common Stock,Stock,True,2026-05-08,,,5992a6bd3d3339adba57
 INFO,NYSE,Harbor PanAgora Dynamic Large Cap Core ETF,ETF,True,2026-05-08,,,cfa3f5a73509c552cc39
 INFQ,NYSE,"Infleqtion, Inc. Common Stock",Stock,True,2026-05-08,,,a7801dc9ac856554491a
@@ -8312,6 +8320,8 @@ MSCI,NYSE,MSCI Inc. Common Stock,Stock,True,2026-05-08,,,94492061daa7e58ec325
 MSD,NYSE,"Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock",Stock,True,2026-05-08,,,27f1754acaa30da8e823
 MSDL,NYSE,Morgan Stanley Direct Lending Fund Common Stock,Stock,True,2026-05-08,,,f27f142d36c87f1b36d1
 MSGE,NYSE,Madison Square Garden Entertainment Corp. Class A Common Stock,Stock,True,2026-05-08,,,7b188a1d73fbf190cef0
+MSGK.V,NYSE,Madison Square Garden Sports Corp. Class A Common Stock When-Issued,Stock,True,2026-10-21,,,9e8b9aa5308ae56de5d0
+MSGR.V,NYSE,MSG Rangers Corp. Class A Common Stock When-Issued,Stock,True,2026-10-21,,,f690a802ca77b080eb91
 MSGS,NYSE,Madison Square Garden Sports Corp. Class A Common Stock (New),Stock,True,2026-05-08,,,afc7537da08c3dfb37b4
 MSI,NYSE,"Motorola Solutions, Inc. Common Stock",Stock,True,2026-05-08,,,def91a1aa5948cec708e
 MSIF,NYSE,"MSC Income Fund, Inc. Common Stock",Stock,True,2026-05-08,,,d9f39e8dbb6c88ee1519
