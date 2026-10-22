@@ -861,9 +861,9 @@ ATEX,NASDAQ,Anterix Inc. - Common Stock,Stock,True,2026-05-08,,,90ccc93af3f98351
 ATGL,NASDAQ,Alpha Technology Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,4188affd7ed664e153d3
 ATHE,NASDAQ,Alterity Therapeutics Limited - American Depositary Shares,Stock,True,2026-05-08,,,c5eb24eb3b450071fc6f
 ATHR,NASDAQ,"Aether Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,926b1201d6365835a7e2
-ATII,NASDAQ,Archimedes Tech SPAC Partners II Co. - Ordinary Shares,Stock,True,2026-05-08,,,3d99da506474b86cfd86
-ATIIU,NASDAQ,Archimedes Tech SPAC Partners II Co. - Unit,Stock,True,2026-05-08,,,1e6b4f5ea5324bb7273c
-ATIIW,NASDAQ,Archimedes Tech SPAC Partners II Co. - Warrant,Stock,True,2026-05-08,,,3b7a1fbaa4d10474da47
+ATII,NASDAQ,Archimedes Tech SPAC Partners II Co. - Ordinary Shares,Stock,False,2026-05-08,2026-10-22,Missing from current NASDAQ source snapshot; reason unavailable,3d99da506474b86cfd86
+ATIIU,NASDAQ,Archimedes Tech SPAC Partners II Co. - Unit,Stock,False,2026-05-08,2026-10-22,Missing from current NASDAQ source snapshot; reason unavailable,1e6b4f5ea5324bb7273c
+ATIIW,NASDAQ,Archimedes Tech SPAC Partners II Co. - Warrant,Stock,False,2026-05-08,2026-10-22,Missing from current NASDAQ source snapshot; reason unavailable,3b7a1fbaa4d10474da47
 ATLC,NASDAQ,Atlanticus Holdings Corporation - Common Stock,Stock,True,2026-05-08,,,970872e95835a720fb3d
 ATLCL,NASDAQ,Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026,Stock,True,2026-05-08,,,8ce3243e68bda484aef6
 ATLCP,NASDAQ,"Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share",Stock,True,2026-05-08,,,ac5ae0e70c39d05d46ec
@@ -1840,6 +1840,7 @@ DARE,NASDAQ,"Dare Bioscience, Inc. - Common Stock",Stock,True,2026-05-08,,,1229a
 DASH,NASDAQ,"DoorDash, Inc. - Common Stock",Stock,True,2026-05-08,,,78c88c7e6e2c6279742d
 DAVE,NASDAQ,Dave Inc. - Class A Common Stock,Stock,True,2026-05-08,,,0cac498993204105e9a9
 DAVEW,NASDAQ,Dave Inc. - Warrants,Stock,True,2026-05-08,,,c5c719bf94b10c40b889
+DAVI,NASDAQ,Davion Healthcare Plc - Ordinary Shares,Stock,True,2026-10-22,,,9053970ba34730b02e3f
 DAX,NASDAQ,Global X DAX Germany ETF,ETF,True,2026-05-08,,,87e0bf9d5185f49f482e
 DBCA,NASDAQ,D. Boral Acquisition I Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,c52244d822da5a919d7f
 DBCAU,NASDAQ,D. Boral Acquisition I Corp. - Unit,Stock,True,2026-05-08,,,b11024b454202411fef4
@@ -2098,6 +2099,7 @@ ELVA,NASDAQ,Electrovaya Inc. - Common Shares,Stock,True,2026-05-08,,,2b8c124406f
 ELVN,NASDAQ,"Enliven Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,6bf90a8a695cb3227aae
 ELVR,NASDAQ,Elevra Lithium Limited - American Depository Shares,Stock,True,2026-05-08,,,533264ae2f0f194a31d3
 ELWT,NASDAQ,"Elauwit Connection, Inc. - Common Stock",Stock,True,2026-05-08,,,13c4e5728ad4e2d3914e
+EMAG,NASDAQ,Emerging Markets AI Mag 3 ETF,ETF,True,2026-10-22,,,cd67748d7f20052276cf
 EMAT,NASDAQ,Evolution Metals & Technologies Corp. - Common Stock,Stock,True,2026-05-08,,,8ffea76d56d753b3c48e
 EMB,NASDAQ,iShares J.P. Morgan USD Emerging Markets Bond ETF,ETF,True,2026-05-08,,,d9ef5e690d86d852bd96
 EMBC,NASDAQ,Embecta Corp. - Common Stock,Stock,True,2026-05-08,,,03e85425ef849369a35a
@@ -4028,6 +4030,8 @@ NAMM,NASDAQ,Namib Minerals - Ordinary Shares,Stock,True,2026-05-08,,,133a84014b1
 NAMMW,NASDAQ,Namib Minerals - Warrants,Stock,True,2026-05-08,,,dc355fdfbe26c73d80f9
 NAMS,NASDAQ,NewAmsterdam Pharma Company N.V. - Ordinary Shares,Stock,True,2026-05-08,,,a18a93b32b03d5b5fc42
 NAMSW,NASDAQ,NewAmsterdam Pharma Company N.V. - Warrant,Stock,True,2026-05-08,,,3eee7a60471c87448853
+NANO,NASDAQ,Forge Nano Holdings Inc. - Common stock,Stock,True,2026-10-22,,,713c7d2a4e9ef10125e5
+NANOW,NASDAQ,Forge Nano Holdings Inc. - Warrants,Stock,True,2026-10-22,,,cda924de8e4ff3b57312
 NATH,NASDAQ,"Nathan's Famous, Inc. - Common Stock",Stock,True,2026-05-08,,,0526056f3b7b053f5d98
 NATO,NASDAQ,Themes Transatlantic Defense ETF,ETF,True,2026-05-08,,,0b4ef7f3d02b21448907
 NATR,NASDAQ,"Nature's Sunshine Products, Inc. - Common Stock",Stock,True,2026-05-08,,,47de4a582fe3e6a10302

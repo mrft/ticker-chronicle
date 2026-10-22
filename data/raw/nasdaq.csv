@@ -460,9 +460,6 @@ NASDAQ,ATEX,Anterix Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATGL,Alpha Technology Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATHE,Alterity Therapeutics Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATHR,"Aether Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ATII,Archimedes Tech SPAC Partners II Co. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ATIIU,Archimedes Tech SPAC Partners II Co. - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ATIIW,Archimedes Tech SPAC Partners II Co. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATLC,Atlanticus Holdings Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATLCL,Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ATLCP,"Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share",Stock,,nasdaq_trader_symbol_directory
@@ -1361,6 +1358,7 @@ NASDAQ,DARE,"Dare Bioscience, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,DASH,"DoorDash, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DAVE,Dave Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DAVEW,Dave Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,DAVI,Davion Healthcare Plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DAX,Global X DAX Germany ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DBCA,D. Boral Acquisition I Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DBCAU,D. Boral Acquisition I Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -1592,6 +1590,7 @@ NASDAQ,ELVA,Electrovaya Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,ELVN,"Enliven Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ELVR,Elevra Lithium Limited - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ELWT,"Elauwit Connection, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EMAG,Emerging Markets AI Mag 3 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMAT,Evolution Metals & Technologies Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMBC,Embecta Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3355,6 +3354,8 @@ NASDAQ,NAMM,Namib Minerals - Ordinary Shares,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,NAMMW,Namib Minerals - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NAMS,NewAmsterdam Pharma Company N.V. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NAMSW,NewAmsterdam Pharma Company N.V. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NANO,Forge Nano Holdings Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NANOW,Forge Nano Holdings Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NATH,"Nathan's Famous, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NATO,Themes Transatlantic Defense ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NATR,"Nature's Sunshine Products, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
