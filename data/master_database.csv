@@ -763,6 +763,7 @@ APURR,NASDAQ,Aperture AC - Rights,Stock,True,2026-06-10,,,a13451dc24640b6f5587
 APURU,NASDAQ,Aperture AC - Units,Stock,False,2026-05-21,2026-06-10,Missing from current NASDAQ source snapshot; reason unavailable,47d76d2b7d8a395bd32a
 APVO,NASDAQ,Aptevo Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,48a4b8799da2f9b25daa
 APWC,NASDAQ,"Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share",Stock,True,2026-05-08,,,8bf253478afaefef6ab9
+APXC,NASDAQ,Apex Critical Metals Corp. - American Depositary Shares,Stock,True,2026-10-23,,,d1993c062f0d3b05b720
 APXT,NASDAQ,Apex Treasury Corporation - Class A Ordinary Share,Stock,True,2026-05-08,,,7d4e4215349b4176d6ad
 APXTU,NASDAQ,Apex Treasury Corporation - Units,Stock,True,2026-05-08,,,31650f5f57932cc789e7
 APXTW,NASDAQ,Apex Treasury Corporation - Warrants,Stock,True,2026-05-08,,,abf0642fa79093570206
@@ -3683,6 +3684,7 @@ LX,NASDAQ,LexinFintech Holdings Ltd. - American Depositary Shares,Stock,True,202
 LXEH,NASDAQ,"Lixiang Education Holding Co., Ltd. - American Depositary Shares",Stock,True,2026-05-08,,,14abd7e8301c8223f4aa
 LXEO,NASDAQ,"Lexeo Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,ab0b0f47021875406e76
 LXRX,NASDAQ,"Lexicon Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,d4aa6ebdd4fc257eb837
+LYCA,NASDAQ,"Lycia Therapeutics, Inc. - Common Stock",Stock,True,2026-10-23,,,eb481b84dc9c2d17b49a
 LYEL,NASDAQ,"Lyell Immunopharma, Inc. - Common Stock",Stock,True,2026-05-08,,,2a0af6c7536f39d97615
 LYFT,NASDAQ,"Lyft, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,ba223c26fa792e2931c7
 LYTS,NASDAQ,LSI Industries Inc. - Common Stock,Stock,True,2026-05-08,,,e923eb09d395d3cc30ec
@@ -4504,6 +4506,8 @@ PATN,NASDAQ,Pacer Nasdaq International Patent Leaders ETF,ETF,True,2026-05-08,,,
 PAVM,NASDAQ,PAVmed Inc. - Common Stock,Stock,True,2026-05-08,,,f13726dc9f1ab9468889
 PAVS,NASDAQ,Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares,Stock,True,2026-05-08,,,36c5d929f116569f8fdb
 PAX,NASDAQ,Patria Investments Limited - Class A Common Shares,Stock,True,2026-05-08,,,6ab71b1519b30b6a24d5
+PAXG,NASDAQ,Pine Tree Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-10-23,,,5e21d364722290e58da4
+PAXGR,NASDAQ,Pine Tree Acquisition Corp. - Rights,Stock,True,2026-10-23,,,cd27e2fd80c9f9dc91a1
 PAXGU,NASDAQ,Pine Tree Acquisition Corp. - Units,Stock,True,2026-10-06,,,a50023bfee526ea0440b
 PAYO,NASDAQ,Payoneer Global Inc. - Common Stock,Stock,True,2026-05-08,,,e2a8af5d15b9e4ba6b77
 PAYP,NASDAQ,PayPay Corporation - American Depository Shares,Stock,True,2026-05-08,,,1159487fb724694e844e
@@ -5152,7 +5156,7 @@ SAAQU,NASDAQ,Space Asset Acquisition Corp. - Units,Stock,True,2026-05-08,,,8d4e9
 SAAQW,NASDAQ,Space Asset Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,80e4e375ecc26193a80a
 SABR,NASDAQ,Sabre Corporation - Common Stock,Stock,True,2026-05-08,,,1d8cf57a82125c3fe938
 SABS,NASDAQ,"SAB Biotherapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,88a7cf38656747cb9d8c
-SABSW,NASDAQ,"SAB Biotherapeutics, Inc. - Warrant",Stock,True,2026-05-08,,,e0d9b3846e96d7d3d625
+SABSW,NASDAQ,"SAB Biotherapeutics, Inc. - Warrant",Stock,False,2026-05-08,2026-10-23,Missing from current NASDAQ source snapshot; reason unavailable,e0d9b3846e96d7d3d625
 SAFT,NASDAQ,"Safety Insurance Group, Inc. - Common Stock",Stock,True,2026-05-08,,,8904093f736230f03f99
 SAFX,NASDAQ,"XCF Global, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,192f789bcd84fed9ed29
 SAGT,NASDAQ,SAGTEC GLOBAL LIMITED - Class A Ordinary shares,Stock,True,2026-05-08,,,b03679d67df0de018eee
@@ -5225,8 +5229,8 @@ SDHIU,NASDAQ,Siddhi Acquisition Corp - Unit,Stock,True,2026-05-08,,,e78822d2f6b8
 SDM,NASDAQ,Smart Digital Group Limited - Ordinary Shares,Stock,False,2026-05-08,2026-06-26,Missing from current NASDAQ source snapshot; reason unavailable,8af4a4bf4ffcfad5f6cb
 SDOT,NASDAQ,Sadot Group Inc. - Common Stock,Stock,True,2026-05-08,,,5d09cd9061a157b666a2
 SDSI,NASDAQ,American Century Short Duration Strategic Income ETF,ETF,True,2026-05-08,,,e7da8457c11587bef5e1
-SDST,NASDAQ,Stardust Power Inc. - Common Stock,Stock,True,2026-05-08,,,645de463182fcd6276ec
-SDSTW,NASDAQ,Stardust Power Inc. - Warrant,Stock,True,2026-05-08,,,2e5e02496898be591d9c
+SDST,NASDAQ,Stardust Power Inc. - Common Stock,Stock,False,2026-05-08,2026-10-23,Missing from current NASDAQ source snapshot; reason unavailable,645de463182fcd6276ec
+SDSTW,NASDAQ,Stardust Power Inc. - Warrant,Stock,False,2026-05-08,2026-10-23,Missing from current NASDAQ source snapshot; reason unavailable,2e5e02496898be591d9c
 SDTY,NASDAQ,YieldMax S&P 500 0DTE Covered Call Strategy ETF,ETF,True,2026-05-08,,,5931d3f983cb90e6050c
 SDVY,NASDAQ,First Trust SMID Cap Rising Dividend Achievers ETF,ETF,True,2026-05-08,,,b09bfb0efff1c8e98245
 SEAT,NASDAQ,Vivid Seats Inc. - Class A common stock,Stock,True,2026-05-08,,,08df915e87a52aa335c0
@@ -5376,6 +5380,7 @@ SMHC,NASDAQ,VanEck China Semiconductor ETF,ETF,True,2026-06-24,,,f779955b77e3c22
 SMHX,NASDAQ,VanEck Fabless Semiconductor ETF,ETF,True,2026-05-08,,,5e15c1fc1dfaed395f36
 SMID,NASDAQ,Smith-Midland Corporation - Common Stock,Stock,True,2026-05-08,,,b4c9e748311e52756797
 SMMT,NASDAQ,Summit Therapeutics Inc. - Common Stock,Stock,True,2026-05-08,,,8d40bf931c6187e5bf5f
+SMNG,NASDAQ,xETFs Samsung Group ETF,ETF,True,2026-10-23,,,02b0e444dc3accb07366
 SMOM,NASDAQ,Symmetry Panoramic Sector Momentum ETF,ETF,True,2026-05-08,,,b996e665cabf89c772ba
 SMPL,NASDAQ,The Simply Good Foods Company - Common Stock,Stock,True,2026-05-08,,,32b0b27b3db7d80a368a
 SMRI,NASDAQ,Bushido Capital US Equity ETF,ETF,True,2026-05-08,,,e3e9a2c4d85c49c897be
@@ -7515,7 +7520,7 @@ EVAC.U,NYSE,"EQV Ventures Acquisition Corp. II Units, each unit consists of one 
 EVAC.W,NYSE,"EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,1863a2ca3fdcd9244105
 EVC,NYSE,Entravision Communications Corporation Common Stock,Stock,True,2026-05-08,,,f5f8763c4994844af5ad
 EVEX,NYSE,"Eve Holding, Inc. Common Stock",Stock,True,2026-05-08,,,a26f1ce1d47ec15fa094
-EVEX.W,NYSE,"Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,a7d14f88164a502b7ed8
+EVEX.W,NYSE,"Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",Stock,False,2026-05-08,2026-10-23,Missing from current NYSE source snapshot; reason unavailable,a7d14f88164a502b7ed8
 EVF,NYSE,Eaton Vance Senior Income Trust Common Stock,Stock,True,2026-05-08,,,9d5c041865d386ab705e
 EVG,NYSE,Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,0b96a0cea1b2cf33d98d
 EVH,NYSE,"Evolent Health, Inc Class A Common Stock",Stock,True,2026-05-08,,,f66cbed6192105df9cf3
@@ -7998,7 +8003,8 @@ JHI,NYSE,John Hancock Investors Trust Common Stock,Stock,True,2026-05-08,,,b0a02
 JHS,NYSE,John Hancock Income Securities Trust Common Stock,Stock,True,2026-05-08,,,ea3966c7839e58791bcf
 JHX,NYSE,James Hardie Industries plc. Ordinary Shares,Stock,True,2026-05-08,,,199651f6bf02d4f5c758
 JILL,NYSE,"J. Jill, Inc. Common Stock",Stock,True,2026-05-08,,,328de9dba0bc0ad2b18c
-JKS,NYSE,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),Stock,True,2026-05-08,,,83ae57873fc5378c4c9d
+JKS,NYSE,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),Stock,False,2026-05-08,2026-10-23,Listing metadata changed,83ae57873fc5378c4c9d
+JKS,NYSE,Jinko Holdings Limited American Depositary Shares (each representing 4 Ordinary Shares),Stock,True,2026-10-23,,,b34e057278521ccceeae
 JLL,NYSE,Jones Lang LaSalle Incorporated Common Stock,Stock,True,2026-05-08,,,b5b49785891f4d6ec3ae
 JLS,NYSE,Nuveen Mortgage and Income Fund,Stock,True,2026-05-08,,,fbb0c7b14603f8b4cd67
 JMIA,NYSE,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",Stock,True,2026-05-08,,,91da0248a720ebc8a725
@@ -8158,7 +8164,8 @@ LSPD,NYSE,Lightspeed Commerce Inc. Subordinate Voting Shares,Stock,True,2026-05-
 LTC,NYSE,"LTC Properties, Inc. Common Stock",Stock,True,2026-05-08,,,8979379ad14bb55409b9
 LTH,NYSE,"Life Time Group Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,71958aaea1308a767926
 LTM,NYSE,"LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)",Stock,True,2026-05-08,,,ca08acfb28822d4a74c6
-LU,NYSE,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",Stock,True,2026-05-08,,,1f833020f018074e8cd7
+LU,NYSE,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",Stock,False,2026-05-08,2026-10-23,Listing metadata changed,1f833020f018074e8cd7
+LU,NYSE,Lufax Holding Ltd American Depositary Shares (each representing twenty (20) Ordinary Shares),Stock,True,2026-10-23,,,c33744e0d5f6b310e858
 LUCK,NYSE,Lucky Strike Entertainment Corporation Class A Common Stock,Stock,True,2026-05-08,,,fb9da95b14a96b366f3f
 LUMN,NYSE,"Lumen Technologies, Inc. Common Stock",Stock,False,2026-05-08,2026-10-06,Missing from current NYSE source snapshot; reason unavailable,5f4ebc1f14de21aa46a1
 LUV,NYSE,Southwest Airlines Company Common Stock,Stock,True,2026-05-08,,,e35c3060480f09449436
@@ -8644,7 +8651,7 @@ PEB$H,NYSE,Pebblebrook Hotel Trust 5.700% Series H Cumulative Redeemable Preferr
 PEG,NYSE,Public Service Enterprise Group Incorporated Common Stock,Stock,True,2026-05-08,,,7aafc91ea9942425064e
 PEN,NYSE,"Penumbra, Inc. Common Stock",Stock,True,2026-05-08,,,156232cdf99c4e7530aa
 PEO,NYSE,"Adams Natural Resources Fund, Inc. Common Stock",Stock,True,2026-05-08,,,32bc90e1fb539a22f30b
-PERF,NYSE,Perfect Corp. Class A Ordinary Share,Stock,True,2026-05-08,,,0c1d82e7cc9704fc207c
+PERF,NYSE,Perfect Corp. Class A Ordinary Share,Stock,False,2026-05-08,2026-10-23,Missing from current NYSE source snapshot; reason unavailable,0c1d82e7cc9704fc207c
 PEW,NYSE,GrabAGun Digital Holdings Inc. Common Stock,Stock,True,2026-05-08,,,51dc682cb0e6490c6ff7
 PEW.W,NYSE,"GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,750e0ce1039e80f52d04
 PFD,NYSE,Flaherty & Crumrine Preferred and Income Fund Incorporated,Stock,True,2026-05-08,,,857e5f49bf75171490eb

@@ -954,7 +954,6 @@ NYSE,EVAC.U,"EQV Ventures Acquisition Corp. II Units, each unit consists of one 
 NYSE,EVAC.W,"EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,EVC,Entravision Communications Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,EVEX,"Eve Holding, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,EVEX.W,"Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,EVF,Eaton Vance Senior Income Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,EVG,Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,EVH,"Evolent Health, Inc Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1414,7 +1413,7 @@ NYSE,JHI,John Hancock Investors Trust Common Stock,Stock,,nasdaq_trader_symbol_d
 NYSE,JHS,John Hancock Income Securities Trust Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,JHX,James Hardie Industries plc. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,JILL,"J. Jill, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),Stock,,nasdaq_trader_symbol_directory
+NYSE,JKS,Jinko Holdings Limited American Depositary Shares (each representing 4 Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
 NYSE,JLL,Jones Lang LaSalle Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,JLS,Nuveen Mortgage and Income Fund,Stock,,nasdaq_trader_symbol_directory
 NYSE,JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -1565,7 +1564,7 @@ NYSE,LSPD,Lightspeed Commerce Inc. Subordinate Voting Shares,Stock,,nasdaq_trade
 NYSE,LTC,"LTC Properties, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LTH,"Life Time Group Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LTM,"LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)",Stock,,nasdaq_trader_symbol_directory
-NYSE,LU,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
+NYSE,LU,Lufax Holding Ltd American Depositary Shares (each representing twenty (20) Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
 NYSE,LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LUV,Southwest Airlines Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",Stock,,nasdaq_trader_symbol_directory
@@ -2020,7 +2019,6 @@ NYSE,PEB$H,Pebblebrook Hotel Trust 5.700% Series H Cumulative Redeemable Preferr
 NYSE,PEG,Public Service Enterprise Group Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PEN,"Penumbra, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PEO,"Adams Natural Resources Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,PERF,Perfect Corp. Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NYSE,PEW,GrabAGun Digital Holdings Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PEW.W,"GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,PFD,Flaherty & Crumrine Preferred and Income Fund Incorporated,Stock,,nasdaq_trader_symbol_directory

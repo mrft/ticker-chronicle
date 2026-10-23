@@ -371,6 +371,7 @@ NASDAQ,APUR,Aperture AC - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_di
 NASDAQ,APURR,Aperture AC - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APVO,Aptevo Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APWC,"Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,APXC,Apex Critical Metals Corp. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APXT,Apex Treasury Corporation - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APXTU,Apex Treasury Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,APXTW,Apex Treasury Corporation - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -3032,6 +3033,7 @@ NASDAQ,LX,LexinFintech Holdings Ltd. - American Depositary Shares,Stock,,nasdaq_
 NASDAQ,LXEH,"Lixiang Education Holding Co., Ltd. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LXEO,"Lexeo Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LXRX,"Lexicon Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LYCA,"Lycia Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LYEL,"Lyell Immunopharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LYFT,"Lyft, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LYTS,LSI Industries Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3786,6 +3788,8 @@ NASDAQ,PATN,Pacer Nasdaq International Patent Leaders ETF,ETF,,nasdaq_trader_sym
 NASDAQ,PAVM,PAVmed Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PAVS,Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PAX,Patria Investments Limited - Class A Common Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PAXG,Pine Tree Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PAXGR,Pine Tree Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PAXGU,Pine Tree Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PAYO,Payoneer Global Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PAYP,PayPay Corporation - American Depository Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4391,7 +4395,6 @@ NASDAQ,SAAQU,Space Asset Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_d
 NASDAQ,SAAQW,Space Asset Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SABR,Sabre Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SABS,"SAB Biotherapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SABSW,"SAB Biotherapeutics, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAFT,"Safety Insurance Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAFX,"XCF Global, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAGT,SAGTEC GLOBAL LIMITED - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
@@ -4458,8 +4461,6 @@ NASDAQ,SDHIR,Siddhi Acquisition Corp - Right,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,SDHIU,Siddhi Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SDOT,Sadot Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SDSI,American Century Short Duration Strategic Income ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,SDST,Stardust Power Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SDSTW,Stardust Power Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SDTY,YieldMax S&P 500 0DTE Covered Call Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SEAT,Vivid Seats Inc. - Class A common stock,Stock,,nasdaq_trader_symbol_directory
@@ -4597,6 +4598,7 @@ NASDAQ,SMHC,VanEck China Semiconductor ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMHX,VanEck Fabless Semiconductor ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMID,Smith-Midland Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SMMT,Summit Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SMNG,xETFs Samsung Group ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMOM,Symmetry Panoramic Sector Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SMPL,The Simply Good Foods Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SMRI,Bushido Capital US Equity ETF,ETF,,nasdaq_trader_symbol_directory
