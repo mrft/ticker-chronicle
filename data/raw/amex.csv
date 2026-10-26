@@ -126,6 +126,7 @@ AMEX,GRO,Brazil Potash Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,GROY,Gold Royalty Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,GROY.W,Gold Royalty Corp. Warrants,Stock,,nasdaq_trader_symbol_directory
 AMEX,GTE,Gran Tierra Energy Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,GUNN,Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares),Stock,,nasdaq_trader_symbol_directory
 AMEX,HLSQ,Tessera Defense and Homeland Security Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,HOST,Host Digital Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,HSLV,Highlander Silver Corp. Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -212,7 +213,6 @@ AMEX,OPTT,"Ocean Power Technologies, Inc. Common Stock",Stock,,nasdaq_trader_sym
 AMEX,OSTX,OS Therapies Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,OZ,"Belpointe PREP, LLC Class A Units",Stock,,nasdaq_trader_symbol_directory
 AMEX,PAAI,"Paradium.AI, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-AMEX,PAPL,Pineapple Financial Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,PCG$A,Pacific Gas & Electric Co. 6% Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,PCG$B,Pacific Gas & Electric Co. 5 1/2% Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,PCG$C,Pacific Gas & Electric Co. 5% 1st Preferred Stock,Stock,,nasdaq_trader_symbol_directory
@@ -230,6 +230,7 @@ AMEX,PMI,"Picard Medical, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directo
 AMEX,POAS,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 AMEX,PRK,Park National Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,PTHS,Pelthos Therapeutics Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+AMEX,PTIV,Pineapple Financial Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,PW,Power REIT (MD) Common Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,PW$A,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 AMEX,PZG,Paramount Gold Nevada Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory

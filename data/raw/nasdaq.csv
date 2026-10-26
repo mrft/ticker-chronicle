@@ -140,6 +140,7 @@ NASDAQ,AESP,Aeon Acquisition I Corp. - Class A Ordinary Shares,Stock,,nasdaq_tra
 NASDAQ,AESPR,Aeon Acquisition I Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AESPU,Aeon Acquisition I Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AESPW,Aeon Acquisition I Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AETR,Aetherion Technologies Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AEVA,"Aeva Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AEYE,"AudioEye, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AFCG,Advanced Flower Capital Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1752,6 +1753,7 @@ NASDAQ,FCAL,First Trust California Municipal High income ETF,ETF,,nasdaq_trader_
 NASDAQ,FCAP,"First Capital, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FCBC,"First Community Bankshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FCCO,First Community Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FCDH,Forcendra Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FCEF,First Trust Income Opportunities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FCEL,"FuelCell Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FCFS,"FirstCash Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2067,7 +2069,6 @@ NASDAQ,GEVG,Leverage Shares 2X Long GEV Daily ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,GEVO,"Gevo, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GEW,Cambria Global EW ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GFAI,"Guardforce AI Co., Limited - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GFGF,Guru Favorite Stocks ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GFLW,VictoryShares Free Cash Flow Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GFS,GlobalFoundries Inc. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GFUZ,General Fusion Group Ltd. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4174,6 +4175,7 @@ NASDAQ,QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,ETF,,nasdaq_trader_sym
 NASDAQ,RAA,SMI 3Fourteen REAL Asset Allocation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RACC,Research Alliance Corporation III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RACD,Research Alliance Corporation IV - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RADD,AB US Research Advanced ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RADX,Radiopharm Theranostics Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RAIL,"Freightcar America, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RAIN,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5322,7 +5324,6 @@ NASDAQ,VSAT,"ViaSat, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VSDA,VictoryShares Dividend Accelerator ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VSEC,VSE Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VSECU,VSE Corporation - Tangible Equity Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,VSME,VS Media Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VSNT,"Versant Media Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VSOL,VanEck Solana ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5420,7 +5421,6 @@ NASDAQ,WOK,WORK Medical Technology Group LTD - Class A Ordinary Shares,Stock,,na
 NASDAQ,WOOD,iShares Global Timber & Forestry ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WOOF,"Petco Health and Wellness Company, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WORX,SCWorx Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WPRT,Westport Fuel Systems Inc - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WQEY,WISeQey Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WRAP,"Wrap Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WRD,WeRide Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory

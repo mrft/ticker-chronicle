@@ -142,6 +142,7 @@ GRO,AMEX,Brazil Potash Corp. Common Shares,Stock,True,2026-05-08,,,e44f23b2c2c6f
 GROY,AMEX,Gold Royalty Corp. Common Shares,Stock,True,2026-05-08,,,9cec16762960a8793e0e
 GROY.W,AMEX,Gold Royalty Corp. Warrants,Stock,True,2026-05-08,,,030aeb460e5f1794da19
 GTE,AMEX,Gran Tierra Energy Inc. Common Stock,Stock,True,2026-05-08,,,6d40dd45a72a6ab73d13
+GUNN,AMEX,Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares),Stock,True,2026-10-26,,,6aa38df91fd59d92ff87
 HCWC,AMEX,Healthy Choice Wellness Corp. Class A Common Stock,Stock,False,2026-05-08,2026-09-18,Other delisting reason: Details unavailable (source: FMP Delisted API),a00ba59682f763d7e230
 HLSQ,AMEX,Tessera Defense and Homeland Security Inc. Common Stock,Stock,True,2026-09-11,,,c8e217e762c2aef69bdf
 HOST,AMEX,Host Digital Inc. Class A Common Stock,Stock,True,2026-09-18,,,8bfc0ab0d8c9bcf991c7
@@ -238,7 +239,7 @@ OSTX,AMEX,OS Therapies Incorporated Common Stock,Stock,True,2026-05-08,,,5774c1e
 OTH,AMEX,Off The Hook YS Inc. Common Stock,Stock,False,2026-05-08,2026-05-29,Missing from current AMEX source snapshot; reason unavailable,926ec586a930536cdb9a
 OZ,AMEX,"Belpointe PREP, LLC Class A Units",Stock,True,2026-05-08,,,8ff952f8b3ed73974e3d
 PAAI,AMEX,"Paradium.AI, Inc. Common Stock",Stock,True,2026-08-31,,,b2187689654baa88dfba
-PAPL,AMEX,Pineapple Financial Inc. Common Stock,Stock,True,2026-05-08,,,3d83523849da06d27d63
+PAPL,AMEX,Pineapple Financial Inc. Common Stock,Stock,False,2026-05-08,2026-10-26,Missing from current AMEX source snapshot; reason unavailable,3d83523849da06d27d63
 PCG$A,AMEX,Pacific Gas & Electric Co. 6% Preferred Stock,Stock,True,2026-05-08,,,c6aef121cf7bacda67f0
 PCG$B,AMEX,Pacific Gas & Electric Co. 5 1/2% Preferred Stock,Stock,True,2026-05-08,,,b8962f2217aea44ab88d
 PCG$C,AMEX,Pacific Gas & Electric Co. 5% 1st Preferred Stock,Stock,True,2026-05-08,,,3f92d92868a79d68e12d
@@ -259,6 +260,7 @@ PMNT,AMEX,Perfect Moment Ltd. Common Stock,Stock,False,2026-05-08,2026-06-18,Mis
 POAS,AMEX,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,Stock,True,2026-05-08,,,ce59d71a7b9be5f9f08c
 PRK,AMEX,Park National Corporation Common Stock,Stock,True,2026-05-08,,,bbca60b912463e24038b
 PTHS,AMEX,Pelthos Therapeutics Inc. Common Stock,Stock,True,2026-05-08,,,b722b6d7d70a713f14a9
+PTIV,AMEX,Pineapple Financial Inc. Common Stock,Stock,True,2026-10-26,,,3d83523849da06d27d63
 PTN,AMEX,"Palatin Technologies, Inc. Common Stock",Stock,False,2026-05-08,2026-05-29,Missing from current AMEX source snapshot; reason unavailable,14cbdc1a9e65dcb3f542
 PW,AMEX,Power REIT (MD) Common Stock,Stock,True,2026-05-08,,,48e7d358cccb973b84a3
 PW$A,AMEX,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,Stock,True,2026-05-08,,,c9cd10d3825d7f7aa7b0
@@ -503,6 +505,7 @@ AESP,NASDAQ,Aeon Acquisition I Corp. - Class A Ordinary Shares,Stock,True,2026-0
 AESPR,NASDAQ,Aeon Acquisition I Corp. - Rights,Stock,True,2026-07-01,,,4b5646c02cc33633cf44
 AESPU,NASDAQ,Aeon Acquisition I Corp. - Units,Stock,True,2026-06-03,,,ddf1dd6c68c03f22463b
 AESPW,NASDAQ,Aeon Acquisition I Corp. - Warrants,Stock,True,2026-07-01,,,10ababafb24f82f5cd96
+AETR,NASDAQ,Aetherion Technologies Inc. - Common Shares,Stock,True,2026-10-26,,,3feba6195eddce2855a5
 AEVA,NASDAQ,"Aeva Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,0f2f504cb14bb2969169
 AEYE,NASDAQ,"AudioEye, Inc. - Common Stock",Stock,True,2026-05-08,,,619b7872bfc83aeb53f9
 AFBI,NASDAQ,"Affinity Bancshares, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-03,Missing from current NASDAQ source snapshot; reason unavailable,e39cceb99cecd19aedfc
@@ -2272,6 +2275,7 @@ FCAL,NASDAQ,First Trust California Municipal High income ETF,ETF,True,2026-05-08
 FCAP,NASDAQ,"First Capital, Inc. - Common Stock",Stock,True,2026-05-08,,,2b71876fdfb7653c23e9
 FCBC,NASDAQ,"First Community Bankshares, Inc. - Common Stock",Stock,True,2026-05-08,,,a79101c9fde9d9569ce6
 FCCO,NASDAQ,First Community Corporation - Common Stock,Stock,True,2026-05-08,,,aaf481ae941ec875fb58
+FCDH,NASDAQ,Forcendra Holding Limited - Class A Ordinary Shares,Stock,True,2026-10-26,,,1fff18b325632fba9c10
 FCEF,NASDAQ,First Trust Income Opportunities ETF,ETF,True,2026-05-08,,,33d726959773a7f37048
 FCEL,NASDAQ,"FuelCell Energy, Inc. - Common Stock",Stock,True,2026-05-08,,,2d66bdf093c232d77ae3
 FCFS,NASDAQ,"FirstCash Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,2715ac30193d450cb987
@@ -2616,7 +2620,7 @@ GEVO,NASDAQ,"Gevo, Inc. - Common Stock",Stock,True,2026-05-08,,,c7d2593850b78dd1
 GEW,NASDAQ,Cambria Global EW ETF,ETF,True,2026-05-08,,,640e1a016754abb14284
 GFAI,NASDAQ,"Guardforce AI Co., Limited - Ordinary Shares",Stock,True,2026-05-08,,,5b67e3283738e0300534
 GFAIW,NASDAQ,"Guardforce AI Co., Limited - Warrant",Stock,False,2026-05-08,2026-10-02,Missing from current NASDAQ source snapshot; reason unavailable,3429df79180c9d817bd1
-GFGF,NASDAQ,Guru Favorite Stocks ETF,ETF,True,2026-05-08,,,927ba1647265f15b86dc
+GFGF,NASDAQ,Guru Favorite Stocks ETF,ETF,False,2026-05-08,2026-10-26,Missing from current NASDAQ source snapshot; reason unavailable,927ba1647265f15b86dc
 GFLW,NASDAQ,VictoryShares Free Cash Flow Growth ETF,ETF,True,2026-05-08,,,047c14b11dc80ab8b8bd
 GFS,NASDAQ,GlobalFoundries Inc. - Ordinary Share,Stock,True,2026-05-08,,,d35de98935b40fa9103b
 GFUZ,NASDAQ,General Fusion Group Ltd. - Common Shares,Stock,True,2026-07-13,,,043994e18f4b0cb221d1
@@ -4920,6 +4924,7 @@ RAAQU,NASDAQ,Real Asset Acquisition Corp. - Unit,Stock,False,2026-05-08,2026-07-
 RAAQW,NASDAQ,Real Asset Acquisition Corp. - Warrants,Stock,False,2026-05-08,2026-07-02,Missing from current NASDAQ source snapshot; reason unavailable,913d7ddc0f943d6493a4
 RACC,NASDAQ,Research Alliance Corporation III - Class A Ordinary Shares,Stock,True,2026-05-20,,,1bf14e315f8a71ec761b
 RACD,NASDAQ,Research Alliance Corporation IV - Class A Ordinary Shares,Stock,True,2026-07-13,,,ef272bb9dcc24210cdcd
+RADD,NASDAQ,AB US Research Advanced ETF,ETF,True,2026-10-26,,,bc3edb3e9a2a86331331
 RADX,NASDAQ,Radiopharm Theranostics Limited - American Depositary Shares,Stock,True,2026-05-08,,,d3422b00f3af21053771
 RAIL,NASDAQ,"Freightcar America, Inc. - Common Stock",Stock,True,2026-05-08,,,d4b7d82736bf54d0fa42
 RAIN,NASDAQ,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,f5f77efcfef7cb9f2af0
@@ -6171,7 +6176,7 @@ VSEC,NASDAQ,VSE Corporation - Common Stock,Stock,True,2026-05-08,,,9b6ca434a0a61
 VSECU,NASDAQ,VSE Corporation - Tangible Equity Units,Stock,True,2026-05-08,,,252816aae584ed943217
 VSEE,NASDAQ,"VSee Health, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-06,Missing from current NASDAQ source snapshot; reason unavailable,3f77d76b299c06fd784c
 VSEEW,NASDAQ,"VSee Health, Inc. - Warrant",Stock,False,2026-05-08,2026-08-06,Missing from current NASDAQ source snapshot; reason unavailable,04428f265381f77edac7
-VSME,NASDAQ,VS Media Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,442150b11b1c5c73ac1c
+VSME,NASDAQ,VS Media Holdings Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-10-26,Missing from current NASDAQ source snapshot; reason unavailable,442150b11b1c5c73ac1c
 VSMV,NASDAQ,VictoryShares US Multi-Factor Minimum Volatility ETF,ETF,True,2026-05-08,,,992c005dbc4153796eda
 VSNT,NASDAQ,"Versant Media Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1859c228f445e316da14
 VSOL,NASDAQ,VanEck Solana ETF,ETF,True,2026-05-08,,,e4ecc288a30d5dd8d55f
@@ -6284,7 +6289,7 @@ WOK,NASDAQ,WORK Medical Technology Group LTD - Class A Ordinary Shares,Stock,Tru
 WOOD,NASDAQ,iShares Global Timber & Forestry ETF,ETF,True,2026-05-08,,,d558726d03ecbf116887
 WOOF,NASDAQ,"Petco Health and Wellness Company, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,f187dd356ecc8cb48a32
 WORX,NASDAQ,SCWorx Corp. - Common Stock,Stock,True,2026-10-07,,,0791281fa64459b6ad9c
-WPRT,NASDAQ,Westport Fuel Systems Inc - Common Shares,Stock,True,2026-05-08,,,ef33dbaed966fcf700aa
+WPRT,NASDAQ,Westport Fuel Systems Inc - Common Shares,Stock,False,2026-05-08,2026-10-26,Missing from current NASDAQ source snapshot; reason unavailable,ef33dbaed966fcf700aa
 WQEY,NASDAQ,WISeQey Corp - Ordinary Shares,Stock,True,2026-10-05,,,371005fb930fc6390058
 WRAP,NASDAQ,"Wrap Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,594d5089d45e7ebcf72b
 WRD,NASDAQ,WeRide Inc. - American Depositary Shares,Stock,True,2026-05-08,,,660cf62d72c6af0a75ed
@@ -6529,7 +6534,7 @@ ABR$F,NYSE,"Arbor Realty Trust 6.25% Series F Fixed-to-Floating Rate Cumulative 
 ABT,NYSE,Abbott Laboratories Common Stock,Stock,True,2026-05-08,,,f05a72058fbb0f52eec6
 ABX,NYSE,"Abacus Global Management, Inc. Class A Common Stock",Stock,True,2026-05-08,,,9dee75749610493c72da
 ABXL,NYSE,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",Stock,True,2026-05-08,,,1885169941d474c8a2d1
-ACA,NYSE,"Arcosa, Inc. Common Stock",Stock,True,2026-05-08,,,3f41923047b659ef600a
+ACA,NYSE,"Arcosa, Inc. Common Stock",Stock,False,2026-05-08,2026-10-26,Other delisting reason: Details unavailable (source: FMP Delisted API),3f41923047b659ef600a
 ACCO,NYSE,Acco Brands Corporation Common Stock,Stock,True,2026-05-08,,,faa347900c1adffdd674
 ACEL,NYSE,"Accel Entertainment, Inc.",Stock,True,2026-05-08,,,9eed8f06276f7f70e4a9
 ACH,NYSE,"Accendra Health, Inc. Common Stock",Stock,True,2026-05-08,,,8e9d0564021b3f76ff19
@@ -7441,7 +7446,7 @@ ELAN,NYSE,Elanco Animal Health Incorporated Common Stock,Stock,True,2026-05-08,,
 ELC,NYSE,"Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066",Stock,True,2026-05-08,,,70fb79ab895acebec7f8
 ELF,NYSE,"e.l.f. Beauty, Inc. Common Stock",Stock,True,2026-05-08,,,1291b13280be5ad8b474
 ELLA,NYSE,Ellington Credit Company 8.50% Notes due 2031,Stock,True,2026-05-08,,,56c3766df6bdb6962dc4
-ELME,NYSE,Elme Communities Common Stock,Stock,True,2026-05-08,,,0e7b1c1ac021e56c7bad
+ELME,NYSE,Elme Communities Common Stock,Stock,False,2026-05-08,2026-10-26,Missing from current NYSE source snapshot; reason unavailable,0e7b1c1ac021e56c7bad
 ELPC,NYSE,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),Stock,True,2026-05-08,,,50c2b1cb3dc502a10da2
 ELS,NYSE,"Equity Lifestyle Properties, Inc. Common Stock",Stock,True,2026-05-08,,,3c0972ff829762130a4c
 ELV,NYSE,"Elevance Health, Inc. Common Stock",Stock,True,2026-05-08,,,7ec11470574edd057604
@@ -9478,7 +9483,7 @@ WDH,NYSE,Waterdrop Inc. American Depositary Shares (each representing the right 
 WDI,NYSE,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,c5b57fc712274929771d
 WDS,NYSE,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",Stock,True,2026-05-08,,,7ddcea74ad263d5fe715
 WEA,NYSE,Western Asset Bond Fund Share of Beneficial Interest,Stock,True,2026-05-08,,,49411f7b046ba526d072
-WEAV,NYSE,"Weave Communications, Inc. Common Stock",Stock,True,2026-05-08,,,37d2b25fafa77788661b
+WEAV,NYSE,"Weave Communications, Inc. Common Stock",Stock,False,2026-05-08,2026-10-26,Missing from current NYSE source snapshot; reason unavailable,37d2b25fafa77788661b
 WEC,NYSE,"WEC Energy Group, Inc. Common Stock",Stock,True,2026-05-08,,,473d1ae9e4931a8bbfe5
 WELL,NYSE,Welltower Inc. Common Stock,Stock,True,2026-05-08,,,e564f9ec595e59bb90f9
 WENC,NYSE,West Enclave Merger Corp. Ordinary Shares,Stock,True,2026-05-13,,,d8cdd6c54b2706051e86

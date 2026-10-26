@@ -22,7 +22,6 @@ NYSE,ABR$F,"Arbor Realty Trust 6.25% Series F Fixed-to-Floating Rate Cumulative 
 NYSE,ABT,Abbott Laboratories Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ABX,"Abacus Global Management, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",Stock,,nasdaq_trader_symbol_directory
-NYSE,ACA,"Arcosa, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ACCO,Acco Brands Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ACEL,"Accel Entertainment, Inc.",Stock,,nasdaq_trader_symbol_directory
 NYSE,ACH,"Accendra Health, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -878,7 +877,6 @@ NYSE,ELAN,Elanco Animal Health Incorporated Common Stock,Stock,,nasdaq_trader_sy
 NYSE,ELC,"Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066",Stock,,nasdaq_trader_symbol_directory
 NYSE,ELF,"e.l.f. Beauty, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ELLA,Ellington Credit Company 8.50% Notes due 2031,Stock,,nasdaq_trader_symbol_directory
-NYSE,ELME,Elme Communities Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),Stock,,nasdaq_trader_symbol_directory
 NYSE,ELS,"Equity Lifestyle Properties, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ELV,"Elevance Health, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2784,7 +2782,6 @@ NYSE,WDH,Waterdrop Inc. American Depositary Shares (each representing the right 
 NYSE,WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,WEA,Western Asset Bond Fund Share of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
-NYSE,WEAV,"Weave Communications, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WEC,"WEC Energy Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,WELL,Welltower Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,WENC,West Enclave Merger Corp. Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
