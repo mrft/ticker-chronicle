@@ -3356,8 +3356,8 @@ KARD,NASDAQ,"Kardigan, Inc. - Common Stock",Stock,True,2026-06-18,,,975b1c75d21e
 KARO,NASDAQ,Karooooo Ltd. - Ordinary shares,Stock,True,2026-05-08,,,71ee823b085a3415245e
 KAT,NASDAQ,Scharf ETF,ETF,True,2026-05-08,,,7564ed6df5aa11fd42e0
 KAZR,NASDAQ,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,True,2026-06-17,,,4877ace68b66bfd40e09
-KBAB,NASDAQ,KraneShares 2x Long BABA Daily ETF,ETF,True,2026-05-08,,,da14e611c5f5d1dcaff3
-KBDU,NASDAQ,KraneShares 2x Long BIDU Daily ETF,ETF,True,2026-05-08,,,eee95a6273cbc56d5d43
+KBAB,NASDAQ,KraneShares 2x Long BABA Daily ETF,ETF,False,2026-05-08,2026-10-27,Missing from current NASDAQ source snapshot; reason unavailable,da14e611c5f5d1dcaff3
+KBDU,NASDAQ,KraneShares 2x Long BIDU Daily ETF,ETF,False,2026-05-08,2026-10-27,Missing from current NASDAQ source snapshot; reason unavailable,eee95a6273cbc56d5d43
 KBON,NASDAQ,Karbon Capital Partners Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,4714eb73389382728812
 KBONU,NASDAQ,Karbon Capital Partners Corp. - Units,Stock,True,2026-05-08,,,ebdb3f37ed1a165e29ea
 KBONW,NASDAQ,Karbon Capital Partners Corp. - Warrant,Stock,True,2026-05-08,,,e162d859d65d53268fae
@@ -3404,7 +3404,7 @@ KINS,NASDAQ,"Kingstone Companies, Inc - Common Stock",Stock,True,2026-05-08,,,b8
 KIQQ,NASDAQ,KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF,ETF,True,2026-05-08,,,f5b0dbc6ed82439b371c
 KITT,NASDAQ,"Nauticus Robotics, Inc. - Common stock",Stock,True,2026-05-08,,,ac269a730fcd5b5aa534
 KITTW,NASDAQ,"Nauticus Robotics, Inc. - Warrant",Stock,True,2026-05-08,,,b7ad9e0335d2ddd0d934
-KJD,NASDAQ,KraneShares 2x Long JD Daily ETF,ETF,True,2026-05-08,,,026a7ade4d80fa93287f
+KJD,NASDAQ,KraneShares 2x Long JD Daily ETF,ETF,False,2026-05-08,2026-10-27,Missing from current NASDAQ source snapshot; reason unavailable,026a7ade4d80fa93287f
 KLAC,NASDAQ,KLA Corporation - Common Stock,Stock,True,2026-05-08,,,f671ee972e26556fc92c
 KLAG,NASDAQ,Leverage Shares 2x Long KLAC Daily ETF,ETF,True,2026-05-08,,,5d4d6d9482f1f6ba4326
 KLIC,NASDAQ,"Kulicke and Soffa Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,e8130774d93d0f6f2474
@@ -3415,7 +3415,7 @@ KLXE,NASDAQ,"KLX Energy Services Holdings, Inc. - Common Stock",Stock,True,2026-
 KLXER,NASDAQ,"KLX Energy Services Holdings, Inc. - Rights",Stock,False,2026-08-24,2026-09-25,Missing from current NASDAQ source snapshot; reason unavailable,d19b4c27457f1730d203
 KMB,NASDAQ,Kimberly-Clark Corporation - Common Stock,Stock,True,2026-05-08,,,6fabc531f4ca8def6e6f
 KMDA,NASDAQ,Kamada Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,0021b074300af7583fa0
-KMLI,NASDAQ,KraneShares 2x Long MELI Daily ETF,ETF,True,2026-05-08,,,423bbbcdb3ee279a8d3b
+KMLI,NASDAQ,KraneShares 2x Long MELI Daily ETF,ETF,False,2026-05-08,2026-10-27,Missing from current NASDAQ source snapshot; reason unavailable,423bbbcdb3ee279a8d3b
 KMRK,NASDAQ,K-Tech Solutions Company Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,76b956c48c8b3c273911
 KMTS,NASDAQ,"Kestra Medical Technologies, Ltd. - Common Stock",Stock,True,2026-05-08,,,2582b7e318be55e3da4a
 KNDI,NASDAQ,"Kandi Technologies Group, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,14f286710f5a00f02c22
@@ -3428,7 +3428,7 @@ KOSS,NASDAQ,Koss Corporation - Common Stock,Stock,True,2026-05-08,,,4aa59b721991
 KOYN,NASDAQ,CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares,Stock,True,2026-05-08,,,4a833739b09dea728c77
 KOYNU,NASDAQ,CSLM Digital Asset Acquisition Corp III - Units,Stock,True,2026-05-08,,,a11f754e339280fa204b
 KOYNW,NASDAQ,CSLM Digital Asset Acquisition Corp III - Warrants,Stock,True,2026-05-08,,,d16a6723f26fc777d519
-KPDD,NASDAQ,KraneShares 2x Long PDD Daily ETF,ETF,True,2026-05-08,,,8338ca12476af116f178
+KPDD,NASDAQ,KraneShares 2x Long PDD Daily ETF,ETF,False,2026-05-08,2026-10-27,Missing from current NASDAQ source snapshot; reason unavailable,8338ca12476af116f178
 KPLT,NASDAQ,"Katapult Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,1ca9963134ef006b8196
 KPLTW,NASDAQ,"Katapult Holdings, Inc. - Warrant",Stock,False,2026-05-08,2026-06-09,Missing from current NASDAQ source snapshot; reason unavailable,fde638526b040b1dae7d
 KPRX,NASDAQ,"Kiora Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,57b677036858460b65cc
@@ -4038,7 +4038,7 @@ NAMS,NASDAQ,NewAmsterdam Pharma Company N.V. - Ordinary Shares,Stock,True,2026-0
 NAMSW,NASDAQ,NewAmsterdam Pharma Company N.V. - Warrant,Stock,True,2026-05-08,,,3eee7a60471c87448853
 NANO,NASDAQ,Forge Nano Holdings Inc. - Common stock,Stock,True,2026-10-22,,,713c7d2a4e9ef10125e5
 NANOW,NASDAQ,Forge Nano Holdings Inc. - Warrants,Stock,True,2026-10-22,,,cda924de8e4ff3b57312
-NATH,NASDAQ,"Nathan's Famous, Inc. - Common Stock",Stock,True,2026-05-08,,,0526056f3b7b053f5d98
+NATH,NASDAQ,"Nathan's Famous, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-27,Missing from current NASDAQ source snapshot; reason unavailable,0526056f3b7b053f5d98
 NATO,NASDAQ,Themes Transatlantic Defense ETF,ETF,True,2026-05-08,,,0b4ef7f3d02b21448907
 NATR,NASDAQ,"Nature's Sunshine Products, Inc. - Common Stock",Stock,True,2026-05-08,,,47de4a582fe3e6a10302
 NAUT,NASDAQ,"Nautilus Biotechnology, Inc. - Common Stock",Stock,True,2026-05-08,,,988c9a4ac71559e4d3ae
@@ -4499,8 +4499,10 @@ PAMT,NASDAQ,PAMT CORP - Common Stock,Stock,True,2026-05-08,,,4ccaee67dd7ff903b7d
 PANG,NASDAQ,Leverage Shares 2X Long PANW Daily ETF,ETF,True,2026-05-08,,,4bd685df826a5b09b0a7
 PANL,NASDAQ,Pangaea Logistics Solutions Ltd. - Common Stock,Stock,True,2026-05-08,,,a99689c0e790f949be0e
 PANW,NASDAQ,"Palo Alto Networks, Inc. - Common Stock",Stock,True,2026-05-08,,,0777629d6b0f4aa319ab
-PARA,NASDAQ,"Banzai International, Inc. - Class A Common Stock",Stock,True,2026-08-07,,,4eb1d03db4a525f83a68
-PARAW,NASDAQ,"Banzai International, Inc. - Warrant",Stock,True,2026-08-07,,,87c791a2e54cecf91a5a
+PARA,NASDAQ,"Banzai International, Inc. - Class A Common Stock",Stock,False,2026-08-07,2026-10-27,Listing metadata changed,4eb1d03db4a525f83a68
+PARA,NASDAQ,"Parabolic Technologies, Inc. - Class A Common Stock",Stock,True,2026-10-27,,,a63cb0acec83bdff5644
+PARAW,NASDAQ,"Banzai International, Inc. - Warrant",Stock,False,2026-08-07,2026-10-27,Listing metadata changed,87c791a2e54cecf91a5a
+PARAW,NASDAQ,"Parabolic Technologies, Inc. - Warrant",Stock,True,2026-10-27,,,7130422f16acb658a27e
 PARK,NASDAQ,"Park Dental Partners, Inc. - Common Stock",Stock,True,2026-05-08,,,2df6a6d0970b07e1ffc9
 PASG,NASDAQ,"Passage Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,cb9f211f294dfd1774f2
 PASW,NASDAQ,"Ping An Biomedical Co., Ltd. - Ordinary Shares",Stock,False,2026-05-08,2026-06-09,Listing metadata changed,7f27c18439bfbfb5c8c3
@@ -5217,6 +5219,7 @@ SCOR,NASDAQ,"comScore, Inc. - Common Stock",Stock,True,2026-05-08,,,24b161451ac4
 SCPQ,NASDAQ,Social Commerce Partners Corporation - Class A Ordinary Shares,Stock,True,2026-05-08,,,e5b677eced5b9fe728fd
 SCPQU,NASDAQ,Social Commerce Partners Corporation - Unit,Stock,True,2026-05-08,,,afecf1b914de9986f286
 SCPQW,NASDAQ,Social Commerce Partners Corporation - Warrant,Stock,True,2026-05-08,,,13ac438e6123c0abfd48
+SCQCU,NASDAQ,SPACCircle Acquisition Corp. - Units,Stock,True,2026-10-27,,,8eefa1cc997d0ef6143a
 SCSC,NASDAQ,"ScanSource, Inc. - Common Stock",Stock,True,2026-05-08,,,b0c269a9f9d8f876ff4b
 SCTX,NASDAQ,Scribe Therapeutics Inc. - Common Stock,Stock,True,2026-07-24,,,878306eb8f843a91539c
 SCVL,NASDAQ,"Shoe Carnival, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,23931a76221403d66467
@@ -6453,6 +6456,7 @@ YQQQ,NASDAQ,YieldMax Short N100 Option Income Strategy ETF,ETF,True,2026-05-08,,
 YRAM,NASDAQ,YieldMax Memory and Storage Portfolio Option Income ETF,ETF,True,2026-08-25,,,ac8692ed714a802fa35a
 YSAG,NASDAQ,Y'all Street Physical Silver ETF,ETF,True,2026-07-15,,,77068a801187b09836e3
 YSAU,NASDAQ,Y'all Street Physical Gold ETF,ETF,True,2026-07-15,,,9e6ceb32dfc42b18b105
+YSKH,NASDAQ,YieldMax SKHY Option Income Strategy ETF,ETF,True,2026-10-27,,,14102358ab56d5c714eb
 YSPY,NASDAQ,GraniteShares YieldBOOST SPY ETF,ETF,True,2026-05-08,,,ebd82f2e0e7cbb2afbb5
 YSWY,NASDAQ,"Yesway, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,f01293529088008ea21f
 YSXT,NASDAQ,"YSX Tech. Co., Ltd - Class A Ordinary Shares",Stock,True,2026-05-08,,,e9587cb5a0151686d3f6
@@ -8336,9 +8340,11 @@ MSCI,NYSE,MSCI Inc. Common Stock,Stock,True,2026-05-08,,,94492061daa7e58ec325
 MSD,NYSE,"Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock",Stock,True,2026-05-08,,,27f1754acaa30da8e823
 MSDL,NYSE,Morgan Stanley Direct Lending Fund Common Stock,Stock,True,2026-05-08,,,f27f142d36c87f1b36d1
 MSGE,NYSE,Madison Square Garden Entertainment Corp. Class A Common Stock,Stock,True,2026-05-08,,,7b188a1d73fbf190cef0
-MSGK.V,NYSE,Madison Square Garden Sports Corp. Class A Common Stock When-Issued,Stock,True,2026-10-21,,,9e8b9aa5308ae56de5d0
-MSGR.V,NYSE,MSG Rangers Corp. Class A Common Stock When-Issued,Stock,True,2026-10-21,,,f690a802ca77b080eb91
-MSGS,NYSE,Madison Square Garden Sports Corp. Class A Common Stock (New),Stock,True,2026-05-08,,,afc7537da08c3dfb37b4
+MSGK,NYSE,MSG Knickerbockers Corp. Class A Common Stock,Stock,True,2026-10-27,,,03ee5721757d407dd77c
+MSGK.V,NYSE,Madison Square Garden Sports Corp. Class A Common Stock When-Issued,Stock,False,2026-10-21,2026-10-27,Missing from current NYSE source snapshot; reason unavailable,9e8b9aa5308ae56de5d0
+MSGR,NYSE,MSG Rangers Corp. Class A Common Stock,Stock,True,2026-10-27,,,b597a62edd81ea8e76c0
+MSGR.V,NYSE,MSG Rangers Corp. Class A Common Stock When-Issued,Stock,False,2026-10-21,2026-10-27,Missing from current NYSE source snapshot; reason unavailable,f690a802ca77b080eb91
+MSGS,NYSE,Madison Square Garden Sports Corp. Class A Common Stock (New),Stock,False,2026-05-08,2026-10-27,Other delisting reason: Details unavailable (source: FMP Delisted API),afc7537da08c3dfb37b4
 MSI,NYSE,"Motorola Solutions, Inc. Common Stock",Stock,True,2026-05-08,,,def91a1aa5948cec708e
 MSIF,NYSE,"MSC Income Fund, Inc. Common Stock",Stock,True,2026-05-08,,,d9f39e8dbb6c88ee1519
 MSM,NYSE,"MSC Industrial Direct Company, Inc. Common Stock",Stock,True,2026-05-08,,,b6d338dd2464dc1ff21a

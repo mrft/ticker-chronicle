@@ -2746,8 +2746,6 @@ NASDAQ,KARD,"Kardigan, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_director
 NASDAQ,KARO,Karooooo Ltd. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KAT,Scharf ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KAZR,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KBAB,KraneShares 2x Long BABA Daily ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,KBDU,KraneShares 2x Long BIDU Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KBON,Karbon Capital Partners Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KBONU,Karbon Capital Partners Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KBONW,Karbon Capital Partners Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -2785,7 +2783,6 @@ NASDAQ,KINS,"Kingstone Companies, Inc - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,KIQQ,KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KITT,"Nauticus Robotics, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KITTW,"Nauticus Robotics, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KJD,KraneShares 2x Long JD Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KLAC,KLA Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KLAG,Leverage Shares 2x Long KLAC Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KLIC,"Kulicke and Soffa Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2795,7 +2792,6 @@ NASDAQ,KLTR,"Kaltura, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KLXE,"KLX Energy Services Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KMB,Kimberly-Clark Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KMDA,Kamada Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KMLI,KraneShares 2x Long MELI Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KMRK,K-Tech Solutions Company Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KMTS,"Kestra Medical Technologies, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KNDI,"Kandi Technologies Group, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -2808,7 +2804,6 @@ NASDAQ,KOSS,Koss Corporation - Common Stock,Stock,,nasdaq_trader_symbol_director
 NASDAQ,KOYN,CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KOYNU,CSLM Digital Asset Acquisition Corp III - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KOYNW,CSLM Digital Asset Acquisition Corp III - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KPDD,KraneShares 2x Long PDD Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KPLT,"Katapult Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KPRX,"Kiora Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KPTI,Karyopharm Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3359,7 +3354,6 @@ NASDAQ,NAMS,NewAmsterdam Pharma Company N.V. - Ordinary Shares,Stock,,nasdaq_tra
 NASDAQ,NAMSW,NewAmsterdam Pharma Company N.V. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NANO,Forge Nano Holdings Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NANOW,Forge Nano Holdings Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NATH,"Nathan's Famous, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NATO,Themes Transatlantic Defense ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NATR,"Nature's Sunshine Products, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NAUT,"Nautilus Biotechnology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3779,8 +3773,8 @@ NASDAQ,PAMT,PAMT CORP - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PANG,Leverage Shares 2X Long PANW Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PANL,Pangaea Logistics Solutions Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PANW,"Palo Alto Networks, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PARA,"Banzai International, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PARAW,"Banzai International, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PARA,"Parabolic Technologies, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PARAW,"Parabolic Technologies, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PARK,"Park Dental Partners, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PASG,"Passage Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PASW,"Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -4448,6 +4442,7 @@ NASDAQ,SCOR,"comScore, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_director
 NASDAQ,SCPQ,Social Commerce Partners Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCPQU,Social Commerce Partners Corporation - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCPQW,Social Commerce Partners Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SCQCU,SPACCircle Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCSC,"ScanSource, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCTX,Scribe Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCWO,374Water Inc. - common stock,Stock,,nasdaq_trader_symbol_directory
@@ -5569,6 +5564,7 @@ NASDAQ,YQQQ,YieldMax Short N100 Option Income Strategy ETF,ETF,,nasdaq_trader_sy
 NASDAQ,YRAM,YieldMax Memory and Storage Portfolio Option Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YSAG,Y'all Street Physical Silver ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YSAU,Y'all Street Physical Gold ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,YSKH,YieldMax SKHY Option Income Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YSPY,GraniteShares YieldBOOST SPY ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,YSWY,"Yesway, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YSXT,"YSX Tech. Co., Ltd - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
