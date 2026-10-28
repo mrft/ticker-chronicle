@@ -1990,7 +1990,7 @@ DUOG,NASDAQ,Leverage Shares 2X Long DUOL Daily ETF,ETF,True,2026-05-08,,,d9f44b4
 DUOL,NASDAQ,"Duolingo, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,78cf4d58b32b6a010154
 DUOT,NASDAQ,"Duos Technologies Group, Inc. - Common Stock",Stock,True,2026-05-08,,,480a5e78acfced89f8b5
 DUSG,NASDAQ,U.S. Small Cap Growth Portfolio: ETF Class Shares,ETF,True,2026-05-08,,,42f9ab44772b45e958ea
-DVAL,NASDAQ,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,ETF,True,2026-05-08,,,2aa3f2708b093770ca73
+DVAL,NASDAQ,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,ETF,False,2026-05-08,2026-10-28,Missing from current NASDAQ source snapshot; reason unavailable,2aa3f2708b093770ca73
 DVGR,NASDAQ,DAC 3D Dividend Growth ETF,ETF,True,2026-05-08,,,c91fe37b7a547fa039ee
 DVIN,NASDAQ,WEBs Industrials XLI Defined Volatility ETF,ETF,False,2026-05-08,2026-08-28,Missing from current NASDAQ source snapshot; reason unavailable,75bd9fc4fb35f142fb9b
 DVLT,NASDAQ,Datavault AI Inc. - Common Stock,Stock,True,2026-05-08,,,1b4c294fe05b38522187
@@ -2108,7 +2108,7 @@ EMAT,NASDAQ,Evolution Metals & Technologies Corp. - Common Stock,Stock,True,2026
 EMB,NASDAQ,iShares J.P. Morgan USD Emerging Markets Bond ETF,ETF,True,2026-05-08,,,d9ef5e690d86d852bd96
 EMBC,NASDAQ,Embecta Corp. - Common Stock,Stock,True,2026-05-08,,,03e85425ef849369a35a
 EMCB,NASDAQ,WisdomTree Emerging Markets Corporate Bond Fund,ETF,True,2026-05-08,,,1fa88d7a48a96fb3c144
-EMEM,NASDAQ,Sophus Capital Emerging Market ETF,ETF,True,2026-05-20,,,94f3429bb151cc39bc78
+EMEM,NASDAQ,Sophus Capital Emerging Market ETF,ETF,False,2026-05-20,2026-10-28,Missing from current NASDAQ source snapshot; reason unavailable,94f3429bb151cc39bc78
 EMEQ,NASDAQ,Nomura Focused Emerging Markets Equity ETF,ETF,True,2026-05-08,,,b567ba2dca201d0cac78
 EMIF,NASDAQ,iShares Emerging Markets Infrastructure ETF,ETF,True,2026-05-08,,,b39d37f80fc55d5c4ab6
 EMIS,NASDAQ,Emmis Acquisition Corp. - Class A Ordinary Share,Stock,True,2026-05-08,,,00d7a693a77b759018ed
@@ -2334,6 +2334,7 @@ FFIC,NASDAQ,Flushing Financial Corporation - Common Stock,Stock,False,2026-05-08
 FFIN,NASDAQ,"First Financial Bankshares, Inc. - Common Stock",Stock,True,2026-05-08,,,75bc84d4c05fcc5f9e81
 FFIV,NASDAQ,"F5, Inc. - Common Stock",Stock,True,2026-05-08,,,a549b1b06913e92b659b
 FFR,NASDAQ,FF EAI Robotics Ecosystem Inc. - Common Stock,Stock,True,2026-09-30,,,733a6df2793643eb9b16
+FFTT,NASDAQ,Masonglory Limited - Class A Ordinary Shares,Stock,True,2026-10-28,,,32e9b0221a308e9352d6
 FFUT,NASDAQ,Fidelity Managed Futures ETF,ETF,True,2026-05-08,,,9756dbee0b367e087921
 FGBI,NASDAQ,"First Guaranty Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,398ddfbbc5b9a8fcd9b8
 FGBIP,NASDAQ,"First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,23bc948f0d7e8dfa6795
@@ -3945,7 +3946,7 @@ MSFT,NASDAQ,Microsoft Corporation - Common Stock,Stock,True,2026-05-08,,,6535a05
 MSFU,NASDAQ,Direxion Daily MSFT Bull 2X ETF,ETF,True,2026-05-08,,,b483c72b821405a8ab95
 MSGM,NASDAQ,Motorsport Games Inc. - Class A Common Stock,Stock,True,2026-05-08,,,d55b207b65549f8dd6b9
 MSGY,NASDAQ,Masonglory Limited - Ordinary Shares,Stock,False,2026-05-08,2026-08-10,Listing metadata changed,8e7a1d5791e1e0276e35
-MSGY,NASDAQ,Masonglory Limited - Class A Ordinary Shares,Stock,True,2026-08-10,,,32e9b0221a308e9352d6
+MSGY,NASDAQ,Masonglory Limited - Class A Ordinary Shares,Stock,False,2026-08-10,2026-10-28,Other delisting reason: Details unavailable (source: FMP Delisted API),32e9b0221a308e9352d6
 MSLE,NASDAQ,Satellos Bioscience Inc. - Common Stock,Stock,True,2026-05-08,,,baa65de07622a9f6174b
 MSR,NASDAQ,GraniteShares Autocallable MSTR ETF,ETF,True,2026-05-13,,,f0f8ec7c3de78b9ef508
 MSS,NASDAQ,Maison Solutions Inc. - Class A Common Stock,Stock,True,2026-05-08,,,eca3b2dc47f4671f4ef2
@@ -3972,7 +3973,7 @@ MTYY,NASDAQ,GraniteShares YieldBOOST MSTR ETF,ETF,True,2026-05-08,,,4687dc9234d4
 MU,NASDAQ,"Micron Technology, Inc. - Common Stock",Stock,True,2026-05-08,,,845b045ada81bc42108b
 MUD,NASDAQ,Direxion Daily MU Bear 1X ETF,ETF,True,2026-05-08,,,ff5db3190185b18b88ca
 MULL,NASDAQ,GraniteShares 2x Long MU Daily ETF,ETF,True,2026-05-08,,,f050899de475e0372b29
-MULT,NASDAQ,Franklin Multisector Income ETF,ETF,True,2026-05-08,,,d31e74c71dd065282030
+MULT,NASDAQ,Franklin Multisector Income ETF,ETF,False,2026-05-08,2026-10-28,Missing from current NASDAQ source snapshot; reason unavailable,d31e74c71dd065282030
 MUU,NASDAQ,Direxion Daily MU Bull 2X ETF,ETF,True,2026-05-08,,,b12352e89b72abe15ce2
 MUY,NASDAQ,YieldMax MU Option Income Strategy ETF,ETF,True,2026-09-29,,,50eb09559418eec97e14
 MUYY,NASDAQ,GraniteShares YieldBOOST MU ETF,ETF,True,2026-05-08,,,a4b2e09335f0cc38e0f6
@@ -6011,7 +6012,7 @@ USDEW,NASDAQ,StablecoinX Inc. - Warrants,Stock,True,2026-06-26,,,7216b3e827c650d
 USDX,NASDAQ,SGI Enhanced Core ETF,ETF,True,2026-05-08,,,11b5d40fa252ca37f8e2
 USEA,NASDAQ,United Maritime Corporation - Common Stock,Stock,True,2026-05-08,,,cd293946cdeab3f74a97
 USEG,NASDAQ,U.S. Energy Corp. - Common Stock,Stock,False,2026-05-08,2026-06-08,Missing from current NASDAQ source snapshot; reason unavailable,d0cb5caf0a404b97ca80
-USFI,NASDAQ,BrandywineGLOBAL - U.S. Fixed Income ETF,ETF,True,2026-05-08,,,46ac036d7bc267e3a1ad
+USFI,NASDAQ,BrandywineGLOBAL - U.S. Fixed Income ETF,ETF,False,2026-05-08,2026-10-28,Missing from current NASDAQ source snapshot; reason unavailable,46ac036d7bc267e3a1ad
 USGG,NASDAQ,Leverage Shares 2X Long USAR Daily ETF,ETF,True,2026-05-08,,,b5583e6133e1f922882a
 USGO,NASDAQ,U.S. GoldMining Inc. - Common stock,Stock,True,2026-05-08,,,094524067cda98939e51
 USGOW,NASDAQ,U.S. GoldMining Inc. - Warrant,Stock,False,2026-05-08,2026-05-26,Missing from current NASDAQ source snapshot; reason unavailable,dfeefd98a114b1ebb946

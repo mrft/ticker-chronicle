@@ -1494,7 +1494,6 @@ NASDAQ,DUOG,Leverage Shares 2X Long DUOL Daily ETF,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,DUOL,"Duolingo, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DUOT,"Duos Technologies Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DUSG,U.S. Small Cap Growth Portfolio: ETF Class Shares,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVAL,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVGR,DAC 3D Dividend Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVLT,Datavault AI Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DVLU,First Trust Dorsey Wright Momentum & Value ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1597,7 +1596,6 @@ NASDAQ,EMAT,Evolution Metals & Technologies Corp. - Common Stock,Stock,,nasdaq_t
 NASDAQ,EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMBC,Embecta Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EMCB,WisdomTree Emerging Markets Corporate Bond Fund,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,EMEM,Sophus Capital Emerging Market ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMEQ,Nomura Focused Emerging Markets Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMIF,iShares Emerging Markets Infrastructure ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EMIS,Emmis Acquisition Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
@@ -1807,6 +1805,7 @@ NASDAQ,FFBC,First Financial Bancorp. - Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,FFIN,"First Financial Bankshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFIV,"F5, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFR,FF EAI Robotics Ecosystem Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FFTT,Masonglory Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FFUT,Fidelity Managed Futures ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FGBI,"First Guaranty Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FGBIP,"First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3265,7 +3264,6 @@ NASDAQ,MSFL,GraniteShares 2x Long MSFT Daily ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,MSFT,Microsoft Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSFU,Direxion Daily MSFT Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MSGM,Motorsport Games Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MSGY,Masonglory Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSLE,Satellos Bioscience Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MSR,GraniteShares Autocallable MSTR ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MSS,Maison Solutions Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3291,7 +3289,6 @@ NASDAQ,MTYY,GraniteShares YieldBOOST MSTR ETF,ETF,,nasdaq_trader_symbol_director
 NASDAQ,MU,"Micron Technology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MUD,Direxion Daily MU Bear 1X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MULL,GraniteShares 2x Long MU Daily ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,MULT,Franklin Multisector Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MUU,Direxion Daily MU Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MUY,YieldMax MU Option Income Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MUYY,GraniteShares YieldBOOST MU ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5162,7 +5159,6 @@ NASDAQ,USDE,StablecoinX Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,USDEW,StablecoinX Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,USDX,SGI Enhanced Core ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USEA,United Maritime Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,USFI,BrandywineGLOBAL - U.S. Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USGG,Leverage Shares 2X Long USAR Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,USGO,U.S. GoldMining Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,USIG,iShares Broad USD Investment Grade Corporate Bond ETF,ETF,,nasdaq_trader_symbol_directory
