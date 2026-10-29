@@ -107,7 +107,6 @@ NASDAQ,ADBT,"Advasa Holdings, Inc. - Common stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,ADEA,Adeia Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADGM,"Adagio Medical Holdings, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADI,"Analog Devices, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ADIL,"Adial Pharmaceuticals, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADMA,ADMA Biologics Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADP,"Automatic Data Processing, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ADPT,Adaptive Biotechnologies Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -537,6 +536,7 @@ NASDAQ,AYTU,"Aytu BioPharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_di
 NASDAQ,AZ,A2Z Cust2Mate Solutions Corp. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AZI,Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AZIO,"Azio AI Holdings, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AZR,"Azora Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AZTA,"Azenta, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AZYY,GraniteShares YieldBoost AMZN ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BABU,Direxion Daily BABA Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
@@ -648,6 +648,7 @@ NASDAQ,BGMS,"Bio Green Med Solution, Inc. - Common Stock",Stock,,nasdaq_trader_s
 NASDAQ,BGRN,iShares USD Green Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BGRO,iShares Large Cap Growth Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BGUS,Baillie Gifford U.S. Equity Growth ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BHAIU,BHAV Acquisition Corp II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BHAV,BHAV Acquisition Corp - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BHAVR,BHAV Acquisition Corp - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BHAVU,BHAV Acquisition Corp - Units,Stock,,nasdaq_trader_symbol_directory
@@ -1733,6 +1734,7 @@ NASDAQ,FAST,Fastenal Company - Common Stock,Stock,,nasdaq_trader_symbol_director
 NASDAQ,FATE,"Fate Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FATN,"FatPipe, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBDT,First Breach Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FBEQ,Franklin US Equity Bitcoin Drip Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FBGL,FBS Global Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBIO,"Fortress Biotech, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FBIOP,"Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1822,6 +1824,7 @@ NASDAQ,FGSI,FT Vest Growth Strength & Target Income ETF,ETF,,nasdaq_trader_symbo
 NASDAQ,FHB,"First Hawaiian, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FHTX,Foghorn Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FIBK,"First Interstate BancSystem, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FIBT,Franklin US Innovation Bitcoin DRIP Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FICS,First Trust International Developed Capital Strength ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FID,First Trust S&P International Dividend Aristocrats ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FIEE,"FiEE, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2025,6 +2028,7 @@ NASDAQ,GARY,Mango Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GASS,"StealthGas, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GAUZ,Gauzy Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GAVA,Grayscale Avalanche Staking ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,GBC,"Georgia Banking Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GBDC,"Golub Capital BDC, Inc. - Closed End Fund",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GBFH,GBank Financial Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GBLI,"Global Indemnity Group, LLC - Class A Common Shares",Stock,,nasdaq_trader_symbol_directory
@@ -2724,7 +2728,7 @@ NASDAQ,JPFP,JPMorgan Managed Futures Plus ETF,ETF,,nasdaq_trader_symbol_director
 NASDAQ,JPY,Lazard Japanese Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JRSH,"Jerash Holdings (US), Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JRVR,"James River Group Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,JSM,"Navient Corporation - 6% Senior Notes due December 15, 2043",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,JSM,"Navient LLC - 6% Senior Notes due December 15, 2043",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JSMD,Janus Henderson Small/Mid Cap Growth Alpha ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JSML,Janus Henderson Small Cap Growth Alpha ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JSPR,"Jasper Therapeutics, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3354,7 +3358,7 @@ NASDAQ,NANOW,Forge Nano Holdings Inc. - Warrants,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,NATO,Themes Transatlantic Defense ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NATR,"Nature's Sunshine Products, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NAUT,"Nautilus Biotechnology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NAVI,Navient Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NAVI,"Navient Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NAVN,"Navan, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NB,NioCorp Developments Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NBBK,"NB Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4567,7 +4571,7 @@ NASDAQ,SLGB,Smart Logistics Global Limited - Class A Ordinary Shares,Stock,,nasd
 NASDAQ,SLGL,Sol-Gel Technologies Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLM,SLM Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLMBP,"SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SLMT,Brera Holdings PLC - Class B Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SLMT,Solmate Infrastructure Public Limited Company - Class B Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLN,Silence Therapeutics Plc - American Depository Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLNG,"Stabilis Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SLNH,"Soluna Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
