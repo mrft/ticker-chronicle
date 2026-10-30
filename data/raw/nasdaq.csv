@@ -437,6 +437,7 @@ NASDAQ,ASO,"Academy Sports and Outdoors, Inc. - Common Stock",Stock,,nasdaq_trad
 NASDAQ,ASPC,A SPAC III Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASPCR,A SPAC III Acquisition Corp. - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASPCU,A SPAC III Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ASPE,"Aspen Neuroscience, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASPI,ASP Isotopes Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASPS,Altisource Portfolio Solutions S.A. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ASPSW,Altisource Portfolio Solutions S.A. - Net Settle Stakeholder Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -573,6 +574,7 @@ NASDAQ,BBLG,Bone Biologics Corp - Common Stock,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,BBNX,"Beta Bionics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBOT,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBSI,"Barrett Business Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BBTX,"Bambusa Therapeutics, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BBUL,GraniteShares 2x Long BB Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BBYY,GraniteShares YieldBOOST BABA ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BCAL,California BanCorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1517,9 +1519,6 @@ NASDAQ,DYAI,"Dyadic International, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,DYFI,IDX Dynamic Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DYN,"Dyne Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DYNB,Hartford Dynamic Bond ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DYNC,Dynamix Corporation - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DYNCU,Dynamix Corporation - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DYNCW,Dynamix Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DYOR,Insight Digital Partners II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DYORU,Insight Digital Partners II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DYORW,Insight Digital Partners II - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -2041,7 +2040,6 @@ NASDAQ,GCL,GCL Global Holdings Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol
 NASDAQ,GCLWW,GCL Global Holdings Ltd - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GCMG,GCM Grosvenor Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GCT,GigaCloud Technology Inc - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GCTK,"GlucoTrack, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GDC,GD Culture Group Limited - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GDEV,GDEV Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GDHG,Golden Heaven Group Holdings Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2955,7 +2953,6 @@ NASDAQ,LMBS,First Trust Low Duration Opportunities ETF,ETF,,nasdaq_trader_symbol
 NASDAQ,LMNR,Limoneira Co - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LMRI,"Lumexa Imaging Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LMTL,Direxion Daily LMT Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,LNAI,Lunai Bioworks Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LNKS,Linkers Industries Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LNSR,"LENSAR, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LNT,Alliant Energy Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3009,7 +3006,6 @@ NASDAQ,LTGRU,Long Table Growth Corp. - Units,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,LTGRW,Long Table Growth Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTRN,Lantern Pharma Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LTRX,"Lantronix, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LTRYW,Sports Entertainment Gaming Global Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LUCD,Lucid Diagnostics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LUCY,"Innovative Eyewear, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LUCYW,"Innovative Eyewear, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
@@ -3128,6 +3124,7 @@ NASDAQ,MESHU,Meshflow Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,MESHW,Meshflow Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MESO,Mesoblast Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,META,"Meta Platforms, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,METAM,"Meta Platforms, Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,METC,"Ramaco Resources, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,METCB,"Ramaco Resources, Inc. - Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,METCI,"Ramaco Resources, Inc. - 8.250% Senior Notes due 2030",Stock,,nasdaq_trader_symbol_directory
@@ -3473,6 +3470,7 @@ NASDAQ,NOEMR,CO2 Energy Transition Corp. - Right,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,NOEMU,CO2 Energy Transition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NOEMW,CO2 Energy Transition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NOMA,NOMADAR Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NORD,Nordicus Partners Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NOVT,Novanta Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NOVTU,Novanta Inc. - Tangible Equity Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NOWL,GraniteShares 2x Long NOW Daily ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5543,9 +5541,6 @@ NASDAQ,YDKG,Yueda Digital Holding - Class A Ordinary Share,Stock,,nasdaq_trader_
 NASDAQ,YFOR,YYForce Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YHC,LQR House Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YHGJ,Yunhong Green CTI Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,YHNA,YHN Acquisition I Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,YHNAR,YHN Acquisition I Limited - Right,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,YHNAU,YHN Acquisition I Limited - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YI,"111, Inc. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YIBO,Planet Image International Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,YICC,Yorkville International Capital Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory

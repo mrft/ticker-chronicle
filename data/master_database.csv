@@ -838,6 +838,7 @@ ASO,NASDAQ,"Academy Sports and Outdoors, Inc. - Common Stock",Stock,True,2026-05
 ASPC,NASDAQ,A SPAC III Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,3f67803c28883ae250b9
 ASPCR,NASDAQ,A SPAC III Acquisition Corp. - Right,Stock,True,2026-05-08,,,f4f62636d2acc66c9421
 ASPCU,NASDAQ,A SPAC III Acquisition Corp. - Unit,Stock,True,2026-05-08,,,fe27121dbd2f8234f483
+ASPE,NASDAQ,"Aspen Neuroscience, Inc. - Common Stock",Stock,True,2026-10-30,,,ccc10f1a11da3f2d73a3
 ASPI,NASDAQ,ASP Isotopes Inc. - Common Stock,Stock,True,2026-05-08,,,292523d319cfab6d3b70
 ASPS,NASDAQ,Altisource Portfolio Solutions S.A. - Common Stock,Stock,True,2026-05-08,,,863542ade8e43946dcca
 ASPSW,NASDAQ,Altisource Portfolio Solutions S.A. - Net Settle Stakeholder Warrants,Stock,True,2026-05-08,,,3c24b02c2649ffcd5262
@@ -991,6 +992,7 @@ BBLGW,NASDAQ,Bone Biologics Corp - warrants,Stock,False,2026-05-08,2026-10-13,Mi
 BBNX,NASDAQ,"Beta Bionics, Inc. - Common Stock",Stock,True,2026-05-08,,,86796c2e5d62fbd98364
 BBOT,NASDAQ,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,cc282863699f836b8d5d
 BBSI,NASDAQ,"Barrett Business Services, Inc. - Common Stock",Stock,True,2026-05-08,,,474d83bfbbc617ba2f52
+BBTX,NASDAQ,"Bambusa Therapeutics, Inc. - Common stock",Stock,True,2026-10-30,,,ad941f2ed03a6a2e8128
 BBUL,NASDAQ,GraniteShares 2x Long BB Daily ETF,ETF,True,2026-07-07,,,9ef420d2bb641832379b
 BBYY,NASDAQ,GraniteShares YieldBOOST BABA ETF,ETF,True,2026-05-08,,,a02a72a25ca017460e48
 BCAB,NASDAQ,"BioAtla, Inc. - Common Stock",Stock,False,2026-05-08,2026-08-31,Missing from current NASDAQ source snapshot; reason unavailable,5e20421c2ae18571f676
@@ -2026,9 +2028,9 @@ DYAI,NASDAQ,"Dyadic International, Inc. - Common Stock",Stock,True,2026-05-08,,,
 DYFI,NASDAQ,IDX Dynamic Fixed Income ETF,ETF,True,2026-05-08,,,4ef89374b9d6c56e70ec
 DYN,NASDAQ,"Dyne Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,00732120a39ddf223173
 DYNB,NASDAQ,Hartford Dynamic Bond ETF,ETF,True,2026-05-08,,,6d57476fba2312bd26f0
-DYNC,NASDAQ,Dynamix Corporation - Class A Ordinary Share,Stock,True,2026-05-08,,,093897d68e130a5f9584
-DYNCU,NASDAQ,Dynamix Corporation - Unit,Stock,True,2026-05-08,,,a86b691394e65be0545c
-DYNCW,NASDAQ,Dynamix Corporation - Warrant,Stock,True,2026-05-08,,,ecf9db1a411409286c4c
+DYNC,NASDAQ,Dynamix Corporation - Class A Ordinary Share,Stock,False,2026-05-08,2026-10-30,Missing from current NASDAQ source snapshot; reason unavailable,093897d68e130a5f9584
+DYNCU,NASDAQ,Dynamix Corporation - Unit,Stock,False,2026-05-08,2026-10-30,Missing from current NASDAQ source snapshot; reason unavailable,a86b691394e65be0545c
+DYNCW,NASDAQ,Dynamix Corporation - Warrant,Stock,False,2026-05-08,2026-10-30,Missing from current NASDAQ source snapshot; reason unavailable,ecf9db1a411409286c4c
 DYOR,NASDAQ,Insight Digital Partners II - Class A Ordinary Shares,Stock,True,2026-05-08,,,75f1de4252d927f88bd7
 DYORU,NASDAQ,Insight Digital Partners II - Units,Stock,True,2026-05-08,,,52674a8cb6319a771cd9
 DYORW,NASDAQ,Insight Digital Partners II - Warrants,Stock,True,2026-05-08,,,f9d314b332e6fa6fe4c4
@@ -2591,7 +2593,7 @@ GCL,NASDAQ,GCL Global Holdings Ltd - Ordinary Shares,Stock,True,2026-05-08,,,bf3
 GCLWW,NASDAQ,GCL Global Holdings Ltd - Warrants,Stock,True,2026-05-08,,,c29d4f59ec7cd8e3fcd7
 GCMG,NASDAQ,GCM Grosvenor Inc. - Class A Common Stock,Stock,True,2026-05-08,,,9d679bb6a1a13fbf0649
 GCT,NASDAQ,GigaCloud Technology Inc - Class A Ordinary Shares,Stock,True,2026-05-08,,,b75d585eca3e7c4625d8
-GCTK,NASDAQ,"GlucoTrack, Inc. - Common Stock",Stock,True,2026-05-08,,,06374bf2b8f3c9cb8f1d
+GCTK,NASDAQ,"GlucoTrack, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-30,Missing from current NASDAQ source snapshot; reason unavailable,06374bf2b8f3c9cb8f1d
 GDC,NASDAQ,GD Culture Group Limited - Common Stock,Stock,True,2026-05-08,,,ae600a5b4cfae363d74b
 GDEV,NASDAQ,GDEV Inc. - Ordinary Shares,Stock,True,2026-05-08,,,a019f66a3488cf02e63b
 GDEVW,NASDAQ,GDEV Inc. - Warrant,Stock,False,2026-05-08,2026-08-26,Missing from current NASDAQ source snapshot; reason unavailable,048919b4bebf8fb80fe9
@@ -3610,7 +3612,7 @@ LMNR,NASDAQ,Limoneira Co - Common Stock,Stock,True,2026-05-08,,,1d2ecb312526bffa
 LMNX,NASDAQ,Defiance Daily Target 2x Long LMND ETF,ETF,False,2026-05-08,2026-08-28,Missing from current NASDAQ source snapshot; reason unavailable,9fd5dbad5cde250c1050
 LMRI,NASDAQ,"Lumexa Imaging Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,19a493877dc620dbe0ab
 LMTL,NASDAQ,Direxion Daily LMT Bull 2X ETF,ETF,True,2026-05-08,,,3ab1bca9142c33c23b17
-LNAI,NASDAQ,Lunai Bioworks Inc. - Common Stock,Stock,True,2026-05-08,,,4eeec230fbe1a2ef4b98
+LNAI,NASDAQ,Lunai Bioworks Inc. - Common Stock,Stock,False,2026-05-08,2026-10-30,Missing from current NASDAQ source snapshot; reason unavailable,4eeec230fbe1a2ef4b98
 LNKS,NASDAQ,Linkers Industries Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,79ea8da2350ff9fd7fc0
 LNSR,NASDAQ,"LENSAR, Inc. - Common Stock",Stock,True,2026-05-08,,,a0d77b6bdaf7c753059a
 LNT,NASDAQ,Alliant Energy Corporation - Common Stock,Stock,True,2026-05-08,,,3f05eaf1a04bfee7bbfe
@@ -3672,7 +3674,7 @@ LTGRU,NASDAQ,Long Table Growth Corp. - Units,Stock,True,2026-06-04,,,4666bdf1561
 LTGRW,NASDAQ,Long Table Growth Corp. - Warrants,Stock,True,2026-07-27,,,5adaa234c1e866d43440
 LTRN,NASDAQ,Lantern Pharma Inc. - Common Stock,Stock,True,2026-05-08,,,94a15dd587feb5f16703
 LTRX,NASDAQ,"Lantronix, Inc. - Common Stock",Stock,True,2026-05-08,,,73434b1592b380047bfe
-LTRYW,NASDAQ,Sports Entertainment Gaming Global Corporation - Warrant,Stock,True,2026-05-08,,,cb2171d80620ecc57d1e
+LTRYW,NASDAQ,Sports Entertainment Gaming Global Corporation - Warrant,Stock,False,2026-05-08,2026-10-30,Missing from current NASDAQ source snapshot; reason unavailable,cb2171d80620ecc57d1e
 LUCD,NASDAQ,Lucid Diagnostics Inc. - Common Stock,Stock,True,2026-05-08,,,cc77058b1bc1476eac1c
 LUCY,NASDAQ,"Innovative Eyewear, Inc. - Common Stock",Stock,True,2026-05-08,,,90055143c3a8f0e47be0
 LUCYW,NASDAQ,"Innovative Eyewear, Inc. - Warrants",Stock,True,2026-05-08,,,3ec4492b9864756b08a7
@@ -3800,6 +3802,7 @@ MESHU,NASDAQ,Meshflow Acquisition Corp. - Units,Stock,True,2026-05-08,,,bf79ae16
 MESHW,NASDAQ,Meshflow Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,294c99816d842af7896d
 MESO,NASDAQ,Mesoblast Limited - American Depositary Shares,Stock,True,2026-05-08,,,b98a9972f055688885ae
 META,NASDAQ,"Meta Platforms, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,e0abc4f365d8d4f6f3ca
+METAM,NASDAQ,"Meta Platforms, Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",Stock,True,2026-10-30,,,a9432586acf2fc788ea2
 METC,NASDAQ,"Ramaco Resources, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,1d107cf0e72bb9947d65
 METCB,NASDAQ,"Ramaco Resources, Inc. - Class B Common Stock",Stock,True,2026-05-08,,,dbe4eba3bb97d27f2a0e
 METCI,NASDAQ,"Ramaco Resources, Inc. - 8.250% Senior Notes due 2030",Stock,True,2026-05-08,,,4839e37b6d98c816a129
@@ -4176,6 +4179,7 @@ NOEMR,NASDAQ,CO2 Energy Transition Corp. - Right,Stock,True,2026-05-08,,,51eef1f
 NOEMU,NASDAQ,CO2 Energy Transition Corp. - Unit,Stock,True,2026-05-08,,,d7592437fe6c66ce34e3
 NOEMW,NASDAQ,CO2 Energy Transition Corp. - Warrant,Stock,True,2026-05-08,,,ff939a88fb11dd91e6a2
 NOMA,NASDAQ,NOMADAR Corp. - Class A Common Stock,Stock,True,2026-05-08,,,4319134abe202e48e5e0
+NORD,NASDAQ,Nordicus Partners Corporation - Common Stock,Stock,True,2026-10-30,,,5ea87a8b3a45d4f9d158
 NOTV,NASDAQ,"Inotiv, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-11,Missing from current NASDAQ source snapshot; reason unavailable,e269fb44d71137481cc2
 NOVT,NASDAQ,Novanta Inc. - Common Shares,Stock,True,2026-05-08,,,bdaa9465f341420218d0
 NOVTU,NASDAQ,Novanta Inc. - Tangible Equity Units,Stock,True,2026-05-08,,,51ba4f697eb030e65d05
@@ -6443,9 +6447,9 @@ YDKG,NASDAQ,Yueda Digital Holding - Class A Ordinary Share,Stock,True,2026-05-08
 YFOR,NASDAQ,YYForce Inc. - Class A Ordinary Shares,Stock,True,2026-09-02,,,8c463fe8a22105428dcd
 YHC,NASDAQ,LQR House Inc. - Common Stock,Stock,True,2026-05-08,,,d1e0e9fb7eb82ca70503
 YHGJ,NASDAQ,Yunhong Green CTI Ltd. - Common Stock,Stock,True,2026-05-08,,,023d9cb6b06d857a72ef
-YHNA,NASDAQ,YHN Acquisition I Limited - Ordinary Shares,Stock,True,2026-05-08,,,ad18db4361ef82b70d78
-YHNAR,NASDAQ,YHN Acquisition I Limited - Right,Stock,True,2026-05-08,,,cfab82f8fb596629eaba
-YHNAU,NASDAQ,YHN Acquisition I Limited - Unit,Stock,True,2026-05-08,,,26aff278d54ae88a1403
+YHNA,NASDAQ,YHN Acquisition I Limited - Ordinary Shares,Stock,False,2026-05-08,2026-10-30,Missing from current NASDAQ source snapshot; reason unavailable,ad18db4361ef82b70d78
+YHNAR,NASDAQ,YHN Acquisition I Limited - Right,Stock,False,2026-05-08,2026-10-30,Missing from current NASDAQ source snapshot; reason unavailable,cfab82f8fb596629eaba
+YHNAU,NASDAQ,YHN Acquisition I Limited - Unit,Stock,False,2026-05-08,2026-10-30,Missing from current NASDAQ source snapshot; reason unavailable,26aff278d54ae88a1403
 YI,NASDAQ,"111, Inc. - American Depositary Shares",Stock,True,2026-05-08,,,c3e058715d0d9c00de05
 YIBO,NASDAQ,Planet Image International Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,97abf485fd8ac0e398fa
 YICC,NASDAQ,Yorkville International Capital Corp. - Class A Ordinary Shares,Stock,True,2026-07-13,,,e04e68be05a2d6b67113
@@ -7450,7 +7454,7 @@ EHI,NYSE,Western Asset Global High Income Fund Inc Common Stock,Stock,True,2026-
 EIC,NYSE,Eagle Point Income Company Inc. Common Stock,Stock,False,2026-05-08,2026-08-24,Listing metadata changed,cd4b82b7bcc24fbc07f1
 EIC,NYSE,Eagle Point Income Company Common Shares of Beneficial Interest,Stock,True,2026-08-24,,,a478363939a8c76da319
 EICA,NYSE,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,Stock,False,2026-05-08,2026-08-24,Listing metadata changed,4a7cbdad084811164e63
-EICA,NYSE,Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026,Stock,True,2026-08-24,,,19d766b58b22908e63c3
+EICA,NYSE,Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026,Stock,False,2026-08-24,2026-10-30,Missing from current NYSE source snapshot; reason unavailable,19d766b58b22908e63c3
 EIG,NYSE,Employers Holdings Inc Common Stock,Stock,True,2026-05-08,,,2770c0375e21a20ee811
 EIIA,NYSE,Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029,Stock,True,2026-05-08,,,05b9b8a874b07750b08c
 EIX,NYSE,Edison International Common Stock,Stock,True,2026-05-08,,,80adcffe6137af2c5148
@@ -7754,7 +7758,7 @@ GLP$B,NYSE,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Pe
 GLW,NYSE,Corning Incorporated Common Stock,Stock,True,2026-05-08,,,d8461da9398ffe8dd325
 GM,NYSE,General Motors Company Common Stock,Stock,True,2026-05-08,,,eb8771a3470593b356c3
 GME,NYSE,GameStop Corporation Common Stock,Stock,True,2026-05-08,,,b44ecb996375b44eede4
-GME.W,NYSE,GameStop Corporation Warrants to Purchase Common Stock,Stock,True,2026-05-08,,,e57c94376014e46c173d
+GME.W,NYSE,GameStop Corporation Warrants to Purchase Common Stock,Stock,False,2026-05-08,2026-10-30,Missing from current NYSE source snapshot; reason unavailable,e57c94376014e46c173d
 GMED,NYSE,"Globus Medical, Inc. Class A Common Stock",Stock,True,2026-05-08,,,62234d6f3b309fb7806d
 GMMF,NYSE,iShares Government Money Market ETF,ETF,True,2026-05-08,,,c5a2f785f8c4bc8fe3bc
 GMRS,NYSE,GMR Solutions Inc. Class A Common Stock,Stock,True,2026-05-13,,,4cc742e0e6358c575d56
