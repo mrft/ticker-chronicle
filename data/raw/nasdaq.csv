@@ -633,7 +633,6 @@ NASDAQ,BFLX,iShares Flexible Equity Active ETF,ETF,,nasdaq_trader_symbol_directo
 NASDAQ,BFRG,"Bullfrog AI Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BFRGW,"Bullfrog AI Holdings, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BFRI,Biofrontera Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BFRIW,Biofrontera Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BFST,"Business First Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BGC,"BGC Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BGCG,Baillie Gifford International Concentrated Growth ETF,ETF,,nasdaq_trader_symbol_directory
@@ -941,6 +940,7 @@ NASDAQ,CART,Maplebear Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CARY,Angel Oak Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CARZ,First Trust S-Network Future Vehicles & Technology ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CASH,"Pathward Financial, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CASK,"Sempreon, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CASS,"Cass Information Systems, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CAST,"FreeCast, Inc. - Class A common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CASY,"Caseys General Stores, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1411,7 +1411,6 @@ NASDAQ,DHC,Diversified Healthcare Trust - Common Shares of Beneficial Interest,S
 NASDAQ,DHCNI,Diversified Healthcare Trust - 5.625% Senior Notes due 2042,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DHCNL,Diversified Healthcare Trust - 6.25% Senior Notes Due 2046,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DIBS,"1stdibs.com, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,DINE,Simplify Tax Aware Diversified Income Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DIOD,Diodes Incorporated - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DIVD,Altrius Global Dividend ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DJCO,Daily Journal Corp. (S.C.) - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2686,7 +2685,7 @@ NASDAQ,JANX,"Janux Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,JAPN,Horizon Kinetics Japan Owner Operator ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,JATT,JATT II Acquisition Corp - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JAZZ,Jazz Pharmaceuticals plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,JBDI,JBDI Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,JBDI,JBDI Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JBHT,"J.B. Hunt Transport Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JBIO,"Jade Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,JBLU,JetBlue Airways Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2984,7 +2983,6 @@ NASDAQ,LPCVU,Launchpad Cadenza Acquisition Corp I - Unit,Stock,,nasdaq_trader_sy
 NASDAQ,LPCVW,Launchpad Cadenza Acquisition Corp I - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPLA,LPL Financial Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPTH,"LightPath Technologies, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LQ,Simplify Tax Aware Alternatives ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LQDA,Liquidia Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LQDT,"Liquidity Services, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LRCX,Lam Research Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3151,7 +3149,6 @@ NASDAQ,MGN,Megan Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader
 NASDAQ,MGNI,"Magnite, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGNX,"MacroGenics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGOL,Leverage Shares MANGOS ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,MGPI,"MGP Ingredients, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGRC,McGrath RentCorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGRT,Mega Fortune Company Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MGRX,"Mangoceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3352,6 +3349,7 @@ NASDAQ,NAMS,NewAmsterdam Pharma Company N.V. - Ordinary Shares,Stock,,nasdaq_tra
 NASDAQ,NAMSW,NewAmsterdam Pharma Company N.V. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NANO,Forge Nano Holdings Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NANOW,Forge Nano Holdings Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NARA,"Narragansett Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NATO,Themes Transatlantic Defense ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NATR,"Nature's Sunshine Products, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NAUT,"Nautilus Biotechnology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4143,7 +4141,7 @@ NASDAQ,QSEAU,Quartzsea Acquisition Corporation - Units,Stock,,nasdaq_trader_symb
 NASDAQ,QSI,Quantum-Si Incorporated - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QSIX,Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QSML,WisdomTree U.S. SmallCap Quality Growth Fund,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,QTEC,First Trust NASDAQ-100- Technology Index Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QTEX,QTREX Quantum Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QTI,"QT Imaging Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QTOP,iShares Nasdaq Top 30 Stocks ETF,ETF,,nasdaq_trader_symbol_directory

@@ -513,7 +513,6 @@ NYSE,CBRE,CBRE Group Inc Common Stock Class A,Stock,,nasdaq_trader_symbol_direct
 NYSE,CBT,Cabot Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CBU,"Community Financial System, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CBX,CBX (Listing Market NYSE Networks AE) Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,CBZ,"CBIZ, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CC,Chemours Company (The) Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CCI,Crown Castle Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,CCID,Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028,Stock,,nasdaq_trader_symbol_directory
@@ -1503,7 +1502,6 @@ NYSE,KTB,"Kontoor Brands, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directo
 NYSE,KTF,DWS Municipal Income Trust,Stock,,nasdaq_trader_symbol_directory
 NYSE,KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),Stock,,nasdaq_trader_symbol_directory
-NYSE,KVUE,Kenvue Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KVYO,"Klaviyo, Inc. Series A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,KWR,Quaker Houghton Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KWY,Kingsway Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1569,8 +1567,6 @@ NYSE,LVWR,"LiveWire Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_direct
 NYSE,LVWR.W,"LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,LW,"Lamb Weston Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LXFR,Luxfer Holdings PLC Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NYSE,LXP,LXP Industrial Trust Common Stock (Maryland REIT),Stock,,nasdaq_trader_symbol_directory
-NYSE,LXP$C,LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LXU,"LSB Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),Stock,,nasdaq_trader_symbol_directory
 NYSE,LYG,Lloyds Banking Group Plc American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1830,6 +1826,7 @@ NYSE,NMR,Nomura Holdings Inc ADR American Depositary Shares,Stock,,nasdaq_trader
 NYSE,NMS,Nuveen Minnesota Quality Municipal Income Fund,Stock,,nasdaq_trader_symbol_directory
 NYSE,NMT,Nuveen Massachusetts Quality Municipal Income Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,NMZ,"Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share",Stock,,nasdaq_trader_symbol_directory
+NYSE,NMZ.V,"Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",Stock,,nasdaq_trader_symbol_directory
 NYSE,NNI,"Nelnet, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,NNN,"NNN REIT, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,NNY,Nuveen New York Municipal Value Fund Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1933,6 +1930,7 @@ NYSE,ONON,On Holding AG Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_dire
 NYSE,ONT,"Onterris, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ONTO,Onto Innovation Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OOMA,"Ooma, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,OPAY,"OPay Limited American Depositary Shares, each representing ten Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,OPFI,OppFi Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OPLN,"OPENLANE, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2163,7 +2161,6 @@ NYSE,RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary 
 NYSE,RAC.W,"Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NYSE,RACE,Ferrari N.V. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,RAL,Ralliant Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,RAMP,"LiveRamp Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,RBA,"RB Global, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,RBC,RBC Bearings Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,RBLX,Roblox Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
