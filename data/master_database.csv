@@ -901,7 +901,7 @@ AUPH,NASDAQ,Aurinia Pharmaceuticals Inc - Common Shares,Stock,True,2026-05-08,,,
 AUR,NASDAQ,"Aurora Innovation, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,9d67ca28d4c7d1a74e2a
 AURA,NASDAQ,"Aura Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,a0c00ef1739fe8b209a5
 AURE,NASDAQ,Aurelion Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,afd0a99252c3eeb10d54
-AUROW,NASDAQ,"Aurora Innovation, Inc. - Warrant",Stock,True,2026-05-08,,,071765c89efc369fd5d7
+AUROW,NASDAQ,"Aurora Innovation, Inc. - Warrant",Stock,False,2026-05-08,2026-11-03,Missing from current NASDAQ source snapshot; reason unavailable,071765c89efc369fd5d7
 AUTL,NASDAQ,Autolus Therapeutics plc - American Depositary Shares,Stock,True,2026-05-08,,,572c857943b2c919566e
 AUUD,NASDAQ,Auddia Inc. - Common Stock,Stock,True,2026-05-08,,,92383bcd2c2721c920c7
 AVAH,NASDAQ,Aveanna Healthcare Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,520759a57e8550793849
@@ -2911,7 +2911,7 @@ HNNAZ,NASDAQ,"Hennessy Advisors, Inc. - 4.875% Notes due 2026",Stock,False,2026-
 HNRG,NASDAQ,Hallador Energy Company - Common Stock,Stock,True,2026-05-08,,,d6c8c850f71b45f320c6
 HNST,NASDAQ,"The Honest Company, Inc. - Common Stock",Stock,True,2026-05-08,,,92c7340f7a62f645fdea
 HNVR,NASDAQ,"Hanover Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,44391a768c453685bad0
-HODO,NASDAQ,House of Doge Inc. - Common Stock,Stock,True,2026-07-01,,,54dd3de14bdc939fadf6
+HODO,NASDAQ,House of Doge Inc. - Common Stock,Stock,False,2026-07-01,2026-11-03,Missing from current NASDAQ source snapshot; reason unavailable,54dd3de14bdc939fadf6
 HODU,NASDAQ,Direxion Daily HOOD Bull 2X ETF,ETF,True,2026-05-08,,,e22da5f2e88efdbe86ce
 HOFT,NASDAQ,Hooker Furnishings Corporation - Common Stock,Stock,True,2026-05-08,,,3f09ae6d7f3986467e6f
 HOLO,NASDAQ,MicroCloud Hologram Inc. - Ordinary Shares,Stock,True,2026-05-08,,,ce968ff313a3ebe87f98
@@ -3156,7 +3156,7 @@ INDH,NASDAQ,WisdomTree India Hedged Equity Fund,ETF,True,2026-05-08,,,cd2f33a24d
 INDI,NASDAQ,"indie Semiconductor, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,61915f56c77e20d3a197
 INDP,NASDAQ,"Indaptus Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,978a429c50690d050121
 INDQ,NASDAQ,Pacer ActiveAlpha India Quality ETF,ETF,True,2026-05-08,,,28a15854d2399077a299
-INDV,NASDAQ,"Indivior Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,f999810a34a18582dfc1
+INDV,NASDAQ,"Indivior Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-03,Other delisting reason: Details unavailable (source: FMP Delisted API),f999810a34a18582dfc1
 INDY,NASDAQ,iShares India 50 ETF,ETF,True,2026-05-08,,,1d11c4dd37861aac627b
 INEO,NASDAQ,INNEOVA Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,2ba5ea25a67c9be2f920
 INGN,NASDAQ,"Inogen, Inc - Common Stock",Stock,True,2026-05-08,,,5034965b0f1ceded5ee0
@@ -3872,8 +3872,8 @@ MLACU,NASDAQ,Mountain Lake Acquisition Corp. - Units,Stock,False,2026-05-08,2026
 MLCI,NASDAQ,Mount Logan Capital Inc. - Common Stock,Stock,True,2026-05-08,,,e20a8bf4b6ea689e11e4
 MLCIL,NASDAQ,Mount Logan Capital Inc. - 8.00% Notes Due 2031,Stock,True,2026-05-08,,,1a3f776b75e304baeb95
 MLCO,NASDAQ,Melco Resorts & Entertainment Limited - American Depositary Shares,Stock,True,2026-05-08,,,914984c22f18c116f5be
-MLEC,NASDAQ,Moolec Science SA - Ordinary Shares,Stock,True,2026-05-08,,,33a1631961c5b0d8b721
-MLECW,NASDAQ,Moolec Science SA - Warrant,Stock,True,2026-05-08,,,8391c411e5638906d76c
+MLEC,NASDAQ,Moolec Science SA - Ordinary Shares,Stock,False,2026-05-08,2026-11-03,Missing from current NASDAQ source snapshot; reason unavailable,33a1631961c5b0d8b721
+MLECW,NASDAQ,Moolec Science SA - Warrant,Stock,False,2026-05-08,2026-11-03,Missing from current NASDAQ source snapshot; reason unavailable,8391c411e5638906d76c
 MLGO,NASDAQ,"MicroAlgo, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,923404408e6cfddac98d
 MLKN,NASDAQ,"MillerKnoll, Inc. - Common Stock",Stock,True,2026-05-08,,,3d208bb581f4022dc3a6
 MLTX,NASDAQ,MoonLake Immunotherapeutics - Class A Ordinary Shares,Stock,True,2026-05-08,,,999fbb7896e517b66953
@@ -5583,7 +5583,8 @@ SUMAR,NASDAQ,SUMA Acquisition Corporation - Rights,Stock,True,2026-05-08,,,c249f
 SUMAU,NASDAQ,SUMA Acquisition Corporation - Units,Stock,True,2026-05-08,,,ad00e4aa83f216317cd5
 SUNE,NASDAQ,"SUNation Energy, Inc. - Common Stock",Stock,True,2026-05-08,,,29c6592ca1d0b2bd5cbf
 SUNS,NASDAQ,"Sunrise Realty Trust, Inc. - Common Stock",Stock,True,2026-05-08,,,7e69f33ea06e9a8c3900
-SUPN,NASDAQ,"Supernus Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,9c135d1d8a8b1b928328
+SUPN,NASDAQ,"Supernus Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-03,Listing metadata changed,9c135d1d8a8b1b928328
+SUPN,NASDAQ,"Supernus, Inc. - Common Stock",Stock,True,2026-11-03,,,dff3c669dda0ee8ce385
 SUPP,NASDAQ,TCW Transform Supply Chain ETF,ETF,True,2026-05-08,,,e3c931aec0ca704d96a1
 SUPX,NASDAQ,SuperX AI Technology Limited - Ordinary Shares,Stock,True,2026-05-08,,,a7432a7addc6d2ac58c5
 SURG,NASDAQ,"SurgePays, Inc. - Common Stock",Stock,True,2026-05-08,,,3f379144aa19a980a95f
@@ -5618,7 +5619,7 @@ SWAG,NASDAQ,"Stran & Company, Inc. - Common Stock",Stock,True,2026-05-08,,,6ceac
 SWAGW,NASDAQ,"Stran & Company, Inc. - Warrant",Stock,True,2026-05-08,,,8ceb8cb74e01ba014d95
 SWBI,NASDAQ,"Smith & Wesson Brands, Inc. - Common Stock",Stock,True,2026-05-08,,,4e5e63979b4b71249cb2
 SWIM,NASDAQ,"Latham Group, Inc. - Common Stock",Stock,True,2026-05-08,,,97faf7643a7a3eed5a29
-SWKHL,NASDAQ,SWK Holdings Corporation - 9.00% Senior Notes due 2027,Stock,True,2026-05-08,,,89977c2b65385d252707
+SWKHL,NASDAQ,SWK Holdings Corporation - 9.00% Senior Notes due 2027,Stock,False,2026-05-08,2026-11-03,Missing from current NASDAQ source snapshot; reason unavailable,89977c2b65385d252707
 SWKS,NASDAQ,"Skyworks Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,6c195a8e50305e5721ca
 SWMR,NASDAQ,"Swarmer, Inc - common stock",Stock,True,2026-05-08,,,b7f7e1013e08c29ee383
 SWP,NASDAQ,SWP Growth & Income ETF,ETF,True,2026-05-08,,,c9c0f77cbde5fb724c53
@@ -9255,6 +9256,7 @@ TGLS,NYSE,Tecnoglass Holdings Inc. Common Stock,Stock,True,2026-07-31,,,202b4260
 TGS,NYSE,Transportadora de Gas del Sur SA TGS Common Stock,Stock,True,2026-05-08,,,57b8cd645fc531ff3e36
 TGT,NYSE,Target Corporation Common Stock,Stock,True,2026-05-08,,,f9536048e2e7dd97f787
 THC,NYSE,Tenet Healthcare Corporation Common Stock,Stock,True,2026-05-08,,,10eb1e6df6f13b8e7597
+THCR,NYSE,THOR Conservative Risk Dynamic ETF,ETF,True,2026-11-03,,,c353efc1eefd274d7d23
 THG,NYSE,Hanover Insurance Group Inc,Stock,True,2026-05-08,,,99cd910e2f008833e9a3
 THIR,NYSE,THOR Index Rotation ETF,ETF,True,2026-05-08,,,ecc77bdbf5001877c83e
 THLV,NYSE,THOR Equal Weight Low Volatility ETF,ETF,True,2026-05-08,,,21720913c4ecfeac9787
