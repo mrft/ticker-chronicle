@@ -2133,7 +2133,6 @@ NASDAQ,GNMA,iShares GNMA Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GNOM,Global X Genomics & Biotechnology ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GNPX,"Genprex, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GNSS,Genasys Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GNTA,Genenta Science S.p.A. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GNTX,Gentex Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GO,Grocery Outlet Holding Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GOAI,Eva Live Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2558,6 +2557,7 @@ NASDAQ,INEO,INNEOVA Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_tra
 NASDAQ,INGN,"Inogen, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INHD,Inno Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INIO,INNIO N.V. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,INK,AB Equity Premium Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,INKT,"MiNK Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INLF,INLIF LIMITED - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INM,InMed Pharmaceuticals Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2850,7 +2850,7 @@ NASDAQ,LAND,Gladstone Land Corporation - Common Stock,Stock,,nasdaq_trader_symbo
 NASDAQ,LANDO,Gladstone Land Corporation - 6.00% Series B Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LANDP,Gladstone Land Corporation - 6.00% Series C Cumulative Redeemable Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LARK,Landmark Bancorp Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,LASE,Laser Photonics Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LASE,LASE Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LASR,"nLIGHT, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LATA,Galata Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LATAU,Galata Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
@@ -4383,6 +4383,7 @@ NASDAQ,SAAQU,Space Asset Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_d
 NASDAQ,SAAQW,Space Asset Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SABR,Sabre Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SABS,"SAB Biotherapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SAEN,Genenta Science S.p.A. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAFT,"Safety Insurance Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAFX,"XCF Global, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAGT,SAGTEC GLOBAL LIMITED - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory

@@ -117,7 +117,7 @@ FURY,AMEX,Fury Gold Mines Limited Common Shares,Stock,True,2026-05-08,,,6ccceb6a
 GAU,AMEX,Galiano Gold Inc.,Stock,True,2026-05-08,,,90e4e802858ff1d79773
 GBR,AMEX,"New Concept Energy, Inc Common Stock",Stock,True,2026-05-08,,,92b2c27d513ca723145c
 GCDT,AMEX,Green Circle Decarbonize Technology Limited Ordinary Shares,Stock,False,2026-05-08,2026-08-13,Listing metadata changed,4895c91c8d655b0756a6
-GCDT,AMEX,Green Circle Decarbonize Technology Limited Class A Ordinary Shares,Stock,True,2026-08-13,,,43c9ea59395fce79cbc7
+GCDT,AMEX,Green Circle Decarbonize Technology Limited Class A Ordinary Shares,Stock,False,2026-08-13,2026-11-04,Missing from current AMEX source snapshot; reason unavailable,43c9ea59395fce79cbc7
 GENC,AMEX,"Gencor Industries, Inc. Common Stock",Stock,True,2026-05-08,,,b16b4166345623547840
 GGN,AMEX,"GAMCO Global Gold, Natural Resources & Income Trust",Stock,True,2026-05-08,,,30842f2ebcb8672ca526
 GGN$B,AMEX,"GAMCO Global Gold, Natural Reources & Income Trust 5.00% Series B Cumulative 25.00 Liquidation Preference",Stock,True,2026-05-08,,,a36c1ff9e9578d44df04
@@ -2705,7 +2705,7 @@ GNMA,NASDAQ,iShares GNMA Bond ETF,ETF,True,2026-05-08,,,d6fc9dd2031a5b460b3e
 GNOM,NASDAQ,Global X Genomics & Biotechnology ETF,ETF,True,2026-05-08,,,698e0cd92600db0706df
 GNPX,NASDAQ,"Genprex, Inc. - Common Stock",Stock,True,2026-05-08,,,e3965dbb38c03c485cdc
 GNSS,NASDAQ,Genasys Inc. - Common Stock,Stock,True,2026-05-08,,,4913874ef8df77405613
-GNTA,NASDAQ,Genenta Science S.p.A. - American Depositary Shares,Stock,True,2026-05-08,,,57afed37d255f20e9569
+GNTA,NASDAQ,Genenta Science S.p.A. - American Depositary Shares,Stock,False,2026-05-08,2026-11-04,Other delisting reason: Details unavailable (source: FMP Delisted API),57afed37d255f20e9569
 GNTX,NASDAQ,Gentex Corporation - Common Stock,Stock,True,2026-05-08,,,a54347186289d2c92c19
 GO,NASDAQ,Grocery Outlet Holding Corp. - Common Stock,Stock,True,2026-05-08,,,a40fe73ed3c7948d7ec5
 GOAI,NASDAQ,Eva Live Inc. - Common Stock,Stock,True,2026-05-08,,,a3e1b86c1f271c2bc753
@@ -3162,6 +3162,7 @@ INEO,NASDAQ,INNEOVA Holdings Limited - Class A Ordinary Shares,Stock,True,2026-0
 INGN,NASDAQ,"Inogen, Inc - Common Stock",Stock,True,2026-05-08,,,5034965b0f1ceded5ee0
 INHD,NASDAQ,Inno Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,28ec15f182cd48535f27
 INIO,NASDAQ,INNIO N.V. - Ordinary Shares,Stock,True,2026-06-04,,,c6e0586e7c6789447b71
+INK,NASDAQ,AB Equity Premium Income ETF,ETF,True,2026-11-04,,,906de7e85e316b0e7105
 INKT,NASDAQ,"MiNK Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,464c7984d25da6a49e9b
 INLF,NASDAQ,INLIF LIMITED - Class A Ordinary shares,Stock,True,2026-05-08,,,b48a95381b88045bba1a
 INM,NASDAQ,InMed Pharmaceuticals Inc. - Common Shares,Stock,True,2026-05-08,,,5d6ecefbdfacbc366fba
@@ -3499,7 +3500,8 @@ LAND,NASDAQ,Gladstone Land Corporation - Common Stock,Stock,True,2026-05-08,,,ae
 LANDO,NASDAQ,Gladstone Land Corporation - 6.00% Series B Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,d54f7d5cbc45fcc103f6
 LANDP,NASDAQ,Gladstone Land Corporation - 6.00% Series C Cumulative Redeemable Preferred Stock,Stock,True,2026-05-08,,,d35153e46485dbddb807
 LARK,NASDAQ,Landmark Bancorp Inc. - Common Stock,Stock,True,2026-05-08,,,dc7bd110a1721f262efb
-LASE,NASDAQ,Laser Photonics Corporation - Common Stock,Stock,True,2026-05-08,,,6fd22a99fff947d7593d
+LASE,NASDAQ,Laser Photonics Corporation - Common Stock,Stock,False,2026-05-08,2026-11-04,Listing metadata changed,6fd22a99fff947d7593d
+LASE,NASDAQ,LASE Corp. - Common Stock,Stock,True,2026-11-04,,,61f731892ecef5581c9a
 LASR,NASDAQ,"nLIGHT, Inc. - Common Stock",Stock,True,2026-05-08,,,4fbd4765dadeda2086ab
 LATA,NASDAQ,Galata Acquisition Corp. II - Class A Ordinary Shares,Stock,True,2026-05-08,,,fd74211dec207f2b44e3
 LATAU,NASDAQ,Galata Acquisition Corp. II - Units,Stock,True,2026-05-08,,,100a772eae4721a20b15
@@ -5180,6 +5182,7 @@ SAAQW,NASDAQ,Space Asset Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,80
 SABR,NASDAQ,Sabre Corporation - Common Stock,Stock,True,2026-05-08,,,1d8cf57a82125c3fe938
 SABS,NASDAQ,"SAB Biotherapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,88a7cf38656747cb9d8c
 SABSW,NASDAQ,"SAB Biotherapeutics, Inc. - Warrant",Stock,False,2026-05-08,2026-10-23,Missing from current NASDAQ source snapshot; reason unavailable,e0d9b3846e96d7d3d625
+SAEN,NASDAQ,Genenta Science S.p.A. - American Depositary Shares,Stock,True,2026-11-04,,,57afed37d255f20e9569
 SAFT,NASDAQ,"Safety Insurance Group, Inc. - Common Stock",Stock,True,2026-05-08,,,8904093f736230f03f99
 SAFX,NASDAQ,"XCF Global, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,192f789bcd84fed9ed29
 SAGT,NASDAQ,SAGTEC GLOBAL LIMITED - Class A Ordinary shares,Stock,True,2026-05-08,,,b03679d67df0de018eee
@@ -8485,7 +8488,8 @@ NMR,NYSE,Nomura Holdings Inc ADR American Depositary Shares,Stock,True,2026-05-0
 NMS,NYSE,Nuveen Minnesota Quality Municipal Income Fund,Stock,True,2026-05-08,,,eade51595e684443e6ae
 NMT,NYSE,Nuveen Massachusetts Quality Municipal Income Fund Common Stock,Stock,True,2026-05-08,,,85edda166cb0625498ca
 NMZ,NYSE,"Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share",Stock,True,2026-05-08,,,f337d2222b36a7bb10c3
-NMZ.V,NYSE,"Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",Stock,True,2026-11-02,,,0111e3c3ec55c338caf4
+NMZ.R,NYSE,"Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights",Stock,True,2026-11-04,,,b28cc301b4e98d11ede0
+NMZ.V,NYSE,"Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",Stock,False,2026-11-02,2026-11-04,Missing from current NYSE source snapshot; reason unavailable,0111e3c3ec55c338caf4
 NNI,NYSE,"Nelnet, Inc. Common Stock",Stock,True,2026-05-08,,,26332e2082abfe9d6197
 NNN,NYSE,"NNN REIT, Inc. Common Stock",Stock,True,2026-05-08,,,ebec58bb5b8efc9b6fff
 NNY,NYSE,Nuveen New York Municipal Value Fund Common Stock,Stock,True,2026-05-08,,,c49d71f80ee8650c5b2c
@@ -8774,7 +8778,8 @@ PRIF$L,NYSE,"Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due
 PRIM,NYSE,Primoris Services Corporation Common Stock,Stock,True,2026-05-08,,,c22156f3bb820bf69c34
 PRKS,NYSE,United Parks & Resorts Inc. Common Stock,Stock,True,2026-05-08,,,c494efce71760927d9f1
 PRLB,NYSE,"Proto Labs, Inc. Common stock",Stock,True,2026-05-08,,,b397260c07f221f409bb
-PRM,NYSE,"Perimeter Solutions, SA Common Stock",Stock,True,2026-05-08,,,b7ed5f202a2144e61c39
+PRM,NYSE,"Perimeter Solutions, SA Common Stock",Stock,False,2026-05-08,2026-11-04,Listing metadata changed,b7ed5f202a2144e61c39
+PRM,NYSE,Perimeter Group Inc. Common Stock,Stock,True,2026-11-04,,,e55c8a096a35f0941988
 PRMB,NYSE,Primo Brands Corporation Class A Common Stock,Stock,True,2026-05-08,,,0d6ade6ff12e13b49685
 PRS,NYSE,"Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058",Stock,True,2026-05-08,,,1e37ae510115a0515897
 PRSU,NYSE,"Pursuit Attractions and Hospitality, Inc. Common Stock",Stock,True,2026-05-08,,,4f4d0f4a9870b9777976
