@@ -418,6 +418,7 @@ ACBH,NASDAQ,Pacer Metaurus High Income Autocallable ETF,ETF,True,2026-09-10,,,b9
 ACCL,NASDAQ,Acco Group Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,2962a45312549832e3d6
 ACCV,NASDAQ,Accelevation Holdings Corp. - Class A ordinary shares,Stock,True,2026-09-30,,,60f969a578636cf4232a
 ACDC,NASDAQ,ProFrac Holding Corp. - Class A Common Stock,Stock,True,2026-05-08,,,e80dad631b6d9d37074e
+ACEM,NASDAQ,American Century Emerging Markets Insights ETF,ETF,True,2026-11-05,,,7563ee37faa6dd792ef1
 ACEP,NASDAQ,ARS Core Equity Portfolio ETF,ETF,True,2026-05-08,,,231bd8c716f89f7ddaeb
 ACET,NASDAQ,"Adicet Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,83055d7ba32d1236ffa2
 ACFN,NASDAQ,"Acorn Energy, Inc. - Common Stock",Stock,True,2026-05-08,,,daaaae92785f3bd522cc
@@ -531,6 +532,8 @@ AGH,NASDAQ,Aureus Greenway Holdings Inc. - Common Stock,Stock,False,2026-05-08,2
 AGIO,NASDAQ,"Agios Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,f468688b82b18a44fc7f
 AGIX,NASDAQ,KraneShares Artificial Intelligence & Technology ETF,ETF,False,2026-05-08,2026-06-01,Listing metadata changed,570a2cf0af32548c107b
 AGIX,NASDAQ,KraneShares Public-Private AI & Technology ETF,ETF,True,2026-06-01,,,3ae4ac8b5c1851f0d3b8
+AGLT,NASDAQ,"Agility Robotics, Inc. - Ordinary Shares",Stock,True,2026-11-05,,,8c727ed925d629722b2b
+AGLTW,NASDAQ,"Agility Robotics, Inc. - Warrants",Stock,True,2026-11-05,,,7378147c2471a038f241
 AGMB,NASDAQ,AgomAb Therapeutics NV - ADRs representing one common share.,Stock,True,2026-05-08,,,2082afe4ef7adc179953
 AGMH,NASDAQ,AGM Group Holdings Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,19bbef247393d287977c
 AGMI,NASDAQ,Themes Silver Miners ETF,ETF,True,2026-05-08,,,dc1132506cc929480a10
@@ -1447,9 +1450,9 @@ CCSB,NASDAQ,Carbon Collective Short Duration Green Bond ETF,ETF,True,2026-05-08,
 CCSI,NASDAQ,"Consensus Cloud Solutions, Inc. - Common Stock",Stock,True,2026-05-08,,,900f836867bfff3107f6
 CCSO,NASDAQ,Carbon Collective Climate Solutions U.S. Equity ETF,ETF,True,2026-05-08,,,58d1b397886cb1100710
 CCTG,NASDAQ,CCSC Technology International Holdings Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,bdfb5d81401c68c7ccc6
-CCXI,NASDAQ,Churchill Capital Corp XI - Class A Ordinary Shares,Stock,True,2026-05-08,,,03367f11958bff5a9163
-CCXIU,NASDAQ,Churchill Capital Corp XI - Units,Stock,True,2026-05-08,,,8069658196ee39c7d090
-CCXIW,NASDAQ,Churchill Capital Corp XI - Warrants,Stock,True,2026-05-08,,,d24fa3d39a565c259531
+CCXI,NASDAQ,Churchill Capital Corp XI - Class A Ordinary Shares,Stock,False,2026-05-08,2026-11-05,Missing from current NASDAQ source snapshot; reason unavailable,03367f11958bff5a9163
+CCXIU,NASDAQ,Churchill Capital Corp XI - Units,Stock,False,2026-05-08,2026-11-05,Missing from current NASDAQ source snapshot; reason unavailable,8069658196ee39c7d090
+CCXIW,NASDAQ,Churchill Capital Corp XI - Warrants,Stock,False,2026-05-08,2026-11-05,Missing from current NASDAQ source snapshot; reason unavailable,d24fa3d39a565c259531
 CD,NASDAQ,Chaince Digital Holdings Inc. - American Ordinary Shares,Stock,True,2026-05-08,,,8f452f85f33adbee8c1f
 CDC,NASDAQ,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,ETF,True,2026-05-08,,,bc20e98cf832e2cb43c6
 CDIG,NASDAQ,City Different Investments Global Equity ETF,ETF,True,2026-05-08,,,0f0ec2a09c3ada66a80c
@@ -2190,7 +2193,8 @@ ETRA,NASDAQ,"Electra Therapeutics, Inc. - Common stock",Stock,True,2026-09-18,,,
 ETRL,NASDAQ,GraniteShares 2x Long ETOR Daily ETF,ETF,False,2026-05-08,2026-06-22,Missing from current NASDAQ source snapshot; reason unavailable,0a2802d32ecdd6cdd794
 ETS,NASDAQ,Elite Express Holding Inc. - Class A Common Stock,Stock,True,2026-05-08,,,1c53335bdb724c5f83e6
 EU,NASDAQ,enCore Energy Corp. - Common Stock,Stock,True,2026-05-08,,,ede9427c8857ec8558b1
-EUDA,NASDAQ,Euda Health Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,b0cc4b87deeb95b71164
+EUDA,NASDAQ,Euda Health Holdings Limited - Ordinary Shares,Stock,False,2026-05-08,2026-11-05,Listing metadata changed,b0cc4b87deeb95b71164
+EUDA,NASDAQ,Euda Health Holdings Limited - Class A Ordinary Shares,Stock,True,2026-11-05,,,08393fd88cc5cd0214da
 EUDAW,NASDAQ,Euda Health Holdings Limited - Warrant,Stock,True,2026-05-08,,,37a1605ab4065b0881ac
 EUFN,NASDAQ,iShares MSCI Europe Financials ETF,ETF,True,2026-05-08,,,81eb69d6e1639a2fc439
 EURK,NASDAQ,Eureka Acquisition Corp - Class A Ordinary Share,Stock,True,2026-05-08,,,0a7808019abdbb15869b
@@ -2900,6 +2904,7 @@ HLMN,NASDAQ,Hillman Solutions Corp. - Common Stock,Stock,True,2026-05-08,,,9ed2d
 HLNE,NASDAQ,Hamilton Lane Incorporated - Class A Common Stock,Stock,True,2026-05-08,,,76bc119e22307814b7cb
 HLP,NASDAQ,Hongli Group Inc. - Ordinary Shares,Stock,False,2026-05-08,2026-07-15,Listing metadata changed,2036fa59770ba2aeb9a8
 HLP,NASDAQ,Hongli Group Inc. - Class A Ordinary Shares,Stock,True,2026-07-15,,,bcda933147403012d915
+HLT,NASDAQ,Hilton Worldwide Holdings Inc. - Common Stock,Stock,True,2026-11-05,,,9edf6d202e6f80af8a0a
 HLTH,NASDAQ,Tema Healthcare AI ETF,ETF,True,2026-07-21,,,2b626d407664c82dcd91
 HLXC,NASDAQ,Helix Acquisition Corp. III - Class A Ordinary Shares,Stock,True,2026-05-08,,,38172825e7ba4a5b1a41
 HMH,NASDAQ,HMH Holding Inc. - Common Stock,Stock,True,2026-05-08,,,4d719d39a30b772c59e9
@@ -3162,6 +3167,7 @@ INEO,NASDAQ,INNEOVA Holdings Limited - Class A Ordinary Shares,Stock,True,2026-0
 INGN,NASDAQ,"Inogen, Inc - Common Stock",Stock,True,2026-05-08,,,5034965b0f1ceded5ee0
 INHD,NASDAQ,Inno Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,28ec15f182cd48535f27
 INIO,NASDAQ,INNIO N.V. - Ordinary Shares,Stock,True,2026-06-04,,,c6e0586e7c6789447b71
+INJC,NASDAQ,Canary Staked INJ ETF,ETF,True,2026-11-05,,,bb471387270567901518
 INK,NASDAQ,AB Equity Premium Income ETF,ETF,True,2026-11-04,,,906de7e85e316b0e7105
 INKT,NASDAQ,"MiNK Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,464c7984d25da6a49e9b
 INLF,NASDAQ,INLIF LIMITED - Class A Ordinary shares,Stock,True,2026-05-08,,,b48a95381b88045bba1a
@@ -6431,9 +6437,12 @@ XSPC,NASDAQ,VegaShares SpaceX & Beyond Earth ETF,ETF,False,2026-06-16,2026-10-01
 XSPC,NASDAQ,VegaShares Space & AI ETF,ETF,True,2026-10-01,,,183486d4cc4e8803acfa
 XSPI,NASDAQ,NEOS Boosted S&P 500 High Income ETF,ETF,True,2026-05-08,,,afd8f6483d39a5f06c27
 XT,NASDAQ,iShares Future Exponential Technologies ETF,ETF,True,2026-05-08,,,951d797de7c3f5779c56
-XTER,NASDAQ,Karman Line Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-08-28,,,c036637949a34f4d42f7
-XTERU,NASDAQ,Karman Line Acquisition Corp. - Units,Stock,True,2026-08-18,,,a85f155891af4d39f6ca
-XTERW,NASDAQ,Karman Line Acquisition Corp. - Warrants,Stock,True,2026-08-28,,,0eda74a45b0eb645fe6f
+XTER,NASDAQ,Karman Line Acquisition Corp. - Class A Ordinary Shares,Stock,False,2026-08-28,2026-11-05,Listing metadata changed,c036637949a34f4d42f7
+XTER,NASDAQ,Xterax Corporation II - Class A Ordinary Shares,Stock,True,2026-11-05,,,310af5f3905fe9604050
+XTERU,NASDAQ,Karman Line Acquisition Corp. - Units,Stock,False,2026-08-18,2026-11-05,Listing metadata changed,a85f155891af4d39f6ca
+XTERU,NASDAQ,Xterax Corporation II - Units,Stock,True,2026-11-05,,,f550cb2a5d26396620c5
+XTERW,NASDAQ,Karman Line Acquisition Corp. - Warrants,Stock,False,2026-08-28,2026-11-05,Listing metadata changed,0eda74a45b0eb645fe6f
+XTERW,NASDAQ,Xterax Corporation II - Warrants,Stock,True,2026-11-05,,,a06d3bdb8b4ff6ffc425
 XTIA,NASDAQ,"XTI Aerospace, Inc. Common Stock - Common Stock",Stock,True,2026-05-08,,,beacf6126bc864c586ab
 XTLB,NASDAQ,XTL Biopharmaceuticals Ltd. - American Depositary Shares,Stock,True,2026-05-08,,,88ce26e95572b8654a73
 XUSM,NASDAQ,MarketDesk International Momentum ETF,ETF,True,2026-09-15,,,ec8a7f66e8ea365874a9
@@ -6892,6 +6901,7 @@ BFAM,NYSE,Bright Horizons Family Solutions Inc. Common Stock,Stock,True,2026-05-
 BFH,NYSE,"Bread Financial Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,4c3db608b87ce7e44dc4
 BFH$A,NYSE,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non-Cumulative Perpetual Preferred Stock, Series A",Stock,True,2026-05-08,,,508388d1847c1c95cd96
 BFH$B,NYSE,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.875% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",Stock,True,2026-05-15,,,29418ac032e1a33a3881
+BFH$C,NYSE,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",Stock,True,2026-11-05,,,2ecdf61cebcaced5ef2c
 BFLY,NYSE,"Butterfly Network, Inc. Class A Common Stock",Stock,True,2026-05-08,,,d113d25bc59b19d306ed
 BFS,NYSE,"Saul Centers, Inc. Common Stock",Stock,True,2026-05-08,,,ec4f4de026737e267ce6
 BFS$D,NYSE,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,b846ee5392e54b905e66
@@ -7092,7 +7102,8 @@ CCS,NYSE,"Century Communities, Inc. Common Stock",Stock,True,2026-05-08,,,4407cc
 CCU,NYSE,"Compania Cervecerias Unidas, S.A. Common Stock",Stock,True,2026-05-08,,,0c0e42f4061b9309f73f
 CCZ,NYSE,Comcast Holdings ZONES,Stock,True,2026-05-08,,,ecddfecaaccba7b22545
 CDE,NYSE,"Coeur Mining, Inc. Common Stock",Stock,True,2026-05-08,,,07394d94e14b67f99840
-CDLR,NYSE,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),Stock,True,2026-05-08,,,f45bce117076cbb496db
+CDLR,NYSE,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),Stock,False,2026-05-08,2026-11-05,Listing metadata changed,f45bce117076cbb496db
+CDLR,NYSE,Cadeler plc Ordinary Shares,Stock,True,2026-11-05,,,26d3a907ee1482ec7690
 CDP,NYSE,COPT Defense Properties Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,040b831cd5daaa226b77
 CDR$B,NYSE,"Cedar Realty Trust, Inc. 7.25% Series B Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,4fc12611e8819e956a2d
 CDR$C,NYSE,"Cedar Realty Trust, Inc. 6.50% Series C Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,6dd0e986684b23478c75
@@ -7880,7 +7891,7 @@ HLIO,NYSE,"Helios Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,3f13f
 HLLY,NYSE,Holley Inc. Common Stock,Stock,True,2026-05-08,,,7715cd6cc62f73c1af96
 HLLY.W,NYSE,Holley Inc. Warrants,Stock,False,2026-05-08,2026-07-15,Missing from current NYSE source snapshot; reason unavailable,5de2b2913ab1c3ef828f
 HLN,NYSE,Haleon plc American Depositary Shares (Each representing two Ordinary Shares),Stock,True,2026-05-08,,,b578c0cf655a96ad6bb1
-HLT,NYSE,Hilton Worldwide Holdings Inc. Common Stock,Stock,True,2026-05-08,,,6e7cd5fd3e134598e4aa
+HLT,NYSE,Hilton Worldwide Holdings Inc. Common Stock,Stock,False,2026-05-08,2026-11-05,Missing from current NYSE source snapshot; reason unavailable,6e7cd5fd3e134598e4aa
 HLX,NYSE,"Helix Energy Solutions Group, Inc. Common Stock",Stock,False,2026-05-08,2026-09-02,Other delisting reason: Details unavailable (source: FMP Delisted API),b94d7e537ffaf979a3f8
 HMC,NYSE,"Honda Motor Company, Ltd. Common Stock",Stock,True,2026-05-08,,,a1007bedf414cf89cdaf
 HMN,NYSE,Horace Mann Educators Corporation Common Stock,Stock,True,2026-05-08,,,dd3c2802cbcbe79a048e

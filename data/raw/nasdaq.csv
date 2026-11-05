@@ -54,6 +54,7 @@ NASDAQ,ACBH,Pacer Metaurus High Income Autocallable ETF,ETF,,nasdaq_trader_symbo
 NASDAQ,ACCL,Acco Group Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACCV,Accelevation Holdings Corp. - Class A ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACDC,ProFrac Holding Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ACEM,American Century Emerging Markets Insights ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ACEP,ARS Core Equity Portfolio ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ACET,"Adicet Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACFN,"Acorn Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -160,6 +161,8 @@ NASDAQ,AGEN,Agenus Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGGA,EA Astoria Beacon Dynamic Core US Fixed Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AGIO,"Agios Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGIX,KraneShares Public-Private AI & Technology ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AGLT,"Agility Robotics, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AGLTW,"Agility Robotics, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGMB,AgomAb Therapeutics NV - ADRs representing one common share.,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGMH,AGM Group Holdings Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AGMI,Themes Silver Miners ETF,ETF,,nasdaq_trader_symbol_directory
@@ -990,9 +993,6 @@ NASDAQ,CCSB,Carbon Collective Short Duration Green Bond ETF,ETF,,nasdaq_trader_s
 NASDAQ,CCSI,"Consensus Cloud Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCSO,Carbon Collective Climate Solutions U.S. Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CCTG,CCSC Technology International Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CCXI,Churchill Capital Corp XI - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CCXIU,Churchill Capital Corp XI - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CCXIW,Churchill Capital Corp XI - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CD,Chaince Digital Holdings Inc. - American Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CDIG,City Different Investments Global Equity ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1665,7 +1665,7 @@ NASDAQ,ETOR,eToro Group Ltd. - Class A Common Shares,Stock,,nasdaq_trader_symbol
 NASDAQ,ETRA,"Electra Therapeutics, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ETS,Elite Express Holding Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EU,enCore Energy Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,EUDA,Euda Health Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EUDA,Euda Health Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EUDAW,Euda Health Holdings Limited - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EUFN,iShares MSCI Europe Financials ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EURK,Eureka Acquisition Corp - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
@@ -2318,6 +2318,7 @@ NASDAQ,HLIT,Harmonic Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HLMN,Hillman Solutions Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HLNE,Hamilton Lane Incorporated - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HLP,Hongli Group Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HLT,Hilton Worldwide Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HLTH,Tema Healthcare AI ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HLXC,Helix Acquisition Corp. III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HMH,HMH Holding Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2557,6 +2558,7 @@ NASDAQ,INEO,INNEOVA Holdings Limited - Class A Ordinary Shares,Stock,,nasdaq_tra
 NASDAQ,INGN,"Inogen, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INHD,Inno Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INIO,INNIO N.V. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,INJC,Canary Staked INJ ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,INK,AB Equity Premium Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,INKT,"MiNK Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INLF,INLIF LIMITED - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
@@ -5512,9 +5514,9 @@ NASDAQ,XSLLW,Xsolla SPAC 1 - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XSPC,VegaShares Space & AI ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XSPI,NEOS Boosted S&P 500 High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XT,iShares Future Exponential Technologies ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,XTER,Karman Line Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,XTERU,Karman Line Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,XTERW,Karman Line Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XTER,Xterax Corporation II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XTERU,Xterax Corporation II - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XTERW,Xterax Corporation II - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XTIA,"XTI Aerospace, Inc. Common Stock - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XTLB,XTL Biopharmaceuticals Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XUSM,MarketDesk International Momentum ETF,ETF,,nasdaq_trader_symbol_directory

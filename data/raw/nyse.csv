@@ -336,6 +336,7 @@ NYSE,BFAM,Bright Horizons Family Solutions Inc. Common Stock,Stock,,nasdaq_trade
 NYSE,BFH,"Bread Financial Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BFH$A,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non-Cumulative Perpetual Preferred Stock, Series A",Stock,,nasdaq_trader_symbol_directory
 NYSE,BFH$B,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.875% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",Stock,,nasdaq_trader_symbol_directory
+NYSE,BFH$C,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",Stock,,nasdaq_trader_symbol_directory
 NYSE,BFLY,"Butterfly Network, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BFS,"Saul Centers, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BFS$D,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -525,7 +526,7 @@ NYSE,CCS,"Century Communities, Inc. Common Stock",Stock,,nasdaq_trader_symbol_di
 NYSE,CCU,"Compania Cervecerias Unidas, S.A. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CCZ,Comcast Holdings ZONES,Stock,,nasdaq_trader_symbol_directory
 NYSE,CDE,"Coeur Mining, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,CDLR,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
+NYSE,CDLR,Cadeler plc Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,CDP,COPT Defense Properties Common Shares of Beneficial Interest,Stock,,nasdaq_trader_symbol_directory
 NYSE,CDR$B,"Cedar Realty Trust, Inc. 7.25% Series B Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,CDR$C,"Cedar Realty Trust, Inc. 6.50% Series C Cumulative Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1261,7 +1262,6 @@ NYSE,HLI,"Houlihan Lokey, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol
 NYSE,HLIO,"Helios Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,HLLY,Holley Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,HLN,Haleon plc American Depositary Shares (Each representing two Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
-NYSE,HLT,Hilton Worldwide Holdings Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,HMC,"Honda Motor Company, Ltd. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,HMN,Horace Mann Educators Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,HMY,Harmony Gold Mining Company Limited,Stock,,nasdaq_trader_symbol_directory
