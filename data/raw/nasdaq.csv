@@ -232,9 +232,6 @@ NASDAQ,AKTX,Akari Therapeutics Plc - American Depositary Shares,Stock,,nasdaq_tr
 NASDAQ,ALAB,"Astera Labs, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALAR,Alarum Technologies Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALCO,"Alico, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ALDF,Aldel Financial II Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ALDFU,Aldel Financial II Inc. - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ALDFW,Aldel Financial II Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALDX,"Aldeyra Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALEC,"Alector, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ALF,Centurion Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2879,7 +2876,9 @@ NASDAQ,LDRX,SGI Enhanced Market Leaders ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LDSF,First Trust Low Duration Strategic Focus ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LE,"Lands' End, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LECO,"Lincoln Electric Holdings, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LEDR,Leader's Advantage Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LEDRU,Leader's Advantage Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LEDRW,Leader's Advantage Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LEDS,SemiLEDS Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LEE,"Lee Enterprises, Incorporated - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LEGH,Legacy Housing Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -5605,7 +5604,7 @@ NASDAQ,ZUMZ,Zumiez Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZURA,Zura Bio Limited - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZVRA,"Zevra Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZVZZT,NASDAQ TEST STOCK,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ZWZZT,NASDAQ TEST STOCK,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ZWZZT,NASDAQ TEST STOCK NC,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZXYZ.A,Nasdaq Symbology Test Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZXZZT,NASDAQ TEST STOCK,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZYBT,Zhengye Biotechnology Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory

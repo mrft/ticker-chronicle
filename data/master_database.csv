@@ -612,9 +612,9 @@ ALCO,NASDAQ,"Alico, Inc. - Common Stock",Stock,True,2026-05-08,,,50f4d9c7e450c7d
 ALCY,NASDAQ,Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares,Stock,False,2026-05-08,2026-05-14,Missing from current NASDAQ source snapshot; reason unavailable,2ca7350d66cf2cdeba20
 ALCYU,NASDAQ,Alchemy Investments Acquisition Corp 1 - Units,Stock,False,2026-05-08,2026-05-14,Missing from current NASDAQ source snapshot; reason unavailable,539c647bdd65e110b5b6
 ALCYW,NASDAQ,Alchemy Investments Acquisition Corp 1 - Warrants,Stock,False,2026-05-08,2026-05-14,Missing from current NASDAQ source snapshot; reason unavailable,1f863a8d8e96075d79d6
-ALDF,NASDAQ,Aldel Financial II Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,fd161354d5ab9ef10872
-ALDFU,NASDAQ,Aldel Financial II Inc. - Units,Stock,True,2026-05-08,,,3b00bc2616e427249d9a
-ALDFW,NASDAQ,Aldel Financial II Inc. - Warrants,Stock,True,2026-05-08,,,19be4b29f7a1c164ce61
+ALDF,NASDAQ,Aldel Financial II Inc. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-11-06,Missing from current NASDAQ source snapshot; reason unavailable,fd161354d5ab9ef10872
+ALDFU,NASDAQ,Aldel Financial II Inc. - Units,Stock,False,2026-05-08,2026-11-06,Missing from current NASDAQ source snapshot; reason unavailable,3b00bc2616e427249d9a
+ALDFW,NASDAQ,Aldel Financial II Inc. - Warrants,Stock,False,2026-05-08,2026-11-06,Missing from current NASDAQ source snapshot; reason unavailable,19be4b29f7a1c164ce61
 ALDX,NASDAQ,"Aldeyra Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,57604d8efd6bd7e9f4cf
 ALEC,NASDAQ,"Alector, Inc. - Common Stock",Stock,True,2026-05-08,,,5861929c250a23d3ec09
 ALF,NASDAQ,Centurion Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,cc705754b1e8feb828fe
@@ -3538,7 +3538,9 @@ LDRX,NASDAQ,SGI Enhanced Market Leaders ETF,ETF,True,2026-05-08,,,088d5cc188840d
 LDSF,NASDAQ,First Trust Low Duration Strategic Focus ETF,ETF,True,2026-05-08,,,7c31d470c1d9f68235f9
 LE,NASDAQ,"Lands' End, Inc. - Common Stock",Stock,True,2026-05-08,,,3e94db048a1922bd194d
 LECO,NASDAQ,"Lincoln Electric Holdings, Inc. - Common Shares",Stock,True,2026-05-08,,,f0a1a4f0adc212b2fe97
+LEDR,NASDAQ,Leader's Advantage Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-11-06,,,f1fc57b51daa19356b62
 LEDRU,NASDAQ,Leader's Advantage Acquisition Corp. - Units,Stock,True,2026-09-18,,,4b58d621798e42c0d401
+LEDRW,NASDAQ,Leader's Advantage Acquisition Corp. - Warrants,Stock,True,2026-11-06,,,e748fbaf602282f2877e
 LEDS,NASDAQ,SemiLEDS Corporation - Common Stock,Stock,True,2026-05-08,,,6406bd07ac64e817a118
 LEE,NASDAQ,"Lee Enterprises, Incorporated - Common Stock",Stock,True,2026-05-08,,,bdaa16a2f2c0c5869c76
 LEGH,NASDAQ,Legacy Housing Corporation - Common Stock,Stock,True,2026-05-08,,,814837eb2ee3ae6c6331
@@ -6540,7 +6542,8 @@ ZUMZ,NASDAQ,Zumiez Inc. - Common Stock,Stock,True,2026-05-08,,,72bf1a72328379ed3
 ZURA,NASDAQ,Zura Bio Limited - Class A Ordinary shares,Stock,True,2026-05-08,,,2f5024df224c1712da42
 ZVRA,NASDAQ,"Zevra Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,49e35b04168d37233658
 ZVZZT,NASDAQ,NASDAQ TEST STOCK,Stock,True,2026-05-08,,,efd70b566d21ce30012a
-ZWZZT,NASDAQ,NASDAQ TEST STOCK,Stock,True,2026-05-08,,,efd70b566d21ce30012a
+ZWZZT,NASDAQ,NASDAQ TEST STOCK,Stock,False,2026-05-08,2026-11-06,Listing metadata changed,efd70b566d21ce30012a
+ZWZZT,NASDAQ,NASDAQ TEST STOCK NC,Stock,True,2026-11-06,,,137aa6dd39165ca9443b
 ZXYZ.A,NASDAQ,Nasdaq Symbology Test Common Stock,Stock,True,2026-05-08,,,cad866903d26fa1127fb
 ZXZZT,NASDAQ,NASDAQ TEST STOCK,Stock,True,2026-05-08,,,efd70b566d21ce30012a
 ZYBT,NASDAQ,Zhengye Biotechnology Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,a6d6ba36e12f6fde9a29
