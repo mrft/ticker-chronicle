@@ -190,7 +190,6 @@ NYSE,ARDT,"Ardent Health, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directo
 NYSE,ARE,"Alexandria Real Estate Equities, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ARES,Ares Management Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ARES$B,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,ARI,"Apollo Commercial Real Estate Finance, Inc",Stock,,nasdaq_trader_symbol_directory
 NYSE,ARIS,Aris Mining Corporation Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,ARL,"American Realty Investors, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ARLO,"Arlo Technologies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1306,7 +1305,9 @@ NYSE,HVT.A,"Haverty Furniture Companies, Inc. Common Stock",Stock,,nasdaq_trader
 NYSE,HWM,Howmet Aerospace Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,HXL,Hexcel Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,HY,"Hyster-Yale, Inc. Class A common stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,HYAC,Haymaker Acquisition Corp V Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,HYAC.U,"Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
+NYSE,HYAC.W,"Haymaker Acquisition Corp V Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NYSE,HYBX,TCW High Yield Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,HYI,Western Asset High Yield Opportunity Fund Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory

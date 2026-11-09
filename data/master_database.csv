@@ -1339,7 +1339,7 @@ BWBBP,NASDAQ,"Bridgewater Bancshares, Inc. - Depositary Shares, Each Representin
 BWEN,NASDAQ,"Broadwind, Inc. - Common Stock",Stock,True,2026-05-08,,,96bbab563229a196d5f1
 BWFG,NASDAQ,"Bankwell Financial Group, Inc. - Common Stock",Stock,True,2026-05-08,,,7b3c8620302d61f1a1dc
 BWIN,NASDAQ,"The Baldwin Insurance Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,887879d816a90c2e0eef
-BWMN,NASDAQ,Bowman Consulting Group Ltd. - Common Stock,Stock,True,2026-05-08,,,3289901c204a3ad1e523
+BWMN,NASDAQ,Bowman Consulting Group Ltd. - Common Stock,Stock,False,2026-05-08,2026-11-09,Missing from current NASDAQ source snapshot; reason unavailable,3289901c204a3ad1e523
 BXBL,NASDAQ,"BOXABL, Inc. - Common stock",Stock,True,2026-07-20,,,00d063197e912ccdc2d9
 BYAH,NASDAQ,"Park Ha Biological Technology Co., Ltd. - Class A Ordinary Shares",Stock,True,2026-05-08,,,bfcd0a44e86eab78c56a
 BYFC,NASDAQ,Broadway Financial Corporation - Class A Common Stock,Stock,True,2026-05-08,,,254d946f5f120713be23
@@ -3171,7 +3171,7 @@ INJC,NASDAQ,Canary Staked INJ ETF,ETF,True,2026-11-05,,,bb471387270567901518
 INK,NASDAQ,AB Equity Premium Income ETF,ETF,True,2026-11-04,,,906de7e85e316b0e7105
 INKT,NASDAQ,"MiNK Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,464c7984d25da6a49e9b
 INLF,NASDAQ,INLIF LIMITED - Class A Ordinary shares,Stock,True,2026-05-08,,,b48a95381b88045bba1a
-INM,NASDAQ,InMed Pharmaceuticals Inc. - Common Shares,Stock,True,2026-05-08,,,5d6ecefbdfacbc366fba
+INM,NASDAQ,InMed Pharmaceuticals Inc. - Common Shares,Stock,False,2026-05-08,2026-11-09,Missing from current NASDAQ source snapshot; reason unavailable,5d6ecefbdfacbc366fba
 INMB,NASDAQ,INmune Bio Inc. - Common stock,Stock,True,2026-05-08,,,ce172dc5144ef3f9e4c8
 INMD,NASDAQ,InMode Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,375ae05ca093098545d2
 INNV,NASDAQ,InnovAge Holding Corp. - Common Stock,Stock,True,2026-05-08,,,075c3463c9b161f63333
@@ -3781,7 +3781,7 @@ MCHS,NASDAQ,Matthews China Innovators Active ETF,ETF,True,2026-05-08,,,971747065
 MCHX,NASDAQ,"Marchex, Inc. - Class B Common Stock",Stock,True,2026-05-08,,,643658899feb2adb1e92
 MCRB,NASDAQ,"Seres Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,f2c64c40de0b1cda7711
 MCRI,NASDAQ,"Monarch Casino & Resort, Inc. - Common Stock",Stock,True,2026-05-08,,,01da8e6559acb3700e3e
-MCTA,NASDAQ,Charming Medical Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,31b535ea1b1bb9926f52
+MCTA,NASDAQ,Charming Medical Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-11-09,Missing from current NASDAQ source snapshot; reason unavailable,31b535ea1b1bb9926f52
 MCW,NASDAQ,"Mister Car Wash, Inc. - Common Stock",Stock,False,2026-05-08,2026-05-20,Missing from current NASDAQ source snapshot; reason unavailable,731d9d2d01de23bf4bfd
 MDAI,NASDAQ,"Spectral AI, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,b6444d9ff7fcd10b35bc
 MDAIW,NASDAQ,"Spectral AI, Inc. - Warrants",Stock,True,2026-05-08,,,489939149b6787943266
@@ -3987,6 +3987,7 @@ MTEN,NASDAQ,Mingteng International Corporation Inc. - Class A Ordinary Shares,St
 MTEX,NASDAQ,"Mannatech, Incorporated - Common Stock",Stock,True,2026-05-08,,,547c7960580b5d3a30ee
 MTGG,NASDAQ,MayTech Global Growth ETF,ETF,True,2026-10-20,,,587139f5236589f2ac0c
 MTLS,NASDAQ,Materialise NV - American Depositary Shares,Stock,True,2026-05-08,,,73fe9c52ad7264883428
+MTRI,NASDAQ,"Mentari Therapeutics, Inc. - Common Stock",Stock,True,2026-11-09,,,d9d5f7b6493ee7fd335f
 MTRX,NASDAQ,Matrix Service Company - Common Stock,Stock,True,2026-05-08,,,4c182197aa575afa570b
 MTSI,NASDAQ,"MACOM Technology Solutions Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,5e6b15a68d6c7e254d6a
 MTVA,NASDAQ,MetaVia Inc. - Common Stock,Stock,True,2026-05-08,,,766515625ce7e57fb44b
@@ -5120,7 +5121,7 @@ ROCQ,NASDAQ,JPMorgan Nasdaq Equity Premium Yield ETF,ETF,True,2026-05-08,,,3b53a
 ROCY,NASDAQ,JPMorgan Equity Premium Yield ETF,ETF,True,2026-05-08,,,59821314aa9a02f67125
 ROE,NASDAQ,Astoria US Equal Weight Quality Kings ETF,ETF,True,2026-05-08,,,ca2003b0cfc7142ad9ae
 ROIV,NASDAQ,Roivant Sciences Ltd. - Common Shares,Stock,True,2026-05-08,,,cf26f8a6c3cf33679ccc
-ROKU,NASDAQ,"Roku, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,468e72d0e9a69174e03c
+ROKU,NASDAQ,"Roku, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-11-09,Missing from current NASDAQ source snapshot; reason unavailable,468e72d0e9a69174e03c
 ROMA,NASDAQ,Roma Green Finance Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,1a3afe199151d3d2d077
 ROOT,NASDAQ,"Root, Inc. - Common Stock",Stock,True,2026-05-08,,,ad76396580080484efd1
 ROP,NASDAQ,"Roper Technologies, Inc. - Common Stock",Stock,True,2026-05-08,,,402531c07fcf29eac465
@@ -6004,7 +6005,7 @@ ULBI,NASDAQ,Ultralife Corporation - Common Stock,Stock,True,2026-05-08,,,0d2721a
 ULCC,NASDAQ,"Frontier Group Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,e1e7e0dc2d2a366d6ca8
 ULH,NASDAQ,"Universal Logistics Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,c0f8910ca43850826aa3
 ULTA,NASDAQ,"Ulta Beauty, Inc. - Common Stock",Stock,True,2026-05-08,,,f28f761fefb57c86c3c0
-ULTI,NASDAQ,REX IncomeMax Option Strategy ETF,ETF,True,2026-05-08,,,c25f802d5bddee12bffa
+ULTI,NASDAQ,REX IncomeMax Option Strategy ETF,ETF,False,2026-05-08,2026-11-09,Missing from current NASDAQ source snapshot; reason unavailable,c25f802d5bddee12bffa
 ULVM,NASDAQ,VictoryShares US Value Momentum ETF,ETF,True,2026-05-08,,,ec638de693a22fb1924c
 UMBF,NASDAQ,UMB Financial Corporation - Common Stock,Stock,True,2026-05-08,,,5bed54bbecf956ef5a5e
 UMBFO,NASDAQ,"UMB Financial Corporation - Depositary Shares Each Representing a 1/400th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",Stock,True,2026-05-08,,,62534ffcf1ef89d7883f
@@ -6745,7 +6746,7 @@ ARDT,NYSE,"Ardent Health, Inc. Common Stock",Stock,True,2026-05-08,,,47d46ca799b
 ARE,NYSE,"Alexandria Real Estate Equities, Inc. Common Stock",Stock,True,2026-05-08,,,f4757bf753078d701231
 ARES,NYSE,Ares Management Corporation Class A Common Stock,Stock,True,2026-05-08,,,88a767bed6cd34c38530
 ARES$B,NYSE,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,Stock,True,2026-05-08,,,b541617106fe6742f0bf
-ARI,NYSE,"Apollo Commercial Real Estate Finance, Inc",Stock,True,2026-05-08,,,288afb8c89ee6235577a
+ARI,NYSE,"Apollo Commercial Real Estate Finance, Inc",Stock,False,2026-05-08,2026-11-09,Missing from current NYSE source snapshot; reason unavailable,288afb8c89ee6235577a
 ARIS,NYSE,Aris Mining Corporation Common Shares,Stock,True,2026-05-08,,,68a6cd871c99a8a7f605
 ARL,NYSE,"American Realty Investors, Inc. Common Stock",Stock,True,2026-05-08,,,fb2e45e5b07be4b81cc0
 ARLO,NYSE,"Arlo Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,1667dbd2113936e758d3
@@ -7940,7 +7941,9 @@ HVT.A,NYSE,"Haverty Furniture Companies, Inc. Common Stock",Stock,True,2026-05-0
 HWM,NYSE,Howmet Aerospace Inc. Common Stock,Stock,True,2026-05-08,,,6c9c73699ad068d9c791
 HXL,NYSE,Hexcel Corporation Common Stock,Stock,True,2026-05-08,,,7f07b9f446ebf81c7de6
 HY,NYSE,"Hyster-Yale, Inc. Class A common stock",Stock,True,2026-05-08,,,8e94d76d59376affbeef
+HYAC,NYSE,Haymaker Acquisition Corp V Class A Ordinary Shares,Stock,True,2026-11-09,,,514356c489ce0fa00794
 HYAC.U,NYSE,"Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Stock,True,2026-09-17,,,6bbbdc62dbf8a644bbf1
+HYAC.W,NYSE,"Haymaker Acquisition Corp V Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,True,2026-11-09,,,057f4f0b276602142326
 HYBX,NYSE,TCW High Yield Bond ETF,ETF,True,2026-05-08,,,299ff76e79584ef79cfc
 HYI,NYSE,Western Asset High Yield Opportunity Fund Inc. Common Stock,Stock,True,2026-05-08,,,96f4bf0cc72b112357bb
 HYT,NYSE,"Blackrock Corporate High Yield Fund, Inc. Common Stock",Stock,True,2026-05-08,,,38c76fc25b4c026532a0

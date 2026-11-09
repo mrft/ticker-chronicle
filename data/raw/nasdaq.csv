@@ -887,7 +887,6 @@ NASDAQ,BWBBP,"Bridgewater Bancshares, Inc. - Depositary Shares, Each Representin
 NASDAQ,BWEN,"Broadwind, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BWFG,"Bankwell Financial Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BWIN,"The Baldwin Insurance Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BWMN,Bowman Consulting Group Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BXBL,"BOXABL, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BYAH,"Park Ha Biological Technology Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BYFC,Broadway Financial Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2559,7 +2558,6 @@ NASDAQ,INJC,Canary Staked INJ ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,INK,AB Equity Premium Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,INKT,"MiNK Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INLF,INLIF LIMITED - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,INM,InMed Pharmaceuticals Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INMB,INmune Bio Inc. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INMD,InMode Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,INNV,InnovAge Holding Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3089,7 +3087,6 @@ NASDAQ,MCHS,Matthews China Innovators Active ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,MCHX,"Marchex, Inc. - Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MCRB,"Seres Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MCRI,"Monarch Casino & Resort, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MCTA,Charming Medical Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MDAI,"Spectral AI, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MDAIW,"Spectral AI, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MDB,"MongoDB, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3276,6 +3273,7 @@ NASDAQ,MTEN,Mingteng International Corporation Inc. - Class A Ordinary Shares,St
 NASDAQ,MTEX,"Mannatech, Incorporated - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTGG,MayTech Global Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MTLS,Materialise NV - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MTRI,"Mentari Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTRX,Matrix Service Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MTVA,MetaVia Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4320,7 +4318,6 @@ NASDAQ,ROCQ,JPMorgan Nasdaq Equity Premium Yield ETF,ETF,,nasdaq_trader_symbol_d
 NASDAQ,ROCY,JPMorgan Equity Premium Yield ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ROE,Astoria US Equal Weight Quality Kings ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ROIV,Roivant Sciences Ltd. - Common Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ROKU,"Roku, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ROMA,Roma Green Finance Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ROOT,"Root, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ROP,"Roper Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5121,7 +5118,6 @@ NASDAQ,ULBI,Ultralife Corporation - Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,ULCC,"Frontier Group Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ULH,"Universal Logistics Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ULTA,"Ulta Beauty, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,ULTI,REX IncomeMax Option Strategy ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ULVM,VictoryShares US Value Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,UMBF,UMB Financial Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,UMBFO,"UMB Financial Corporation - Depositary Shares Each Representing a 1/400th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",Stock,,nasdaq_trader_symbol_directory
