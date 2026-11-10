@@ -1557,6 +1557,7 @@ NYSE,LPX,Louisiana-Pacific Corporation Common Stock,Stock,,nasdaq_trader_symbol_
 NYSE,LRN,"Stride, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LSPD,Lightspeed Commerce Inc. Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,LTC,"LTC Properties, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,LTEQ,Equity Partners ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,LTH,"Life Time Group Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LTM,"LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)",Stock,,nasdaq_trader_symbol_directory
 NYSE,LU,Lufax Holding Ltd American Depositary Shares (each representing twenty (20) Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
@@ -2129,8 +2130,6 @@ NYSE,PSF,"Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock",St
 NYSE,PSFE,Paysafe Limited Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,PSN,Parsons Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,PSO,"Pearson, Plc Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,PSQH,"PSQ Holdings, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,PSQH.W,"PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,PSTL,"Postal Realty Trust, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PSUS,"Pershing Square USA, Ltd. Common Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,PSX,Phillips 66 Common Stock,Stock,,nasdaq_trader_symbol_directory

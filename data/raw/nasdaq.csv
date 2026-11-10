@@ -66,7 +66,6 @@ NASDAQ,ACGLN,"Arch Capital Group Ltd. - Depositary Shares, each Representing a 1
 NASDAQ,ACGLO,"Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACHC,"Acadia Healthcare Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACHP,Global X Asia Semiconductor ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,ACHV,"Achieve Life Sciences, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACIC,American Coastal Insurance Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACIU,AC Immune SA - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ACIW,"ACI Worldwide, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1707,7 +1706,6 @@ NASDAQ,EYPT,"EyePoint, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_director
 NASDAQ,EZGO,EZGO Technologies Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EZMO,AlphaDroid Broad Markets Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EZPW,"EZCORP, Inc. - Class A Non-Voting Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,EZRA,"Reliance Global Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EZRO,AlphaDroid Defensive Sector Rotation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FA,First Advantage Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FAAA,Fidelity AAA CLO ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2026,7 +2024,7 @@ NASDAQ,GBDC,"Golub Capital BDC, Inc. - Closed End Fund",Stock,,nasdaq_trader_sym
 NASDAQ,GBFH,GBank Financial Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GBLI,"Global Indemnity Group, LLC - Class A Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GBUG,Sprott Active Gold & Silver Miners ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,GCBC,"Greene County Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GCBC,"Greene Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GCGR,General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GCGRU,General Catalyst Global Resilience Merger Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GCGRW,General Catalyst Global Resilience Merger Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -4146,6 +4144,7 @@ NASDAQ,QTUM,Defiance Quantum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,QUBT,Quantum Computing Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QUCY,Quantum Cyber N.V. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QUIK,QuickLogic Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,QUIT,"Achieve Life Sciences, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QUMS,Quantumsphere Acquisition Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QUMSR,Quantumsphere Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,QUMSU,Quantumsphere Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
@@ -4211,7 +4210,6 @@ NASDAQ,RDVY,First Trust Rising Dividend Achievers ETF,ETF,,nasdaq_trader_symbol_
 NASDAQ,RDWR,Radware Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RDZN,"Roadzen, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RDZNW,"Roadzen, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,REAI,Intelligent Real Estate ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,REAL,"The RealReal, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REAX,Real REMAX Group Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,REBN,"Reborn Coffee, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4433,7 +4431,10 @@ NASDAQ,SCOR,"comScore, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_director
 NASDAQ,SCPQ,Social Commerce Partners Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCPQU,Social Commerce Partners Corporation - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCPQW,Social Commerce Partners Corporation - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SCQC,SPACCircle Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SCQCR,SPACCircle Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCQCU,SPACCircle Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SCQCW,SPACCircle Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCSC,"ScanSource, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCTX,Scribe Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCWO,374Water Inc. - common stock,Stock,,nasdaq_trader_symbol_directory
@@ -4773,7 +4774,6 @@ NASDAQ,SVRE,SaverOne 2014 Ltd. - American Depositary Shares,Stock,,nasdaq_trader
 NASDAQ,SVREW,SaverOne 2014 Ltd. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SVRN,"SVRN, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SWAG,"Stran & Company, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SWAGW,"Stran & Company, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SWBI,"Smith & Wesson Brands, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SWIM,"Latham Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SWKS,"Skyworks Solutions, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5472,6 +5472,7 @@ NASDAQ,XERS,"Xeris Biopharma Holdings, Inc. - Common Stock",Stock,,nasdaq_trader
 NASDAQ,XEY,GraniteShares YieldBOOST Ether ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,XFOR,"X4 Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XGN,Exagen Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,XGPU,"Reliance Global Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XHG,XChange TEC.INC - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XHLD,"TEN Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,XIII,Churchill Capital Corp XIII - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory

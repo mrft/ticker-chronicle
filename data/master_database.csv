@@ -430,7 +430,7 @@ ACGLN,NASDAQ,"Arch Capital Group Ltd. - Depositary Shares, each Representing a 1
 ACGLO,NASDAQ,"Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F",Stock,True,2026-05-08,,,b8f747bbde7a62907060
 ACHC,NASDAQ,"Acadia Healthcare Company, Inc. - Common Stock",Stock,True,2026-05-08,,,f53119da36599023a05e
 ACHP,NASDAQ,Global X Asia Semiconductor ETF,ETF,True,2026-10-14,,,cbe701809d89fd4f55ef
-ACHV,NASDAQ,"Achieve Life Sciences, Inc. - Common Shares",Stock,True,2026-05-08,,,8e97528f43489b8aa748
+ACHV,NASDAQ,"Achieve Life Sciences, Inc. - Common Shares",Stock,False,2026-05-08,2026-11-10,Other delisting reason: Details unavailable (source: FMP Delisted API),8e97528f43489b8aa748
 ACIC,NASDAQ,American Coastal Insurance Corporation - Common Stock,Stock,True,2026-05-08,,,cdf00893d1bac7e1c8d6
 ACIU,NASDAQ,AC Immune SA - Common Stock,Stock,True,2026-05-08,,,33a798c4e648721b0998
 ACIW,NASDAQ,"ACI Worldwide, Inc. - Common Stock",Stock,True,2026-05-08,,,1be831615c02b4aff8a5
@@ -2245,7 +2245,7 @@ EYPT,NASDAQ,"EyePoint, Inc. - Common Stock",Stock,True,2026-05-08,,,ead2652176eb
 EZGO,NASDAQ,EZGO Technologies Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,8dbbe7654f81f4d1428a
 EZMO,NASDAQ,AlphaDroid Broad Markets Momentum ETF,ETF,True,2026-05-08,,,0d7de5b06af1c5938321
 EZPW,NASDAQ,"EZCORP, Inc. - Class A Non-Voting Common Stock",Stock,True,2026-05-08,,,a13fb10b0adaf2575fe6
-EZRA,NASDAQ,"Reliance Global Group, Inc. - Common Stock",Stock,True,2026-05-08,,,43f75c393a88c1147f85
+EZRA,NASDAQ,"Reliance Global Group, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-10,Other delisting reason: Details unavailable (source: FMP Delisted API),43f75c393a88c1147f85
 EZRO,NASDAQ,AlphaDroid Defensive Sector Rotation ETF,ETF,True,2026-05-08,,,612dddc3b056340248d8
 FA,NASDAQ,First Advantage Corporation - Common Stock,Stock,True,2026-05-08,,,25392897d7c594e6d0db
 FAAA,NASDAQ,Fidelity AAA CLO ETF,ETF,True,2026-05-08,,,a852b6ea8d800b439a23
@@ -2590,7 +2590,8 @@ GBDC,NASDAQ,"Golub Capital BDC, Inc. - Closed End Fund",Stock,True,2026-05-08,,,
 GBFH,NASDAQ,GBank Financial Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,5a7a7bbf727161fc0a6e
 GBLI,NASDAQ,"Global Indemnity Group, LLC - Class A Common Shares",Stock,True,2026-05-08,,,b7244068a89e6feb5d58
 GBUG,NASDAQ,Sprott Active Gold & Silver Miners ETF,ETF,True,2026-05-08,,,c919595397ec315c4eca
-GCBC,NASDAQ,"Greene County Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,b5e7a5348400f200f8f8
+GCBC,NASDAQ,"Greene County Bancorp, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-10,Listing metadata changed,b5e7a5348400f200f8f8
+GCBC,NASDAQ,"Greene Bancorp, Inc. - Common Stock",Stock,True,2026-11-10,,,3378090bee69a27077c0
 GCGR,NASDAQ,General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares,Stock,True,2026-06-22,,,3d08640b67edcbb05057
 GCGRU,NASDAQ,General Catalyst Global Resilience Merger Corp. - Units,Stock,True,2026-05-08,,,2bc029af53299551eacc
 GCGRW,NASDAQ,General Catalyst Global Resilience Merger Corp. - Warrants,Stock,True,2026-06-22,,,40a492186f690376fdb9
@@ -4935,6 +4936,7 @@ QTUM,NASDAQ,Defiance Quantum ETF,ETF,True,2026-05-08,,,2f8fce425a8ff82e5029
 QUBT,NASDAQ,Quantum Computing Inc. - Common Stock,Stock,True,2026-05-08,,,56faa34586272d712dcf
 QUCY,NASDAQ,Quantum Cyber N.V. - Ordinary Shares,Stock,True,2026-05-08,,,96770325794b13a4865f
 QUIK,NASDAQ,QuickLogic Corporation - Common Stock,Stock,True,2026-05-08,,,1df5fe59c25d93ac4931
+QUIT,NASDAQ,"Achieve Life Sciences, Inc. - Common Shares",Stock,True,2026-11-10,,,8e97528f43489b8aa748
 QUMS,NASDAQ,Quantumsphere Acquisition Corp. - Ordinary Shares,Stock,True,2026-05-08,,,47a409531615d5a76f6c
 QUMSR,NASDAQ,Quantumsphere Acquisition Corp. - Rights,Stock,True,2026-05-08,,,030e45cf6864e6cf6483
 QUMSU,NASDAQ,Quantumsphere Acquisition Corp. - Units,Stock,True,2026-05-08,,,2fc1029d063e4845b38f
@@ -5006,7 +5008,7 @@ RDVY,NASDAQ,First Trust Rising Dividend Achievers ETF,ETF,True,2026-05-08,,,76ae
 RDWR,NASDAQ,Radware Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,6280c9c6ff92bfd528b0
 RDZN,NASDAQ,"Roadzen, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,39644e2deae1642718bf
 RDZNW,NASDAQ,"Roadzen, Inc. - Warrants",Stock,True,2026-05-08,,,6f92b682e478c0a8c724
-REAI,NASDAQ,Intelligent Real Estate ETF,ETF,True,2026-05-08,,,a780b6d4a0cb99a4ea56
+REAI,NASDAQ,Intelligent Real Estate ETF,ETF,False,2026-05-08,2026-11-10,Missing from current NASDAQ source snapshot; reason unavailable,a780b6d4a0cb99a4ea56
 REAL,NASDAQ,"The RealReal, Inc. - Common Stock",Stock,True,2026-05-08,,,0c3389d30f6b7441cdc7
 REAX,NASDAQ,"The Real Brokerage, Inc. - Common Shares",Stock,False,2026-05-08,2026-08-24,Listing metadata changed,feb1658ff510b5b39d7a
 REAX,NASDAQ,"The Real Brokerage, Inc. - Common Stock",Stock,False,2026-08-24,2026-08-25,Listing metadata changed,134fe23f54c9e5e65791
@@ -5247,7 +5249,10 @@ SCOR,NASDAQ,"comScore, Inc. - Common Stock",Stock,True,2026-05-08,,,24b161451ac4
 SCPQ,NASDAQ,Social Commerce Partners Corporation - Class A Ordinary Shares,Stock,True,2026-05-08,,,e5b677eced5b9fe728fd
 SCPQU,NASDAQ,Social Commerce Partners Corporation - Unit,Stock,True,2026-05-08,,,afecf1b914de9986f286
 SCPQW,NASDAQ,Social Commerce Partners Corporation - Warrant,Stock,True,2026-05-08,,,13ac438e6123c0abfd48
+SCQC,NASDAQ,SPACCircle Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-11-10,,,350e359ff3c5406809f4
+SCQCR,NASDAQ,SPACCircle Acquisition Corp. - Rights,Stock,True,2026-11-10,,,e458382894c7ac08d0a6
 SCQCU,NASDAQ,SPACCircle Acquisition Corp. - Units,Stock,True,2026-10-27,,,8eefa1cc997d0ef6143a
+SCQCW,NASDAQ,SPACCircle Acquisition Corp. - Warrants,Stock,True,2026-11-10,,,658d6467153864339369
 SCSC,NASDAQ,"ScanSource, Inc. - Common Stock",Stock,True,2026-05-08,,,b0c269a9f9d8f876ff4b
 SCTX,NASDAQ,Scribe Therapeutics Inc. - Common Stock,Stock,True,2026-07-24,,,878306eb8f843a91539c
 SCVL,NASDAQ,"Shoe Carnival, Inc. - Common Stock",Stock,False,2026-05-08,2026-06-12,Missing from current NASDAQ source snapshot; reason unavailable,23931a76221403d66467
@@ -5628,7 +5633,7 @@ SVREW,NASDAQ,SaverOne 2014 Ltd. - Warrant,Stock,True,2026-05-08,,,fe34415f6343a0
 SVRN,NASDAQ,OceanPal Inc. - Common Stock,Stock,False,2026-05-08,2026-08-31,Listing metadata changed,8049f26d4b65c81bdce2
 SVRN,NASDAQ,"SVRN, Inc. - Common Stock",Stock,True,2026-08-31,,,780adfba92140cf035f3
 SWAG,NASDAQ,"Stran & Company, Inc. - Common Stock",Stock,True,2026-05-08,,,6ceacaca1180b7168699
-SWAGW,NASDAQ,"Stran & Company, Inc. - Warrant",Stock,True,2026-05-08,,,8ceb8cb74e01ba014d95
+SWAGW,NASDAQ,"Stran & Company, Inc. - Warrant",Stock,False,2026-05-08,2026-11-10,Missing from current NASDAQ source snapshot; reason unavailable,8ceb8cb74e01ba014d95
 SWBI,NASDAQ,"Smith & Wesson Brands, Inc. - Common Stock",Stock,True,2026-05-08,,,4e5e63979b4b71249cb2
 SWIM,NASDAQ,"Latham Group, Inc. - Common Stock",Stock,True,2026-05-08,,,97faf7643a7a3eed5a29
 SWKHL,NASDAQ,SWK Holdings Corporation - 9.00% Senior Notes due 2027,Stock,False,2026-05-08,2026-11-03,Missing from current NASDAQ source snapshot; reason unavailable,89977c2b65385d252707
@@ -6394,6 +6399,7 @@ XERS,NASDAQ,"Xeris Biopharma Holdings, Inc. - Common Stock",Stock,True,2026-05-0
 XEY,NASDAQ,GraniteShares YieldBOOST Ether ETF,ETF,True,2026-05-08,,,0815fd64defc62e5c4ab
 XFOR,NASDAQ,"X4 Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,546930255676a3ef3a30
 XGN,NASDAQ,Exagen Inc. - Common Stock,Stock,True,2026-05-08,,,bb928abf294be5854cdc
+XGPU,NASDAQ,"Reliance Global Group, Inc. - Common Stock",Stock,True,2026-11-10,,,43f75c393a88c1147f85
 XHG,NASDAQ,XChange TEC.INC - American Depositary Shares,Stock,True,2026-05-08,,,b7c03bc9dd1c9d46c31c
 XHLD,NASDAQ,"TEN Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,1ad185287ace2163b18c
 XIII,NASDAQ,Churchill Capital Corp XIII - Class A Ordinary Shares,Stock,True,2026-09-18,,,1b0372d90fea04da185b
@@ -8209,6 +8215,7 @@ LPX,NYSE,Louisiana-Pacific Corporation Common Stock,Stock,True,2026-05-08,,,a565
 LRN,NYSE,"Stride, Inc. Common Stock",Stock,True,2026-05-08,,,5bf9e17c98a6016fe0ae
 LSPD,NYSE,Lightspeed Commerce Inc. Subordinate Voting Shares,Stock,True,2026-05-08,,,29ad89ade392342b6214
 LTC,NYSE,"LTC Properties, Inc. Common Stock",Stock,True,2026-05-08,,,8979379ad14bb55409b9
+LTEQ,NYSE,Equity Partners ETF,ETF,True,2026-11-10,,,fde78bdb6ab149a25731
 LTH,NYSE,"Life Time Group Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,71958aaea1308a767926
 LTM,NYSE,"LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)",Stock,True,2026-05-08,,,ca08acfb28822d4a74c6
 LU,NYSE,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",Stock,False,2026-05-08,2026-10-23,Listing metadata changed,1f833020f018074e8cd7
@@ -8827,8 +8834,8 @@ PSF,NYSE,"Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock",St
 PSFE,NYSE,Paysafe Limited Common Shares,Stock,True,2026-05-08,,,ed0aecd5c56a359bed32
 PSN,NYSE,Parsons Corporation Common Stock,Stock,True,2026-05-08,,,a03209b69a4d43f119ad
 PSO,NYSE,"Pearson, Plc Common Stock",Stock,True,2026-05-08,,,5ab641f2f8b08d1a39c8
-PSQH,NYSE,"PSQ Holdings, Inc. Class A Common Stock",Stock,True,2026-05-08,,,80be6c666563638b3a06
-PSQH.W,NYSE,"PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,df980303e4f9f76f3a10
+PSQH,NYSE,"PSQ Holdings, Inc. Class A Common Stock",Stock,False,2026-05-08,2026-11-10,Missing from current NYSE source snapshot; reason unavailable,80be6c666563638b3a06
+PSQH.W,NYSE,"PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",Stock,False,2026-05-08,2026-11-10,Missing from current NYSE source snapshot; reason unavailable,df980303e4f9f76f3a10
 PSTL,NYSE,"Postal Realty Trust, Inc. Class A Common Stock",Stock,True,2026-05-08,,,5ab7472e25dad73a0c5a
 PSUS,NYSE,"Pershing Square USA, Ltd. Common Shares",Stock,True,2026-05-08,,,fa270bb3523964b20794
 PSX,NYSE,Phillips 66 Common Stock,Stock,True,2026-05-08,,,93870dc1d97ab7ff09d5
