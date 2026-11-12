@@ -171,7 +171,7 @@ JAGU,AMEX,Jaguar Uranium Corp. Class A Common Shares,Stock,True,2026-05-08,,,7cd
 JMG,AMEX,JM Group Limited Ordinary Shares,Stock,False,2026-05-08,2026-06-15,Missing from current AMEX source snapshot; reason unavailable,56860278e8d956d26e86
 JOB,AMEX,GEE Group Inc. Common Stock,Stock,True,2026-05-08,,,030d6173b69c9e418aca
 KAPA,AMEX,"Kairos Pharma, Ltd. Common Stock",Stock,True,2026-05-08,,,26fe3b913c8d8ddf693a
-KNRX,AMEX,KNOREX LTD. Class A Ordinary Shares,Stock,True,2026-05-08,,,10a6ea588c9f33c5aa05
+KNRX,AMEX,KNOREX LTD. Class A Ordinary Shares,Stock,False,2026-05-08,2026-11-12,Missing from current AMEX source snapshot; reason unavailable,10a6ea588c9f33c5aa05
 KULR,AMEX,"KULR Technology Group, Inc. Common Stock",Stock,True,2026-05-08,,,df7db05b2b5034d299cc
 LCTX,AMEX,"Lineage Cell Therapeutics, Inc. Common Stock",Stock,True,2026-05-08,,,19dfc268508f7054a479
 LEGO,AMEX,Legato Merger Corp. IV Ordinary Shares,Stock,True,2026-05-08,,,e2b7d867cb088d58fae4
@@ -1728,6 +1728,7 @@ CRMD,NASDAQ,CorMedix Inc. - Common Stock,Stock,True,2026-05-08,,,9ce89da6a84ffd8
 CRMG,NASDAQ,Leverage Shares 2X Long CRM Daily ETF,ETF,True,2026-05-08,,,d6cb431600e67e01ed36
 CRML,NASDAQ,Critical Metals Corp. - Ordinary Shares,Stock,True,2026-05-08,,,3597844ec1257d362787
 CRMLW,NASDAQ,Critical Metals Corp. - Warrants,Stock,True,2026-05-08,,,661e93ae8285e92f2226
+CRMN,NASDAQ,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,True,2026-11-12,,,4877ace68b66bfd40e09
 CRMT,NASDAQ,"America's Car-Mart, Inc. - Common Stock",Stock,True,2026-05-08,,,055330cf5d79c302dfa0
 CRMU,NASDAQ,Leverage Shares 2x Long CRML Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,cb644ec86ec09b4032f0
 CRNC,NASDAQ,Cerence Inc. - Common Stock,Stock,True,2026-05-08,,,4a74eaa5392ad0d1fbd5
@@ -3374,7 +3375,7 @@ KALV,NASDAQ,"KalVista Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-
 KARD,NASDAQ,"Kardigan, Inc. - Common Stock",Stock,True,2026-06-18,,,975b1c75d21eadce5085
 KARO,NASDAQ,Karooooo Ltd. - Ordinary shares,Stock,True,2026-05-08,,,71ee823b085a3415245e
 KAT,NASDAQ,Scharf ETF,ETF,True,2026-05-08,,,7564ed6df5aa11fd42e0
-KAZR,NASDAQ,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,True,2026-06-17,,,4877ace68b66bfd40e09
+KAZR,NASDAQ,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,False,2026-06-17,2026-11-12,Other delisting reason: Details unavailable (source: FMP Delisted API),4877ace68b66bfd40e09
 KBAB,NASDAQ,KraneShares 2x Long BABA Daily ETF,ETF,False,2026-05-08,2026-10-27,Missing from current NASDAQ source snapshot; reason unavailable,da14e611c5f5d1dcaff3
 KBDU,NASDAQ,KraneShares 2x Long BIDU Daily ETF,ETF,False,2026-05-08,2026-10-27,Missing from current NASDAQ source snapshot; reason unavailable,eee95a6273cbc56d5d43
 KBON,NASDAQ,Karbon Capital Partners Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,4714eb73389382728812
@@ -4312,7 +4313,7 @@ NXTC,NASDAQ,"NextCure, Inc. - Common Stock",Stock,True,2026-05-08,,,ebbd6d40c45d
 NXTG,NASDAQ,First Trust Indxx NextG ETF,ETF,True,2026-05-08,,,666e96721e3482899683
 NXTS,NASDAQ,Nexentis Technologies Inc. - Common Stock,Stock,True,2026-05-08,,,e17602c00950c6e0c3fe
 NXTT,NASDAQ,Next Technology Holding Inc. - Ordinary Shares,Stock,True,2026-05-08,,,7a068e2f1814dd719270
-NXXT,NASDAQ,"NextNRG, Inc. - Common Stock",Stock,True,2026-05-08,,,3f0bd31e4bfa7005b5a0
+NXXT,NASDAQ,"NextNRG, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-12,Missing from current NASDAQ source snapshot; reason unavailable,3f0bd31e4bfa7005b5a0
 NYAX,NASDAQ,Nayax Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,d9a384284cf31dd0bec3
 NYXH,NASDAQ,Nyxoah SA - Ordinary Shares,Stock,True,2026-05-08,,,d644aec9e1fad43393ac
 NZAC,NASDAQ,State Street SPDR MSCI ACWI Climate Paris Aligned ETF,ETF,True,2026-05-08,,,6c5e509c9516ab908b7b
@@ -7128,8 +7129,8 @@ CFG$E,NYSE,"Citizens Financial Group, Inc. Depositary Shares Each Representing 1
 CFG$H,NYSE,"Citizens Financial Group, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.375% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series H",Stock,True,2026-05-08,,,e80f6645617f18d96359
 CFG$I,NYSE,"Citizens Financial Group, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.500% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",Stock,True,2026-05-08,,,c20251e7cb5e752d837a
 CFND,NYSE,C1 Fund Inc. Common Stock,Stock,True,2026-05-08,,,e545d1562d903052c371
-CFR,NYSE,"Cullen/Frost Bankers, Inc. Common Stock",Stock,True,2026-05-08,,,bbbf3b6f942a379e1369
-CFR$B,NYSE,"Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",Stock,True,2026-05-08,,,fa5fa365fa0f5991b2c6
+CFR,NYSE,"Cullen/Frost Bankers, Inc. Common Stock",Stock,False,2026-05-08,2026-11-12,Other delisting reason: Details unavailable (source: FMP Delisted API),bbbf3b6f942a379e1369
+CFR$B,NYSE,"Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",Stock,False,2026-05-08,2026-11-12,Missing from current NYSE source snapshot; reason unavailable,fa5fa365fa0f5991b2c6
 CFTR$A,NYSE,"Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock",Stock,True,2026-05-08,,,c9124657c03ee38f82d3
 CGAU,NYSE,Centerra Gold Inc. Common Shares,Stock,True,2026-05-08,,,3d70172c11fe15ce19fa
 CGV,NYSE,Conductor Global Equity Value ETF,ETF,True,2026-05-08,,,6e861cd16c72feb7b210

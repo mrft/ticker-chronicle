@@ -1245,6 +1245,7 @@ NASDAQ,CRMD,CorMedix Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRMG,Leverage Shares 2X Long CRM Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CRML,Critical Metals Corp. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRMLW,Critical Metals Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CRMN,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRMT,"America's Car-Mart, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRNC,Cerence Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CRNT,Ceragon Networks Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2737,7 +2738,6 @@ NASDAQ,KALU,Kaiser Aluminum Corporation - Common Stock,Stock,,nasdaq_trader_symb
 NASDAQ,KARD,"Kardigan, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KARO,Karooooo Ltd. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KAT,Scharf ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,KAZR,Skyline Builders Group Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KBON,Karbon Capital Partners Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KBONU,Karbon Capital Partners Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KBONW,Karbon Capital Partners Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -3562,7 +3562,6 @@ NASDAQ,NXTC,"NextCure, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_director
 NASDAQ,NXTG,First Trust Indxx NextG ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NXTS,Nexentis Technologies Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NXTT,Next Technology Holding Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NXXT,"NextNRG, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NYAX,Nayax Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NYXH,Nyxoah SA - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NZAC,State Street SPDR MSCI ACWI Climate Paris Aligned ETF,ETF,,nasdaq_trader_symbol_directory
