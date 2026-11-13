@@ -1546,6 +1546,7 @@ NYSE,LNN,Lindsay Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LOAR,Loar Holdings Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LOB,"Live Oak Bancshares, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LOB$A,"Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non-Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
+NYSE,LOB$B,"Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.750% Fixed Rate Series B Non-Cumulative Perpetual Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LOCL,Local Bounti Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,Stock,,nasdaq_trader_symbol_directory
 NYSE,LOW,"Lowe's Companies, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2756,6 +2757,7 @@ NYSE,VTR,"Ventas, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VTS,"Vitesse Energy, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VVR,Invesco Senior Income Trust Common Stock (DE),Stock,,nasdaq_trader_symbol_directory
 NYSE,VVV,Valvoline Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,VVVV,vVARDIS Holding AG Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,VVX,"V2X, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,VYLR,Vylor Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,VYX,NCR Voyix Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory

@@ -191,6 +191,7 @@ LSF,AMEX,"Laird Superfood, Inc. Common Stock",Stock,True,2026-05-08,,,b662c716aa
 LUD,AMEX,Luda Technology Group Limited Ordinary Shares,Stock,True,2026-05-08,,,3c55050bbe527f2480b1
 MAIA,AMEX,"MAIA Biotechnology, Inc. Common Stock",Stock,True,2026-05-08,,,ea3a646850036917f955
 MCRP,AMEX,Micropolis AI Robotics Ordinary Shares,Stock,True,2026-05-08,,,603b20b891944ce649db
+MDRN,AMEX,Modern Mining Technology Corp. Common Shares,Stock,True,2026-11-13,,,d4fd6ca719a6ec1fdee1
 MGLD,AMEX,"The Marygold Companies, Inc. Common Stock",Stock,True,2026-05-08,,,06ef7069716e7ebd6b29
 MHH,AMEX,"Mastech Digital, Inc Common Stock",Stock,True,2026-05-08,,,ad91b0cc28045252edab
 MI,AMEX,NFT Limited Class A Ordinary Share,Stock,True,2026-05-08,,,73f693ce5abfc3ea3240
@@ -1583,7 +1584,7 @@ CLBK,NASDAQ,"Columbia Financial, Inc. - Common Stock",Stock,True,2026-05-08,,,70
 CLBT,NASDAQ,Cellebrite DI Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,bc8caa8ede6736b6b008
 CLDX,NASDAQ,"Celldex Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,f01fe6c30636f8f5bbb4
 CLFD,NASDAQ,"Clearfield, Inc. - Common Stock",Stock,True,2026-05-08,,,f380266ffd1ddf25b3f3
-CLGN,NASDAQ,CollPlant Biotechnologies Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,d7e29b128efeffdd8448
+CLGN,NASDAQ,CollPlant Biotechnologies Ltd. - Ordinary Shares,Stock,False,2026-05-08,2026-11-13,Missing from current NASDAQ source snapshot; reason unavailable,d7e29b128efeffdd8448
 CLIK,NASDAQ,Click Holdings Limited - Ordinary Share,Stock,True,2026-05-08,,,7c5d816ca5e3a8870323
 CLIR,NASDAQ,ClearSign Technologies Corporation - Common Stock,Stock,True,2026-05-08,,,9af1f9ee602c9a259377
 CLLS,NASDAQ,Cellectis S.A. - American Depositary Shares,Stock,True,2026-05-08,,,a307588fa1ceba01ff54
@@ -2302,8 +2303,8 @@ FCVT,NASDAQ,First Trust SSI Strategic Convertible Securities ETF,ETF,True,2026-0
 FCXG,NASDAQ,Leverage Shares 2x Long FCX Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,8971f38f87f1945e3ae9
 FDBC,NASDAQ,"Fidelity D & D Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,15357772d6d7c221f788
 FDCF,NASDAQ,Fidelity Disruptive Communications ETF,ETF,True,2026-05-08,,,6b72b09e8f17c3be04f3
-FDFF,NASDAQ,Fidelity Disruptive Finance ETF,ETF,True,2026-05-08,,,aea64ee10e372f638f83
-FDIF,NASDAQ,Fidelity Disruptors ETF,ETF,True,2026-05-08,,,33f352f456aab04bb604
+FDFF,NASDAQ,Fidelity Disruptive Finance ETF,ETF,False,2026-05-08,2026-11-13,Missing from current NASDAQ source snapshot; reason unavailable,aea64ee10e372f638f83
+FDIF,NASDAQ,Fidelity Disruptors ETF,ETF,False,2026-05-08,2026-11-13,Missing from current NASDAQ source snapshot; reason unavailable,33f352f456aab04bb604
 FDIG,NASDAQ,Fidelity Crypto Industry and Digital Payments ETF,ETF,True,2026-05-08,,,e412be9be49a828890b5
 FDIQ,NASDAQ,Invesco Bloomberg Financial Data Providers ETF,ETF,True,2026-05-08,,,6ad9308b69737c863aa5
 FDIV,NASDAQ,MarketDesk Focused U.S. Dividend ETF,ETF,True,2026-05-08,,,32263783fd2718398640
@@ -2427,8 +2428,8 @@ FMACU,NASDAQ,Future Money Acquisition Corporation - Units,Stock,True,2026-05-08,
 FMAO,NASDAQ,"Farmers & Merchants Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,2197ef0d8ae536635002
 FMB,NASDAQ,First Trust Managed Municipal ETF,ETF,True,2026-05-08,,,0d552c87fdd6fa2f6c34
 FMBH,NASDAQ,"First Mid Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,b1062fadbff000446533
-FMED,NASDAQ,Fidelity Disruptive Medicine ETF,ETF,True,2026-05-08,,,eb4297bb093117b777c3
-FMET,NASDAQ,Fidelity Metaverse ETF,ETF,True,2026-05-08,,,1e2b571ef18d4fb2126a
+FMED,NASDAQ,Fidelity Disruptive Medicine ETF,ETF,False,2026-05-08,2026-11-13,Missing from current NASDAQ source snapshot; reason unavailable,eb4297bb093117b777c3
+FMET,NASDAQ,Fidelity Metaverse ETF,ETF,False,2026-05-08,2026-11-13,Missing from current NASDAQ source snapshot; reason unavailable,1e2b571ef18d4fb2126a
 FMFC,NASDAQ,Kandal M Venture Limited - Class A ordinary Shares,Stock,True,2026-05-08,,,f0c2bf458976488ffe6d
 FMHI,NASDAQ,First Trust Municipal High Income ETF,ETF,True,2026-05-08,,,ac140b3a1d0142fbba6c
 FMNB,NASDAQ,Farmers National Banc Corp. - Common Stock,Stock,True,2026-05-08,,,2d2cf514ff73db07a6dd
@@ -3648,7 +3649,9 @@ LOT,NASDAQ,Lotus Technology Inc. - American Depositary Shares,Stock,True,2026-05
 LOTI,NASDAQ,Liberty One Tactical Income ETF,ETF,True,2026-05-08,,,ce472ede53ad4fb5e71c
 LOTWW,NASDAQ,Lotus Technology Inc. - Warrants,Stock,True,2026-05-08,,,4438c11a30380b79d4f8
 LOVE,NASDAQ,The Lovesac Company - Common Stock,Stock,True,2026-05-08,,,9a7dac7ed6d6b26329d9
+LOVI,NASDAQ,Live Oak Acquisition Corp. VI - Class A Ordinary Shares,Stock,True,2026-11-13,,,cdeb2b094447efa121ab
 LOVIU,NASDAQ,Live Oak Acquisition Corp. VI - Units,Stock,True,2026-09-23,,,d110baed049445d0c063
+LOVIW,NASDAQ,Live Oak Acquisition Corp. VI - Warrants,Stock,True,2026-11-13,,,edcf37982030558a10c9
 LPAA,NASDAQ,Launch One Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,79bcc75e066b570df8ea
 LPAAU,NASDAQ,Launch One Acquisition Corp. - Unit,Stock,True,2026-05-08,,,f769758493d4b98e2f10
 LPAAW,NASDAQ,Launch One Acquisition Corp. - Warrant,Stock,True,2026-05-08,,,0c90294a3dcbfa013a2f
@@ -4382,7 +4385,8 @@ OKYO,NASDAQ,OKYO Pharma Limited - Ordinary Shares,Stock,True,2026-05-08,,,91454c
 OLB,NASDAQ,"The OLB Group, Inc. - Common Stock",Stock,True,2026-05-08,,,1ce8831c71f4749578c0
 OLED,NASDAQ,Universal Display Corporation - Common Stock,Stock,True,2026-05-08,,,79b3a6c8c03edc7a8ef3
 OLLI,NASDAQ,"Ollie's Bargain Outlet Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,857fec0130db68f36948
-OLMA,NASDAQ,"Olema Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,1f48eb61242a51df7844
+OLMA,NASDAQ,"Olema Pharmaceuticals, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-13,Listing metadata changed,1f48eb61242a51df7844
+OLMA,NASDAQ,"Olema Oncology, Inc. - Common Stock",Stock,True,2026-11-13,,,f675213c9c6cd54f474b
 OLOX,NASDAQ,Olenox Industries Inc. - Common Stock,Stock,True,2026-05-08,,,54f77ce2ae761ed23016
 OLPX,NASDAQ,"Olaplex Holdings, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-08,Missing from current NASDAQ source snapshot; reason unavailable,9df33cba7db56af555a7
 OM,NASDAQ,"Outset Medical, Inc. - Common Stock",Stock,True,2026-05-08,,,d53b7758bf0a457a7bfd
@@ -4422,6 +4426,7 @@ OPEN,NASDAQ,Opendoor Technologies Inc - Common Stock,Stock,True,2026-05-08,,,122
 OPENL,NASDAQ,"Opendoor Technologies Inc - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",Stock,True,2026-05-08,,,e841381f3d3b1b3e857f
 OPENW,NASDAQ,"Opendoor Technologies Inc - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",Stock,True,2026-05-08,,,bb591744ab50130bd1f8
 OPENZ,NASDAQ,"Opendoor Technologies Inc - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",Stock,True,2026-05-08,,,59601d8d2639b8bfc9f7
+OPHI,NASDAQ,CollPlant Biotechnologies Ltd. - Ordinary Shares,Stock,True,2026-11-13,,,d7e29b128efeffdd8448
 OPI,NASDAQ,Office Properties Income Trust - Common shares of beneficial interest,Stock,True,2026-06-18,,,b0f199a449ed60363c34
 OPK,NASDAQ,"Opko Health, Inc. - Common Stock",Stock,True,2026-05-08,,,ecef345672a5a1b9328f
 OPNW,NASDAQ,"OpenWorld, Inc. - Common Stock",Stock,True,2026-10-01,,,165d5fb5e63ba583b9ad
@@ -4805,7 +4810,7 @@ PTF,NASDAQ,Invesco Dorsey Wright Technology Momentum ETF,ETF,True,2026-05-08,,,5
 PTGX,NASDAQ,"Protagonist Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,d91e977eda6963ea64b2
 PTH,NASDAQ,Invesco Dorsey Wright Healthcare Momentum ETF,ETF,True,2026-05-08,,,4b1d0246a114fb8d7d5d
 PTIR,NASDAQ,GraniteShares 2x Long PLTR Daily ETF,ETF,True,2026-05-08,,,b2819f40868c6255db3c
-PTLE,NASDAQ,PTL LTD - Class A Ordinary Shares,Stock,True,2026-05-08,,,8b70778342cca3aa6251
+PTLE,NASDAQ,PTL LTD - Class A Ordinary Shares,Stock,False,2026-05-08,2026-11-13,Missing from current NASDAQ source snapshot; reason unavailable,8b70778342cca3aa6251
 PTLO,NASDAQ,Portillo's Inc. - Class A Common Stock,Stock,True,2026-05-08,,,aa2ceeaff555122f9c59
 PTN,NASDAQ,"Palatin Technologies, Inc. - Common Stock",Stock,True,2026-05-29,,,c40289083c0a407d9d69
 PTNM,NASDAQ,Pitanium Limited - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-16,Missing from current NASDAQ source snapshot; reason unavailable,f00a812028c31c47685d
@@ -6283,7 +6288,8 @@ WETO,NASDAQ,Wetour Robotics Limited - Ordinary Shares,Stock,True,2026-05-08,,,10
 WEYS,NASDAQ,"Weyco Group, Inc. - Common Stock",Stock,True,2026-05-08,,,1335fe7c9e075c89aa4a
 WFCF,NASDAQ,"Where Food Comes From, Inc. - Common Stock",Stock,True,2026-05-08,,,308a51d84d64d0ab3892
 WFF,NASDAQ,WF Holding Limited - Ordinary Shares,Stock,True,2026-05-08,,,98232a6d6f12b7a9a827
-WFRD,NASDAQ,Weatherford International plc - Ordinary shares,Stock,True,2026-05-08,,,59c0691eb0a1ece2ea1d
+WFRD,NASDAQ,Weatherford International plc - Ordinary shares,Stock,False,2026-05-08,2026-11-13,Listing metadata changed,59c0691eb0a1ece2ea1d
+WFRD,NASDAQ,Weatherford International Corp - Common Stock,Stock,True,2026-11-13,,,7dff1468b7e18009e28b
 WGMI,NASDAQ,CoinShares Bitcoin Mining ETF,ETF,False,2026-05-08,2026-08-19,Listing metadata changed,0cf8ee4003ec4bd8b7bf
 WGMI,NASDAQ,CoinShares Bitcoin Mining and Digital Power ETF,ETF,True,2026-08-19,,,3207f5b73076d2021834
 WGRX,NASDAQ,"Wellgistics Health, Inc. - Common Stock",Stock,False,2026-05-08,2026-07-22,Missing from current NASDAQ source snapshot; reason unavailable,ba90b741c5077dcdd203
@@ -6369,6 +6375,7 @@ WVE,NASDAQ,"Wave Life Sciences, Inc. - Common Stock",Stock,True,2026-08-10,,,7a5
 WVVI,NASDAQ,"Willamette Valley Vineyards, Inc. - Common Stock",Stock,True,2026-05-08,,,1d74314894a62024cbb8
 WVVIP,NASDAQ,"Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock",Stock,True,2026-05-08,,,e6b3cde462e566e0406b
 WW,NASDAQ,"WW International, Inc. - Common Stock",Stock,True,2026-05-08,,,79d85fbc8966004a7412
+WWB,NASDAQ,Windward Bio Group AG - Common shares,Stock,True,2026-11-13,,,83b9de8d2890a721c587
 WWD,NASDAQ,"Woodward, Inc. - Common Stock",Stock,True,2026-05-08,,,55d3a8a14dca0341df08
 WXM,NASDAQ,WF International Limited - Ordinary Shares,Stock,True,2026-05-08,,,40b98e802e807029b7a6
 WYFI,NASDAQ,"WhiteFiber, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,a63eeed2142f5101c527
@@ -6556,6 +6563,7 @@ ZXYZ.A,NASDAQ,Nasdaq Symbology Test Common Stock,Stock,True,2026-05-08,,,cad8669
 ZXZZT,NASDAQ,NASDAQ TEST STOCK,Stock,True,2026-05-08,,,efd70b566d21ce30012a
 ZYBT,NASDAQ,Zhengye Biotechnology Holding Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,a6d6ba36e12f6fde9a29
 ZYME,NASDAQ,Zymeworks Inc. - Common Stock,Stock,True,2026-05-08,,,31502e4d1105beca52ab
+ZYN,NASDAQ,PTL LTD - Class A Ordinary Shares,Stock,True,2026-11-13,,,8b70778342cca3aa6251
 A,NYSE,"Agilent Technologies, Inc. Common Stock",Stock,True,2026-05-08,,,d01e8cf537eac6e34990
 AA,NYSE,Alcoa Corporation Common Stock,Stock,True,2026-05-08,,,af6ab8a6bd9068361d8a
 AAC,NYSE,Ares Acquisition Corporation III Class A Ordinary Shares,Stock,True,2026-08-28,,,56dd3369c29cdb766cbb
@@ -8207,6 +8215,7 @@ LNN,NYSE,Lindsay Corporation Common Stock,Stock,True,2026-05-08,,,851adfb6739225
 LOAR,NYSE,Loar Holdings Inc. Common Stock,Stock,True,2026-05-08,,,3d3378459216bbd69365
 LOB,NYSE,"Live Oak Bancshares, Inc. Common Stock",Stock,True,2026-05-08,,,8fc0b9559c021229a458
 LOB$A,NYSE,"Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non-Cumulative Perpetual Preferred Stock",Stock,True,2026-05-08,,,2cc27312f3a6ee65b728
+LOB$B,NYSE,"Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.750% Fixed Rate Series B Non-Cumulative Perpetual Preferred Stock",Stock,True,2026-11-13,,,21a08dc6a99d95ba84ad
 LOCL,NYSE,Local Bounti Corporation Common Stock,Stock,True,2026-05-08,,,3dfc5825f91ac444739a
 LOMA,NYSE,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,Stock,True,2026-05-08,,,cd9c8ce0ff47657b3146
 LOW,NYSE,"Lowe's Companies, Inc. Common Stock",Stock,True,2026-05-08,,,21b8f9acca4bb7442b7d
@@ -9517,6 +9526,7 @@ VTR,NYSE,"Ventas, Inc. Common Stock",Stock,True,2026-05-08,,,5add40282d69430da55
 VTS,NYSE,"Vitesse Energy, Inc. Common Stock",Stock,True,2026-05-08,,,2c65348f375f6d11e34b
 VVR,NYSE,Invesco Senior Income Trust Common Stock (DE),Stock,True,2026-05-08,,,6cd21c6db9d8ff5042a0
 VVV,NYSE,Valvoline Inc. Common Stock,Stock,True,2026-05-08,,,8ff50ad20c892a4201fb
+VVVV,NYSE,vVARDIS Holding AG Class A Ordinary Shares,Stock,True,2026-11-13,,,fbab0399e55a910ab144
 VVX,NYSE,"V2X, Inc. Common Stock",Stock,True,2026-05-08,,,13720bab094e3a07d5d5
 VYLR,NYSE,Vylor Inc. Common Stock,Stock,True,2026-10-01,,,048de117ee29c6dee28d
 VYX,NYSE,NCR Voyix Corporation Common Stock,Stock,True,2026-05-08,,,82a64c38d7b15f62f9c7

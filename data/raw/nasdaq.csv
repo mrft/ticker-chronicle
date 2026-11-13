@@ -1111,7 +1111,6 @@ NASDAQ,CLBK,"Columbia Financial, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,CLBT,Cellebrite DI Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CLDX,"Celldex Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CLFD,"Clearfield, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CLGN,CollPlant Biotechnologies Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CLIK,Click Holdings Limited - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CLIR,ClearSign Technologies Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CLLS,Cellectis S.A. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1760,8 +1759,6 @@ NASDAQ,FCUV,Focus Universal Inc. - Common Stock,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,FCVT,First Trust SSI Strategic Convertible Securities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDBC,"Fidelity D & D Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FDCF,Fidelity Disruptive Communications ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,FDFF,Fidelity Disruptive Finance ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,FDIF,Fidelity Disruptors ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDIG,Fidelity Crypto Industry and Digital Payments ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDIQ,Invesco Bloomberg Financial Data Providers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDIV,MarketDesk Focused U.S. Dividend ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1869,8 +1866,6 @@ NASDAQ,FMACU,Future Money Acquisition Corporation - Units,Stock,,nasdaq_trader_s
 NASDAQ,FMAO,"Farmers & Merchants Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FMB,First Trust Managed Municipal ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FMBH,"First Mid Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FMED,Fidelity Disruptive Medicine ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,FMET,Fidelity Metaverse ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FMFC,Kandal M Venture Limited - Class A ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FMHI,First Trust Municipal High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FMNB,Farmers National Banc Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2963,7 +2958,9 @@ NASDAQ,LOT,Lotus Technology Inc. - American Depositary Shares,Stock,,nasdaq_trad
 NASDAQ,LOTI,Liberty One Tactical Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,LOTWW,Lotus Technology Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LOVE,The Lovesac Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LOVI,Live Oak Acquisition Corp. VI - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LOVIU,Live Oak Acquisition Corp. VI - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,LOVIW,Live Oak Acquisition Corp. VI - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPAA,Launch One Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPAAU,Launch One Acquisition Corp. - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,LPAAW,Launch One Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -3627,7 +3624,7 @@ NASDAQ,OKYO,OKYO Pharma Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_di
 NASDAQ,OLB,"The OLB Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OLED,Universal Display Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OLLI,"Ollie's Bargain Outlet Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OLMA,"Olema Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OLMA,"Olema Oncology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OLOX,Olenox Industries Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OM,"Outset Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares,Stock,,nasdaq_trader_symbol_directory
@@ -3665,6 +3662,7 @@ NASDAQ,OPEN,Opendoor Technologies Inc - Common Stock,Stock,,nasdaq_trader_symbol
 NASDAQ,OPENL,"Opendoor Technologies Inc - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPENW,"Opendoor Technologies Inc - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPENZ,"Opendoor Technologies Inc - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OPHI,CollPlant Biotechnologies Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPI,Office Properties Income Trust - Common shares of beneficial interest,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPK,"Opko Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPNW,"OpenWorld, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4024,7 +4022,6 @@ NASDAQ,PTF,Invesco Dorsey Wright Technology Momentum ETF,ETF,,nasdaq_trader_symb
 NASDAQ,PTGX,"Protagonist Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTH,Invesco Dorsey Wright Healthcare Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PTIR,GraniteShares 2x Long PLTR Daily ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,PTLE,PTL LTD - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTLO,Portillo's Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTN,"Palatin Technologies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PTNQ,Pacer Trendpilot 100 ETF,ETF,,nasdaq_trader_symbol_directory
@@ -5365,7 +5362,7 @@ NASDAQ,WETO,Wetour Robotics Limited - Ordinary Shares,Stock,,nasdaq_trader_symbo
 NASDAQ,WEYS,"Weyco Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WFCF,"Where Food Comes From, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WFF,WF Holding Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,WFRD,Weatherford International plc - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,WFRD,Weatherford International Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WGMI,CoinShares Bitcoin Mining and Digital Power ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,WGS,GeneDx Holdings Corp. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WHF,"WhiteHorse Finance, Inc. - Closed End Fund",Stock,,nasdaq_trader_symbol_directory
@@ -5439,6 +5436,7 @@ NASDAQ,WVE,"Wave Life Sciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol
 NASDAQ,WVVI,"Willamette Valley Vineyards, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WVVIP,"Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WW,"WW International, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,WWB,Windward Bio Group AG - Common shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WWD,"Woodward, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WXM,WF International Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,WYFI,"WhiteFiber, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -5604,3 +5602,4 @@ NASDAQ,ZXYZ.A,Nasdaq Symbology Test Common Stock,Stock,,nasdaq_trader_symbol_dir
 NASDAQ,ZXZZT,NASDAQ TEST STOCK,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZYBT,Zhengye Biotechnology Holding Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ZYME,Zymeworks Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ZYN,PTL LTD - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
