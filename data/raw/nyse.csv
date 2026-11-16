@@ -379,7 +379,6 @@ NYSE,BIT,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interes
 NYSE,BJ,"BJ's Wholesale Club Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BKD,Brookdale Senior Living Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BKE,"Buckle, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,BKH,Black Hills Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BKKT,"Bakkt, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BKSY,BlackSky Technology Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,BKT,BlackRock Income Trust Inc. (The),Stock,,nasdaq_trader_symbol_directory
@@ -1310,6 +1309,7 @@ NYSE,HYBX,TCW High Yield Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NYSE,HYI,Western Asset High Yield Opportunity Fund Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,HYTR,Counterpoint High Yield Trend ETF,ETF,,nasdaq_trader_symbol_directory
+NYSE,HZN,Bright Horizon Energy Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,HZO,"MarineMax, Inc. (FL) Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,IAG,Iamgold Corporation Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,IBM,International Business Machines Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1372,7 +1372,6 @@ NYSE,IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each
 NYSE,IRT,"Independence Realty Trust, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ISD,"PGIM High Yield Bond Fund, Inc.",Stock,,nasdaq_trader_symbol_directory
 NYSE,IT,"Gartner, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,ITGR,Integer Holdings Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ITT,ITT Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),Stock,,nasdaq_trader_symbol_directory
 NYSE,ITW,Illinois Tool Works Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1498,7 +1497,6 @@ NYSE,KRSP.W,"Rice Acquisition Corporation 3 Redeemable warrants, each whole warr
 NYSE,KSS,Kohl's Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KT,KT Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KTB,"Kontoor Brands, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,KTF,DWS Municipal Income Trust,Stock,,nasdaq_trader_symbol_directory
 NYSE,KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),Stock,,nasdaq_trader_symbol_directory
 NYSE,KVYO,"Klaviyo, Inc. Series A Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1565,7 +1563,6 @@ NYSE,LUV,Southwest Airlines Company Common Stock,Stock,,nasdaq_trader_symbol_dir
 NYSE,LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NYSE,LVS,Las Vegas Sands Corp. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,LVWR,"LiveWire Group, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,LVWR.W,"LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",Stock,,nasdaq_trader_symbol_directory
 NYSE,LW,"Lamb Weston Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,LXFR,Luxfer Holdings PLC Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,LXU,"LSB Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2081,7 +2078,9 @@ NYSE,PNNT,PennantPark Investment Corporation Common Stock,Stock,,nasdaq_trader_s
 NYSE,PNR,Pentair plc. Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NYSE,PNW,Pinnacle West Capital Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,POR,Portland General Electric Co Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,PORT,Southport Acquisition Corp. II Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,PORT.U,"Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",Stock,,nasdaq_trader_symbol_directory
+NYSE,PORT.W,"Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",Stock,,nasdaq_trader_symbol_directory
 NYSE,POST,"Post Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PPG,"PPG Industries, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,PPL,PPL Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory

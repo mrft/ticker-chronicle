@@ -612,7 +612,6 @@ NASDAQ,BEAGR,Bold Eagle Acquisition Corp. - Right,Stock,,nasdaq_trader_symbol_di
 NASDAQ,BEAGU,Bold Eagle Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BEAM,Beam Therapeutics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BEAT,"Heartbeam, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BEATW,"Heartbeam, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BEDY,BNY Mellon Enhanced Dividend and Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BEEM,Beam Global - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BEEP,Mobile Infrastructure Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -793,7 +792,9 @@ NASDAQ,BRLSW,Borealis Foods Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRLT,"Brilliant Earth Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRNX,BrenX Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRNY,Burney U.S. Factor Rotation ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,BRRK,Bluerock Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRRKU,Bluerock Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BRRKW,Bluerock Acquisition Corp. II - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRRR,Coinshares Bitcoin ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BRTM,B&R Technology Merger Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BRTMU,B&R Technology Merger Corp. - Units,Stock,,nasdaq_trader_symbol_directory
@@ -852,7 +853,6 @@ NASDAQ,BSVN,Bank7 Corp. - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BSVO,EA Bridgeway Omni Small-Cap Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BSY,"Bentley Systems, Incorporated - Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTBD,"BT Brands, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BTBDW,"BT Brands, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTBT,"Bit Digital, Inc. - Ordinary Share",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTCS,BTCS Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BTCT,BTC Digital Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1885,7 +1885,7 @@ NASDAQ,FNWD,Finward Bancorp - common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FNX,First Trust Mid Cap Core AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FNY,First Trust Mid Cap Growth AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FOCL,"EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,FOFO,"Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FOFO,"Hang Feng Technology Innovation Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FORM,"FormFactor, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FORR,"Forrester Research, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FORTY,Formula Systems (1985) Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2266,6 +2266,7 @@ NASDAQ,HCM,HUTCHMED (China) Limited - American Depositary Shares,Stock,,nasdaq_t
 NASDAQ,HCMA,HCM III Acquisition Corp. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HCMAU,HCM III Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HCMAW,HCM III Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HCOP,Hartford Hybrid and Credit Opportunities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HCOW,Amplify COWS Covered Call ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HCSG,"Healthcare Services Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HCTI,"Healthcare Triangle, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3536,7 +3537,6 @@ NASDAQ,NVYY,GraniteShares YieldBOOST NVDA ETF,ETF,,nasdaq_trader_symbol_director
 NASDAQ,NWBI,"Northwest Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NWCL,newcleo plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NWCLW,newcleo plc - Warrants,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,NWE,"NorthWestern Energy Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NWFL,Norwood Financial Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NWGL,CL Workshop Group Limited - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NWL,Newell Brands Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -3885,7 +3885,6 @@ NASDAQ,PLAY,"Dave & Buster's Entertainment, Inc. - Common Stock",Stock,,nasdaq_t
 NASDAQ,PLBC,Plumas Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLBL,Polibeli Group Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLBY,"Playboy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PLCE,"Children's Place, Inc. (The) - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLCI,Pelican Acquisition II Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLCIR,Pelican Acquisition II Corporation - Right,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PLCIU,Pelican Acquisition II Corporation - Unit,Stock,,nasdaq_trader_symbol_directory
@@ -4717,7 +4716,6 @@ NASDAQ,STKH,Steakholder Foods Ltd. - American Depositary Shares,Stock,,nasdaq_tr
 NASDAQ,STKS,"The ONE Group Hospitality, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STLD,"Steel Dynamics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STLN,"Starling Oncology, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,STLNW,"Starling Oncology, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STNC,Hennessy Sustainable ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,STNE,StoneCo Ltd. - Class A Common Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STOK,"Stoke Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
