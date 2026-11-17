@@ -1322,6 +1322,8 @@ NASDAQ,CVV,CVD Equipment Corporation - Common Stock,Stock,,nasdaq_trader_symbol_
 NASDAQ,CWBC,Community West Bancshares - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CWCO,Consolidated Water Co. Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CWD,CaliberCos Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CWPD,CWP Premium Dividend ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,CWPG,CWP Premium Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CWST,"Casella Waste Systems, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CWY,GraniteShares YieldBOOST CRWV ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CXAI,CXApp Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1355,6 +1357,7 @@ NASDAQ,DALI,First Trust Dorsey Wright DALI Equity ETF,ETF,,nasdaq_trader_symbol_
 NASDAQ,DAPP,VanEck Digital Transformation ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DARE,"Dare Bioscience, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DASH,"DoorDash, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,DAU,GraniteShares Autocallable AMD ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DAVE,Dave Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DAVEW,Dave Inc. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DAVI,Davion Healthcare Plc - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1447,6 +1450,7 @@ NASDAQ,DOYU,DouYu International Holdings Limited - American Depositary Shares,St
 NASDAQ,DPRO,Draganfly Inc. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DPU,Nexpu Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DPZ,Domino's Pizza Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,DRAC,GraniteShares Autocallable DRAM ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DRDB,Roman DBDR Acquisition Corp. II - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DRDBU,Roman DBDR Acquisition Corp. II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DRDBW,Roman DBDR Acquisition Corp. II - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -1491,7 +1495,6 @@ NASDAQ,DUOL,"Duolingo, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_
 NASDAQ,DUOT,"Duos Technologies Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DUSG,U.S. Small Cap Growth Portfolio: ETF Class Shares,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVGR,DAC 3D Dividend Growth ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,DVLT,Datavault AI Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DVLU,First Trust Dorsey Wright Momentum & Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVOL,First Trust Dorsey Wright Momentum & Low Volatility ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,DVQQ,WEBs QQQ Defined Volatility ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2113,6 +2116,7 @@ NASDAQ,GLUE,"Monte Rosa Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_
 NASDAQ,GLWG,Leverage Shares 2X Long GLW Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GLXG,Galaxy Payroll Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GLXY,Galaxy Digital Inc. - Class A common stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GM,General Motors Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GMAB,Genmab A/S - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GMEX,GMEX ROBOTICS CORPORATION - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GMHS,Gamehaus Holdings Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3097,6 +3101,7 @@ NASDAQ,MDRR,"Medalist Diversified, Inc. - Common Stock",Stock,,nasdaq_trader_sym
 NASDAQ,MDWD,MediWound Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MDXG,"MiMedx Group, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MDXH,MDxHealth SA - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,MEA,GraniteShares Autocallable META ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MEDP,"Medpace Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MEDS,"DataMeds AI, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MEDX,Horizon Kinetics Medical ETF,ETF,,nasdaq_trader_symbol_directory
@@ -3489,6 +3494,7 @@ NASDAQ,NSYS,Nortech Systems Incorporated - Common Stock,Stock,,nasdaq_trader_sym
 NASDAQ,NTAL,GraniteShares 2x Long NTAP Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NTAP,"NetApp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NTCL,NETCLASS TECHNOLOGY INC - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,NTCR,Nuveen Technology & Infrastructure Credit ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,NTCT,"NetScout Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NTES,"NetEase, Inc. - American Depositary Shares, each representing 5 ordinary shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,NTGR,"NETGEAR, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3797,6 +3803,7 @@ NASDAQ,PCAPU,ProCap Acquisition Corp - Unit,Stock,,nasdaq_trader_symbol_director
 NASDAQ,PCAPW,ProCap Acquisition Corp - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCAR,PACCAR Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCB,PCB Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,PCHX,State Street SPDR Nasdaq MyPaycheck ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PCLA,PicoCELA Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCMM,BondBloxx Private Credit CLO ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PCPI,PIMCO Inflation PLUS Active Exchange-Traded Fund,ETF,,nasdaq_trader_symbol_directory
@@ -3875,6 +3882,7 @@ NASDAQ,PIE,Invesco Dorsey Wright Emerging Markets Momentum ETF,ETF,,nasdaq_trade
 NASDAQ,PIII,P3 Health Partners Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PIIIW,P3 Health Partners Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PIO,Invesco Global Water ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,PIVT,VanEck Pivotal Trends ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PIZ,Invesco Dorsey Wright Developed Markets Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PKBK,"Parke Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PKOH,Park-Ohio Holdings Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -4268,7 +4276,6 @@ NASDAQ,RJET,Republic Airways Holdings Inc. - Common Stock,Stock,,nasdaq_trader_s
 NASDAQ,RKDA,"Arcadia Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RKLB,Rocket Lab Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RKLX,Defiance Daily Target 2X Long RKLB ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,RKLZ,Defiance Daily Target 2x Short RKLB ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RKNG,Defiance Retail Kings ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RKTO,Rocket One Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RLAY,"Relay Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5193,7 +5200,6 @@ NASDAQ,VBCJ,Vanguard Target Maturity 2036 Corporate Bond ETF,ETF,,nasdaq_trader_
 NASDAQ,VBIL,Vanguard 0-3 Month Treasury Bill ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VBIO,"Valion Bio, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VBNB,VanEck BNB ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,VBNK,VersaBank - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VC,Visteon Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VCEL,Vericel Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VCIG,VCI Global Limited - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
@@ -5288,6 +5294,7 @@ NASDAQ,VRIG,Invesco Variable Rate Investment Grade ETF,ETF,,nasdaq_trader_symbol
 NASDAQ,VRM,"Vroom, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VRNS,"Varonis Systems, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VRRM,Verra Mobility Corporation - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VRSA,Versa Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VRSK,"Verisk Analytics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VRSN,"VeriSign, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VRTL,GraniteShares 2x Long VRT Daily ETF,ETF,,nasdaq_trader_symbol_directory

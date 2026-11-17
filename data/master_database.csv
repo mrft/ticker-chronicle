@@ -1819,6 +1819,8 @@ CVV,NASDAQ,CVD Equipment Corporation - Common Stock,Stock,True,2026-05-08,,,695f
 CWBC,NASDAQ,Community West Bancshares - Common Stock,Stock,True,2026-05-08,,,53aca712a116db5f6b5f
 CWCO,NASDAQ,Consolidated Water Co. Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,1c69f7a3f94420b4656c
 CWD,NASDAQ,CaliberCos Inc. - Class A Common Stock,Stock,True,2026-05-08,,,7e82b4106df455d58ffa
+CWPD,NASDAQ,CWP Premium Dividend ETF,ETF,True,2026-11-17,,,f6488545d9f2101672e4
+CWPG,NASDAQ,CWP Premium Growth ETF,ETF,True,2026-11-17,,,29f045fcc266da431b4d
 CWST,NASDAQ,"Casella Waste Systems, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,6ff2e4d8e91e1061a9eb
 CWY,NASDAQ,GraniteShares YieldBOOST CRWV ETF,ETF,True,2026-05-08,,,b28751b10b7614754a41
 CXAI,NASDAQ,CXApp Inc. - Class A Common Stock,Stock,True,2026-05-08,,,ba93eec1c023fe10460e
@@ -1854,6 +1856,7 @@ DALI,NASDAQ,First Trust Dorsey Wright DALI Equity ETF,ETF,True,2026-05-08,,,9560
 DAPP,NASDAQ,VanEck Digital Transformation ETF,ETF,True,2026-05-08,,,2073387920eaf3c0058c
 DARE,NASDAQ,"Dare Bioscience, Inc. - Common Stock",Stock,True,2026-05-08,,,1229a0c31e2c8142c3de
 DASH,NASDAQ,"DoorDash, Inc. - Common Stock",Stock,True,2026-05-08,,,78c88c7e6e2c6279742d
+DAU,NASDAQ,GraniteShares Autocallable AMD ETF,ETF,True,2026-11-17,,,3d4455861634e599e017
 DAVE,NASDAQ,Dave Inc. - Class A Common Stock,Stock,True,2026-05-08,,,0cac498993204105e9a9
 DAVEW,NASDAQ,Dave Inc. - Warrants,Stock,True,2026-05-08,,,c5c719bf94b10c40b889
 DAVI,NASDAQ,Davion Healthcare Plc - Ordinary Shares,Stock,True,2026-10-22,,,9053970ba34730b02e3f
@@ -1956,6 +1959,7 @@ DPRO,NASDAQ,Draganfly Inc. - Common Shares,Stock,True,2026-05-08,,,d995da68ff37b
 DPU,NASDAQ,Top KingWin Ltd - Class A Ordinary Shares,Stock,False,2026-07-16,2026-10-09,Listing metadata changed,4ddc362701d5f8a60db3
 DPU,NASDAQ,Nexpu Ltd. - Class A Ordinary Shares,Stock,True,2026-10-09,,,d215e74adab4d71f680f
 DPZ,NASDAQ,Domino's Pizza Inc - Common Stock,Stock,True,2026-05-08,,,11dd15a8601234affaee
+DRAC,NASDAQ,GraniteShares Autocallable DRAM ETF,ETF,True,2026-11-17,,,c419158736d6f9b2b2b3
 DRCT,NASDAQ,"Direct Digital Holdings, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-10-05,Missing from current NASDAQ source snapshot; reason unavailable,fab8ecd5d145b5e8cb6f
 DRDB,NASDAQ,Roman DBDR Acquisition Corp. II - Ordinary shares,Stock,True,2026-05-08,,,50c3e0aa41d7526cf348
 DRDBU,NASDAQ,Roman DBDR Acquisition Corp. II - Unit,Stock,True,2026-05-08,,,61fed5760cd314a53229
@@ -2005,7 +2009,7 @@ DUSG,NASDAQ,U.S. Small Cap Growth Portfolio: ETF Class Shares,ETF,True,2026-05-0
 DVAL,NASDAQ,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,ETF,False,2026-05-08,2026-10-28,Missing from current NASDAQ source snapshot; reason unavailable,2aa3f2708b093770ca73
 DVGR,NASDAQ,DAC 3D Dividend Growth ETF,ETF,True,2026-05-08,,,c91fe37b7a547fa039ee
 DVIN,NASDAQ,WEBs Industrials XLI Defined Volatility ETF,ETF,False,2026-05-08,2026-08-28,Missing from current NASDAQ source snapshot; reason unavailable,75bd9fc4fb35f142fb9b
-DVLT,NASDAQ,Datavault AI Inc. - Common Stock,Stock,True,2026-05-08,,,1b4c294fe05b38522187
+DVLT,NASDAQ,Datavault AI Inc. - Common Stock,Stock,False,2026-05-08,2026-11-17,Missing from current NASDAQ source snapshot; reason unavailable,1b4c294fe05b38522187
 DVLU,NASDAQ,First Trust Dorsey Wright Momentum & Value ETF,ETF,True,2026-05-08,,,f29b8c44e1fee530007e
 DVOL,NASDAQ,First Trust Dorsey Wright Momentum & Low Volatility ETF,ETF,True,2026-05-08,,,10955c81c8be9234b88f
 DVQQ,NASDAQ,WEBs QQQ Defined Volatility ETF,ETF,True,2026-05-08,,,0bb0f41ea3760f142869
@@ -2705,6 +2709,7 @@ GLUE,NASDAQ,"Monte Rosa Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08
 GLWG,NASDAQ,Leverage Shares 2X Long GLW Daily ETF,ETF,True,2026-05-08,,,66bbe9e95b901a8b750f
 GLXG,NASDAQ,Galaxy Payroll Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,3751c5ddce11279f13c5
 GLXY,NASDAQ,Galaxy Digital Inc. - Class A common stock,Stock,True,2026-05-08,,,a482277a1b984fcd5e62
+GM,NASDAQ,General Motors Company - Common Stock,Stock,True,2026-11-17,,,d8b67c3eb773339fe16e
 GMAB,NASDAQ,Genmab A/S - American Depositary Shares,Stock,True,2026-05-08,,,c1f86d8c0dce1f1bf2a9
 GMEX,NASDAQ,GMEX ROBOTICS CORPORATION - Class A Ordinary Shares,Stock,True,2026-05-08,,,cf387ad68ce6b5e2c1c7
 GMHS,NASDAQ,Gamehaus Holdings Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,15f39a5852711d4e28a8
@@ -3807,6 +3812,7 @@ MDRR,NASDAQ,"Medalist Diversified, Inc. - Common Stock",Stock,True,2026-05-08,,,
 MDWD,NASDAQ,MediWound Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,b90e9074c5dcfc5634a7
 MDXG,NASDAQ,"MiMedx Group, Inc - Common Stock",Stock,True,2026-05-08,,,f047883a4d9b5cde6da1
 MDXH,NASDAQ,MDxHealth SA - Ordinary Shares,Stock,True,2026-05-08,,,15d2f008428c727aa09c
+MEA,NASDAQ,GraniteShares Autocallable META ETF,ETF,True,2026-11-17,,,293b3e6f060d19948ef0
 MEDP,NASDAQ,"Medpace Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,7620a7016b348a1c3209
 MEDS,NASDAQ,"DataMeds AI, Inc. - Common Stock",Stock,True,2026-07-22,,,63a36e420da78cce383d
 MEDX,NASDAQ,Horizon Kinetics Medical ETF,ETF,True,2026-05-08,,,463e9d9c565ae31e9937
@@ -4237,6 +4243,7 @@ NSYS,NASDAQ,Nortech Systems Incorporated - Common Stock,Stock,True,2026-05-08,,,
 NTAL,NASDAQ,GraniteShares 2x Long NTAP Daily ETF,ETF,True,2026-07-14,,,17915d54cbae3c707075
 NTAP,NASDAQ,"NetApp, Inc. - Common Stock",Stock,True,2026-05-08,,,bbc20482cef99ffbd68e
 NTCL,NASDAQ,NETCLASS TECHNOLOGY INC - Class A Ordinary Shares,Stock,True,2026-05-08,,,bf9f5a7b9aa55b8ed388
+NTCR,NASDAQ,Nuveen Technology & Infrastructure Credit ETF,ETF,True,2026-11-17,,,6f7e05c22dd584247849
 NTCT,NASDAQ,"NetScout Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,e18c00845f6a61ed4c33
 NTES,NASDAQ,"NetEase, Inc. - American Depositary Shares, each representing 5 ordinary shares",Stock,True,2026-05-08,,,41d5c89cbde4e782c12f
 NTGR,NASDAQ,"NETGEAR, Inc. - Common Stock",Stock,True,2026-05-08,,,4d39ef4f849b86b30b6c
@@ -4579,6 +4586,7 @@ PCAPU,NASDAQ,ProCap Acquisition Corp - Unit,Stock,True,2026-05-08,,,d3b535bd41b6
 PCAPW,NASDAQ,ProCap Acquisition Corp - Warrant,Stock,True,2026-05-08,,,97b687ef451bf9fc5a64
 PCAR,NASDAQ,PACCAR Inc. - Common Stock,Stock,True,2026-05-08,,,cbea93c7838775398d52
 PCB,NASDAQ,PCB Bancorp - Common Stock,Stock,True,2026-05-08,,,875c3eb18e8a8b5707f4
+PCHX,NASDAQ,State Street SPDR Nasdaq MyPaycheck ETF,ETF,True,2026-11-17,,,572cdee49b8981dddc9a
 PCLA,NASDAQ,PicoCELA Inc. - American Depositary Shares,Stock,True,2026-05-08,,,33cea1913662de2ead0b
 PCMM,NASDAQ,BondBloxx Private Credit CLO ETF,ETF,True,2026-05-08,,,ff6e7b7e1553eff74ca5
 PCPI,NASDAQ,PIMCO Inflation PLUS Active Exchange-Traded Fund,ETF,True,2026-05-08,,,05fc22486d8177fb4056
@@ -4659,6 +4667,7 @@ PIE,NASDAQ,Invesco Dorsey Wright Emerging Markets Momentum ETF,ETF,True,2026-05-
 PIII,NASDAQ,P3 Health Partners Inc. - Class A Common Stock,Stock,True,2026-05-08,,,4c808858f062ab430885
 PIIIW,NASDAQ,P3 Health Partners Inc. - Warrant,Stock,True,2026-05-08,,,6cf635d048dcca8cc7e3
 PIO,NASDAQ,Invesco Global Water ETF,ETF,True,2026-05-08,,,032acd6d3d46296f8c20
+PIVT,NASDAQ,VanEck Pivotal Trends ETF,ETF,True,2026-11-17,,,e8721d2b5678aad9d3ee
 PIZ,NASDAQ,Invesco Dorsey Wright Developed Markets Momentum ETF,ETF,True,2026-05-08,,,b41869ad7f9a9d1a7ee5
 PKBK,NASDAQ,"Parke Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,711b0441df1369964861
 PKOH,NASDAQ,Park-Ohio Holdings Corp. - Common Stock,Stock,True,2026-05-08,,,4486cfe90a7a7f9ae0b0
@@ -5090,7 +5099,7 @@ RJET,NASDAQ,Republic Airways Holdings Inc. - Common Stock,Stock,True,2026-05-08,
 RKDA,NASDAQ,"Arcadia Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,0516ead56f9f697ebcbe
 RKLB,NASDAQ,Rocket Lab Corporation - Common Stock,Stock,True,2026-05-08,,,3c67f1774e3f0fdd9ee1
 RKLX,NASDAQ,Defiance Daily Target 2X Long RKLB ETF,ETF,True,2026-05-08,,,c315d959dbec6b4b8a05
-RKLZ,NASDAQ,Defiance Daily Target 2x Short RKLB ETF,ETF,True,2026-05-08,,,455a1e4c737506e24efc
+RKLZ,NASDAQ,Defiance Daily Target 2x Short RKLB ETF,ETF,False,2026-05-08,2026-11-17,Missing from current NASDAQ source snapshot; reason unavailable,455a1e4c737506e24efc
 RKNG,NASDAQ,Defiance Retail Kings ETF,ETF,True,2026-05-08,,,ad38aa1d5af09949e06d
 RKTO,NASDAQ,Rocket One Inc. - Common Stock,Stock,True,2026-05-28,,,aed80925a706002da4e2
 RLAY,NASDAQ,"Relay Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,36066301f1ef5c36e333
@@ -6112,7 +6121,7 @@ VBCJ,NASDAQ,Vanguard Target Maturity 2036 Corporate Bond ETF,ETF,True,2026-05-08
 VBIL,NASDAQ,Vanguard 0-3 Month Treasury Bill ETF,ETF,True,2026-05-08,,,8083bcff4cd78799adc9
 VBIO,NASDAQ,"Valion Bio, Inc. - Common stock",Stock,True,2026-05-08,,,fbb9e45ba43748d3fef3
 VBNB,NASDAQ,VanEck BNB ETF,ETF,True,2026-05-29,,,72d1f19f8929c3747317
-VBNK,NASDAQ,VersaBank - Common Shares,Stock,True,2026-05-08,,,282c732c5453bc66bd43
+VBNK,NASDAQ,VersaBank - Common Shares,Stock,False,2026-05-08,2026-11-17,Other delisting reason: Details unavailable (source: FMP Delisted API),282c732c5453bc66bd43
 VC,NASDAQ,Visteon Corporation - Common Stock,Stock,True,2026-05-08,,,67c5159b36b0e63dce11
 VCEL,NASDAQ,Vericel Corporation - Common Stock,Stock,True,2026-05-08,,,db3b9361cd0596a7eee4
 VCIG,NASDAQ,VCI Global Limited - Ordinary Share,Stock,True,2026-05-08,,,943542a20da2a4960b2c
@@ -6210,6 +6219,7 @@ VRM,NASDAQ,"Vroom, Inc. - Common Stock",Stock,True,2026-05-08,,,a30fbcfa2851b030
 VRME,NASDAQ,"VerifyMe, Inc. - Common Stock",Stock,False,2026-05-08,2026-10-01,Other delisting reason: Details unavailable (source: FMP Delisted API),c54bfeb22e5de7ca2d74
 VRNS,NASDAQ,"Varonis Systems, Inc. - Common Stock",Stock,True,2026-05-08,,,9fc404fcf61f5716e1d3
 VRRM,NASDAQ,Verra Mobility Corporation - Class A Common Stock,Stock,True,2026-05-08,,,e5677353c0fa5645760f
+VRSA,NASDAQ,Versa Bancorp - Common Stock,Stock,True,2026-11-17,,,602ce4e222566c0ff4a4
 VRSK,NASDAQ,"Verisk Analytics, Inc. - Common Stock",Stock,True,2026-05-08,,,c51bb63a076f2d79dbb0
 VRSN,NASDAQ,"VeriSign, Inc. - Common Stock",Stock,True,2026-05-08,,,55249e495f463a2edcfe
 VRTL,NASDAQ,GraniteShares 2x Long VRT Daily ETF,ETF,True,2026-05-08,,,26526a7a93566bda8299
@@ -6594,7 +6604,7 @@ ABXL,NYSE,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 202
 ACA,NYSE,"Arcosa, Inc. Common Stock",Stock,False,2026-05-08,2026-10-26,Other delisting reason: Details unavailable (source: FMP Delisted API),3f41923047b659ef600a
 ACCO,NYSE,Acco Brands Corporation Common Stock,Stock,True,2026-05-08,,,faa347900c1adffdd674
 ACEL,NYSE,"Accel Entertainment, Inc.",Stock,True,2026-05-08,,,9eed8f06276f7f70e4a9
-ACH,NYSE,"Accendra Health, Inc. Common Stock",Stock,True,2026-05-08,,,8e9d0564021b3f76ff19
+ACH,NYSE,"Accendra Health, Inc. Common Stock",Stock,False,2026-05-08,2026-11-17,Missing from current NYSE source snapshot; reason unavailable,8e9d0564021b3f76ff19
 ACHR,NYSE,Archer Aviation Inc. Class A Common Stock,Stock,True,2026-05-08,,,f2a68d5b2a61d4199acd
 ACHR.W,NYSE,"Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",Stock,False,2026-05-08,2026-09-15,Missing from current NYSE source snapshot; reason unavailable,587bfa8ad2a90e4513e3
 ACI,NYSE,"Albertsons Companies, Inc. Class A Common Stock",Stock,True,2026-05-08,,,9eed8a9025c975c70697
@@ -7798,7 +7808,7 @@ GLOP$C,NYSE,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual F
 GLP,NYSE,Global Partners LP Common Units representing Limited Partner Interests,Stock,True,2026-05-08,,,ce1a8ef2fa19ade35cdf
 GLP$B,NYSE,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests,Stock,False,2026-05-08,2026-07-30,Missing from current NYSE source snapshot; reason unavailable,70f1ee3a3b6c1fc49c5b
 GLW,NYSE,Corning Incorporated Common Stock,Stock,True,2026-05-08,,,d8461da9398ffe8dd325
-GM,NYSE,General Motors Company Common Stock,Stock,True,2026-05-08,,,eb8771a3470593b356c3
+GM,NYSE,General Motors Company Common Stock,Stock,False,2026-05-08,2026-11-17,Missing from current NYSE source snapshot; reason unavailable,eb8771a3470593b356c3
 GME,NYSE,GameStop Corporation Common Stock,Stock,True,2026-05-08,,,b44ecb996375b44eede4
 GME.W,NYSE,GameStop Corporation Warrants to Purchase Common Stock,Stock,False,2026-05-08,2026-10-30,Missing from current NYSE source snapshot; reason unavailable,e57c94376014e46c173d
 GMED,NYSE,"Globus Medical, Inc. Class A Common Stock",Stock,True,2026-05-08,,,62234d6f3b309fb7806d
@@ -8365,7 +8375,8 @@ MNR,NYSE,Mach Natural Resources LP Common Units representing Limited Partner Int
 MNSO,NYSE,"MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares",Stock,True,2026-05-08,,,a67db69d4b8691d3eaa8
 MNTN,NYSE,"MNTN, Inc. Class A Common Stock",Stock,True,2026-05-08,,,6d61cd76d13813cd9a47
 MO,NYSE,"Altria Group, Inc.",Stock,True,2026-05-08,,,a8706ab624d807a2e064
-MOD,NYSE,Modine Manufacturing Company Common Stock,Stock,True,2026-05-08,,,1ca552d7805b730f6e83
+MOD,NYSE,Modine Manufacturing Company Common Stock,Stock,False,2026-05-08,2026-11-17,Listing metadata changed,1ca552d7805b730f6e83
+MOD,NYSE,"Modexus Solutions, Inc. Common Stock",Stock,True,2026-11-17,,,2b69954b190a00653ae7
 MOG.A,NYSE,Moog Inc. Class A Common Stock,Stock,True,2026-05-08,,,7b0398b0c949239369ef
 MOG.B,NYSE,Moog Inc. Class B Common Stock,Stock,True,2026-05-08,,,69e2def36683d89204ac
 MOGU,NYSE,MOGU Inc. American Depositary Shares (each representing 25 Class A Ordinary Shares),Stock,True,2026-05-08,,,def6066875ce74a59b50
@@ -9397,6 +9408,7 @@ TWOD,NYSE,Two Harbors Investments Corp 9.375% Senior Notes due 2030,Stock,False,
 TX,NYSE,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",Stock,True,2026-05-08,,,dfc10c0be42443b19913
 TXNM,NYSE,"TXNM Energy, Inc. Common Stock",Stock,True,2026-05-08,,,848c27cc2c04b3f8bd8e
 TXO,NYSE,"TXO Partners, L.P. Common Units Representing Limited Partner Interests",Stock,True,2026-05-08,,,275bcb94a4fb192e1ba4
+TXR,NYSE,Torex Resources Inc. Common Shares,Stock,True,2026-11-17,,,aa2443610eac97097023
 TXT,NYSE,Textron Inc. Common Stock,Stock,True,2026-05-08,,,d99a144da1b6b07b2758
 TY,NYSE,Tri Continental Corporation Common Stock,Stock,True,2026-05-08,,,f61a19875edcd33a1e74
 TY$,NYSE,Tri Continental Corporation Preferred Stock,Stock,True,2026-05-08,,,5df692e784a27fc39c82

@@ -24,7 +24,6 @@ NYSE,ABX,"Abacus Global Management, Inc. Class A Common Stock",Stock,,nasdaq_tra
 NYSE,ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",Stock,,nasdaq_trader_symbol_directory
 NYSE,ACCO,Acco Brands Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ACEL,"Accel Entertainment, Inc.",Stock,,nasdaq_trader_symbol_directory
-NYSE,ACH,"Accendra Health, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ACHR,Archer Aviation Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,ACI,"Albertsons Companies, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ACLO,TCW AAA CLO ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1148,7 +1147,6 @@ NYSE,GLOP$B,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual F
 NYSE,GLOP$C,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,Stock,,nasdaq_trader_symbol_directory
 NYSE,GLP,Global Partners LP Common Units representing Limited Partner Interests,Stock,,nasdaq_trader_symbol_directory
 NYSE,GLW,Corning Incorporated Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,GM,General Motors Company Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GME,GameStop Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,GMED,"Globus Medical, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,GMMF,iShares Government Money Market ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1673,7 +1671,7 @@ NYSE,MNR,Mach Natural Resources LP Common Units representing Limited Partner Int
 NYSE,MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,MNTN,"MNTN, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MO,"Altria Group, Inc.",Stock,,nasdaq_trader_symbol_directory
-NYSE,MOD,Modine Manufacturing Company Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,MOD,"Modexus Solutions, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,MOG.A,Moog Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MOG.B,Moog Inc. Class B Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,MOGU,MOGU Inc. American Depositary Shares (each representing 25 Class A Ordinary Shares),Stock,,nasdaq_trader_symbol_directory
@@ -2630,6 +2628,7 @@ NYSE,TWN,"Taiwan Fund, Inc. (The) Common Stock",Stock,,nasdaq_trader_symbol_dire
 NYSE,TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",Stock,,nasdaq_trader_symbol_directory
 NYSE,TXNM,"TXNM Energy, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests",Stock,,nasdaq_trader_symbol_directory
+NYSE,TXR,Torex Resources Inc. Common Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,TXT,Textron Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TY,Tri Continental Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,TY$,Tri Continental Corporation Preferred Stock,Stock,,nasdaq_trader_symbol_directory
