@@ -151,7 +151,7 @@ HYLN,AMEX,Hyliion Holdings Corp. Class A Common Stock,Stock,True,2026-05-08,,,c8
 IAF,AMEX,"abrdn Australia Equity Fund, Inc. Common Stock",Stock,True,2026-05-08,,,73fd4da40716a50fd34b
 IAUX,AMEX,i-80 Gold Corp. Common Shares,Stock,True,2026-05-08,,,ed544231deacbcf7bae6
 IAUX.W,AMEX,"i-80 Gold Corp. Warrants, each warrant exercisable for one Common Share at an exercise price of $0.70",Stock,True,2026-05-08,,,b568b4cdb8dd7b93692f
-IBO,AMEX,"Impact BioMedical, Inc. Common Stock",Stock,True,2026-05-08,,,dfd524fd1636dea38c80
+IBO,AMEX,"Impact BioMedical, Inc. Common Stock",Stock,False,2026-05-08,2026-11-18,Missing from current AMEX source snapshot; reason unavailable,dfd524fd1636dea38c80
 IDR,AMEX,"Idaho Strategic Resources, Inc. Common Stock",Stock,True,2026-05-08,,,05b1b816a24e6ebddbdc
 IE,AMEX,Ivanhoe Electric Inc. Common Stock,Stock,True,2026-05-08,,,928ec2df41bb9e6133ed
 IGC,AMEX,"IGC Pharma, Inc. Common Stock",Stock,True,2026-05-08,,,9e987cc295c3c8937ec8
@@ -356,6 +356,7 @@ XPL,AMEX,Solitario Resources Corp. Common Stock,Stock,True,2026-05-08,,,f3e6b363
 XTNT,AMEX,"Xtant Medical Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,17d75ea52873550c5369
 YCBD,AMEX,"cbdMD, Inc. Common Stock",Stock,True,2026-05-08,,,ac934c116bd54e0ec5cc
 ZDGE,AMEX,"Zedge, Inc. Class B Common Stock",Stock,True,2026-05-08,,,d789297abeeaa7753ded
+ZOAR,AMEX,Zoar Limited Ordinary Shares,Stock,True,2026-11-18,,,fb0257a88c89dc61bf32
 ZONE,AMEX,CleanCore Solutions Inc. Class B Common Stock,Stock,False,2026-05-08,2026-09-01,Listing metadata changed,2de3829970426de5636e
 ZONE,AMEX,Zone Frontier Inc. Class B Common Stock,Stock,True,2026-09-01,,,32cd0da969be1cb0562a
 AAAP,NASDAQ,Pacer Barings CLO Market Flex ETF,ETF,True,2026-06-23,,,5976f4ffc2d2099aaced
@@ -1435,6 +1436,7 @@ CCG,NASDAQ,Cheche Group Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,7
 CCGWW,NASDAQ,Cheche Group Inc. - Warrant,Stock,True,2026-05-08,,,dfce57813253c3b075c1
 CCHH,NASDAQ,CCH Holdings Ltd - Ordinary Shares,Stock,False,2026-05-08,2026-05-11,Listing metadata changed,35f28c7e7751070c2a90
 CCHH,NASDAQ,CCH Holdings Ltd - Class A Ordinary Shares,Stock,True,2026-05-11,,,140c73c5e041f45e0df9
+CCHP,NASDAQ,Global X China Semiconductor ETF,ETF,True,2026-11-18,,,759dad0b7829ea5b5caa
 CCII,NASDAQ,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,Stock,True,2026-05-08,,,0e3bd85718b45a3fc4d8
 CCIIU,NASDAQ,Cohen Circle Acquisition Corp. II - Unit,Stock,True,2026-05-08,,,027d51b686f6c060e30c
 CCIIW,NASDAQ,Cohen Circle Acquisition Corp. II - Warrant,Stock,True,2026-05-08,,,cd624a52256b809598da
@@ -2819,6 +2821,7 @@ GTX,NASDAQ,Garrett Motion Inc. - Common Stock,Stock,True,2026-05-08,,,a4b1499339
 GUAC,NASDAQ,Berto Acquisition Corp. II - Ordinary Shares,Stock,True,2026-07-06,,,1bb329b3b9933d6eb29c
 GUACU,NASDAQ,Berto Acquisition Corp. II - Units,Stock,True,2026-05-15,,,f09b174e48a32f748194
 GUACW,NASDAQ,Berto Acquisition Corp. II - Warrants,Stock,True,2026-07-06,,,5e7b49350841a0358ae8
+GUER,NASDAQ,"Guerrilla RF, Inc. - Common Stock",Stock,True,2026-11-18,,,4ee02dc40dbbcc8eae71
 GURE,NASDAQ,"Gulf Resources, Inc. - Common Stock",Stock,True,2026-05-08,,,95864e6d9bb690a6a6f0
 GUSE,NASDAQ,Goldman Sachs Enhanced U.S. Equity ETF,ETF,True,2026-05-08,,,8290b0d4c365472ed47e
 GUTS,NASDAQ,"Fractyl Health, Inc. - Common Stock",Stock,True,2026-05-08,,,6be5e1456d6b016c68d5
@@ -3254,6 +3257,7 @@ IQGR,NASDAQ,Astoria International Quality Growth Kings ETF,ETF,True,2026-09-16,,
 IQMX,NASDAQ,IQM Quantum Computers Oyj - American Depositary Shares,Stock,True,2026-07-02,,,4de15686b8e0f38a0caf
 IQMXW,NASDAQ,IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares,Stock,True,2026-07-02,,,e447162a51cc1e437108
 IQQ,NASDAQ,iShares Nasdaq 100 ETF,ETF,True,2026-07-09,,,1aaff9ed7e21c2cc40cb
+IQQI,NASDAQ,IncomeQ Nasdaq-100 Premium Income ETF,ETF,True,2026-11-18,,,ac51d2c0bced5b83519f
 IQQQ,NASDAQ,ProShares Nasdaq-100 High Income ETF,ETF,True,2026-05-08,,,3546881bba892b0e863f
 IQST,NASDAQ,iQSTEL Inc. - Common Stock,Stock,True,2026-05-08,,,4ffa9c827cdef15056fc
 IRD,NASDAQ,"Opus Genetics, Inc. - Common Stock",Stock,True,2026-05-08,,,f554e0d4b9d449f23654
@@ -4590,7 +4594,7 @@ PCHX,NASDAQ,State Street SPDR Nasdaq MyPaycheck ETF,ETF,True,2026-11-17,,,572cde
 PCLA,NASDAQ,PicoCELA Inc. - American Depositary Shares,Stock,True,2026-05-08,,,33cea1913662de2ead0b
 PCMM,NASDAQ,BondBloxx Private Credit CLO ETF,ETF,True,2026-05-08,,,ff6e7b7e1553eff74ca5
 PCPI,NASDAQ,PIMCO Inflation PLUS Active Exchange-Traded Fund,ETF,True,2026-05-08,,,05fc22486d8177fb4056
-PCRX,NASDAQ,"Pacira BioSciences, Inc. - Common Stock",Stock,True,2026-05-08,,,36e3669ef1e84e2620e1
+PCRX,NASDAQ,"Pacira BioSciences, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-18,Missing from current NASDAQ source snapshot; reason unavailable,36e3669ef1e84e2620e1
 PCSA,NASDAQ,"Processa Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,3a65af1d0bda04a589c9
 PCSC,NASDAQ,Perceptive Capital Solutions Corp - Class A Ordinary Shares,Stock,False,2026-05-08,2026-07-21,Missing from current NASDAQ source snapshot; reason unavailable,67b083dd8031a2ccc089
 PCT,NASDAQ,"PureCycle Technologies, Inc. - Common stock",Stock,True,2026-05-08,,,dea0c86dd55b711b8000
@@ -5281,6 +5285,7 @@ SCZ,NASDAQ,iShares MSCI EAFE Small-Cap ETF,ETF,True,2026-05-08,,,4dceb27cc81d3f6
 SCZM,NASDAQ,Santacruz Silver Mining Ltd. - Common Shares,Stock,True,2026-05-08,,,a976ecd9da19233834f1
 SDA,NASDAQ,SunCar Technology Group Inc. - Ordinary Shares,Stock,True,2026-05-08,,,07507665fb4658624c3a
 SDAWW,NASDAQ,SunCar Technology Group Inc. - Warrant,Stock,True,2026-05-08,,,bca4e8f7d8052439de35
+SDC,NASDAQ,KICK Space Data Center & Infrastructure Index ETF,ETF,True,2026-11-18,,,d04f88881409b622d453
 SDG,NASDAQ,iShares MSCI Global Sustainable Development Goals ETF,ETF,True,2026-05-08,,,7ce4e948a39084e516e9
 SDGR,NASDAQ,"Schrodinger, Inc. - Common Stock",Stock,True,2026-05-08,,,c33e05cbff4e5a4da5fc
 SDHI,NASDAQ,Siddhi Acquisition Corp - Class A Common stock,Stock,True,2026-05-08,,,74f5c117f151079097f7
@@ -5343,8 +5348,8 @@ SHAZ,NASDAQ,"SharonAI Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-
 SHBI,NASDAQ,"Shore Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,da24296ac89229c12c7e
 SHC,NASDAQ,Sotera Health Company - Common Stock,Stock,True,2026-05-08,,,cd965cb316bd88066ffc
 SHEN,NASDAQ,Shenandoah Telecommunications Co - Common Stock,Stock,True,2026-05-08,,,bc834327ad4bdbd00a7e
-SHFS,NASDAQ,"SHF Holdings, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,601e60659e572c7c4f72
-SHFSW,NASDAQ,"SHF Holdings, Inc. - Warrants",Stock,True,2026-05-08,,,02567c253cc9a99d1f9e
+SHFS,NASDAQ,"SHF Holdings, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-11-18,Missing from current NASDAQ source snapshot; reason unavailable,601e60659e572c7c4f72
+SHFSW,NASDAQ,"SHF Holdings, Inc. - Warrants",Stock,False,2026-05-08,2026-11-18,Missing from current NASDAQ source snapshot; reason unavailable,02567c253cc9a99d1f9e
 SHIM,NASDAQ,Shimmick Corporation - Common Stock,Stock,True,2026-05-08,,,fa7713420e2bc9b080d6
 SHIP,NASDAQ,Seanergy Maritime Holdings Corp. - Common Stock,Stock,True,2026-05-08,,,5a9d724fbbeaa79b08e3
 SHLS,NASDAQ,"Shoals Technologies Group, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,02675046e0ce9216efa5

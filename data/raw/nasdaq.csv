@@ -975,6 +975,7 @@ NASDAQ,CCFE,Concourse Capital Focused Equity ETF,ETF,,nasdaq_trader_symbol_direc
 NASDAQ,CCG,Cheche Group Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCGWW,Cheche Group Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCHH,CCH Holdings Ltd - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CCHP,Global X China Semiconductor ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CCII,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCIIU,Cohen Circle Acquisition Corp. II - Unit,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CCIIW,Cohen Circle Acquisition Corp. II - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -2220,6 +2221,7 @@ NASDAQ,GTX,Garrett Motion Inc. - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,GUAC,Berto Acquisition Corp. II - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GUACU,Berto Acquisition Corp. II - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GUACW,Berto Acquisition Corp. II - Warrants,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GUER,"Guerrilla RF, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GURE,"Gulf Resources, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GUSE,Goldman Sachs Enhanced U.S. Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GUTS,"Fractyl Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2617,6 +2619,7 @@ NASDAQ,IQGR,Astoria International Quality Growth Kings ETF,ETF,,nasdaq_trader_sy
 NASDAQ,IQMX,IQM Quantum Computers Oyj - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQMXW,IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IQQ,iShares Nasdaq 100 ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,IQQI,IncomeQ Nasdaq-100 Premium Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IQQQ,ProShares Nasdaq-100 High Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IQST,iQSTEL Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IRD,"Opus Genetics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3807,7 +3810,6 @@ NASDAQ,PCHX,State Street SPDR Nasdaq MyPaycheck ETF,ETF,,nasdaq_trader_symbol_di
 NASDAQ,PCLA,PicoCELA Inc. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCMM,BondBloxx Private Credit CLO ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,PCPI,PIMCO Inflation PLUS Active Exchange-Traded Fund,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,PCRX,"Pacira BioSciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCSA,"Processa Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCT,"PureCycle Technologies, Inc. - Common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PCTTU,"PureCycle Technologies, Inc. - Unit",Stock,,nasdaq_trader_symbol_directory
@@ -4444,6 +4446,7 @@ NASDAQ,SCZ,iShares MSCI EAFE Small-Cap ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SCZM,Santacruz Silver Mining Ltd. - Common Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SDA,SunCar Technology Group Inc. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SDAWW,SunCar Technology Group Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SDC,KICK Space Data Center & Infrastructure Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SDG,iShares MSCI Global Sustainable Development Goals ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,SDGR,"Schrodinger, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SDHI,Siddhi Acquisition Corp - Class A Common stock,Stock,,nasdaq_trader_symbol_directory
@@ -4500,8 +4503,6 @@ NASDAQ,SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trade
 NASDAQ,SHBI,"Shore Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHC,Sotera Health Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHEN,Shenandoah Telecommunications Co - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SHFS,"SHF Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SHFSW,"SHF Holdings, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHIM,Shimmick Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHIP,Seanergy Maritime Holdings Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SHLS,"Shoals Technologies Group, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
