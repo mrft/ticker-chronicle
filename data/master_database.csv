@@ -110,6 +110,7 @@ FCO,AMEX,"abrdn Global Income Fund, Inc. Common Stock",Stock,False,2026-05-08,20
 FJET,AMEX,"Starfighters Space, Inc. Common Stock",Stock,True,2026-05-08,,,296fb12dfcf36f5d6737
 FLYX,AMEX,"flyExclusive, Inc. Class A Common Stock",Stock,True,2026-05-08,,,f0d946d233767197c262
 FLYX.W,AMEX,"flyExclusive, Inc. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share",Stock,True,2026-05-08,,,e9fc9306063350f53203
+FMBM,AMEX,F&M Bank Corp. Common Stock,Stock,True,2026-11-19,,,2681c3a04237df1673fe
 FSI,AMEX,Flexible Solutions International Inc. Common Stock (CDA),Stock,True,2026-05-08,,,e4ee57337042098e7210
 FSP,AMEX,Franklin Street Properties Corp. Common Stock,Stock,True,2026-05-08,,,67d6e1e566484fa5760f
 FTF,AMEX,Franklin Limited Duration Income Trust Common Shares of Beneficial Interest,Stock,True,2026-05-08,,,8a4844d02fa24870aaa7
@@ -733,6 +734,7 @@ ANPA,NASDAQ,Rich Sparkle Holdings Limited - Ordinary Shares,Stock,True,2026-05-0
 ANSC,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares,Stock,False,2026-05-08,2026-08-13,Missing from current NASDAQ source snapshot; reason unavailable,a1461160c358eedaad6d
 ANSCU,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Unit,Stock,False,2026-05-08,2026-08-13,Missing from current NASDAQ source snapshot; reason unavailable,a425e8c3071fc17acc1d
 ANSCW,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Warrant,Stock,False,2026-05-08,2026-08-13,Missing from current NASDAQ source snapshot; reason unavailable,78f6bae9559ff660307f
+ANT,NASDAQ,"Anthropic, PBC - Class A Common Stock",Stock,True,2026-11-19,,,c4b9982dc9f05d07dd10
 ANTA,NASDAQ,Antalpha Platform Holding Company - Class A Ordinary Shares,Stock,True,2026-05-08,,,552e2029796e5e7ddb35
 ANTX,NASDAQ,"AN2 Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,02eb331e80c987e6729a
 ANV,NASDAQ,GraniteShares Autocallable NVDA ETF,ETF,True,2026-05-08,,,20ddb1ed049edda99782
@@ -2156,6 +2158,7 @@ ENTG,NASDAQ,"Entegris, Inc. - Common Stock",Stock,True,2026-05-08,,,1dc7d9392910
 ENTX,NASDAQ,Entera Bio Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,f3d64610696c1db24277
 ENVB,NASDAQ,"Enveric Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,3c23349d31b24b4cb975
 ENVX,NASDAQ,Enovix Corporation - Common Stock,Stock,True,2026-05-08,,,4314f575d236a233dea2
+ENVXW,NASDAQ,Enovix Corporation - Warrants,Stock,True,2026-11-19,,,e8a7dcea12d420970764
 ENZL,NASDAQ,iShares MSCI New Zealand ETF,ETF,True,2026-05-08,,,2328784e3a77bdb6c7b9
 EOCN,NASDAQ,Eocene Ltd. - Ordinary Shares,Stock,True,2026-09-10,,,ead54969e00199065b4d
 EOLS,NASDAQ,"Evolus, Inc. - Common Stock",Stock,True,2026-05-08,,,4b549cdbd1f8b0445142
@@ -2312,6 +2315,9 @@ FCXG,NASDAQ,Leverage Shares 2x Long FCX Daily ETF,ETF,False,2026-05-08,2026-10-2
 FDBC,NASDAQ,"Fidelity D & D Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,15357772d6d7c221f788
 FDCF,NASDAQ,Fidelity Disruptive Communications ETF,ETF,True,2026-05-08,,,6b72b09e8f17c3be04f3
 FDFF,NASDAQ,Fidelity Disruptive Finance ETF,ETF,False,2026-05-08,2026-11-13,Missing from current NASDAQ source snapshot; reason unavailable,aea64ee10e372f638f83
+FDGX,NASDAQ,First Digital Acquisition Corp Ltd. - Class A Ordinary Shares,Stock,True,2026-11-19,,,86e36f8963eb53789df5
+FDGXU,NASDAQ,First Digital Acquisition Corp Ltd. - Units,Stock,True,2026-11-19,,,168aed4d9631c0b05165
+FDGXW,NASDAQ,First Digital Acquisition Corp Ltd. - Warrants,Stock,True,2026-11-19,,,aec5197c10b375093a6f
 FDIF,NASDAQ,Fidelity Disruptors ETF,ETF,False,2026-05-08,2026-11-13,Missing from current NASDAQ source snapshot; reason unavailable,33f352f456aab04bb604
 FDIG,NASDAQ,Fidelity Crypto Industry and Digital Payments ETF,ETF,True,2026-05-08,,,e412be9be49a828890b5
 FDIQ,NASDAQ,Invesco Bloomberg Financial Data Providers ETF,ETF,True,2026-05-08,,,6ad9308b69737c863aa5
@@ -3459,9 +3465,9 @@ KOD,NASDAQ,Kodiak Sciences Inc - Common Stock,Stock,True,2026-05-08,,,cf5c28edab
 KOID,NASDAQ,KraneShares Global Humanoid Robotics and Physical AI Index ETF,ETF,True,2026-05-08,,,86f51d9483ff7a1c07be
 KOPN,NASDAQ,Kopin Corporation - Common Stock,Stock,True,2026-05-08,,,b9b2b43767c4a9556e7b
 KOSS,NASDAQ,Koss Corporation - Common Stock,Stock,True,2026-05-08,,,4aa59b7219918d1010f4
-KOYN,NASDAQ,CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares,Stock,True,2026-05-08,,,4a833739b09dea728c77
-KOYNU,NASDAQ,CSLM Digital Asset Acquisition Corp III - Units,Stock,True,2026-05-08,,,a11f754e339280fa204b
-KOYNW,NASDAQ,CSLM Digital Asset Acquisition Corp III - Warrants,Stock,True,2026-05-08,,,d16a6723f26fc777d519
+KOYN,NASDAQ,CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares,Stock,False,2026-05-08,2026-11-19,Missing from current NASDAQ source snapshot; reason unavailable,4a833739b09dea728c77
+KOYNU,NASDAQ,CSLM Digital Asset Acquisition Corp III - Units,Stock,False,2026-05-08,2026-11-19,Missing from current NASDAQ source snapshot; reason unavailable,a11f754e339280fa204b
+KOYNW,NASDAQ,CSLM Digital Asset Acquisition Corp III - Warrants,Stock,False,2026-05-08,2026-11-19,Missing from current NASDAQ source snapshot; reason unavailable,d16a6723f26fc777d519
 KPDD,NASDAQ,KraneShares 2x Long PDD Daily ETF,ETF,False,2026-05-08,2026-10-27,Missing from current NASDAQ source snapshot; reason unavailable,8338ca12476af116f178
 KPLT,NASDAQ,"Katapult Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,1ca9963134ef006b8196
 KPLTW,NASDAQ,"Katapult Holdings, Inc. - Warrant",Stock,False,2026-05-08,2026-06-09,Missing from current NASDAQ source snapshot; reason unavailable,fde638526b040b1dae7d
@@ -5262,7 +5268,7 @@ SCHL,NASDAQ,Scholastic Corporation - Common Stock,Stock,True,2026-05-08,,,8dee37
 SCII,NASDAQ,SC II Acquisition Corp. - Class A ordinary share,Stock,True,2026-05-08,,,e5489a25c6968b98e07f
 SCIIR,NASDAQ,SC II Acquisition Corp. - Rights,Stock,True,2026-05-08,,,89481cded12f8b71db95
 SCIIU,NASDAQ,SC II Acquisition Corp. - Units,Stock,True,2026-05-08,,,945aab492bb662a24285
-SCKT,NASDAQ,"Socket Mobile, Inc. - Common Stock",Stock,True,2026-05-08,,,a93b6cea7d9ac2c4efc3
+SCKT,NASDAQ,"Socket Mobile, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-19,Other delisting reason: Details unavailable (source: FMP Delisted API),a93b6cea7d9ac2c4efc3
 SCLS,NASDAQ,Stoneport Advisors Commodity Long Short ETF,ETF,False,2026-05-08,2026-06-17,Missing from current NASDAQ source snapshot; reason unavailable,f7b30ebbb2b1e6dbd5cd
 SCLX,NASDAQ,Scilex Holding Company - Common Stock,Stock,True,2026-05-08,,,b1cbff9c7d8815ae0ea4
 SCLXW,NASDAQ,Scilex Holding Company - Warrant,Stock,True,2026-05-08,,,e2139e102f035a0b6b94
@@ -5576,7 +5582,7 @@ SSRM,NASDAQ,SSR Mining Inc. - Common Stock,Stock,True,2026-05-08,,,7220e19412ae9
 SSS,NASDAQ,CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF,ETF,True,2026-05-08,,,73607c766ddfa210f34d
 SSSS,NASDAQ,SuRo Capital Corp. - Closed End Fund,Stock,False,2026-05-08,2026-07-01,Missing from current NASDAQ source snapshot; reason unavailable,8e0513912a39d72c7df0
 SSSSL,NASDAQ,SuRo Capital Corp. - 6.00% Notes due 2026,Stock,False,2026-05-08,2026-07-01,Missing from current NASDAQ source snapshot; reason unavailable,f9f93d73b450832949d8
-SSTI,NASDAQ,"SoundThinking, Inc. - Common Stock",Stock,True,2026-05-08,,,39b9fdad6a8629847e6a
+SSTI,NASDAQ,"SoundThinking, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-19,Other delisting reason: Details unavailable (source: FMP Delisted API),39b9fdad6a8629847e6a
 SSYS,NASDAQ,"Stratasys, Ltd. - Common Stock",Stock,True,2026-05-08,,,84475fdf94debc3c5c07
 STAA,NASDAQ,STAAR Surgical Company - Common Stock,Stock,True,2026-05-08,,,f9a0c980e5dcb3a22de4
 STAK,NASDAQ,STAK Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,5c946a0f81627d4f0c4a
@@ -8258,7 +8264,7 @@ LVS,NYSE,Las Vegas Sands Corp. Common Stock,Stock,True,2026-05-08,,,ac08893992b9
 LVWR,NYSE,"LiveWire Group, Inc. Common Stock",Stock,True,2026-05-08,,,ded50a18c54c09031587
 LVWR.W,NYSE,"LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",Stock,False,2026-05-08,2026-11-16,Missing from current NYSE source snapshot; reason unavailable,d106f82522ede2d40aaa
 LW,NYSE,"Lamb Weston Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,b3e1fd53b1e8e58eb1e4
-LXFR,NYSE,Luxfer Holdings PLC Ordinary Shares,Stock,True,2026-05-08,,,6d7ab9c70fc5b57c05e3
+LXFR,NYSE,Luxfer Holdings PLC Ordinary Shares,Stock,False,2026-05-08,2026-11-19,Other delisting reason: Details unavailable (source: FMP Delisted API),6d7ab9c70fc5b57c05e3
 LXP,NYSE,LXP Industrial Trust Common Stock (Maryland REIT),Stock,False,2026-05-08,2026-11-02,Missing from current NYSE source snapshot; reason unavailable,57ea4c9618c58cb49e9f
 LXP$C,NYSE,LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock,Stock,False,2026-05-08,2026-11-02,Missing from current NYSE source snapshot; reason unavailable,94558e82952252f01411
 LXU,NYSE,"LSB Industries, Inc. Common Stock",Stock,True,2026-05-08,,,07c630fa51546a6c124c

@@ -338,6 +338,7 @@ NASDAQ,ANNA,"AleAnna, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,ANNAW,"AleAnna, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANNX,"Annexon, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANPA,Rich Sparkle Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ANT,"Anthropic, PBC - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANTA,Antalpha Platform Holding Company - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANTX,"AN2 Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANV,GraniteShares Autocallable NVDA ETF,ETF,,nasdaq_trader_symbol_directory
@@ -1620,6 +1621,7 @@ NASDAQ,ENTG,"Entegris, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_director
 NASDAQ,ENTX,Entera Bio Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENVB,"Enveric Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENVX,Enovix Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ENVXW,Enovix Corporation - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENZL,iShares MSCI New Zealand ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EOCN,Eocene Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EOLS,"Evolus, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1763,6 +1765,9 @@ NASDAQ,FCUV,Focus Universal Inc. - Common Stock,Stock,,nasdaq_trader_symbol_dire
 NASDAQ,FCVT,First Trust SSI Strategic Convertible Securities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDBC,"Fidelity D & D Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FDCF,Fidelity Disruptive Communications ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,FDGX,First Digital Acquisition Corp Ltd. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FDGXU,First Digital Acquisition Corp Ltd. - Units,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,FDGXW,First Digital Acquisition Corp Ltd. - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FDIG,Fidelity Crypto Industry and Digital Payments ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDIQ,Invesco Bloomberg Financial Data Providers ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FDIV,MarketDesk Focused U.S. Dividend ETF,ETF,,nasdaq_trader_symbol_directory
@@ -2796,9 +2801,6 @@ NASDAQ,KOD,Kodiak Sciences Inc - Common Stock,Stock,,nasdaq_trader_symbol_direct
 NASDAQ,KOID,KraneShares Global Humanoid Robotics and Physical AI Index ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,KOPN,Kopin Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KOSS,Koss Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KOYN,CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KOYNU,CSLM Digital Asset Acquisition Corp III - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,KOYNW,CSLM Digital Asset Acquisition Corp III - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KPLT,"Katapult Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KPRX,"Kiora Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,KQQQ,Kurv Technology Titans Select ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4425,7 +4427,6 @@ NASDAQ,SCHL,Scholastic Corporation - Common Stock,Stock,,nasdaq_trader_symbol_di
 NASDAQ,SCII,SC II Acquisition Corp. - Class A ordinary share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCIIR,SC II Acquisition Corp. - Rights,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCIIU,SC II Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SCKT,"Socket Mobile, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCLX,Scilex Holding Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCLXW,Scilex Holding Company - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SCNI,Scinai Immunotherapeutics Ltd. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4707,7 +4708,6 @@ NASDAQ,SSNC,"SS&C Technologies Holdings, Inc. - Common Stock",Stock,,nasdaq_trad
 NASDAQ,SSP,E.W. Scripps Company (The) - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SSRM,SSR Mining Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SSS,CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,SSTI,"SoundThinking, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SSYS,"Stratasys, Ltd. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STAA,STAAR Surgical Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,STAK,STAK Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
