@@ -389,6 +389,7 @@ AAPL,NASDAQ,Apple Inc. - Common Stock,Stock,True,2026-05-08,,,5338b02fcc928f71f4
 AAPU,NASDAQ,Direxion Daily AAPL Bull 2X ETF,ETF,True,2026-05-08,,,f1ec66672457171b8df2
 AARD,NASDAQ,"Aardvark Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,302320df0f1d9b8fc286
 AAUB,NASDAQ,Alpha Architect US Equity 4 ETF,ETF,True,2026-07-23,,,904ff29c7533c5e8f67a
+AAUD,NASDAQ,Alpha Architect US Equity 5 ETF,ETF,True,2026-11-20,,,52fa0323fe248cd8364d
 AAUS,NASDAQ,Alpha Architect US Equity ETF,ETF,True,2026-05-08,,,9cd1028f02cb5c81ee38
 AAVM,NASDAQ,Alpha Architect Global Factor Equity ETF,ETF,True,2026-05-08,,,7ef440f10b86a47204f6
 AAXJ,NASDAQ,iShares MSCI All Country Asia ex Japan ETF,ETF,True,2026-05-08,,,b611e0f3741ea50af3ff
@@ -694,7 +695,7 @@ AMOD,NASDAQ,"Alpha Modus Holdings, Inc. - Class A Common Stock",Stock,True,2026-
 AMODW,NASDAQ,"Alpha Modus Holdings, Inc. - Warrant",Stock,True,2026-05-08,,,3c90379749e59e1ec909
 AMPG,NASDAQ,"Amplitech Group, Inc. - Common Stock",Stock,True,2026-05-08,,,716acab92c2689e1592b
 AMPGR,NASDAQ,"Amplitech Group, Inc. - Series A Right",Stock,False,2026-05-08,2026-07-21,Missing from current NASDAQ source snapshot; reason unavailable,4521a90bad9e0d63cc9b
-AMPGZ,NASDAQ,"Amplitech Group, Inc. - Series B Right",Stock,True,2026-05-08,,,2ab9c6a73a8b2ded9096
+AMPGZ,NASDAQ,"Amplitech Group, Inc. - Series B Right",Stock,False,2026-05-08,2026-11-20,Missing from current NASDAQ source snapshot; reason unavailable,2ab9c6a73a8b2ded9096
 AMPH,NASDAQ,"Amphastar Pharmaceuticals, Inc. - Common Stock",Stock,True,2026-05-08,,,591d59ec1d1d73dde1af
 AMPL,NASDAQ,"Amplitude, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,4deb940a781d86cfb6d7
 AMRN,NASDAQ,Amarin Corporation plc - American Depositary Shares,Stock,True,2026-05-08,,,17ba7bb9344ad3787a6f
@@ -1847,6 +1848,7 @@ CZFS,NASDAQ,"Citizens Financial Services, Inc. - Common Stock",Stock,True,2026-0
 CZNC,NASDAQ,Citizens & Northern Corp - Common Stock,Stock,True,2026-05-08,,,a3593dafe8354d077625
 CZR,NASDAQ,"Caesars Entertainment, Inc. - Common Stock",Stock,True,2026-05-08,,,a47f2a316269c7d8dd64
 CZWI,NASDAQ,"Citizens Community Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,4ffc6bbc157a8385ed5e
+CZZL,NASDAQ,Cizzle Brands Corporation - Common Stock,Stock,True,2026-11-20,,,d563262129ecd2d110ed
 DAAQ,NASDAQ,Digital Asset Acquisition Corp. - Class A Ordinary shares,Stock,True,2026-05-08,,,03c492331f2885308f29
 DAAQU,NASDAQ,Digital Asset Acquisition Corp. - Units,Stock,True,2026-05-08,,,57d3f66646619e35f3fb
 DAAQW,NASDAQ,Digital Asset Acquisition Corp. - Warrant,Stock,True,2026-05-08,,,dcaf36d610a1e78df9ee
@@ -3282,6 +3284,7 @@ IRWD,NASDAQ,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",Stock,True,2
 ISBA,NASDAQ,Isabella Bank Corporation - Common stock,Stock,True,2026-05-08,,,2b92cf5bfb711423a4e9
 ISHG,NASDAQ,iShares 1-3 Year International Treasury Bond ETF,ETF,True,2026-05-08,,,7bb383027e6bae040e9f
 ISHP,NASDAQ,First Trust S-Network E-Commerce ETF,ETF,True,2026-05-08,,,d9353b23755421d144e4
+ISMH,NASDAQ,xETFs International Semiconductor ETF,ETF,True,2026-11-20,,,45fa4d571c75ec83c231
 ISNR,NASDAQ,Snow Rothschild Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-07-30,,,0ae13457300349feae7d
 ISNRU,NASDAQ,Snow Rothschild Acquisition Corp. - Units,Stock,True,2026-06-09,,,cb5f521a3b5ae31b96d7
 ISNRW,NASDAQ,Snow Rothschild Acquisition Corp. - Warrants,Stock,True,2026-07-30,,,b63cf593ba0c1a9638bb
@@ -3833,7 +3836,7 @@ MEMA,NASDAQ,Man Active Emerging Markets Alternative ETF,ETF,True,2026-05-08,,,3c
 MEMS,NASDAQ,Matthews Emerging Markets Discovery Active ETF,ETF,True,2026-05-08,,,90d4ce153346f96a64d4
 MENS,NASDAQ,Jyong Biotech Ltd. - Ordinary shares,Stock,True,2026-05-08,,,6aa305860bce6285a3f1
 MEOH,NASDAQ,Methanex Corporation - Common Stock,Stock,True,2026-05-08,,,adc0be1694350a7c4d73
-MERC,NASDAQ,Mercer International Inc. - Common Stock,Stock,True,2026-05-08,,,506fe501e46962f5dd84
+MERC,NASDAQ,Mercer International Inc. - Common Stock,Stock,False,2026-05-08,2026-11-20,Missing from current NASDAQ source snapshot; reason unavailable,506fe501e46962f5dd84
 MESH,NASDAQ,Meshflow Acquisition Corp. - Class A Ordinary Shares,Stock,True,2026-05-08,,,4f3b643dcc6d84287734
 MESHU,NASDAQ,Meshflow Acquisition Corp. - Units,Stock,True,2026-05-08,,,bf79ae162b405ec5c9f9
 MESHW,NASDAQ,Meshflow Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,294c99816d842af7896d
@@ -4444,9 +4447,9 @@ OPBK,NASDAQ,OP Bancorp - Common Stock,Stock,True,2026-05-08,,,4831865fb61cc2ac86
 OPCH,NASDAQ,"Option Care Health, Inc. - Common Stock",Stock,True,2026-05-08,,,7feba12bc12e173fc88b
 OPEG,NASDAQ,Leverage Shares 2X Long OPEN Daily ETF,ETF,False,2026-05-08,2026-10-20,Missing from current NASDAQ source snapshot; reason unavailable,1422d6832b252dfa96a4
 OPEN,NASDAQ,Opendoor Technologies Inc - Common Stock,Stock,True,2026-05-08,,,122707238879066c4fe8
-OPENL,NASDAQ,"Opendoor Technologies Inc - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",Stock,True,2026-05-08,,,e841381f3d3b1b3e857f
-OPENW,NASDAQ,"Opendoor Technologies Inc - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",Stock,True,2026-05-08,,,bb591744ab50130bd1f8
-OPENZ,NASDAQ,"Opendoor Technologies Inc - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",Stock,True,2026-05-08,,,59601d8d2639b8bfc9f7
+OPENL,NASDAQ,"Opendoor Technologies Inc - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",Stock,False,2026-05-08,2026-11-20,Missing from current NASDAQ source snapshot; reason unavailable,e841381f3d3b1b3e857f
+OPENW,NASDAQ,"Opendoor Technologies Inc - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",Stock,False,2026-05-08,2026-11-20,Missing from current NASDAQ source snapshot; reason unavailable,bb591744ab50130bd1f8
+OPENZ,NASDAQ,"Opendoor Technologies Inc - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",Stock,False,2026-05-08,2026-11-20,Missing from current NASDAQ source snapshot; reason unavailable,59601d8d2639b8bfc9f7
 OPHI,NASDAQ,CollPlant Biotechnologies Ltd. - Ordinary Shares,Stock,True,2026-11-13,,,d7e29b128efeffdd8448
 OPI,NASDAQ,Office Properties Income Trust - Common shares of beneficial interest,Stock,True,2026-06-18,,,b0f199a449ed60363c34
 OPK,NASDAQ,"Opko Health, Inc. - Common Stock",Stock,True,2026-05-08,,,ecef345672a5a1b9328f
@@ -8664,7 +8667,7 @@ ONT,NYSE,"Onterris, Inc. Common Stock",Stock,True,2026-05-08,,,99b54b301a9a9d96d
 ONTO,NYSE,Onto Innovation Inc. Common Stock,Stock,True,2026-05-08,,,7c5e107f4803fef0428f
 OOMA,NYSE,"Ooma, Inc. Common Stock",Stock,True,2026-05-08,,,78137a645f08898a43b6
 OPAD,NYSE,Offerpad Solutions Inc. Class A Common Stock,Stock,False,2026-05-08,2026-08-31,Missing from current NYSE source snapshot; reason unavailable,eceed3268529ee29dba2
-OPAY,NYSE,"OPay Limited American Depositary Shares, each representing ten Ordinary Shares",Stock,True,2026-11-02,,,8d7471e2907bc9509bb9
+OPAY,NYSE,"OPay Limited American Depositary Shares, each representing ten Ordinary Shares",Stock,False,2026-11-02,2026-11-20,Missing from current NYSE source snapshot; reason unavailable,8d7471e2907bc9509bb9
 OPFI,NYSE,OppFi Inc. Class A Common Stock,Stock,True,2026-05-08,,,590d520007ca0a55debe
 OPFI.W,NYSE,OppFi Inc. Warrants,Stock,False,2026-05-08,2026-07-20,Missing from current NYSE source snapshot; reason unavailable,ed670fa534fc0008be02
 OPLN,NYSE,"OPENLANE, Inc. Common Stock",Stock,True,2026-05-08,,,49369d6680e7cc6a6627
@@ -9175,6 +9178,7 @@ SOJF,NYSE,"Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes d
 SOLV,NYSE,Solventum Corporation Common Stock,Stock,True,2026-05-08,,,adef265fbd42310fdfac
 SOMN,NYSE,Southern Company (The) 2025 Series A Corporate Units,Stock,True,2026-05-08,,,ce65a0ed2f3752d8b78b
 SON,NYSE,Sonoco Products Company Common Stock,Stock,True,2026-05-08,,,00a8a32a22b8a2ff3416
+SONN,NYSE,Southern Company (The) 2026 Series A Corporate Units,Stock,True,2026-11-20,,,4c034af2c2f4d8f3c2b3
 SONY,NYSE,Sony Group Corporation American Depositary Shares,Stock,True,2026-05-08,,,f2a62ee950d88dd9ba07
 SOR,NYSE,"Source Capital, Inc. Cmn Shs of BI",Stock,True,2026-05-08,,,b0a7b3699f064eece24a
 SOS,NYSE,SOS Limited Class A Ordinary Shares,Stock,True,2026-05-08,,,cc0152596564e33f8ed9
@@ -9475,7 +9479,7 @@ USPH,NYSE,"U.S. Physical Therapy, Inc. Common Stock",Stock,True,2026-05-08,,,c5e
 UTF,NYSE,"Cohen & Steers Infrastructure Fund, Inc Common Stock",Stock,True,2026-05-08,,,d314510326f7799ecbff
 UTI,NYSE,Universal Technical Institute Inc Common Stock,Stock,True,2026-05-08,,,9676aa7ea19547995858
 UTL,NYSE,UNITIL Corporation Common Stock,Stock,True,2026-05-08,,,a9378cfbb9428048000e
-UTZ,NYSE,Utz Brands Inc Class A Common Stock,Stock,True,2026-05-08,,,46b175c1f1bd95d57714
+UTZ,NYSE,Utz Brands Inc Class A Common Stock,Stock,False,2026-05-08,2026-11-20,Missing from current NYSE source snapshot; reason unavailable,46b175c1f1bd95d57714
 UVE,NYSE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,Stock,True,2026-05-08,,,a36f36d820ecd58e3a60
 UVV,NYSE,Universal Corporation Common Stock,Stock,True,2026-05-08,,,f878af8cded5bf545aa1
 UWMC,NYSE,UWM Holdings Corporation Class A Common Stock,Stock,True,2026-05-08,,,91c6ad82caa5c9658e4b

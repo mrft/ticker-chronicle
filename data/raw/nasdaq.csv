@@ -25,6 +25,7 @@ NASDAQ,AAPL,Apple Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AAPU,Direxion Daily AAPL Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AARD,"Aardvark Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AAUB,Alpha Architect US Equity 4 ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AAUD,Alpha Architect US Equity 5 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AAUS,Alpha Architect US Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AAVM,Alpha Architect Global Factor Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AAXJ,iShares MSCI All Country Asia ex Japan ETF,ETF,,nasdaq_trader_symbol_directory
@@ -303,7 +304,6 @@ NASDAQ,AMLX,"Amylyx Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_s
 NASDAQ,AMOD,"Alpha Modus Holdings, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMODW,"Alpha Modus Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMPG,"Amplitech Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,AMPGZ,"Amplitech Group, Inc. - Series B Right",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMPH,"Amphastar Pharmaceuticals, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMPL,"Amplitude, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AMRN,Amarin Corporation plc - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -1346,6 +1346,7 @@ NASDAQ,CZFS,"Citizens Financial Services, Inc. - Common Stock",Stock,,nasdaq_tra
 NASDAQ,CZNC,Citizens & Northern Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CZR,"Caesars Entertainment, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CZWI,"Citizens Community Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CZZL,Cizzle Brands Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DAAQ,Digital Asset Acquisition Corp. - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DAAQU,Digital Asset Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,DAAQW,Digital Asset Acquisition Corp. - Warrant,Stock,,nasdaq_trader_symbol_directory
@@ -2643,6 +2644,7 @@ NASDAQ,IRWD,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",Stock,,nasda
 NASDAQ,ISBA,Isabella Bank Corporation - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISHG,iShares 1-3 Year International Treasury Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ISHP,First Trust S-Network E-Commerce ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ISMH,xETFs International Semiconductor ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ISNR,Snow Rothschild Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISNRU,Snow Rothschild Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ISNRW,Snow Rothschild Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -3116,7 +3118,6 @@ NASDAQ,MEMA,Man Active Emerging Markets Alternative ETF,ETF,,nasdaq_trader_symbo
 NASDAQ,MEMS,Matthews Emerging Markets Discovery Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,MENS,Jyong Biotech Ltd. - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MEOH,Methanex Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MERC,Mercer International Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MESH,Meshflow Acquisition Corp. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MESHU,Meshflow Acquisition Corp. - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MESHW,Meshflow Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_directory
@@ -3670,9 +3671,6 @@ NASDAQ,OPAL,OPAL Fuels Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol_d
 NASDAQ,OPBK,OP Bancorp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPCH,"Option Care Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPEN,Opendoor Technologies Inc - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OPENL,"Opendoor Technologies Inc - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OPENW,"Opendoor Technologies Inc - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,OPENZ,"Opendoor Technologies Inc - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPHI,CollPlant Biotechnologies Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPI,Office Properties Income Trust - Common shares of beneficial interest,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OPK,"Opko Health, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory

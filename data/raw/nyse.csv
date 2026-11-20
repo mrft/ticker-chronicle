@@ -1925,7 +1925,6 @@ NYSE,ONON,On Holding AG Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_dire
 NYSE,ONT,"Onterris, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,ONTO,Onto Innovation Inc. Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OOMA,"Ooma, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,OPAY,"OPay Limited American Depositary Shares, each representing ten Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NYSE,OPFI,OppFi Inc. Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,OPLN,"OPENLANE, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2402,6 +2401,7 @@ NYSE,SOJF,"Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes d
 NYSE,SOLV,Solventum Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,SOMN,Southern Company (The) 2025 Series A Corporate Units,Stock,,nasdaq_trader_symbol_directory
 NYSE,SON,Sonoco Products Company Common Stock,Stock,,nasdaq_trader_symbol_directory
+NYSE,SONN,Southern Company (The) 2026 Series A Corporate Units,Stock,,nasdaq_trader_symbol_directory
 NYSE,SONY,Sony Group Corporation American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NYSE,SOR,"Source Capital, Inc. Cmn Shs of BI",Stock,,nasdaq_trader_symbol_directory
 NYSE,SOS,SOS Limited Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -2680,7 +2680,6 @@ NYSE,USPH,"U.S. Physical Therapy, Inc. Common Stock",Stock,,nasdaq_trader_symbol
 NYSE,UTF,"Cohen & Steers Infrastructure Fund, Inc Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,UTI,Universal Technical Institute Inc Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,UTL,UNITIL Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
-NYSE,UTZ,Utz Brands Inc Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,UVV,Universal Corporation Common Stock,Stock,,nasdaq_trader_symbol_directory
 NYSE,UWMC,UWM Holdings Corporation Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
