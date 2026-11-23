@@ -199,6 +199,7 @@ NASDAQ,AIFU,AIFU Inc. - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_direc
 NASDAQ,AIIO,Robo.ai Inc. - Class B Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIIOW,Robo.ai Inc. - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIIR,Air Global PLC - Ordinary shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,AIL,GraniteShares 2x Long Anthropic Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AIMD,"Ainos, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIMDW,"Ainos, Inc. - warrants",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AIMG,Defiance AI Magnificent 10 ETF,ETF,,nasdaq_trader_symbol_directory
@@ -338,9 +339,16 @@ NASDAQ,ANNA,"AleAnna, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_d
 NASDAQ,ANNAW,"AleAnna, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANNX,"Annexon, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANPA,Rich Sparkle Holdings Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ANS,GraniteShares 2x Short Anthropic Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ANT,"Anthropic, PBC - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ANTA,Antalpha Platform Holding Company - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ANTC,Defiance 2X ANT Long Daily ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ANTD,Direxion Daily Anthropic Bear 2X ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ANTO,Direxion Daily Anthropic Bull 2X ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ANTQ,Defiance 2X ANT Short Daily ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ANTU,ProShares Ultra Anthropic,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ANTX,"AN2 Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,ANTY,ProShares UltraShort Anthropic,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ANV,GraniteShares Autocallable NVDA ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AOHY,Angel Oak High Yield Opportunities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AOSL,Alpha and Omega Semiconductor Limited - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -521,6 +529,7 @@ NASDAQ,AVX,Avax One Technology Ltd. - Common Shares,Stock,,nasdaq_trader_symbol_
 NASDAQ,AVXC,Avantis Emerging Markets ex-China Equity ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,AVXL,Anavex Life Sciences Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AVXX,Defiance Daily Target 2x Long AVAV ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,AVZO,"Avenzo Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AWRE,"Aware, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AXG,Solowin Holdings - Class A Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,AXGN,"Axogen, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -688,9 +697,6 @@ NASDAQ,BIYA,Baiya International Group Inc. - Ordinary Shares,Stock,,nasdaq_trade
 NASDAQ,BJDX,"Bluejay Diagnostics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BJRI,"BJ's Restaurants, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BKCH,Global X Blockchain ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,BKHA,Black Hawk Acquisition Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BKHAR,Black Hawk Acquisition Corporation - Rights,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,BKHAU,Black Hawk Acquisition Corporation - Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BKMI,BNY Mellon Municipal Intermediate ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BKMS,BNY Mellon Municipal Short Duration ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BKNG,Booking Holdings Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1133,6 +1139,7 @@ NASDAQ,CLSKW,"CleanSpark, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CLSM,ETC Cabana Target Leading Sector Moderate ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CLST,"Catalyst Bancorp, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CLWT,Euro Tech Holdings Company Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CLYD,"Clywedog Therapeutics Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CLYM,"Climb Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CMBO,Wayfinder Dynamic U.S. Interest Rate ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CMCO,Columbus McKinnon Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -1610,6 +1617,7 @@ NASDAQ,ENGS,Energys Group Limited - Ordinary Shares,Stock,,nasdaq_trader_symbol_
 NASDAQ,ENHE,iShares Enhanced Emerging Markets Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ENHI,iShares Enhanced International Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ENHU,iShares Enhanced Large Cap Core Active ETF,ETF,,nasdaq_trader_symbol_directory
+NASDAQ,ENHV,iShares Enhanced Large Cap Value Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,ENLT,Enlight Renewable Energy Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENLV,Enlivex Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ENPH,"Enphase Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -1686,6 +1694,8 @@ NASDAQ,EVOXU,Evolution Global Acquisition Corp - Units,Stock,,nasdaq_trader_symb
 NASDAQ,EVOXW,Evolution Global Acquisition Corp - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVPF,Eaton Vance Preferred Securities and Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EVRG,"Evergy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EVRL,Everli Global Holdings - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,EVRLW,Everli Global Holdings - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EVSD,Eaton Vance Short Duration Income ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EVYM,Eaton Vance High Income Municipal ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EWAV,East West Ave Acquisition Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
@@ -2067,7 +2077,7 @@ NASDAQ,GERN,Geron Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,GEVG,Leverage Shares 2X Long GEV Daily ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GEVO,"Gevo, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GEW,Cambria Global EW ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,GFAI,"Guardforce AI Co., Limited - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GFAI,"Guardforce AI Co., Limited - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GFLW,VictoryShares Free Cash Flow Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,GFS,GlobalFoundries Inc. - Ordinary Share,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GFUZ,General Fusion Group Ltd. - Common Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3036,9 +3046,6 @@ NASDAQ,LZ,"LegalZoom.com, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_direc
 NASDAQ,LZMH,LZ Technology Holdings Limited - Class B Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAAS,Maase Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAAY,GraniteShares YieldBOOST MARA ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,MACI,Melar Acquisition Corp. I - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MACIU,Melar Acquisition Corp. I - Unit,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,MACIW,Melar Acquisition Corp. I - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAGH,Magnitude International Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAKO,Mako Mining Corp - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,MAMA,"Mama's Creations, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4278,11 +4285,9 @@ NASDAQ,RJET,Republic Airways Holdings Inc. - Common Stock,Stock,,nasdaq_trader_s
 NASDAQ,RKDA,"Arcadia Biosciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RKLB,Rocket Lab Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RKLX,Defiance Daily Target 2X Long RKLB ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,RKNG,Defiance Retail Kings ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RKTO,Rocket One Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RLAY,"Relay Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RLMD,"Relmada Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RLYB,Rallybio Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RMBI,"Richmond Mutual Bancorporation, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RMBS,"Rambus, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RMCF,"Rocky Mountain Chocolate Factory, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5221,6 +5226,7 @@ NASDAQ,VERA,"Vera Therapeutics, Inc. - Class A Common Stock",Stock,,nasdaq_trade
 NASDAQ,VERI,"Veritone, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VERU,Veru Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VERX,"Vertex, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,VESI,"Vesicor Therapeutics Holdings, Inc. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VFF,"Village Farms International, Inc. - Common Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VFLO,VictoryShares Free Cash Flow ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VFS,VinFast Auto Ltd. - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory

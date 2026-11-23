@@ -577,6 +577,7 @@ AIHS,NASDAQ,Senmiao Technology Limited - Common Stock,Stock,False,2026-05-08,202
 AIIO,NASDAQ,Robo.ai Inc. - Class B Ordinary Shares,Stock,True,2026-05-08,,,b9ab1740a3683c3a0f6c
 AIIOW,NASDAQ,Robo.ai Inc. - Warrant,Stock,True,2026-05-08,,,d731c57c60cc864c4f0c
 AIIR,NASDAQ,Air Global PLC - Ordinary shares,Stock,True,2026-05-18,,,6fddf7eea04ab5aac0cb
+AIL,NASDAQ,GraniteShares 2x Long Anthropic Daily ETF,ETF,True,2026-11-23,,,c0248a11fe7f2af308ad
 AIMD,NASDAQ,"Ainos, Inc. - Common Stock",Stock,True,2026-05-08,,,4d3c6a5ec5e60eea924c
 AIMDW,NASDAQ,"Ainos, Inc. - warrants",Stock,True,2026-05-08,,,21d1cf22d6693a65dd37
 AIMG,NASDAQ,Defiance AI Magnificent 10 ETF,ETF,True,2026-09-10,,,fb3946b65609721ac165
@@ -732,12 +733,19 @@ ANNA,NASDAQ,"AleAnna, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,d8d6d
 ANNAW,NASDAQ,"AleAnna, Inc. - Warrant",Stock,True,2026-05-08,,,b4167f70c211590598c8
 ANNX,NASDAQ,"Annexon, Inc. - common stock",Stock,True,2026-05-08,,,4e8636fccc1b206dacce
 ANPA,NASDAQ,Rich Sparkle Holdings Limited - Ordinary Shares,Stock,True,2026-05-08,,,7ffd46ca0ff8e1e5a222
+ANS,NASDAQ,GraniteShares 2x Short Anthropic Daily ETF,ETF,True,2026-11-23,,,a785b38db92cf955fcd8
 ANSC,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares,Stock,False,2026-05-08,2026-08-13,Missing from current NASDAQ source snapshot; reason unavailable,a1461160c358eedaad6d
 ANSCU,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Unit,Stock,False,2026-05-08,2026-08-13,Missing from current NASDAQ source snapshot; reason unavailable,a425e8c3071fc17acc1d
 ANSCW,NASDAQ,Agriculture & Natural Solutions Acquisition Corporation - Warrant,Stock,False,2026-05-08,2026-08-13,Missing from current NASDAQ source snapshot; reason unavailable,78f6bae9559ff660307f
 ANT,NASDAQ,"Anthropic, PBC - Class A Common Stock",Stock,True,2026-11-19,,,c4b9982dc9f05d07dd10
 ANTA,NASDAQ,Antalpha Platform Holding Company - Class A Ordinary Shares,Stock,True,2026-05-08,,,552e2029796e5e7ddb35
+ANTC,NASDAQ,Defiance 2X ANT Long Daily ETF,ETF,True,2026-11-23,,,d9a666e8d6c4d5540c31
+ANTD,NASDAQ,Direxion Daily Anthropic Bear 2X ETF,ETF,True,2026-11-23,,,5107d6a70f9b1fc3e0a5
+ANTO,NASDAQ,Direxion Daily Anthropic Bull 2X ETF,ETF,True,2026-11-23,,,c0092958d4dc629d8bd5
+ANTQ,NASDAQ,Defiance 2X ANT Short Daily ETF,ETF,True,2026-11-23,,,cd44de624d8f50bbd494
+ANTU,NASDAQ,ProShares Ultra Anthropic,ETF,True,2026-11-23,,,853868e97e2fd2056896
 ANTX,NASDAQ,"AN2 Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,02eb331e80c987e6729a
+ANTY,NASDAQ,ProShares UltraShort Anthropic,ETF,True,2026-11-23,,,04293e5229ed025aca9c
 ANV,NASDAQ,GraniteShares Autocallable NVDA ETF,ETF,True,2026-05-08,,,20ddb1ed049edda99782
 ANY,NASDAQ,Sphere 3D Corp. - Common Shares,Stock,False,2026-05-08,2026-09-17,Other delisting reason: Details unavailable (source: FMP Delisted API),e151b6ff01613408654b
 AOHY,NASDAQ,Angel Oak High Yield Opportunities ETF,ETF,True,2026-05-08,,,942ee2d7ff9d1395f78a
@@ -938,6 +946,7 @@ AVX,NASDAQ,Avax One Technology Ltd. - Common Shares,Stock,True,2026-05-08,,,62cb
 AVXC,NASDAQ,Avantis Emerging Markets ex-China Equity ETF,ETF,True,2026-05-08,,,e68399c061fbd838e3c8
 AVXL,NASDAQ,Anavex Life Sciences Corp. - Common Stock,Stock,True,2026-05-08,,,125fecaaee6393969461
 AVXX,NASDAQ,Defiance Daily Target 2x Long AVAV ETF,ETF,True,2026-05-08,,,a6f99716e1cd38a39b6f
+AVZO,NASDAQ,"Avenzo Therapeutics, Inc. - Common Stock",Stock,True,2026-11-23,,,00d1e101974646b53645
 AWRE,NASDAQ,"Aware, Inc. - Common Stock",Stock,True,2026-05-08,,,38e9d56dbede4f32eece
 AXG,NASDAQ,Solowin Holdings - Class A Ordinary Share,Stock,True,2026-05-08,,,90ae02a1fdec19b21412
 AXGN,NASDAQ,"Axogen, Inc. - Common Stock",Stock,True,2026-05-08,,,ff3fded572f0f1df0ac7
@@ -1123,9 +1132,9 @@ BIYA,NASDAQ,Baiya International Group Inc. - Ordinary Shares,Stock,True,2026-05-
 BJDX,NASDAQ,"Bluejay Diagnostics, Inc. - Common Stock",Stock,True,2026-05-08,,,f7d4311c7b5c1f6b270b
 BJRI,NASDAQ,"BJ's Restaurants, Inc. - Common Stock",Stock,True,2026-05-08,,,4b022b7a512dd1be7847
 BKCH,NASDAQ,Global X Blockchain ETF,ETF,True,2026-05-08,,,bab037288cd3a95e264f
-BKHA,NASDAQ,Black Hawk Acquisition Corporation - Class A Ordinary Shares,Stock,True,2026-05-08,,,31f0d1daf160edfe6d7e
-BKHAR,NASDAQ,Black Hawk Acquisition Corporation - Rights,Stock,True,2026-05-08,,,012e6b10e0218beb8892
-BKHAU,NASDAQ,Black Hawk Acquisition Corporation - Units,Stock,True,2026-05-08,,,7911accf40af6388d7fe
+BKHA,NASDAQ,Black Hawk Acquisition Corporation - Class A Ordinary Shares,Stock,False,2026-05-08,2026-11-23,Missing from current NASDAQ source snapshot; reason unavailable,31f0d1daf160edfe6d7e
+BKHAR,NASDAQ,Black Hawk Acquisition Corporation - Rights,Stock,False,2026-05-08,2026-11-23,Missing from current NASDAQ source snapshot; reason unavailable,012e6b10e0218beb8892
+BKHAU,NASDAQ,Black Hawk Acquisition Corporation - Units,Stock,False,2026-05-08,2026-11-23,Missing from current NASDAQ source snapshot; reason unavailable,7911accf40af6388d7fe
 BKMI,NASDAQ,BNY Mellon Municipal Intermediate ETF,ETF,True,2026-05-08,,,f4e000d232c2e621cb6f
 BKMS,NASDAQ,BNY Mellon Municipal Short Duration ETF,ETF,True,2026-05-08,,,db42c22fa409d48c36b7
 BKNG,NASDAQ,Booking Holdings Inc. - Common Stock,Stock,True,2026-05-08,,,e435559cd47d2178c73b
@@ -1612,6 +1621,7 @@ CLSKW,NASDAQ,"CleanSpark, Inc. - Warrant",Stock,True,2026-05-08,,,8adf0c5111e264
 CLSM,NASDAQ,ETC Cabana Target Leading Sector Moderate ETF,ETF,True,2026-05-08,,,601a409eb1ce48380a64
 CLST,NASDAQ,"Catalyst Bancorp, Inc. - common stock",Stock,True,2026-05-08,,,ef6b82d6bb9c71107533
 CLWT,NASDAQ,Euro Tech Holdings Company Limited - Ordinary Shares,Stock,True,2026-05-08,,,b7c5b2b0cd7bb474149e
+CLYD,NASDAQ,"Clywedog Therapeutics Holdings, Inc. - Common Stock",Stock,True,2026-11-23,,,41bf2ae1ecf5e918e0c4
 CLYM,NASDAQ,"Climb Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,65442db90c10634fa523
 CMBO,NASDAQ,Wayfinder Dynamic U.S. Interest Rate ETF,ETF,True,2026-05-08,,,f3657c86cdff2bf06b13
 CMCO,NASDAQ,Columbus McKinnon Corporation - Common Stock,Stock,True,2026-05-08,,,987dc3200c5e4312c931
@@ -2148,6 +2158,7 @@ ENGS,NASDAQ,Energys Group Limited - Ordinary Shares,Stock,True,2026-05-08,,,0b77
 ENHE,NASDAQ,iShares Enhanced Emerging Markets Active ETF,ETF,True,2026-09-30,,,f624eb03841b32bf0c83
 ENHI,NASDAQ,iShares Enhanced International Active ETF,ETF,True,2026-05-08,,,e8cefca9a5746e1216ce
 ENHU,NASDAQ,iShares Enhanced Large Cap Core Active ETF,ETF,True,2026-05-08,,,3b87dfa8f187eb1a69ec
+ENHV,NASDAQ,iShares Enhanced Large Cap Value Active ETF,ETF,True,2026-11-23,,,cb8a7c2fa20c3d016ff9
 ENLT,NASDAQ,Enlight Renewable Energy Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,0e7216f0d80a19d59d2a
 ENLV,NASDAQ,Enlivex Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,b85d556a38f0a7875a1f
 ENPH,NASDAQ,"Enphase Energy, Inc. - Common Stock",Stock,True,2026-05-08,,,2f8832494547558e8364
@@ -2230,6 +2241,8 @@ EVOXU,NASDAQ,Evolution Global Acquisition Corp - Units,Stock,True,2026-05-08,,,4
 EVOXW,NASDAQ,Evolution Global Acquisition Corp - Warrants,Stock,True,2026-05-08,,,fc5a20401e3f3dffa2e9
 EVPF,NASDAQ,Eaton Vance Preferred Securities and Income ETF,ETF,True,2026-05-08,,,78bf85489c459e98c34d
 EVRG,NASDAQ,"Evergy, Inc. - Common Stock",Stock,True,2026-05-08,,,0cb949ba7f027bee2092
+EVRL,NASDAQ,Everli Global Holdings - Class A Ordinary Shares,Stock,True,2026-11-23,,,1380bda1211e79cb06e9
+EVRLW,NASDAQ,Everli Global Holdings - Warrant,Stock,True,2026-11-23,,,6f6f3e168fe13aa13281
 EVSD,NASDAQ,Eaton Vance Short Duration Income ETF,ETF,True,2026-05-08,,,ffa11464cf53d3b9c700
 EVTV,NASDAQ,"Envirotech Vehicles, Inc. - Common stock",Stock,False,2026-05-08,2026-07-10,Listing metadata changed,5d043eca98a6eb0c8d58
 EVTV,NASDAQ,"Azio AI Holdings, Inc. - Common stock",Stock,False,2026-07-10,2026-07-13,Missing from current NASDAQ source snapshot; reason unavailable,644b80e4495d85739ce7
@@ -2651,7 +2664,8 @@ GERN,NASDAQ,Geron Corporation - Common Stock,Stock,True,2026-05-08,,,6e2eee36329
 GEVG,NASDAQ,Leverage Shares 2X Long GEV Daily ETF,ETF,True,2026-05-08,,,fcfaa0572c0202d4a6f0
 GEVO,NASDAQ,"Gevo, Inc. - Common Stock",Stock,True,2026-05-08,,,c7d2593850b78dd18e6f
 GEW,NASDAQ,Cambria Global EW ETF,ETF,True,2026-05-08,,,640e1a016754abb14284
-GFAI,NASDAQ,"Guardforce AI Co., Limited - Ordinary Shares",Stock,True,2026-05-08,,,5b67e3283738e0300534
+GFAI,NASDAQ,"Guardforce AI Co., Limited - Ordinary Shares",Stock,False,2026-05-08,2026-11-23,Listing metadata changed,5b67e3283738e0300534
+GFAI,NASDAQ,"Guardforce AI Co., Limited - Class A Ordinary Shares",Stock,True,2026-11-23,,,41ddcda869e482f93c45
 GFAIW,NASDAQ,"Guardforce AI Co., Limited - Warrant",Stock,False,2026-05-08,2026-10-02,Missing from current NASDAQ source snapshot; reason unavailable,3429df79180c9d817bd1
 GFGF,NASDAQ,Guru Favorite Stocks ETF,ETF,False,2026-05-08,2026-10-26,Missing from current NASDAQ source snapshot; reason unavailable,927ba1647265f15b86dc
 GFLW,NASDAQ,VictoryShares Free Cash Flow Growth ETF,ETF,True,2026-05-08,,,047c14b11dc80ab8b8bd
@@ -3744,9 +3758,9 @@ LZ,NASDAQ,"LegalZoom.com, Inc. - Common Stock",Stock,True,2026-05-08,,,a2695c8ab
 LZMH,NASDAQ,LZ Technology Holdings Limited - Class B Ordinary Shares,Stock,True,2026-05-08,,,ca05bb66edeb0f982578
 MAAS,NASDAQ,Maase Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,543f6edc36813a1471f8
 MAAY,NASDAQ,GraniteShares YieldBOOST MARA ETF,ETF,True,2026-05-08,,,1cadb2f1172dcdccee6d
-MACI,NASDAQ,Melar Acquisition Corp. I - Class A Ordinary Shares,Stock,True,2026-05-08,,,926d188af4c495f919b4
-MACIU,NASDAQ,Melar Acquisition Corp. I - Unit,Stock,True,2026-05-08,,,3ab7a3106d57ffbb9d86
-MACIW,NASDAQ,Melar Acquisition Corp. I - Warrant,Stock,True,2026-05-08,,,be5e7d553737e120005c
+MACI,NASDAQ,Melar Acquisition Corp. I - Class A Ordinary Shares,Stock,False,2026-05-08,2026-11-23,Missing from current NASDAQ source snapshot; reason unavailable,926d188af4c495f919b4
+MACIU,NASDAQ,Melar Acquisition Corp. I - Unit,Stock,False,2026-05-08,2026-11-23,Missing from current NASDAQ source snapshot; reason unavailable,3ab7a3106d57ffbb9d86
+MACIW,NASDAQ,Melar Acquisition Corp. I - Warrant,Stock,False,2026-05-08,2026-11-23,Missing from current NASDAQ source snapshot; reason unavailable,be5e7d553737e120005c
 MAGH,NASDAQ,Magnitude International Ltd - Ordinary Shares,Stock,True,2026-05-08,,,1d1b06dd9bb374aff567
 MAKO,NASDAQ,Mako Mining Corp - Common Stock,Stock,True,2026-05-08,,,5e8c1ec7a0ecd8946200
 MAMA,NASDAQ,"Mama's Creations, Inc. - Common Stock",Stock,True,2026-05-08,,,cb6e2fcf961183bfab54
@@ -5113,11 +5127,11 @@ RKDA,NASDAQ,"Arcadia Biosciences, Inc. - Common Stock",Stock,True,2026-05-08,,,0
 RKLB,NASDAQ,Rocket Lab Corporation - Common Stock,Stock,True,2026-05-08,,,3c67f1774e3f0fdd9ee1
 RKLX,NASDAQ,Defiance Daily Target 2X Long RKLB ETF,ETF,True,2026-05-08,,,c315d959dbec6b4b8a05
 RKLZ,NASDAQ,Defiance Daily Target 2x Short RKLB ETF,ETF,False,2026-05-08,2026-11-17,Missing from current NASDAQ source snapshot; reason unavailable,455a1e4c737506e24efc
-RKNG,NASDAQ,Defiance Retail Kings ETF,ETF,True,2026-05-08,,,ad38aa1d5af09949e06d
+RKNG,NASDAQ,Defiance Retail Kings ETF,ETF,False,2026-05-08,2026-11-23,Missing from current NASDAQ source snapshot; reason unavailable,ad38aa1d5af09949e06d
 RKTO,NASDAQ,Rocket One Inc. - Common Stock,Stock,True,2026-05-28,,,aed80925a706002da4e2
 RLAY,NASDAQ,"Relay Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,36066301f1ef5c36e333
 RLMD,NASDAQ,"Relmada Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,59916d0e1ff762b2d68a
-RLYB,NASDAQ,Rallybio Corporation - Common Stock,Stock,True,2026-05-08,,,87fd9ca4134c08d71efa
+RLYB,NASDAQ,Rallybio Corporation - Common Stock,Stock,False,2026-05-08,2026-11-23,Missing from current NASDAQ source snapshot; reason unavailable,87fd9ca4134c08d71efa
 RMBI,NASDAQ,"Richmond Mutual Bancorporation, Inc. - Common Stock",Stock,True,2026-05-08,,,870ee7082fbf0072a58f
 RMBS,NASDAQ,"Rambus, Inc. - Common Stock",Stock,True,2026-05-08,,,0968c0c87e720dc64abf
 RMCF,NASDAQ,"Rocky Mountain Chocolate Factory, Inc. - Common Stock",Stock,True,2026-05-08,,,3e7eb62482c2e9febaa1
@@ -6158,6 +6172,7 @@ VERA,NASDAQ,"Vera Therapeutics, Inc. - Class A Common Stock",Stock,True,2026-05-
 VERI,NASDAQ,"Veritone, Inc. - Common Stock",Stock,True,2026-05-08,,,24dde1c6a6f368e3f9f7
 VERU,NASDAQ,Veru Inc. - Common Stock,Stock,True,2026-05-08,,,c3f32c25f3ea4a6dae28
 VERX,NASDAQ,"Vertex, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,28756d770e02838287ef
+VESI,NASDAQ,"Vesicor Therapeutics Holdings, Inc. - Class A Ordinary Shares",Stock,True,2026-11-23,,,7e08f4cdf5f6831c8f30
 VFF,NASDAQ,"Village Farms International, Inc. - Common Shares",Stock,True,2026-05-08,,,2ca0c226d28a1f2fa930
 VFLO,NASDAQ,VictoryShares Free Cash Flow ETF,ETF,True,2026-05-08,,,23bc6d96452a074dd9cf
 VFS,NASDAQ,VinFast Auto Ltd. - Ordinary Shares,Stock,True,2026-05-08,,,78016570cdc6ad9c92cc
@@ -6980,10 +6995,13 @@ BIII.W,NYSE,"Black Spade Acquisition III Co Redeemable warrants, each whole warr
 BILL,NYSE,"BILL Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,3bf8f079393496dc2f7c
 BIO,NYSE,"Bio-Rad Laboratories, Inc. Class A Common Stock",Stock,True,2026-05-08,,,e9dc0e9a895cdaa96bda
 BIO.B,NYSE,"Bio-Rad Laboratories, Inc. Class B Common Stock",Stock,True,2026-05-08,,,86244f8f31c29c8fc429
-BIP,NYSE,Brookfield Infrastructure Partners LP Limited Partnership Units,Stock,True,2026-05-08,,,b8f6bdaf8be07bcf59ba
-BIP$A,NYSE,"Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",Stock,True,2026-05-08,,,037175b86a1e74c79684
-BIP$B,NYSE,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",Stock,True,2026-05-08,,,ddfebf3dfaa1022c8425
-BIPC,NYSE,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation,Stock,True,2026-05-08,,,67c12567e80f7b4c694a
+BIP,NYSE,Brookfield Infrastructure Partners LP Limited Partnership Units,Stock,False,2026-05-08,2026-11-23,Listing metadata changed,b8f6bdaf8be07bcf59ba
+BIP,NYSE,Brookfield Infrastructure Partners Inc. Class A Subordinate Voting Shares,Stock,True,2026-11-23,,,04c6c2089123991a6933
+BIP$A,NYSE,"Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",Stock,False,2026-05-08,2026-11-23,Missing from current NYSE source snapshot; reason unavailable,037175b86a1e74c79684
+BIP$B,NYSE,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",Stock,False,2026-05-08,2026-11-23,Missing from current NYSE source snapshot; reason unavailable,ddfebf3dfaa1022c8425
+BIPC,NYSE,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation,Stock,False,2026-05-08,2026-11-23,Missing from current NYSE source snapshot; reason unavailable,67c12567e80f7b4c694a
+BIPF$A,NYSE,"Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",Stock,True,2026-11-23,,,037175b86a1e74c79684
+BIPF$B,NYSE,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",Stock,True,2026-11-23,,,ddfebf3dfaa1022c8425
 BIPH,NYSE,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081,Stock,True,2026-05-08,,,d92c9b00f6e32af1ab34
 BIPI,NYSE,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,Stock,True,2026-05-08,,,45b9d69ae247966c9bd0
 BIPJ,NYSE,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,Stock,True,2026-05-08,,,a8f1c020e8bcb18bfd67

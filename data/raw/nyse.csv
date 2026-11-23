@@ -366,10 +366,9 @@ NYSE,BIII.W,"Black Spade Acquisition III Co Redeemable warrants, each whole warr
 NYSE,BILL,"BILL Holdings, Inc. Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BIO,"Bio-Rad Laboratories, Inc. Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NYSE,BIO.B,"Bio-Rad Laboratories, Inc. Class B Common Stock",Stock,,nasdaq_trader_symbol_directory
-NYSE,BIP,Brookfield Infrastructure Partners LP Limited Partnership Units,Stock,,nasdaq_trader_symbol_directory
-NYSE,BIP$A,"Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",Stock,,nasdaq_trader_symbol_directory
-NYSE,BIP$B,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",Stock,,nasdaq_trader_symbol_directory
-NYSE,BIPC,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation,Stock,,nasdaq_trader_symbol_directory
+NYSE,BIP,Brookfield Infrastructure Partners Inc. Class A Subordinate Voting Shares,Stock,,nasdaq_trader_symbol_directory
+NYSE,BIPF$A,"Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",Stock,,nasdaq_trader_symbol_directory
+NYSE,BIPF$B,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",Stock,,nasdaq_trader_symbol_directory
 NYSE,BIPH,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081,Stock,,nasdaq_trader_symbol_directory
 NYSE,BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,Stock,,nasdaq_trader_symbol_directory
 NYSE,BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,Stock,,nasdaq_trader_symbol_directory
