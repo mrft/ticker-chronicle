@@ -268,6 +268,7 @@ PW,AMEX,Power REIT (MD) Common Stock,Stock,True,2026-05-08,,,48e7d358cccb973b84a
 PW$A,AMEX,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,Stock,True,2026-05-08,,,c9cd10d3825d7f7aa7b0
 PZG,AMEX,Paramount Gold Nevada Corp. Common Stock,Stock,True,2026-05-08,,,ac41203abcd690b3dd02
 QNC,AMEX,Quantum eMotion Corp. Common Shares,Stock,True,2026-05-08,,,8f220506c1a46306af13
+QSPC.W,AMEX,"Quantum Space, Inc. Warrants, each whole warrant exercisable for one share of Class A-1 Common Stock at an exercise price of $11.50 per share",Stock,True,2026-11-24,,,a2a7178ff8eeb098437b
 RCG,AMEX,"RENN Fund, Inc Common Stock",Stock,True,2026-05-08,,,52341df78beffbce02b0
 REA,AMEX,"Rare Earths Americas, Inc. Common Stock",Stock,True,2026-05-08,,,91c0bdc94ca366798308
 REED,AMEX,"Reed's, Inc. Common Stock",Stock,True,2026-05-08,,,3f8c5faaea6c7e20f8bd
@@ -1706,7 +1707,7 @@ CPAG,NASDAQ,F/m Compoundr U.S. Aggregate Bond ETF,ETF,True,2026-05-08,,,cb7e98d2
 CPB,NASDAQ,The Campbell's Company - Common Stock,Stock,True,2026-05-08,,,aa2196a545c906f649a4
 CPBI,NASDAQ,"Central Plains Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,a5f51b67729c80cfd6b2
 CPHC,NASDAQ,Canterbury Park Holding Corporation - Common Stock,Stock,True,2026-05-08,,,e8f1ef6a5ffefdce36d1
-CPHY,NASDAQ,F/m Compoundr High Yield Bond ETF,ETF,True,2026-05-08,,,d7232f98fd1b4288a3a2
+CPHY,NASDAQ,F/m Compoundr High Yield Bond ETF,ETF,False,2026-05-08,2026-11-24,Missing from current NASDAQ source snapshot; reason unavailable,d7232f98fd1b4288a3a2
 CPIX,NASDAQ,Cumberland Pharmaceuticals Inc. - Common Stock,Stock,True,2026-05-08,,,64b26a305639191f01f9
 CPLS,NASDAQ,AB Core Plus Bond ETF,ETF,True,2026-05-08,,,36c1988f35e0f950cb4f
 CPOP,NASDAQ,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",Stock,True,2026-05-08,,,9a3d797de838bc036552
@@ -2070,7 +2071,7 @@ EBAY,NASDAQ,eBay Inc. - Common Stock,Stock,True,2026-05-08,,,c3f9b72006984f2691e
 EBC,NASDAQ,"Eastern Bankshares, Inc. - Common Stock",Stock,True,2026-05-08,,,4c901a92efecac1efd16
 EBI,NASDAQ,Longview Advantage ETF,ETF,True,2026-05-08,,,f5202970d7760a4551de
 EBIZ,NASDAQ,Global X E-commerce ETF,ETF,True,2026-05-08,,,f17a0799ddf3c33dd945
-EBMT,NASDAQ,"Eagle Bancorp Montana, Inc. - Common Stock",Stock,True,2026-05-08,,,cb769613c7918736d00b
+EBMT,NASDAQ,"Eagle Bancorp Montana, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-24,Missing from current NASDAQ source snapshot; reason unavailable,cb769613c7918736d00b
 EBON,NASDAQ,Ebang International Holdings Inc. - Class A Ordinary Shares,Stock,True,2026-05-08,,,0defcca297652a65c137
 ECBK,NASDAQ,"ECB Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,942a5337d2270e052f03
 ECHO,NASDAQ,EchoStar Corporation - Common stock,Stock,True,2026-06-24,,,638a3878c55ca5111e3e
@@ -3250,9 +3251,9 @@ IPDN,NASDAQ,"Professional Diversity Network, Inc. - Common Stock",Stock,True,202
 IPEX,NASDAQ,Inflection Point Acquisition Corp. - Class A Ordinary Shares,Stock,False,2026-05-08,2026-09-28,Missing from current NASDAQ source snapshot; reason unavailable,96f80ccde4bb0bf73e7b
 IPEXR,NASDAQ,Inflection Point Acquisition Corp. - Right,Stock,False,2026-05-08,2026-09-28,Missing from current NASDAQ source snapshot; reason unavailable,93de508a3d5fe23e1a0f
 IPEXU,NASDAQ,Inflection Point Acquisition Corp. - Unit,Stock,False,2026-05-08,2026-09-28,Missing from current NASDAQ source snapshot; reason unavailable,6b04f08dff747491eed3
-IPFX,NASDAQ,Inflection Point Acquisition Corp. VI - Class A Ordinary Shares,Stock,True,2026-05-18,,,5a9712deb2042121e5a9
-IPFXU,NASDAQ,Inflection Point Acquisition Corp. VI - Units,Stock,True,2026-05-08,,,e76ace5906d180642b69
-IPFXW,NASDAQ,Inflection Point Acquisition Corp. VI - Warrant,Stock,True,2026-05-18,,,654fd18f574c27fb35e4
+IPFX,NASDAQ,Inflection Point Acquisition Corp. VI - Class A Ordinary Shares,Stock,False,2026-05-18,2026-11-24,Missing from current NASDAQ source snapshot; reason unavailable,5a9712deb2042121e5a9
+IPFXU,NASDAQ,Inflection Point Acquisition Corp. VI - Units,Stock,False,2026-05-08,2026-11-24,Missing from current NASDAQ source snapshot; reason unavailable,e76ace5906d180642b69
+IPFXW,NASDAQ,Inflection Point Acquisition Corp. VI - Warrant,Stock,False,2026-05-18,2026-11-24,Missing from current NASDAQ source snapshot; reason unavailable,654fd18f574c27fb35e4
 IPGP,NASDAQ,IPG Photonics Corporation - Common Stock,Stock,True,2026-05-08,,,3b798ea042dc602d9e6c
 IPHA,NASDAQ,Innate Pharma S.A. - American Depositary Shares,Stock,True,2026-05-08,,,69ded971d9f2f9e78c97
 IPHX,NASDAQ,Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares,Stock,True,2026-10-05,,,903d8c6c060611a05b0f
@@ -4370,6 +4371,7 @@ OBAWU,NASDAQ,Oxley Bridge Acquisition Limited - Unit,Stock,True,2026-05-08,,,696
 OBAWW,NASDAQ,Oxley Bridge Acquisition Limited - Warrants,Stock,True,2026-05-08,,,27c56a28d77a99735a49
 OBIL,NASDAQ,US Treasury 12 Month Bill ETF,ETF,True,2026-05-08,,,121e1c102e1dd3149325
 OBIO,NASDAQ,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",Stock,True,2026-05-08,,,200365ae507f8972cee0
+OBMT,NASDAQ,"Opportunity Bancorp, Inc. - Common Stock",Stock,True,2026-11-24,,,4a549dcb74d2f3b9a1e1
 OBT,NASDAQ,"Orange County Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,072ef33cfe26722630e6
 OBTC,NASDAQ,Osprey Bitcoin Trust,ETF,True,2026-05-08,,,f573617a08550f8d57a4
 OBX,NASDAQ,"Obsidian Therapeutics, Inc. - Common Stock",Stock,True,2026-08-04,,,99778b6812a2c7cb5739
@@ -5024,7 +5026,7 @@ RBIL,NASDAQ,F/m Ultrashort Treasury Inflation-Protected Security (TIPS) ETF,ETF,
 RBKB,NASDAQ,"Rhinebeck Bancorp, Inc. - Common Stock",Stock,True,2026-05-08,,,07bc779c378320fa7d55
 RBNE,NASDAQ,Robin Energy Ltd. - Common Stock,Stock,True,2026-05-08,,,dcfa7cc1e31343802bd5
 RCAT,NASDAQ,"Red Cat Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,c58075cc80c6ef33ca9c
-RCAX,NASDAQ,Defiance Daily Target 2x Long RCAT ETF,ETF,True,2026-05-08,,,4c4277ff140d642acbf5
+RCAX,NASDAQ,Defiance Daily Target 2x Long RCAT ETF,ETF,False,2026-05-08,2026-11-24,Missing from current NASDAQ source snapshot; reason unavailable,4c4277ff140d642acbf5
 RCBC,NASDAQ,River City Bank - Common stock,Stock,True,2026-08-06,,,5912dda93010e9d27a0e
 RCEL,NASDAQ,"Avita Medical, Inc. - Common Stock",Stock,True,2026-05-08,,,5ea5918e471d99ad9b01
 RCGE,NASDAQ,RockCreek Global Equality ETF,ETF,True,2026-05-08,,,e99c62e9838e5db6764f
@@ -8917,6 +8919,7 @@ QLEP.W,NYSE,"Quantum Leap Acquisition Corp Warrants, each whole warrant exercisa
 QRED,NYSE,QuasarEdge Acquisition Corporation Ordinary Shares,Stock,True,2026-05-08,,,9bccc16c72a1b50890ea
 QRED.R,NYSE,QuasarEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one Ordinary Share,Stock,True,2026-05-08,,,81b1237a71621ca3c031
 QRED.U,NYSE,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",Stock,True,2026-05-08,,,c14295ff6413395a4bcb
+QSPC,NYSE,"Quantum Space, Inc. Class A-1 Common Stock",Stock,True,2026-11-24,,,61513c079f47fab649e5
 QSR,NYSE,Restaurant Brands International Inc. Common Shares,Stock,True,2026-05-08,,,1246b4bbf3234ca51c89
 QTWO,NYSE,"Q2 Holdings, Inc. Common Stock",Stock,True,2026-05-08,,,194f6197504e7be23ce2
 QUAD,NYSE,"Quad Graphics, Inc Class A Common Stock",Stock,True,2026-05-08,,,1f2fdc937b43c1163ff7

@@ -1215,7 +1215,6 @@ NASDAQ,CPAG,F/m Compoundr U.S. Aggregate Bond ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,CPB,The Campbell's Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPBI,"Central Plains Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPHC,Canterbury Park Holding Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,CPHY,F/m Compoundr High Yield Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CPIX,Cumberland Pharmaceuticals Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPLS,AB Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -1535,7 +1534,6 @@ NASDAQ,EBAY,eBay Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EBC,"Eastern Bankshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EBI,Longview Advantage ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,EBIZ,Global X E-commerce ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,EBMT,"Eagle Bancorp Montana, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,EBON,Ebang International Holdings Inc. - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ECBK,"ECB Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,ECHO,EchoStar Corporation - Common stock,Stock,,nasdaq_trader_symbol_directory
@@ -2609,9 +2607,6 @@ NASDAQ,IOVA,"Iovance Biotherapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_
 NASDAQ,IOYY,GraniteShares YieldBOOST IONQ ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,IPAR,"Interparfums, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPDN,"Professional Diversity Network, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IPFX,Inflection Point Acquisition Corp. VI - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IPFXU,Inflection Point Acquisition Corp. VI - Units,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,IPFXW,Inflection Point Acquisition Corp. VI - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPGP,IPG Photonics Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPHA,Innate Pharma S.A. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,IPHX,Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -3592,6 +3587,7 @@ NASDAQ,OBAWU,Oxley Bridge Acquisition Limited - Unit,Stock,,nasdaq_trader_symbol
 NASDAQ,OBAWW,Oxley Bridge Acquisition Limited - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OBIL,US Treasury 12 Month Bill ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OBIO,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,OBMT,"Opportunity Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OBT,"Orange County Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,OBTC,Osprey Bitcoin Trust,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,OBX,"Obsidian Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -4192,7 +4188,6 @@ NASDAQ,RBIL,F/m Ultrashort Treasury Inflation-Protected Security (TIPS) ETF,ETF,
 NASDAQ,RBKB,"Rhinebeck Bancorp, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RBNE,Robin Energy Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RCAT,"Red Cat Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,RCAX,Defiance Daily Target 2x Long RCAT ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,RCBC,River City Bank - Common stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RCEL,"Avita Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RCGE,RockCreek Global Equality ETF,ETF,,nasdaq_trader_symbol_directory
