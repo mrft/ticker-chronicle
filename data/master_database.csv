@@ -1070,6 +1070,7 @@ BESO,NASDAQ,GSR Crypto Core3 ETF,ETF,True,2026-05-08,,,b47f9509daf413e1f047
 BETR,NASDAQ,Better Home & Finance Holding Company - Class A Common Stock,Stock,True,2026-05-08,,,3a999829de3211401e15
 BETRW,NASDAQ,Better Home & Finance Holding Company - Warrant,Stock,True,2026-05-08,,,dc170739855e4319277e
 BFC,NASDAQ,Bank First Corporation - Common Stock,Stock,True,2026-05-08,,,fc7918e47644c573323f
+BFLR,NASDAQ,"BlueFlare, Inc. - Common Stock",Stock,True,2026-11-25,,,57f0c211ae4056dd45cb
 BFLX,NASDAQ,iShares Flexible Equity Active ETF,ETF,True,2026-05-20,,,b21da23974a01c457bf6
 BFRG,NASDAQ,"Bullfrog AI Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,fecd82085d69fae957fb
 BFRGW,NASDAQ,"Bullfrog AI Holdings, Inc. - Warrants",Stock,True,2026-05-08,,,e6b95f5332dd53d90bf5
@@ -1708,6 +1709,7 @@ CPB,NASDAQ,The Campbell's Company - Common Stock,Stock,True,2026-05-08,,,aa2196a
 CPBI,NASDAQ,"Central Plains Bancshares, Inc. - Common Stock",Stock,True,2026-05-08,,,a5f51b67729c80cfd6b2
 CPHC,NASDAQ,Canterbury Park Holding Corporation - Common Stock,Stock,True,2026-05-08,,,e8f1ef6a5ffefdce36d1
 CPHY,NASDAQ,F/m Compoundr High Yield Bond ETF,ETF,False,2026-05-08,2026-11-24,Missing from current NASDAQ source snapshot; reason unavailable,d7232f98fd1b4288a3a2
+CPHY,NASDAQ,F/m Compoundr High Yield Bond ETF,ETF,True,2026-11-25,,,d7232f98fd1b4288a3a2
 CPIX,NASDAQ,Cumberland Pharmaceuticals Inc. - Common Stock,Stock,True,2026-05-08,,,64b26a305639191f01f9
 CPLS,NASDAQ,AB Core Plus Bond ETF,ETF,True,2026-05-08,,,36c1988f35e0f950cb4f
 CPOP,NASDAQ,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",Stock,True,2026-05-08,,,9a3d797de838bc036552
@@ -2468,7 +2470,7 @@ FMSTW,NASDAQ,Foremost Clean Energy Ltd. - Warrant,Stock,True,2026-05-08,,,58871f
 FMTM,NASDAQ,MarketDesk Focused U.S. Momentum ETF,ETF,True,2026-05-08,,,ff755b66fd06d5913fbc
 FMUB,NASDAQ,Fidelity Municipal Bond Opportunities ETF,ETF,True,2026-05-08,,,e32c54228e5f89032188
 FMUN,NASDAQ,Fidelity Systematic Municipal Bond Index ETF,ETF,True,2026-05-08,,,e164ef01cd9e1d130885
-FNGR,NASDAQ,"FingerMotion, Inc. - common stock",Stock,True,2026-05-08,,,0370dce319bbce5e34a1
+FNGR,NASDAQ,"FingerMotion, Inc. - common stock",Stock,False,2026-05-08,2026-11-25,Other delisting reason: Details unavailable (source: FMP Delisted API),0370dce319bbce5e34a1
 FNK,NASDAQ,First Trust Mid Cap Value AlphaDEX Fund,ETF,True,2026-05-08,,,29cdfbe4ab465d979918
 FNKO,NASDAQ,"Funko, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,ba13aee7934fa448e264
 FNLC,NASDAQ,"First Bancorp, Inc (ME) - Common Stock",Stock,True,2026-05-08,,,893d38dfd689e9a2aa7d
@@ -4577,7 +4579,7 @@ PARA,NASDAQ,"Parabolic Technologies, Inc. - Class A Common Stock",Stock,True,202
 PARAW,NASDAQ,"Banzai International, Inc. - Warrant",Stock,False,2026-08-07,2026-10-27,Listing metadata changed,87c791a2e54cecf91a5a
 PARAW,NASDAQ,"Parabolic Technologies, Inc. - Warrant",Stock,True,2026-10-27,,,7130422f16acb658a27e
 PARK,NASDAQ,"Park Dental Partners, Inc. - Common Stock",Stock,True,2026-05-08,,,2df6a6d0970b07e1ffc9
-PASG,NASDAQ,"Passage Bio, Inc. - Common Stock",Stock,True,2026-05-08,,,cb9f211f294dfd1774f2
+PASG,NASDAQ,"Passage Bio, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-25,Other delisting reason: Details unavailable (source: FMP Delisted API),cb9f211f294dfd1774f2
 PASW,NASDAQ,"Ping An Biomedical Co., Ltd. - Ordinary Shares",Stock,False,2026-05-08,2026-06-09,Listing metadata changed,7f27c18439bfbfb5c8c3
 PASW,NASDAQ,"Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",Stock,True,2026-06-09,,,c3ca8ebe66f2a5054ad6
 PATK,NASDAQ,"Patrick Industries, Inc. - Common Stock",Stock,True,2026-05-08,,,ff204af0773c9994ee6e
@@ -5146,6 +5148,7 @@ RMR,NASDAQ,The RMR Group Inc. - Class A Common Stock,Stock,True,2026-05-08,,,154
 RMSG,NASDAQ,Real Messenger Corporation - Ordinary Shares,Stock,True,2026-05-08,,,f4c1bb9c5ff6d6f010d8
 RMSGW,NASDAQ,Real Messenger Corporation - Warrants,Stock,True,2026-05-08,,,b4fb45461e3f5093f446
 RMTI,NASDAQ,"Rockwell Medical, Inc. - Common Stock",Stock,True,2026-05-08,,,113ba508ea4966f41296
+RMTX,NASDAQ,"Remix Therapeutics, Inc. - Common Stock",Stock,True,2026-11-25,,,2aada1a1aff99c5d4a44
 RNA,NASDAQ,"Atrium Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,538ec890e2e0bb3478fa
 RNAC,NASDAQ,"Cartesian Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,3f9c86c0b5f8aa990a82
 RNAQ,NASDAQ,Rainier Acquisition Corporation - Class A Ordinary Shares,Stock,True,2026-09-15,,,423cfa6450a276d6786d
@@ -5243,7 +5246,7 @@ SABS,NASDAQ,"SAB Biotherapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,8
 SABSW,NASDAQ,"SAB Biotherapeutics, Inc. - Warrant",Stock,False,2026-05-08,2026-10-23,Missing from current NASDAQ source snapshot; reason unavailable,e0d9b3846e96d7d3d625
 SAEN,NASDAQ,Genenta Science S.p.A. - American Depositary Shares,Stock,True,2026-11-04,,,57afed37d255f20e9569
 SAFT,NASDAQ,"Safety Insurance Group, Inc. - Common Stock",Stock,True,2026-05-08,,,8904093f736230f03f99
-SAFX,NASDAQ,"XCF Global, Inc. - Class A Common Stock",Stock,True,2026-05-08,,,192f789bcd84fed9ed29
+SAFX,NASDAQ,"XCF Global, Inc. - Class A Common Stock",Stock,False,2026-05-08,2026-11-25,Missing from current NASDAQ source snapshot; reason unavailable,192f789bcd84fed9ed29
 SAGT,NASDAQ,SAGTEC GLOBAL LIMITED - Class A Ordinary shares,Stock,True,2026-05-08,,,b03679d67df0de018eee
 SAIA,NASDAQ,"Saia, Inc. - Common Stock",Stock,True,2026-05-08,,,666c523f03134af31f2e
 SAIC,NASDAQ,Science Applications International Corporation - Common Stock,Stock,True,2026-05-08,,,d34746929c68140c3b4e

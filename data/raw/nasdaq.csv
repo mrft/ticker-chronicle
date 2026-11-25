@@ -636,6 +636,7 @@ NASDAQ,BESO,GSR Crypto Core3 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BETR,Better Home & Finance Holding Company - Class A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BETRW,Better Home & Finance Holding Company - Warrant,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BFC,Bank First Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,BFLR,"BlueFlare, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BFLX,iShares Flexible Equity Active ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,BFRG,"Bullfrog AI Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,BFRGW,"Bullfrog AI Holdings, Inc. - Warrants",Stock,,nasdaq_trader_symbol_directory
@@ -1215,6 +1216,7 @@ NASDAQ,CPAG,F/m Compoundr U.S. Aggregate Bond ETF,ETF,,nasdaq_trader_symbol_dire
 NASDAQ,CPB,The Campbell's Company - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPBI,"Central Plains Bancshares, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPHC,Canterbury Park Holding Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,CPHY,F/m Compoundr High Yield Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CPIX,Cumberland Pharmaceuticals Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,CPLS,AB Core Plus Bond ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
@@ -1892,7 +1894,6 @@ NASDAQ,FMSTW,Foremost Clean Energy Ltd. - Warrant,Stock,,nasdaq_trader_symbol_di
 NASDAQ,FMTM,MarketDesk Focused U.S. Momentum ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FMUB,Fidelity Municipal Bond Opportunities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FMUN,Fidelity Systematic Municipal Bond Index ETF,ETF,,nasdaq_trader_symbol_directory
-NASDAQ,FNGR,"FingerMotion, Inc. - common stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FNK,First Trust Mid Cap Value AlphaDEX Fund,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,FNKO,"Funko, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,FNLC,"First Bancorp, Inc (ME) - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -3773,7 +3774,6 @@ NASDAQ,PANW,"Palo Alto Networks, Inc. - Common Stock",Stock,,nasdaq_trader_symbo
 NASDAQ,PARA,"Parabolic Technologies, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PARAW,"Parabolic Technologies, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PARK,"Park Dental Partners, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,PASG,"Passage Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PASW,"Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PATK,"Patrick Industries, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,PATN,Pacer Nasdaq International Patent Leaders ETF,ETF,,nasdaq_trader_symbol_directory
@@ -4295,6 +4295,7 @@ NASDAQ,RMR,The RMR Group Inc. - Class A Common Stock,Stock,,nasdaq_trader_symbol
 NASDAQ,RMSG,Real Messenger Corporation - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RMSGW,Real Messenger Corporation - Warrants,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RMTI,"Rockwell Medical, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
+NASDAQ,RMTX,"Remix Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNA,"Atrium Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNAC,"Cartesian Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,RNAQ,Rainier Acquisition Corporation - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
@@ -4384,7 +4385,6 @@ NASDAQ,SABR,Sabre Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directo
 NASDAQ,SABS,"SAB Biotherapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAEN,Genenta Science S.p.A. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAFT,"Safety Insurance Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SAFX,"XCF Global, Inc. - Class A Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAGT,SAGTEC GLOBAL LIMITED - Class A Ordinary shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAIA,"Saia, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SAIC,Science Applications International Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
