@@ -2787,7 +2787,8 @@ GRAG,NASDAQ,Leverage Shares 2X Long GRAB Daily ETF,ETF,True,2026-05-08,,,09335bf
 GRAL,NASDAQ,"GRAIL, Inc. - Common Stock",Stock,True,2026-05-08,,,2ad04a122ddf53df6476
 GRAN,NASDAQ,Grande Group Limited - Class A Ordinary Shares,Stock,True,2026-05-08,,,ed37bcfe7a543d37e96b
 GRCE,NASDAQ,"Grace Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,15d1a4fcdf17a1c60ef2
-GRDX,NASDAQ,GridAI Technologies Corp. - Common Stock,Stock,True,2026-05-08,,,a83d0973d625f7228759
+GRDX,NASDAQ,GridAI Technologies Corp. - Common Stock,Stock,False,2026-05-08,2026-11-27,Listing metadata changed,a83d0973d625f7228759
+GRDX,NASDAQ,GridAI Power Corp. - Common Stock,Stock,True,2026-11-27,,,d3815f0656a1e5cc5a20
 GREE,NASDAQ,Greenidge Generation Holdings Inc. - Class A Common Stock,Stock,False,2026-05-08,2026-07-22,Listing metadata changed,e03e109139a1c96dd2dc
 GREE,NASDAQ,Vulcan Infrastructure and Power Inc. - Class A Common Stock,Stock,False,2026-07-22,2026-07-24,Missing from current NASDAQ source snapshot; reason unavailable,c5ad953504424012e796
 GREEL,NASDAQ,Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026,Stock,False,2026-05-08,2026-07-22,Listing metadata changed,a5ec24c4baa2857be328
@@ -2901,7 +2902,7 @@ HCMAW,NASDAQ,HCM III Acquisition Corp. - Warrants,Stock,True,2026-05-08,,,6ac1a6
 HCOP,NASDAQ,Hartford Hybrid and Credit Opportunities ETF,ETF,True,2026-11-16,,,668db7da823db7f184bf
 HCOW,NASDAQ,Amplify COWS Covered Call ETF,ETF,True,2026-05-08,,,0a0213b8ed131a0a8678
 HCSG,NASDAQ,"Healthcare Services Group, Inc. - Common Stock",Stock,True,2026-05-08,,,5731e124fdcfb315174f
-HCTI,NASDAQ,"Healthcare Triangle, Inc. - Common Stock",Stock,True,2026-05-08,,,f1de0af2eeb7f576980e
+HCTI,NASDAQ,"Healthcare Triangle, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-27,Missing from current NASDAQ source snapshot; reason unavailable,f1de0af2eeb7f576980e
 HCWB,NASDAQ,HCW Biologics Inc. - Common Stock,Stock,True,2026-05-08,,,aebda93b7ba57f7cb8c9
 HDL,NASDAQ,SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares,Stock,True,2026-05-08,,,21b805c701ed53caa57d
 HDRN,NASDAQ,"Hadron Energy, Inc. - Common Stock",Stock,True,2026-05-26,,,058cffc9b364378b7001
@@ -3008,6 +3009,7 @@ HTHT,NASDAQ,H World Group Limited - American Depositary Shares,Stock,True,2026-0
 HTLD,NASDAQ,"Heartland Express, Inc. - Common Stock",Stock,True,2026-05-08,,,8bd12f9dd33eaaf38f78
 HTLM,NASDAQ,HomesToLife Ltd - Ordinary Shares,Stock,True,2026-05-08,,,36cbd8ec0551bd98dd37
 HTO,NASDAQ,H2O America - Common Stock,Stock,True,2026-05-08,,,a2b7742a88d8ed44aae5
+HTOEU,NASDAQ,H2O America - Equity Units,Stock,True,2026-11-27,,,acf764639dabccf7f0fa
 HTOO,NASDAQ,Fusion Fuel Green PLC - Ordinary Shares,Stock,True,2026-05-08,,,c01f99cf633c57c60aa5
 HTZ,NASDAQ,"Hertz Global Holdings, Inc - Common Stock",Stock,True,2026-05-08,,,12bf703857e09d102b45
 HTZWW,NASDAQ,"Hertz Global Holdings, Inc - Warrant",Stock,True,2026-05-08,,,28e422bf7f38904f6af0
@@ -5364,7 +5366,8 @@ SGA,NASDAQ,"Saga Communications, Inc. - Class A Common Stock",Stock,True,2026-05
 SGC,NASDAQ,"Superior Group of Companies, Inc. - Common Stock",Stock,True,2026-05-08,,,4a143f233310fdc5870f
 SGHT,NASDAQ,"Sight Sciences, Inc. - Common Stock",Stock,True,2026-05-08,,,84f0f4b7b9f7c7f87d4f
 SGLD,NASDAQ,Scorpio Gold Corporation - Common Stock,Stock,True,2026-09-01,,,0d32696d3508384605c3
-SGLY,NASDAQ,Singularity Future Technology Ltd. - Common Stock,Stock,True,2026-05-08,,,c3a283acde8e849e6056
+SGLY,NASDAQ,Singularity Future Technology Ltd. - Common Stock,Stock,False,2026-05-08,2026-11-27,Listing metadata changed,c3a283acde8e849e6056
+SGLY,NASDAQ,Compower Ltd. - Common Stock,Stock,True,2026-11-27,,,239d580dd47cb0e7d531
 SGML,NASDAQ,Sigma Lithium Corporation - common shares,Stock,True,2026-05-08,,,16e42074222b4c00dccf
 SGMT,NASDAQ,Sagimet Biosciences Inc. - Series A Common Stock,Stock,True,2026-05-08,,,9e274eeca28fa98fc35b
 SGP,NASDAQ,"SpyGlass Pharma, Inc. - Common Stock",Stock,True,2026-05-08,,,da7aeaee338060061ed6
@@ -6287,7 +6290,7 @@ VTWG,NASDAQ,Vanguard Russell 2000 Growth ETF,ETF,True,2026-05-08,,,05b2f6811333e
 VTWO,NASDAQ,Vanguard Russell 2000 ETF,ETF,True,2026-05-08,,,5ee40e8f4c063e043879
 VTWV,NASDAQ,Vanguard Russell 2000 Value ETF,ETF,True,2026-05-08,,,8eb44dbd749cd57b415c
 VUZI,NASDAQ,Vuzix Corporation - Common Stock,Stock,True,2026-05-08,,,a52b8d61197d02ba6d9d
-VVOS,NASDAQ,"Vivos Therapeutics, Inc. - Common Stock",Stock,True,2026-05-08,,,561c07da2faaf1e6bb18
+VVOS,NASDAQ,"Vivos Therapeutics, Inc. - Common Stock",Stock,False,2026-05-08,2026-11-27,Missing from current NASDAQ source snapshot; reason unavailable,561c07da2faaf1e6bb18
 VWAV,NASDAQ,"VisionWave Holdings, Inc. - Common Stock",Stock,True,2026-05-08,,,e4ce1994282d6bd6fd65
 VWAVW,NASDAQ,"VisionWave Holdings, Inc. - Warrant",Stock,True,2026-05-08,,,0b575892fe8c95dba6ad
 VWOB,NASDAQ,Vanguard Emerging Markets Government Bond ETF,ETF,True,2026-05-08,,,d3bacb5132d4ed4f59ba

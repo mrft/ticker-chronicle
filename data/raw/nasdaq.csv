@@ -2181,7 +2181,7 @@ NASDAQ,GRAG,Leverage Shares 2X Long GRAB Daily ETF,ETF,,nasdaq_trader_symbol_dir
 NASDAQ,GRAL,"GRAIL, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRAN,Grande Group Limited - Class A Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRCE,"Grace Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,GRDX,GridAI Technologies Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,GRDX,GridAI Power Corp. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRFS,"Grifols, S.A. - American Depositary Shares",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRI,"GRI Bio, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,ETF,,nasdaq_trader_symbol_directory
@@ -2290,7 +2290,6 @@ NASDAQ,HCMAW,HCM III Acquisition Corp. - Warrants,Stock,,nasdaq_trader_symbol_di
 NASDAQ,HCOP,Hartford Hybrid and Credit Opportunities ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HCOW,Amplify COWS Covered Call ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,HCSG,"Healthcare Services Group, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
-NASDAQ,HCTI,"Healthcare Triangle, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HCWB,HCW Biologics Inc. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HDL,SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HDRN,"Hadron Energy, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -2385,6 +2384,7 @@ NASDAQ,HTHT,H World Group Limited - American Depositary Shares,Stock,,nasdaq_tra
 NASDAQ,HTLD,"Heartland Express, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HTLM,HomesToLife Ltd - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HTO,H2O America - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,HTOEU,H2O America - Equity Units,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HTOO,Fusion Fuel Green PLC - Ordinary Shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HTZ,"Hertz Global Holdings, Inc - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,HTZWW,"Hertz Global Holdings, Inc - Warrant",Stock,,nasdaq_trader_symbol_directory
@@ -4491,7 +4491,7 @@ NASDAQ,SGA,"Saga Communications, Inc. - Class A Common Stock",Stock,,nasdaq_trad
 NASDAQ,SGC,"Superior Group of Companies, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGHT,"Sight Sciences, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGLD,Scorpio Gold Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,SGLY,Singularity Future Technology Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
+NASDAQ,SGLY,Compower Ltd. - Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGML,Sigma Lithium Corporation - common shares,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGMT,Sagimet Biosciences Inc. - Series A Common Stock,Stock,,nasdaq_trader_symbol_directory
 NASDAQ,SGP,"SpyGlass Pharma, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
@@ -5324,7 +5324,6 @@ NASDAQ,VTWG,Vanguard Russell 2000 Growth ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VTWO,Vanguard Russell 2000 ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VTWV,Vanguard Russell 2000 Value ETF,ETF,,nasdaq_trader_symbol_directory
 NASDAQ,VUZI,Vuzix Corporation - Common Stock,Stock,,nasdaq_trader_symbol_directory
-NASDAQ,VVOS,"Vivos Therapeutics, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VWAV,"VisionWave Holdings, Inc. - Common Stock",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VWAVW,"VisionWave Holdings, Inc. - Warrant",Stock,,nasdaq_trader_symbol_directory
 NASDAQ,VWOB,Vanguard Emerging Markets Government Bond ETF,ETF,,nasdaq_trader_symbol_directory
